@@ -1,0 +1,22 @@
+<feature id='1002822' type='subgrade' scope='1000851 1000855 1000897, 1002622 1000855 1000897' cardinality='mandatory' >
+	<attr name='availablecopy'>[1002822.availablecopy]</attr>
+	<attr name='code'>Plus6MT</attr>
+	<attr name='derived' livesite='false'>[1002822.derived]</attr>
+	<attr name='description'>[1002822.description]</attr>
+	<attr name='source'>[1002822.source]</attr>
+	<attr name='title'>[1002822.title]</attr>
+	<attr name='vtc' livesite='false'>[1002822.vtc]</attr>
+	<if id='1000851 1000855 1000897' >
+		<attr name='availablecopy'>[1002822.1000851.1000855.1000897.availablecopy]</attr>
+		<attr name='derived' livesite='false'>[1002822.1000851.1000855.1000897.derived]</attr>
+		<attr name='description'>[1002822.1000851.1000855.1000897.description]</attr>
+		<attr name='source' livesite='false'>[1002822.1000851.1000855.1000897.source]</attr>
+		<attr name='title' livesite='false'>[1002822.1000851.1000855.1000897.title]</attr>
+		<attr name='vtc' livesite='false'>[1002822.1000851.1000855.1000897.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000855 1000897' >
+		<attr name='title' livesite='false'>[1002822.1002622.1000855.1000897.title]</attr>
+	</if>
+
+</feature>

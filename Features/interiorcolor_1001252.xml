@@ -1,0 +1,80 @@
+<feature id='1001252' type='interiorcolor' scope='1002622 1000852 1001033, 1000851 1000852 1001033, 1000851 1000852 1001034' cardinality='mandatory' >
+	<attr name='code'>FC22</attr>
+	<attr name='vtc' livesite='false'>[1001252.vtc]</attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='source' livesite='false'>[1001252.source]</attr>
+	<attr name='msrp'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='derived'></attr>
+	<attr name='title'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='description'></attr>
+	<if id='1000851 1000852 1001033' >
+		<attr name='materialtypeid'>[1001252.1000851.1000852.1001033.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001252.1000851.1000852.1001033.title]</attr>
+		<attr name='source' livesite='false'>[1001252.1000851.1000852.1001033.source]</attr>
+		<attr name='description'>[1001252.1000851.1000852.1001033.description]</attr>
+		<attr name='derived' livesite='false'>[1001252.1000851.1000852.1001033.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>my14_4runner_trail_Fabric_Black.2.jpg</attr>
+			<attr name='sha'>6bcb6b97f6798dd812f1bbbf96396647c66ce101</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>my14_4runner_trail_Fabric_Black.2.jpg</attr>
+			<attr name='sha'>b69248dfb886bae425b681ca643fc3dee72a8063</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>my14_4runner_trail_Fabric_Black.2.jpg</attr>
+			<attr name='sha'>e55025f5d7920ff01f7e223be97d68d2105e82ea</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000852 1001034' >
+		<attr name='materialtypeid'>[1001252.1000851.1000852.1001034.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001252.1000851.1000852.1001034.title]</attr>
+		<attr name='source' livesite='false'>[1001252.1000851.1000852.1001034.source]</attr>
+		<attr name='description'>[1001252.1000851.1000852.1001034.description]</attr>
+		<attr name='derived' livesite='false'>[1001252.1000851.1000852.1001034.derived]</attr>
+		<attr name='vtc' livesite='false'>[1001252.1000851.1000852.1001034.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000852 1001033' >
+		<attr name='materialtypeid'>[1001252.1002622.1000852.1001033.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001252.1002622.1000852.1001033.title]</attr>
+		<attr name='description'>[1001252.1002622.1000852.1001033.description]</attr>
+		<attr name='derived' livesite='false'>[1001252.1002622.1000852.1001033.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>my14_4runner_trail_Fabric_Black.2.jpg</attr>
+			<attr name='sha'>6bcb6b97f6798dd812f1bbbf96396647c66ce101</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>my14_4runner_trail_Fabric_Black.2.jpg</attr>
+			<attr name='sha'>b69248dfb886bae425b681ca643fc3dee72a8063</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>my14_4runner_trail_Fabric_Black.2.jpg</attr>
+			<attr name='sha'>e55025f5d7920ff01f7e223be97d68d2105e82ea</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>FC22 is not an available interior color on 8672</attr>
+		<attr name='systemdate'>2014 April 18</attr>
+		<attr name='time'>11:01:44PDT</attr>
+	</complextype>
+</group>
+
+</feature>

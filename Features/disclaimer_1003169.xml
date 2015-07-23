@@ -1,0 +1,8 @@
+<feature id='1003169' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1003169.source]</attr>
+	<attr name='code'>2012_PRIUS_2</attr>
+	<attr name='vtc' livesite='false'>[1003169.vtc]</attr>
+	<attr name='description' livesite='false'>[1003169.description]</attr>
+	<attr name='derived'></attr>
+</feature>

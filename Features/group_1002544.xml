@@ -1,0 +1,7 @@
+<feature id='1002544' type='group' cardinality='optional' childtypes='abstractfeatures' children='1002533 1002553 1002554 1002539 1002555 1002424 1002556 1002557 1002558 1002559 1002561 1002560 1002562 1002563 1002564 1002565 1002566 1002567' categorytype='pickmany' >
+	<attr name='code'>TechnologyInnovation</attr>
+	<attr name='title' livesite='false'>[1002544.title]</attr>
+	<attr name='vtc' livesite='false'>[1002544.vtc]</attr>
+	<attr name='source'>[1002544.source]</attr>
+	<attr name='derived' livesite='false'>[1002544.derived]</attr>
+</feature>

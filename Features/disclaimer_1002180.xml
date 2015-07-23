@@ -1,0 +1,8 @@
+<feature id='1002180' type='disclaimer' cardinality='optional' >
+	<attr name='derived' livesite='false'>[1002180.derived]</attr>
+	<attr name='source' livesite='false'>[1002180.source]</attr>
+	<attr name='vtc' livesite='false'>[1002180.vtc]</attr>
+	<attr name='description' livesite='false'>[1002180.description]</attr>
+	<attr name='title'></attr>
+	<attr name='code'>req_sr5_trd_pkg</attr>
+</feature>

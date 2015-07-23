@@ -1,0 +1,12 @@
+<feature id='1001839' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1001839.description]</attr>
+	<attr name='derived' livesite='false'>[1001839.derived]</attr>
+	<attr name='vtc' livesite='false'>[1001839.vtc]</attr>
+	<attr name='code'>fj_17</attr>
+	<attr name='source' livesite='false'>[1001839.source]</attr>
+	<attr name='title'></attr>
+	<if id='1002622' >
+		<attr name='description' livesite='false'>[1001839.1002622.description]</attr>
+	</if>
+
+</feature>

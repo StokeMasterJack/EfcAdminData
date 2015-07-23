@@ -1,0 +1,8 @@
+<feature id='1001746' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1001746.source]</attr>
+	<attr name='vtc' livesite='false'>[1001746.vtc]</attr>
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1001746.description]</attr>
+	<attr name='code'>cruise_control_function</attr>
+	<attr name='derived' livesite='false'>[1001746.derived]</attr>
+</feature>

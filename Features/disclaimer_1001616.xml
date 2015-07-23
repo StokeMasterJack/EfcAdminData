@@ -1,0 +1,12 @@
+<feature id='1001616' type='disclaimer' cardinality='optional' >
+	<attr name='code'>all_wheel_tire</attr>
+	<attr name='title'></attr>
+	<attr name='derived' livesite='false'>[1001616.derived]</attr>
+	<attr name='source' livesite='false'>[1001616.source]</attr>
+	<attr name='vtc' livesite='false'>[1001616.vtc]</attr>
+	<attr name='description' livesite='false'>[1001616.description]</attr>
+	<if id='1000851 1000866' >
+		<attr name='description' livesite='false'>[1001616.1000851.1000866.description]</attr>
+	</if>
+
+</feature>

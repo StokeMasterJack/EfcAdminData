@@ -1,0 +1,87 @@
+<feature id='1001274' type='interiorcolor' scope='1000851 1000854 1002849, 1002622 1000860 1000872, 1002622 1000860 1000873' cardinality='mandatory' >
+	<attr name='code'>FG20</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1001274.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001274.vtc]</attr>
+	<if id='1000851 1000854 1002849' >
+		<attr name='derived' livesite='false'>[1001274.1000851.1000854.1002849.derived]</attr>
+		<attr name='description'>[1001274.1000851.1000854.1002849.description]</attr>
+		<attr name='materialtypeid'>[1001274.1000851.1000854.1002849.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001274.1000851.1000854.1002849.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>FG20_on.png</attr>
+			<attr name='sha'>125e83668c2c9fa5672f9ee9d4c0a67875b048d2</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>FG20_off.png</attr>
+			<attr name='sha'>93e7c4bab5f525dd3012d6e870fdc96dcd39ff57</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>camry_my145_config_int_v41es_HD_Hyb_SE_black.002.jpg</attr>
+			<attr name='sha'>9a523c70ce5cf1823e2ae5d16423d75487827bf3</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000860 1000872' >
+		<attr name='derived' livesite='false'>[1001274.1002622.1000860.1000872.derived]</attr>
+		<attr name='description'>[1001274.1002622.1000860.1000872.description]</attr>
+		<attr name='materialtypeid'>[1001274.1002622.1000860.1000872.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001274.1002622.1000860.1000872.source]</attr>
+		<attr name='title' livesite='false'>[1001274.1002622.1000860.1000872.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>PriusC_int_Two_DarkBlue_v048_hd_002.jpg</attr>
+			<attr name='sha'>98c693cc05c411805d744107682d87fdf48332be9163ac6fe714d34d5b81a04a96372330f90ed8ae3a815a48757f3e35cc10c98f4db22ac5698d56ac12cf2e9d</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>PriusC_int_Two_DarkBlue_v048_hd_002.jpg</attr>
+			<attr name='sha'>a17d110289ae599f3c87b614882b1209ce031dbfdf04f22603236c0445c7ead807994cb7a6502227e22ea23adab04cd4911f7bf4fec0c92eb8a1e234cca51a57</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>PriusC_int_Two_DarkBlue_v048_hd_002.jpg</attr>
+			<attr name='sha'>b6e333f3bf4f075259b6615438851487858df0c6dd6ca056a3bfa9ba47dc600a3fe185f2e1a472ee2258e40e67c62609ed5768d64124bd1ee3e319b3a9c427b1</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000860 1000873' >
+		<attr name='derived' livesite='false'>[1001274.1002622.1000860.1000873.derived]</attr>
+		<attr name='description'>[1001274.1002622.1000860.1000873.description]</attr>
+		<attr name='materialtypeid'>[1001274.1002622.1000860.1000873.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001274.1002622.1000860.1000873.source]</attr>
+		<attr name='title' livesite='false'>[1001274.1002622.1000860.1000873.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>PriusC_int_Three_DarkBlue_v048_hd_002.jpg</attr>
+			<attr name='sha'>3f910cb5451505b711f51a6933056973a3f0d69204fa457d38295901bee32f70206879595229a33a3dcf10cd8c0fb4a76698cd5030de6dce8df6991c25ee5272</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>PriusC_int_Three_DarkBlue_v048_hd_002.jpg</attr>
+			<attr name='sha'>8f4522d547f2325acc547bcbed8121a7c3d0826f092c1816f0ff7ef74038266d74bd39fb83e442f05179a6b9cb1b4a94219170b664c81a1a1bc2bd7a10a9d611</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>PriusC_int_Three_DarkBlue_v048_hd_002.jpg</attr>
+			<attr name='sha'>d6024dbd6900a68a0749e8b04025dbf2a4fb4520ef8d4cf86788a4348c91c96ef1f9a42e746de7eba13ccf0704db1e2f56a5ad04d541ca1400402bc3b989a7c8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

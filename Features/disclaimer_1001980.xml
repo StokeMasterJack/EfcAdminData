@@ -1,0 +1,8 @@
+<feature id='1001980' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1001980.description]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001980.vtc]</attr>
+	<attr name='code'>kelley_blue_book</attr>
+	<attr name='source' livesite='false'>[1001980.source]</attr>
+	<attr name='derived' livesite='false'>[1001980.derived]</attr>
+</feature>

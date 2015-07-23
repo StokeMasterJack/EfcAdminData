@@ -1,0 +1,8 @@
+<feature id='1003121' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1003121.source]</attr>
+	<attr name='description' livesite='false'>[1003121.description]</attr>
+	<attr name='code'>13Tundra_ParkingBrake</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1003121.vtc]</attr>
+	<attr name='derived'></attr>
+</feature>

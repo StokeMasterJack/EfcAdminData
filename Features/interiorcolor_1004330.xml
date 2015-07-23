@@ -1,0 +1,40 @@
+<feature id='1004330' type='interiorcolor' scope='1002622 1000866 1000943, 1002622 1000866 1000946' cardinality='mandatory' >
+	<attr name='code'>LT43</attr>
+	<attr name='title'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='msrp'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='vtc'></attr>
+	<attr name='source'></attr>
+	<attr name='derived'></attr>
+	<if id='1002622 1000866 1000943' >
+		<attr name='title' livesite='false'>[1004330.1002622.1000866.1000943.title]</attr>
+		<attr name='source' livesite='false'>[1004330.1002622.1000866.1000943.source]</attr>
+		<attr name='vtc' livesite='false'>[1004330.1002622.1000866.1000943.vtc]</attr>
+		<attr name='description'>[1004330.1002622.1000866.1000943.description]</attr>
+		<attr name='materialtypeid'>[1004330.1002622.1000866.1000943.materialtypeid]</attr>
+		<attr name='derived' livesite='false'>[1004330.1002622.1000866.1000943.derived]</attr>
+	</if>
+
+	<if id='1002622 1000866 1000946' >
+		<attr name='title' livesite='false'>[1004330.1002622.1000866.1000946.title]</attr>
+		<attr name='vtc' livesite='false'>[1004330.1002622.1000866.1000946.vtc]</attr>
+		<attr name='description'>[1004330.1002622.1000866.1000946.description]</attr>
+		<attr name='materialtypeid'>[1004330.1002622.1000866.1000946.materialtypeid]</attr>
+		<attr name='source'>[1004330.1002622.1000866.1000946.source]</attr>
+		<attr name='derived' livesite='false'>[1004330.1002622.1000866.1000946.derived]</attr>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>Do not use, incorrect color code</attr>
+		<attr name='systemdate'>2014 October 3</attr>
+		<attr name='time'>3:44:28PDT</attr>
+	</complextype>
+</group>
+
+</feature>

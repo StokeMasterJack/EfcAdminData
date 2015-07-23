@@ -1,0 +1,8 @@
+<feature id='1001884' type='disclaimer' cardinality='optional' >
+	<attr name='code'>hl_heated_seats</attr>
+	<attr name='source' livesite='false'>[1001884.source]</attr>
+	<attr name='derived' livesite='false'>[1001884.derived]</attr>
+	<attr name='vtc' livesite='false'>[1001884.vtc]</attr>
+	<attr name='description' livesite='false'>[1001884.description]</attr>
+	<attr name='title'></attr>
+</feature>

@@ -1,0 +1,8 @@
+<feature id='1001901' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1001901.description]</attr>
+	<attr name='title'></attr>
+	<attr name='derived' livesite='false'>[1001901.derived]</attr>
+	<attr name='code'>ichoice_11_msuv</attr>
+	<attr name='vtc' livesite='false'>[1001901.vtc]</attr>
+	<attr name='source' livesite='false'>[1001901.source]</attr>
+</feature>

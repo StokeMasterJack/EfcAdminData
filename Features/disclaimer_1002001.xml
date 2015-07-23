@@ -1,0 +1,8 @@
+<feature id='1002001' type='disclaimer' cardinality='optional' >
+	<attr name='code'>lounge_seating</attr>
+	<attr name='derived' livesite='false'>[1002001.derived]</attr>
+	<attr name='description' livesite='false'>[1002001.description]</attr>
+	<attr name='source' livesite='false'>[1002001.source]</attr>
+	<attr name='title'>[1002001.title]</attr>
+	<attr name='vtc' livesite='false'>[1002001.vtc]</attr>
+</feature>

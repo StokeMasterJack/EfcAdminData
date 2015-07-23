@@ -1,0 +1,8 @@
+<feature id='1002246' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1002246.source]</attr>
+	<attr name='code'>stnd_touring</attr>
+	<attr name='derived' livesite='false'>[1002246.derived]</attr>
+	<attr name='vtc' livesite='false'>[1002246.vtc]</attr>
+	<attr name='description' livesite='false'>[1002246.description]</attr>
+</feature>

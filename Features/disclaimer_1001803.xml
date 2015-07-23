@@ -1,0 +1,8 @@
+<feature id='1001803' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1001803.description]</attr>
+	<attr name='vtc' livesite='false'>[1001803.vtc]</attr>
+	<attr name='source' livesite='false'>[1001803.source]</attr>
+	<attr name='title'></attr>
+	<attr name='derived' livesite='false'>[1001803.derived]</attr>
+	<attr name='code'>epa_yaris_36</attr>
+</feature>

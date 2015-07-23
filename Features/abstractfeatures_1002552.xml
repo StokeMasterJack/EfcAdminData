@@ -1,0 +1,11 @@
+<feature id='1002552' type='abstractfeatures' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='code'>Spoiler</attr>
+	<attr name='derived' livesite='false'>[1002552.derived]</attr>
+	<attr name='source'>[1002552.source]</attr>
+	<attr name='title'>[1002552.title]</attr>
+	<attr name='vtc'>[1002552.vtc]</attr>
+	<if id='1000851 1000855' >
+		<rule src='ADMIN' type='TEXT'>{1002552 requires((1000851*1000855*1000896),(1000851*1000855*1000897),(1000851*1000855*1000898),(1000851*1000855*1000899),(1000851*1000855*1000900),(1000851*1000855*1000901),(1000851*1000855*1000902))}</rule>
+	</if>
+
+</feature>

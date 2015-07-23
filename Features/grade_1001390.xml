@@ -1,0 +1,51 @@
+<feature id='1001390' type='grade' cardinality='optional' >
+	<attr name='code'>hybridlimitedplatinum</attr>
+	<attr name='title'>[1001390.title]</attr>
+	<attr name='description'>[1001390.description]</attr>
+	<attr name='images'></attr>
+	<attr name='copyblock'>[1001390.copyblock]</attr>
+	<attr name='keyword'>[1001390.keyword]</attr>
+	<attr name='mpg'>[1001390.mpg]</attr>
+	<attr name='availablecopy'>[1001390.availablecopy]</attr>
+	<attr name='iconname'>[1001390.iconname]</attr>
+	<attr name='hotspot'>[1001390.hotspot]</attr>
+	<attr name='vtc'>[1001390.vtc]</attr>
+	<attr name='source'>[1001390.source]</attr>
+	<attr name='derived'>[1001390.derived]</attr>
+	<if id='1002622 1000857 1000960' >
+		<attr name='availablecopy'>1001390.1002622.1000857.1000960.availablecopy</attr>
+		<attr name='mpg'>1001390.1002622.1000857.1000960.mpg</attr>
+		<attr name='iconname'>1001390.1002622.1000857.1000960.iconname</attr>
+		<attr name='copyblock'>1001390.1002622.1000857.1000960.copyblock</attr>
+		<attr name='description'>1001390.1002622.1000857.1000960.description</attr>
+		<attr name='keyword'>1001390.1002622.1000857.1000960.keyword</attr>
+		<attr name='derived'>1001390.1002622.1000857.1000960.derived</attr>
+		<attr name='hotspot'>1001390.1002622.1000857.1000960.hotspot</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Highlander_Limited_Platinum_06W4.png</attr>
+			<attr name='sha'>7a25b9a78259e7c4bf3f898e072694820aebf692</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000857 1000960' >
+		<attr name='availablecopy'>[1001390.1000851.1000857.1000960.availablecopy]</attr>
+		<attr name='mpg'>[1001390.1000851.1000857.1000960.mpg]</attr>
+		<attr name='iconname'>[1001390.1000851.1000857.1000960.iconname]</attr>
+		<attr name='copyblock'>[1001390.1000851.1000857.1000960.copyblock]</attr>
+		<attr name='description'>[1001390.1000851.1000857.1000960.description]</attr>
+		<attr name='keyword'>[1001390.1000851.1000857.1000960.keyword]</attr>
+		<attr name='derived'>[1001390.1000851.1000857.1000960.derived]</attr>
+		<attr name='hotspot'>[1001390.1000851.1000857.1000960.hotspot]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Highlander_HybridLTD_6967.png</attr>
+			<attr name='sha'>102ce5772032d4ca00dad0d4747d2185ce2dd1a9</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

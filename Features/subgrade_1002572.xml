@@ -1,0 +1,21 @@
+<feature id='1002572' type='subgrade' scope='1000851 1000855 1000898, 1002622 1000855 1000898' cardinality='mandatory' >
+	<attr name='availablecopy'>[1002572.availablecopy]</attr>
+	<attr name='code'>PlusCVT</attr>
+	<attr name='derived'>[1002572.derived]</attr>
+	<attr name='description'>[1002572.description]</attr>
+	<attr name='source'>[1002572.source]</attr>
+	<attr name='title'>[1002572.title]</attr>
+	<attr name='vtc'>[1002572.vtc]</attr>
+	<if id='1000851 1000855 1000898' >
+		<attr name='availablecopy' livesite='false'>[1002572.1000851.1000855.1000898.availablecopy]</attr>
+		<attr name='source'>[1002572.1000851.1000855.1000898.source]</attr>
+		<attr name='title' livesite='false'>[1002572.1000851.1000855.1000898.title]</attr>
+		<attr name='vtc'>[1002572.1000851.1000855.1000898.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000855 1000898' >
+		<attr name='availablecopy' livesite='false'>[1002572.1002622.1000855.1000898.availablecopy]</attr>
+		<attr name='title' livesite='false'>[1002572.1002622.1000855.1000898.title]</attr>
+	</if>
+
+</feature>

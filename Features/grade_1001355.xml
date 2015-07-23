@@ -1,0 +1,53 @@
+<feature id='1001355' type='grade' scope='1002622 1000861 1000879, 1000851 1000861 1000879' cardinality='mandatory' >
+	<attr name='copyblock'></attr>
+	<attr name='mpg'></attr>
+	<attr name='iconname'></attr>
+	<attr name='source' livesite='false'>[1001355.source]</attr>
+	<attr name='title' livesite='false'>[1001355.title]</attr>
+	<attr name='keyword'></attr>
+	<attr name='vtc' livesite='false'>[1001355.vtc]</attr>
+	<attr name='derived'></attr>
+	<attr name='hotspot'></attr>
+	<attr name='availablecopy'></attr>
+	<attr name='code'>priusplugin</attr>
+	<attr name='images'></attr>
+	<attr name='description'></attr>
+	<if id='1000851 1000861 1000879' >
+		<attr name='title' livesite='false'>[1001355.1000851.1000861.1000879.title]</attr>
+		<attr name='availablecopy'>[1001355.1000851.1000861.1000879.availablecopy]</attr>
+		<attr name='mpg'>[1001355.1000851.1000861.1000879.mpg]</attr>
+		<attr name='iconname'>[1001355.1000851.1000861.1000879.iconname]</attr>
+		<attr name='copyblock' livesite='false'>[1001355.1000851.1000861.1000879.copyblock]</attr>
+		<attr name='description'>[1001355.1000851.1000861.1000879.description]</attr>
+		<attr name='keyword'>[1001355.1000851.1000861.1000879.keyword]</attr>
+		<attr name='derived' livesite='false'>[1001355.1000851.1000861.1000879.derived]</attr>
+		<attr name='hotspot' livesite='false'>[1001355.1000851.1000861.1000879.hotspot]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_prius_plugin.png</attr>
+			<attr name='sha'>bf922fcdf09e7b840513fc21c2df9c4b2a570482</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000861 1000879' >
+		<attr name='availablecopy'>[1001355.1002622.1000861.1000879.availablecopy]</attr>
+		<attr name='title' livesite='false'>[1001355.1002622.1000861.1000879.title]</attr>
+		<attr name='mpg'>[1001355.1002622.1000861.1000879.mpg]</attr>
+		<attr name='iconname'>[1001355.1002622.1000861.1000879.iconname]</attr>
+		<attr name='copyblock' livesite='false'>[1001355.1002622.1000861.1000879.copyblock]</attr>
+		<attr name='description'>[1001355.1002622.1000861.1000879.description]</attr>
+		<attr name='keyword'>[1001355.1002622.1000861.1000879.keyword]</attr>
+		<attr name='derived' livesite='false'>[1001355.1002622.1000861.1000879.derived]</attr>
+		<attr name='hotspot' livesite='false'>[1001355.1002622.1000861.1000879.hotspot]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Prius_ext_Plugin_Hybrid_08W1.png</attr>
+			<attr name='sha'>5766e6cee806c772f698639d80af26576b75571d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

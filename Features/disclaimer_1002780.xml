@@ -1,0 +1,8 @@
+<feature id='1002780' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1002780.description]</attr>
+	<attr name='vtc' livesite='false'>[1002780.vtc]</attr>
+	<attr name='code'>tcuv_powertrain</attr>
+	<attr name='source' livesite='false'>[1002780.source]</attr>
+	<attr name='title'></attr>
+	<attr name='derived' livesite='false'>[1002780.derived]</attr>
+</feature>

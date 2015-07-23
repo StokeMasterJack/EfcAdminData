@@ -1,0 +1,81 @@
+<feature id='1001320' type='interiorcolor' scope='1002622 1000852 1001034, 1000851 1000852 1001033, 1000851 1000852 1001034' cardinality='mandatory' >
+	<attr name='source' livesite='false'>[1001320.source]</attr>
+	<attr name='vtc' livesite='false'>[1001320.vtc]</attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='code'>LC22</attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='derived'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='msrp'></attr>
+	<attr name='title'></attr>
+	<if id='1000851 1000852 1001033' >
+		<attr name='materialtypeid'>[1001320.1000851.1000852.1001033.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001320.1000851.1000852.1001033.title]</attr>
+		<attr name='source' livesite='false'>[1001320.1000851.1000852.1001033.source]</attr>
+		<attr name='description'>[1001320.1000851.1000852.1001033.description]</attr>
+		<attr name='derived' livesite='false'>[1001320.1000851.1000852.1001033.derived]</attr>
+		<attr name='vtc' livesite='false'>[1001320.1000851.1000852.1001033.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000852 1001034' >
+		<attr name='materialtypeid'>[1001320.1000851.1000852.1001034.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001320.1000851.1000852.1001034.title]</attr>
+		<attr name='source' livesite='false'>[1001320.1000851.1000852.1001034.source]</attr>
+		<attr name='description'>[1001320.1000851.1000852.1001034.description]</attr>
+		<attr name='derived' livesite='false'>[1001320.1000851.1000852.1001034.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>my14_4runner_trail_softex_black.2.jpg</attr>
+			<attr name='sha'>402ea7ac97506cb2e1ab3ae028c70b6e053ab64e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>my14_4runner_trail_softex_black.2.jpg</attr>
+			<attr name='sha'>3384035f77a79a3cdc78ffd114b96f4448fccb63</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>my14_4runner_trail_softex_black.2.jpg</attr>
+			<attr name='sha'>efaaf86c9da9e2bef7cc94fa77930df9a51267e2</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000852 1001034' >
+		<attr name='materialtypeid'>[1001320.1002622.1000852.1001034.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001320.1002622.1000852.1001034.title]</attr>
+		<attr name='source' livesite='false'>[1001320.1002622.1000852.1001034.source]</attr>
+		<attr name='description'>[1001320.1002622.1000852.1001034.description]</attr>
+		<attr name='derived' livesite='false'>[1001320.1002622.1000852.1001034.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>my14_4runner_trail_softex_black.2.jpg</attr>
+			<attr name='sha'>402ea7ac97506cb2e1ab3ae028c70b6e053ab64e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>my14_4runner_trail_softex_black.2.jpg</attr>
+			<attr name='sha'>3384035f77a79a3cdc78ffd114b96f4448fccb63</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>my14_4runner_trail_softex_black.2.jpg</attr>
+			<attr name='sha'>efaaf86c9da9e2bef7cc94fa77930df9a51267e2</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>LC22 is not available color on 8670</attr>
+		<attr name='systemdate'>2014 April 18</attr>
+		<attr name='time'>10:54:54PDT</attr>
+	</complextype>
+</group>
+
+</feature>

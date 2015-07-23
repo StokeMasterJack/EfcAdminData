@@ -1,0 +1,112 @@
+<feature id='1001214' type='exteriorcolor' scope='1002622 1000861 1000879, 1000851 1000861 1000880, 1000851 1000861 1000879, 1002622 1000861 1000880' cardinality='mandatory' >
+	<attr name='carjellyimage'></attr>
+	<attr name='code'>08W1</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='hexvalue' livesite='false'>[1001214.hexvalue]</attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1001214.source]</attr>
+	<attr name='title' livesite='false'>[1001214.title]</attr>
+	<attr name='vtc' livesite='false'>[1001214.vtc]</attr>
+	<if id='1000851 1000854 1000903' >
+		<attr name='source' livesite='false'></attr>
+		<attr name='title' livesite='false'></attr>
+	</if>
+
+	<if id='1000851 1000854 1000904' >
+		<attr name='derived' livesite='false'></attr>
+		<attr name='description'></attr>
+		<attr name='materialtypeid'></attr>
+		<attr name='source' livesite='false'></attr>
+		<attr name='title' livesite='false'></attr>
+		<attr name='vtc' livesite='false'></attr>
+	</if>
+
+	<if id='1000851 1000854 1000905' >
+		<attr name='source' livesite='false'></attr>
+		<attr name='title' livesite='false'></attr>
+	</if>
+
+	<if id='1000851 1000854 1000909' >
+		<attr name='source' livesite='false'></attr>
+		<attr name='title' livesite='false'></attr>
+	</if>
+
+	<if id='1000851 1000854 1000910' >
+		<attr name='source' livesite='false'></attr>
+		<attr name='title' livesite='false'></attr>
+	</if>
+
+	<if id='1000851 1000854 1000911' >
+		<attr name='source' livesite='false'></attr>
+		<attr name='title' livesite='false'></attr>
+	</if>
+
+	<if id='1000851 1000861 1000879' >
+		<attr name='derived' livesite='false'>[1001214.1000851.1000861.1000879.derived]</attr>
+		<attr name='description'>[1001214.1000851.1000861.1000879.description]</attr>
+		<attr name='materialtypeid'>[1001214.1000851.1000861.1000879.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001214.1000851.1000861.1000879.source]</attr>
+		<attr name='title' livesite='false'>[1001214.1000851.1000861.1000879.title]</attr>
+	</if>
+
+	<if id='1000851 1000861 1000880' >
+		<attr name='derived' livesite='false'>[1001214.1000851.1000861.1000880.derived]</attr>
+		<attr name='description'>[1001214.1000851.1000861.1000880.description]</attr>
+		<attr name='materialtypeid'>[1001214.1000851.1000861.1000880.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001214.1000851.1000861.1000880.source]</attr>
+		<attr name='title' livesite='false'>[1001214.1000851.1000861.1000880.title]</attr>
+	</if>
+
+	<if id='1002622 1000861 1000879' >
+		<attr name='derived' livesite='false'>[1001214.1002622.1000861.1000879.derived]</attr>
+		<attr name='description'>[1001214.1002622.1000861.1000879.description]</attr>
+		<attr name='materialtypeid'>[1001214.1002622.1000861.1000879.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001214.1002622.1000861.1000879.source]</attr>
+		<attr name='title' livesite='false'>[1001214.1002622.1000861.1000879.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Prius_PhV_ext_plugin_08W1_v005_si_byt_001.png</attr>
+			<attr name='sha'>6b1136aab6d4bdabf552137c7734be49c0e243b1</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000861 1000880' >
+		<attr name='derived' livesite='false'>[1001214.1002622.1000861.1000880.derived]</attr>
+		<attr name='description'>[1001214.1002622.1000861.1000880.description]</attr>
+		<attr name='materialtypeid'>[1001214.1002622.1000861.1000880.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001214.1002622.1000861.1000880.source]</attr>
+		<attr name='title' livesite='false'>[1001214.1002622.1000861.1000880.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Prius_PhV_ext_plugin_advanced_08W1_v005_si_byt_001.png</attr>
+			<attr name='sha'>4720396e60c30bfe842eb3bab45a1d746ddbab6a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>Clearwater Blue Metallic 08W1 is not available on 14.5. It is a MY14 color.</attr>
+		<attr name='systemdate'>2014 March 3</attr>
+		<attr name='time'>2014 March 3</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>Clearwater Blue Metallic 08W1 is not available on 14.5. It is a MY14 color.</attr>
+		<attr name='systemdate'>2014 March 3</attr>
+		<attr name='time'>2014 March 3</attr>
+	</complextype>
+</group>
+
+</feature>

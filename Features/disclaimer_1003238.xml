@@ -1,0 +1,12 @@
+<feature id='1003238' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1003238.source]</attr>
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1003238.description]</attr>
+	<attr name='vtc' livesite='false'>[1003238.vtc]</attr>
+	<attr name='code'>4runner_anniversary_discount</attr>
+	<attr name='derived'></attr>
+	<if id='1002622' >
+		<attr name='description' livesite='false'>[1003238.1002622.description]</attr>
+	</if>
+
+</feature>

@@ -1,0 +1,8 @@
+<feature id='1003245' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='code'>camry_carscom_14</attr>
+	<attr name='derived'></attr>
+	<attr name='vtc' livesite='false'>[1003245.vtc]</attr>
+	<attr name='description' livesite='false'>[1003245.description]</attr>
+	<attr name='source' livesite='false'>[1003245.source]</attr>
+</feature>

@@ -1,0 +1,8 @@
+<feature id='1001970' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1001970.description]</attr>
+	<attr name='vtc' livesite='false'>[1001970.vtc]</attr>
+	<attr name='source' livesite='false'>[1001970.source]</attr>
+	<attr name='derived' livesite='false'>[1001970.derived]</attr>
+	<attr name='title'></attr>
+	<attr name='code'>kbb_2011</attr>
+</feature>

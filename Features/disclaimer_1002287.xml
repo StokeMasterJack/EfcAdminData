@@ -1,0 +1,48 @@
+<feature id='1002287' type='disclaimer' cardinality='optional' >
+	<attr name='code'>tow</attr>
+	<attr name='derived' livesite='false'>[1002287.derived]</attr>
+	<attr name='description' livesite='false'>[1002287.description]</attr>
+	<attr name='source' livesite='false'>[1002287.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1002287.vtc]</attr>
+	<if id='1000851' >
+		<attr name='description' livesite='false'>[1002287.1000851.description]</attr>
+	</if>
+
+	<if id='1000851 1000852' >
+		<attr name='description' livesite='false'>[1002287.1000851.1000852.description]</attr>
+	</if>
+
+	<if id='1000851 1000857' >
+		<attr name='description' livesite='false'>[1002287.1000851.1000857.description]</attr>
+	</if>
+
+	<if id='1000851 1000858' >
+		<attr name='description' livesite='false'>[1002287.1000851.1000858.description]</attr>
+	</if>
+
+	<if id='1000851 1000863' >
+		<attr name='description' livesite='false'>[1002287.1000851.1000863.description]</attr>
+	</if>
+
+	<if id='1000851 1000865' >
+		<attr name='description' livesite='false'>[1002287.1000851.1000865.description]</attr>
+	</if>
+
+	<if id='1000851 1000866' >
+		<attr name='description' livesite='false'>[1002287.1000851.1000866.description]</attr>
+	</if>
+
+	<if id='1000851 1000867' >
+		<attr name='description' livesite='false'>[1002287.1000851.1000867.description]</attr>
+	</if>
+
+	<if id='1000851 1000868' >
+		<attr name='description' livesite='false'>[1002287.1000851.1000868.description]</attr>
+	</if>
+
+	<if id='1000851 1000869' >
+		<attr name='description' livesite='false'>[1002287.1000851.1000869.description]</attr>
+	</if>
+
+</feature>

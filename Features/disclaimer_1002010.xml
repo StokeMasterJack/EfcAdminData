@@ -1,0 +1,8 @@
+<feature id='1002010' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1002010.description]</attr>
+	<attr name='title'></attr>
+	<attr name='code'>matrix_ichoice_11</attr>
+	<attr name='derived' livesite='false'>[1002010.derived]</attr>
+	<attr name='vtc' livesite='false'>[1002010.vtc]</attr>
+	<attr name='source' livesite='false'>[1002010.source]</attr>
+</feature>

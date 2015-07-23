@@ -1,0 +1,7 @@
+<feature id='1002421' type='abstractfeatures' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='code'>XLE</attr>
+	<attr name='derived'>[1002421.derived]</attr>
+	<attr name='source'>[1002421.source]</attr>
+	<attr name='title'>[1002421.title]</attr>
+	<attr name='vtc'>[1002421.vtc]</attr>
+</feature>

@@ -1,0 +1,8 @@
+<feature id='1002063' type='disclaimer' cardinality='optional' >
+	<attr name='derived' livesite='false'>[1002063.derived]</attr>
+	<attr name='description' livesite='false'>[1002063.description]</attr>
+	<attr name='code'>payload_sae</attr>
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1002063.source]</attr>
+	<attr name='vtc' livesite='false'>[1002063.vtc]</attr>
+</feature>

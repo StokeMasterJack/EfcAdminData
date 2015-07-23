@@ -1,0 +1,8 @@
+<feature id='1001752' type='disclaimer' cardinality='optional' >
+	<attr name='derived' livesite='false'>[1001752.derived]</attr>
+	<attr name='vtc' livesite='false'>[1001752.vtc]</attr>
+	<attr name='code'>del_rear_car_deck</attr>
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1001752.source]</attr>
+	<attr name='description' livesite='false'>[1001752.description]</attr>
+</feature>

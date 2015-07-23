@@ -1,0 +1,69 @@
+<feature id='1001103' type='accessory' scope='1000851 1000854 1000911, 1000851 1000854 1000906, 1000851 1000854 1000905, 1000851 1000854 1000908' cardinality='mandatory' >
+	<attr name='alacarte'></attr>
+	<attr name='code'>LA</attr>
+	<attr name='derived' livesite='false'>[1001103.derived]</attr>
+	<attr name='description'></attr>
+	<attr name='fullimage'></attr>
+	<attr name='group'></attr>
+	<attr name='keyfeatures'></attr>
+	<attr name='marketingeffectivedate'></attr>
+	<attr name='msrp'></attr>
+	<attr name='option'></attr>
+	<attr name='package'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='secondaryfeatures'></attr>
+	<attr name='source' livesite='false'>[1001103.source]</attr>
+	<attr name='specialexteriorcolorflag'></attr>
+	<attr name='specialinteriorcolorflag'></attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'></attr>
+	<attr name='type' livesite='false'>[1001103.type]</attr>
+	<attr name='videokey'></attr>
+	<attr name='viewpointkey'></attr>
+	<attr name='vtc' livesite='false'>[1001103.vtc]</attr>
+	<if id='1000851 1000854 1000905' >
+		<attr name='description' livesite='false'>[1001103.1000851.1000854.1000905.description]</attr>
+		<attr name='msrp' livesite='false'>[1001103.1000851.1000854.1000905.msrp]</attr>
+		<attr name='package' livesite='false'>[1001103.1000851.1000854.1000905.package]</attr>
+		<attr name='source' livesite='false'>[1001103.1000851.1000854.1000905.source]</attr>
+		<attr name='title' livesite='false'>[1001103.1000851.1000854.1000905.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_LA' type='TEXT'>{1001103 requires(1001070)}</rule>
+		<rule src='NVS' tag='COLORCOMBOACC_TAG_ACY_LA' type='TEXT'>{1001103 requires((1001166*1001288),(1001166*1001290))}</rule>
+		<rule src='ADMIN' type='TEXT'>{1001103 requires(1002555*1002539)}</rule>
+	</if>
+
+	<if id='1000851 1000854 1000906' >
+		<attr name='description' livesite='false'>[1001103.1000851.1000854.1000906.description]</attr>
+		<attr name='msrp' livesite='false'>[1001103.1000851.1000854.1000906.msrp]</attr>
+		<attr name='package' livesite='false'>[1001103.1000851.1000854.1000906.package]</attr>
+		<attr name='source' livesite='false'>[1001103.1000851.1000854.1000906.source]</attr>
+		<attr name='title' livesite='false'>[1001103.1000851.1000854.1000906.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_LA' type='TEXT'>{1001103 conflicts(1001115)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_LA' type='TEXT'>{1001103 conflicts(1001495)}</rule>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_LA' type='TEXT'>{1001103 requires(1001059*1001069*1001082*1001137)}</rule>
+		<rule src='NVS' tag='COLORCOMBOACC_TAG_ACY_LA' type='TEXT'>{1001103 requires((1001166*1001319),(1001166*1001318))}</rule>
+		<rule src='ADMIN' type='TEXT'>{1001103 requires(1002555*1002539*1002424)}</rule>
+	</if>
+
+	<if id='1000851 1000854 1000908' >
+		<attr name='description' livesite='false'>[1001103.1000851.1000854.1000908.description]</attr>
+		<attr name='msrp' livesite='false'>[1001103.1000851.1000854.1000908.msrp]</attr>
+		<attr name='package' livesite='false'>[1001103.1000851.1000854.1000908.package]</attr>
+		<attr name='source' livesite='false'>[1001103.1000851.1000854.1000908.source]</attr>
+		<attr name='title' livesite='false'>[1001103.1000851.1000854.1000908.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_LA' type='TEXT'>{1001103 requires(1001059*1001070*1001084*1001137)}</rule>
+		<rule src='NVS' tag='COLORCOMBOACC_TAG_ACY_LA' type='TEXT'>{1001103 requires((1001166*1001319),(1001166*1001318))}</rule>
+		<rule src='ADMIN' type='TEXT'>{1001103 requires(1002555*1002539)}</rule>
+	</if>
+
+	<if id='1000851 1000854 1000911' >
+		<attr name='description' livesite='false'>[1001103.1000851.1000854.1000911.description]</attr>
+		<attr name='msrp' livesite='false'>[1001103.1000851.1000854.1000911.msrp]</attr>
+		<attr name='package' livesite='false'>[1001103.1000851.1000854.1000911.package]</attr>
+		<attr name='source' livesite='false'>[1001103.1000851.1000854.1000911.source]</attr>
+		<attr name='title' livesite='false'>[1001103.1000851.1000854.1000911.title]</attr>
+		<rule src='ADMIN' type='TEXT'>{1001103 requires(1002555*1002539)}</rule>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_LA' type='TEXT'>{1001103 requires((1001057*1001059*1001070*1001110*1001137),(1001059*1001070*1001089*1001137),(1001059*1001069*1001082*1001137))}</rule>
+	</if>
+
+</feature>

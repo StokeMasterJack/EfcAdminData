@@ -1,0 +1,8 @@
+<feature id='1001610' type='disclaimer' cardinality='optional' >
+	<attr name='derived' livesite='false'>[1001610.derived]</attr>
+	<attr name='source' livesite='false'>[1001610.source]</attr>
+	<attr name='code'>alg_rva_fjcruiser</attr>
+	<attr name='description' livesite='false'>[1001610.description]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001610.vtc]</attr>
+</feature>

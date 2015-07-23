@@ -1,0 +1,8 @@
+<feature id='1001866' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1001866.description]</attr>
+	<attr name='title'></attr>
+	<attr name='derived' livesite='false'>[1001866.derived]</attr>
+	<attr name='code'>handheld_device_driving</attr>
+	<attr name='source' livesite='false'>[1001866.source]</attr>
+	<attr name='vtc' livesite='false'>[1001866.vtc]</attr>
+</feature>

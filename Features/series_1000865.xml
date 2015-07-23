@@ -1,0 +1,95 @@
+<feature id='1000865' type='series' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='attachment'></attr>
+	<attr name='background'></attr>
+	<attr name='code'>sequoia</attr>
+	<attr name='comparemodel'></attr>
+	<attr name='defaultmodel'></attr>
+	<attr name='derived'>[1000865.derived]</attr>
+	<attr name='description'>[1000865.description]</attr>
+	<attr name='source'>[1000865.source]</attr>
+	<attr name='title' livesite='false'>[1000865.title]</attr>
+	<attr name='vtc'>[1000865.vtc]</attr>
+	<if id='1000851' disclaimers='1002417 1001759 1001758 1002411 1002235 1001717 1002415 1002414 1001672 1002412 1002221 1002771 1001793 1002226 1002394 1002327 1001768 1001767 1002287 1002701 1001887 1001748 1001867 1001868 1002044 1001602 1002045 1001956 1001643 1001681 1001646 1002286' >
+		<attr name='derived'>[1000865.1000851.derived]</attr>
+		<attr name='description'>[1000865.1000851.description]</attr>
+		<attr name='source'>[1000865.1000851.source]</attr>
+		<attr name='title'>[1000865.1000851.title]</attr>
+		<attr name='vtc'>[1000865.1000851.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>EFCSequoiaBackgroundStandAlone.jpg</attr>
+			<attr name='sha'>90cc235718d724092c64601511801ff0b8f061c0</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>StandardFeaturesSequoia.xml</attr>
+			<attr name='sha'>6aeca4e9b6345f5064b1f03a9b23b66a6080fb48</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>SequoiaCompareModelTMSCPD20140523v1.json</attr>
+			<attr name='sha'>91848f730d9111c8efd081dbaac2fc217ee026be</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622' disclaimers='1002417 1002416 1001758 1002411 1002235 1001717 1002415 1002414 1001672 1002413 1002412 1002771 1002221 1002226 1002394 1002327 1002322 1001768 1001767 1002287 1001887 1002628 1001867 1003251 1001868 1002044 1001602 1001956 1001643 1001681 1002314 1001646 1002286' >
+		<attr name='defaultmodel'>[1000865.1002622.defaultmodel]</attr>
+		<attr name='derived' livesite='false'>[1000865.1002622.derived]</attr>
+		<attr name='description'>[1000865.1002622.description]</attr>
+		<attr name='source'>[1000865.1002622.source]</attr>
+		<attr name='vtc' livesite='false'>[1000865.1002622.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>EFC_Background_0015_Sequoia.jpg</attr>
+			<attr name='sha'>d3f2ce89bc6f80fc7b79e2dafddc51b197e849f2</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>StandardFeaturesSequoia2015.xml</attr>
+			<attr name='sha'>6aeca4e9b6345f5064b1f03a9b23b66a6080fb48</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>2014SequoiaCompareModel_TMS_CPD_2014081214v1.json</attr>
+			<attr name='sha'>7f4f2d536ed4dcaf8782ec856aebec99a8acf954</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>mediumbackground</attr>
+			<attr name='name'>EFC-background_0015_Sequoia_1024.jpg</attr>
+			<attr name='sha'>88fd428dd27f4fcbe49ea103cc3bc4f601c643b1</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>smallbackground</attr>
+			<attr name='name'>EFC-background_0015_Sequoia_480.jpg</attr>
+			<attr name='sha'>1becf0e2ef75a56db8c820da22aba73557146dfd</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>largebackground</attr>
+			<attr name='name'>EFC-background_0015_Sequoia_1500.jpg</attr>
+			<attr name='sha'>e5cec71ec3674acd4ac5a846728c135033ae9273</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>2/21/14: Adding note so workspace can be commited.</attr>
+		<attr name='systemdate'>2014 February 21</attr>
+		<attr name='time'>2014 February 21</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>2/21/14: Adding note so workspace can be commited.</attr>
+		<attr name='systemdate'>2014 February 21</attr>
+		<attr name='time'>2014 February 21</attr>
+	</complextype>
+</group>
+
+</feature>

@@ -1,0 +1,12 @@
+<feature id='1003132' type='disclaimer' cardinality='optional' >
+	<attr name='derived'></attr>
+	<attr name='source' livesite='false'>[1003132.source]</attr>
+	<attr name='description' livesite='false'>[1003132.description]</attr>
+	<attr name='vtc' livesite='false'>[1003132.vtc]</attr>
+	<attr name='title'></attr>
+	<attr name='code'>2012_Avalon_2</attr>
+	<if id='1002622' >
+		<attr name='description' livesite='false'>[1003132.1002622.description]</attr>
+	</if>
+
+</feature>

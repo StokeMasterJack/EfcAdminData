@@ -1,0 +1,8 @@
+<feature id='1002779' type='disclaimer' cardinality='optional' >
+	<attr name='code'>tcuv_hybrid_battery</attr>
+	<attr name='source' livesite='false'>[1002779.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1002779.vtc]</attr>
+	<attr name='derived' livesite='false'>[1002779.derived]</attr>
+	<attr name='description' livesite='false'>[1002779.description]</attr>
+</feature>

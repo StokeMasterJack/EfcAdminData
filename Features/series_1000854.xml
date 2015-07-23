@@ -1,0 +1,120 @@
+<feature id='1000854' type='series' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='attachment'></attr>
+	<attr name='background'></attr>
+	<attr name='code'>camry</attr>
+	<attr name='comparemodel'></attr>
+	<attr name='defaultmodel'></attr>
+	<attr name='derived'>[1000854.derived]</attr>
+	<attr name='description'>[1000854.description]</attr>
+	<attr name='source'>[1000854.source]</attr>
+	<attr name='title' livesite='false'>[1000854.title]</attr>
+	<attr name='vtc'>[1000854.vtc]</attr>
+	<if id='1000851' disclaimers='1002417 1002411 1002054 1001717 1002415 1002414 1001672 1002412 1002139 1002221 1002806 1001793 1002396 1002190 1002226 1002225 1002394 1002191 1002633 1002325 1001768 1001767 1002186 1002368 1001887 1001889 1001888 1002140 1002628 1001867 1002629 1002044 1001602 1001812 1001681 1001643 1002314 1001646 1001952' >
+		<attr name='defaultmodel'>[1000854.1000851.defaultmodel]</attr>
+		<attr name='derived'>[1000854.1000851.derived]</attr>
+		<attr name='description' livesite='false'>[1000854.1000851.description]</attr>
+		<attr name='source'>[1000854.1000851.source]</attr>
+		<attr name='title' livesite='false'>[1000854.1000851.title]</attr>
+		<attr name='vtc'>[1000854.1000851.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>EFC Background _0002_Camry.jpg</attr>
+			<attr name='sha'>ae99e9defecaf661c27150b10d4dbda8b36a35d8</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>StandardFeaturesCamry.xml</attr>
+			<attr name='sha'>4ac402568e629c798a779bbb332bdc899c750259</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>CamryCompareModelTMS20140522v3.json</attr>
+			<attr name='sha'>b3f33885efec985cd2b8694488cbe0c66bc5396a</attr>
+		</complextype>
+		<complextype name='IMAGE' type='undefined'>
+			<attr name='attrref'>mediumbackground</attr>
+			<attr name='name'>EFC-background_0002_Camry_1024.jpg</attr>
+			<attr name='sha'>b1053687f1d2c6ed4049c79778c3f4f251cc04cb</attr>
+		</complextype>
+		<complextype name='IMAGE' type='undefined'>
+			<attr name='attrref'>smallbackground</attr>
+			<attr name='name'>EFC-background_0002_Camry_480.jpg</attr>
+			<attr name='sha'>fa1dd24e0f966abbc647961d8aa953d867211d1b</attr>
+		</complextype>
+		<complextype name='IMAGE' type='undefined'>
+			<attr name='attrref'>largebackground</attr>
+			<attr name='name'>EFC-background_0002_Camry_1500.jpg</attr>
+			<attr name='sha'>294b78f1cd95170263500b468d964cc54b03d39e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622' disclaimers='1002417 1001892 1002416 1002411 1002054 1002101 1001717 1002415 1002414 1001672 1002413 1002412 1002139 1002221 1001985 1002058 1002396 1002190 1002226 1002225 1002394 1002191 1002633 1002325 1002322 1001768 1001767 1002186 1002368 1001887 1001889 1002140 1002628 1001867 1003251 1002629 1002044 1001581 1001602 1002764 1001643 1001681 1002314 1001646 1001624 1001952' >
+		<attr name='defaultmodel'>[1000854.1002622.defaultmodel]</attr>
+		<attr name='derived' livesite='false'>[1000854.1002622.derived]</attr>
+		<attr name='description'>[1000854.1002622.description]</attr>
+		<attr name='source'>[1000854.1002622.source]</attr>
+		<attr name='vtc' livesite='false'>[1000854.1002622.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>EFC_Background_0002_Camry.jpg</attr>
+			<attr name='sha'>ae99e9defecaf661c27150b10d4dbda8b36a35d8</attr>
+		</complextype>
+		<complextype name='IMAGE' type='undefined'>
+			<attr name='attrref'>mediumbackground</attr>
+			<attr name='name'>EFC-background_0002_Camry_1024.jpg</attr>
+			<attr name='sha'>b1053687f1d2c6ed4049c79778c3f4f251cc04cb</attr>
+		</complextype>
+		<complextype name='IMAGE' type='undefined'>
+			<attr name='attrref'>smallbackground</attr>
+			<attr name='name'>EFC-background_0002_Camry_480.jpg</attr>
+			<attr name='sha'>fa1dd24e0f966abbc647961d8aa953d867211d1b</attr>
+		</complextype>
+		<complextype name='IMAGE' type='undefined'>
+			<attr name='attrref'>largebackground</attr>
+			<attr name='name'>EFC-background_0002_Camry_1500.jpg</attr>
+			<attr name='sha'>294b78f1cd95170263500b468d964cc54b03d39e</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>StandardFeaturesCamry2015.xml</attr>
+			<attr name='sha'>1c7c418b54ff7991bd0e53c42ef844f57a8b09f2</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>2015CamryCompareModel_TMS_20140925v2.json</attr>
+			<attr name='sha'>b9448a3b2f128cfca37793d7164c5ffba21253ad</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>jessica_shen@toyota.com</attr>
+		<attr name='note'>add test note 2/16/2015</attr>
+		<attr name='systemdate'>2015 February 16</attr>
+		<attr name='time'>2:21:06PST</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>jessica_shen@toyota.com</attr>
+		<attr name='note'>added 2nd test note 2/16/2015</attr>
+		<attr name='systemdate'>2015 February 16</attr>
+		<attr name='time'>2:34:32PST</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>jessica_shen@toyota.com</attr>
+		<attr name='note'>testing add 3rd note in 2015 camry</attr>
+		<attr name='systemdate'>2015 February 16</attr>
+		<attr name='time'>3:04:38PST</attr>
+	</complextype>
+</group>
+
+</feature>

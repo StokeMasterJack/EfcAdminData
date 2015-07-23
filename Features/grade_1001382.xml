@@ -1,0 +1,51 @@
+<feature id='1001382' type='grade' scope='1000851 1000853 1000923, 1002622 1000853 1000923' cardinality='mandatory' >
+	<attr name='availablecopy'></attr>
+	<attr name='code'>hybridXLEtouring</attr>
+	<attr name='copyblock'></attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='hotspot'></attr>
+	<attr name='iconname'></attr>
+	<attr name='images'></attr>
+	<attr name='keyword'></attr>
+	<attr name='mpg'></attr>
+	<attr name='source' livesite='false'>[1001382.source]</attr>
+	<attr name='title' livesite='false'>[1001382.title]</attr>
+	<attr name='vtc' livesite='false'>[1001382.vtc]</attr>
+	<if id='1000851 1000853 1000923' >
+		<attr name='availablecopy' livesite='false'>[1001382.1000851.1000853.1000923.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001382.1000851.1000853.1000923.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001382.1000851.1000853.1000923.derived]</attr>
+		<attr name='description'>[1001382.1000851.1000853.1000923.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001382.1000851.1000853.1000923.hotspot]</attr>
+		<attr name='iconname'>[1001382.1000851.1000853.1000923.iconname]</attr>
+		<attr name='keyword'>[1001382.1000851.1000853.1000923.keyword]</attr>
+		<attr name='mpg'>[1001382.1000851.1000853.1000923.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_avalon_HybridXLETour_1F7.png</attr>
+			<attr name='sha'>491426cedced6974b08b8754de6fc1f7bd53500e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1000923' >
+		<attr name='availablecopy'>[1001382.1002622.1000853.1000923.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001382.1002622.1000853.1000923.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001382.1002622.1000853.1000923.derived]</attr>
+		<attr name='description'>[1001382.1002622.1000853.1000923.description]</attr>
+		<attr name='hotspot'>[1001382.1002622.1000853.1000923.hotspot]</attr>
+		<attr name='iconname'>[1001382.1002622.1000853.1000923.iconname]</attr>
+		<attr name='keyword'>[1001382.1002622.1000853.1000923.keyword]</attr>
+		<attr name='mpg'>[1001382.1002622.1000853.1000923.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>avalon_ext_Hyb_XLE_Touring_1J9_v027_efc_jelly_profile_002.png</attr>
+			<attr name='sha'>a975e3f7e2ba78c9342f9e48ed3744aff90e82e4</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

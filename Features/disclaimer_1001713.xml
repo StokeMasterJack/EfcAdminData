@@ -1,0 +1,16 @@
+<feature id='1001713' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1001713.description]</attr>
+	<attr name='source' livesite='false'>[1001713.source]</attr>
+	<attr name='vtc' livesite='false'>[1001713.vtc]</attr>
+	<attr name='code'>camry_sat_radio</attr>
+	<attr name='derived' livesite='false'>[1001713.derived]</attr>
+	<attr name='title'></attr>
+	<if id='1000851' >
+		<attr name='description' livesite='false'>[1001713.1000851.description]</attr>
+	</if>
+
+	<if id='1002622' >
+		<attr name='description' livesite='false'>[1001713.1002622.description]</attr>
+	</if>
+
+</feature>

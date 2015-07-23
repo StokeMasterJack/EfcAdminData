@@ -1,0 +1,127 @@
+<feature id='1001051' type='accessory' scope='1000851 1000856 1000937, 1000851 1000856 1000936, 1000851 1000856 1000938, 1000851 1000856' cardinality='mandatory' >
+	<attr name='alacarte'></attr>
+	<attr name='code'>9S</attr>
+	<attr name='derived'>[1001051.derived]</attr>
+	<attr name='description'></attr>
+	<attr name='fullimage'></attr>
+	<attr name='group' livesite='false'>[1001051.group]</attr>
+	<attr name='keyfeatures'></attr>
+	<attr name='marketingeffectivedate'></attr>
+	<attr name='msrp'></attr>
+	<attr name='option'></attr>
+	<attr name='package'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='secondaryfeatures'></attr>
+	<attr name='source'>[1001051.source]</attr>
+	<attr name='specialexteriorcolorflag'></attr>
+	<attr name='specialinteriorcolorflag'></attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'></attr>
+	<attr name='type'>[1001051.type]</attr>
+	<attr name='videokey'></attr>
+	<attr name='viewpointkey'></attr>
+	<attr name='vtc'>[1001051.vtc]</attr>
+	<if id='1000851 1000856' >
+		<attr name='alacarte'>[1001051.1000851.1000856.alacarte]</attr>
+		<attr name='description'>[1001051.1000851.1000856.description]</attr>
+		<attr name='group'>[1001051.1000851.1000856.group]</attr>
+		<attr name='title'>[1001051.1000851.1000856.title]</attr>
+	</if>
+
+	<if id='1000851 1000856 1000936' disclaimers='1002414' >
+		<attr name='derived' livesite='false'>[1001051.1000851.1000856.1000936.derived]</attr>
+		<attr name='description' livesite='false'>[1001051.1000851.1000856.1000936.description]</attr>
+		<attr name='keyfeatures'>[1001051.1000851.1000856.1000936.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001051.1000851.1000856.1000936.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001051.1000851.1000856.1000936.msrp]</attr>
+		<attr name='option' livesite='false'>[1001051.1000851.1000856.1000936.option]</attr>
+		<attr name='package' livesite='false'>[1001051.1000851.1000856.1000936.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001051.1000851.1000856.1000936.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001051.1000851.1000856.1000936.secondaryfeatures]</attr>
+		<attr name='source'>[1001051.1000851.1000856.1000936.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001051.1000851.1000856.1000936.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001051.1000851.1000856.1000936.specialinteriorcolorflag]</attr>
+		<attr name='title'>[1001051.1000851.1000856.1000936.title]</attr>
+		<attr name='videokey'>[1001051.1000851.1000856.1000936.videokey]</attr>
+		<attr name='viewpointkey'>[1001051.1000851.1000856.1000936.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_9S' type='TEXT'>{1001051 conflicts(1001064)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_9S' type='TEXT'>{1001051 conflicts(1001070)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Spare-Tire-Cover.jpg</attr>
+			<attr name='sha'>4b17210c0f4711cb1dd9eb6bf1f5050e1dde6fb3</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Spare-Tire-Cover.jpg</attr>
+			<attr name='sha'>d5d8dfa0e4ba6ed81f9d5442b6f62bedb1ec7411</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000856 1000937' disclaimers='1002414' >
+		<attr name='derived' livesite='false'>[1001051.1000851.1000856.1000937.derived]</attr>
+		<attr name='description' livesite='false'>[1001051.1000851.1000856.1000937.description]</attr>
+		<attr name='keyfeatures'>[1001051.1000851.1000856.1000937.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001051.1000851.1000856.1000937.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001051.1000851.1000856.1000937.msrp]</attr>
+		<attr name='option' livesite='false'>[1001051.1000851.1000856.1000937.option]</attr>
+		<attr name='package' livesite='false'>[1001051.1000851.1000856.1000937.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001051.1000851.1000856.1000937.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001051.1000851.1000856.1000937.secondaryfeatures]</attr>
+		<attr name='source'>[1001051.1000851.1000856.1000937.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001051.1000851.1000856.1000937.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001051.1000851.1000856.1000937.specialinteriorcolorflag]</attr>
+		<attr name='title'>[1001051.1000851.1000856.1000937.title]</attr>
+		<attr name='videokey'>[1001051.1000851.1000856.1000937.videokey]</attr>
+		<attr name='viewpointkey'>[1001051.1000851.1000856.1000937.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_9S' type='TEXT'>{1001051 conflicts(1001478)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_9S' type='TEXT'>{1001051 conflicts(1001070)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Spare-Tire-Cover.jpg</attr>
+			<attr name='sha'>4b17210c0f4711cb1dd9eb6bf1f5050e1dde6fb3</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Spare-Tire-Cover.jpg</attr>
+			<attr name='sha'>d5d8dfa0e4ba6ed81f9d5442b6f62bedb1ec7411</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000856 1000938' disclaimers='1002414' >
+		<attr name='derived' livesite='false'>[1001051.1000851.1000856.1000938.derived]</attr>
+		<attr name='description' livesite='false'>[1001051.1000851.1000856.1000938.description]</attr>
+		<attr name='keyfeatures'>[1001051.1000851.1000856.1000938.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001051.1000851.1000856.1000938.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001051.1000851.1000856.1000938.msrp]</attr>
+		<attr name='option' livesite='false'>[1001051.1000851.1000856.1000938.option]</attr>
+		<attr name='package' livesite='false'>[1001051.1000851.1000856.1000938.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001051.1000851.1000856.1000938.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001051.1000851.1000856.1000938.secondaryfeatures]</attr>
+		<attr name='source'>[1001051.1000851.1000856.1000938.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001051.1000851.1000856.1000938.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001051.1000851.1000856.1000938.specialinteriorcolorflag]</attr>
+		<attr name='title'>[1001051.1000851.1000856.1000938.title]</attr>
+		<attr name='videokey'>[1001051.1000851.1000856.1000938.videokey]</attr>
+		<attr name='viewpointkey'>[1001051.1000851.1000856.1000938.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_9S' type='TEXT'>{1001051 conflicts(1001478)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_9S' type='TEXT'>{1001051 conflicts(1001070)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Spare-Tire-Cover.jpg</attr>
+			<attr name='sha'>4b17210c0f4711cb1dd9eb6bf1f5050e1dde6fb3</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Spare-Tire-Cover.jpg</attr>
+			<attr name='sha'>d5d8dfa0e4ba6ed81f9d5442b6f62bedb1ec7411</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

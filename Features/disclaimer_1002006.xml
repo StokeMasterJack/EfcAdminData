@@ -1,0 +1,8 @@
+<feature id='1002006' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1002006.source]</attr>
+	<attr name='code'>lunartik</attr>
+	<attr name='title'></attr>
+	<attr name='derived' livesite='false'>[1002006.derived]</attr>
+	<attr name='vtc' livesite='false'>[1002006.vtc]</attr>
+	<attr name='description' livesite='false'>[1002006.description]</attr>
+</feature>

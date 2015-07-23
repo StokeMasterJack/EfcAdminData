@@ -1,0 +1,11 @@
+<feature id='1002605' type='abstractfeatures' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='code'>Cargocover</attr>
+	<attr name='derived' livesite='false'>[1002605.derived]</attr>
+	<attr name='source' livesite='false'>[1002605.source]</attr>
+	<attr name='title' livesite='false'>[1002605.title]</attr>
+	<attr name='vtc' livesite='false'>[1002605.vtc]</attr>
+	<if id='1000851 1000863' >
+		<rule src='ADMIN' type='TEXT'>{1002605 requires((1000851*1000863*1000929*1001141),(1000851*1000863*1000930*1001141),(1000851*1000863*1000931),(1000851*1000863*1000932),(1000851*1000863*1000933),(1000851*1000863*1000934))}</rule>
+	</if>
+
+</feature>

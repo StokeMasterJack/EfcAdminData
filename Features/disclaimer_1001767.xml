@@ -1,0 +1,8 @@
+<feature id='1001767' type='disclaimer' cardinality='optional' >
+	<attr name='code'>engine_immob</attr>
+	<attr name='derived' livesite='false'>[1001767.derived]</attr>
+	<attr name='description' livesite='false'>[1001767.description]</attr>
+	<attr name='source' livesite='false'>[1001767.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001767.vtc]</attr>
+</feature>

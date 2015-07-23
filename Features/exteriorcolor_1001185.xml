@@ -1,0 +1,500 @@
+<feature id='1001185' type='exteriorcolor' scope='1000851 1000865 1000987, 1000851 1000865 1000988, 1000851 1000865 1000985, 1000851 1000865 1000986, 1000851 1000865 1000983, 1000851 1000865 1000984, 1000851 1000865 1000981, 1000851 1000865 1000982, 1002622 1000865 1000987, 1002622 1000865 1000988, 1002622 1000865 1000985, 1002622 1000865 1000986, 1002622 1000865 1000983, 1002622 1000865 1000984, 1002622 1000865 1000981, 1002622 1000865 1000982, 1002622 1000853 1000924, 1002622 1000853 1000925, 1002622 1000853 1000926, 1002622 1000865 1000980, 1002622 1000853 1000927, 1002622 1000853 1000928, 1002622 1000853 1000922, 1000851 1000865 1000980, 1002622 1000853 1000923, 1000851 1000853 1000923, 1000851 1000853 1000922, 1000851 1000853 1000925, 1000851 1000853 1000924, 1000851 1000853 1000927, 1000851 1000853 1000926, 1000851 1000853 1000928' cardinality='mandatory' >
+	<attr name='carjellyimage'></attr>
+	<attr name='code'>03R0</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='hexvalue'>[1001185.hexvalue]</attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='optionsshown'></attr>
+	<attr name='source'>[1001185.source]</attr>
+	<attr name='title'>[1001185.title]</attr>
+	<attr name='vtc'>[1001185.vtc]</attr>
+	<if id='1000851 1000853 1000922' >
+		<attr name='derived'>[1001185.1000851.1000853.1000922.derived]</attr>
+		<attr name='description'>[1001185.1000851.1000853.1000922.description]</attr>
+		<attr name='materialtypeid'>[1001185.1000851.1000853.1000922.materialtypeid]</attr>
+		<attr name='source'>[1001185.1000851.1000853.1000922.source]</attr>
+		<attr name='title'>[1001185.1000851.1000853.1000922.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>avalon_ext_Hyb_XLE_PRM_3R0_v02ko_hd_001.png</attr>
+			<attr name='sha'>92713728be18ea88cb73809d77e23bf251057c94</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000853 1000923' >
+		<attr name='derived'>[1001185.1000851.1000853.1000923.derived]</attr>
+		<attr name='description'>[1001185.1000851.1000853.1000923.description]</attr>
+		<attr name='materialtypeid'>[1001185.1000851.1000853.1000923.materialtypeid]</attr>
+		<attr name='source'>[1001185.1000851.1000853.1000923.source]</attr>
+		<attr name='title'>[1001185.1000851.1000853.1000923.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>avalon_ext_Hyb_XLE_Touring_3R0_v02ko_hd_001.png</attr>
+			<attr name='sha'>2c476e38f13a268d400c4cc535e72855804f9672</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000853 1000924' >
+		<attr name='derived'>[1001185.1000851.1000853.1000924.derived]</attr>
+		<attr name='description'>[1001185.1000851.1000853.1000924.description]</attr>
+		<attr name='materialtypeid'>[1001185.1000851.1000853.1000924.materialtypeid]</attr>
+		<attr name='source'>[1001185.1000851.1000853.1000924.source]</attr>
+		<attr name='title'>[1001185.1000851.1000853.1000924.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>avalon_ext_Hyb_LTD_3R0_v02ko_hd_001.png</attr>
+			<attr name='sha'>e636a6336802066c64e38b682ea0dc7f5dea39ee</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000853 1000925' >
+		<attr name='derived'>[1001185.1000851.1000853.1000925.derived]</attr>
+		<attr name='description'>[1001185.1000851.1000853.1000925.description]</attr>
+		<attr name='materialtypeid'>[1001185.1000851.1000853.1000925.materialtypeid]</attr>
+		<attr name='source'>[1001185.1000851.1000853.1000925.source]</attr>
+		<attr name='title'>[1001185.1000851.1000853.1000925.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>avalon_ext_XLE_3R0_v02ko_hd_001.png</attr>
+			<attr name='sha'>d5b8a4f0e3535ef20da8a9225b0c6461ab7753af</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000853 1000926' >
+		<attr name='derived'>[1001185.1000851.1000853.1000926.derived]</attr>
+		<attr name='description'>[1001185.1000851.1000853.1000926.description]</attr>
+		<attr name='materialtypeid'>[1001185.1000851.1000853.1000926.materialtypeid]</attr>
+		<attr name='source'>[1001185.1000851.1000853.1000926.source]</attr>
+		<attr name='title'>[1001185.1000851.1000853.1000926.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>avalon_ext_XLE_PRM_3R0_v02ko_hd_001.png</attr>
+			<attr name='sha'>7272a27876935c4f8274708d218e62dc827f025d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000853 1000927' >
+		<attr name='derived'>[1001185.1000851.1000853.1000927.derived]</attr>
+		<attr name='description'>[1001185.1000851.1000853.1000927.description]</attr>
+		<attr name='materialtypeid'>[1001185.1000851.1000853.1000927.materialtypeid]</attr>
+		<attr name='source'>[1001185.1000851.1000853.1000927.source]</attr>
+		<attr name='title'>[1001185.1000851.1000853.1000927.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>avalon_ext_XLE_Touring_3R0_v02ko_hd_001.png</attr>
+			<attr name='sha'>95c6716dfd8e8bbb087758fdb8084116669c008a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000853 1000928' >
+		<attr name='derived'>[1001185.1000851.1000853.1000928.derived]</attr>
+		<attr name='description'>[1001185.1000851.1000853.1000928.description]</attr>
+		<attr name='materialtypeid'>[1001185.1000851.1000853.1000928.materialtypeid]</attr>
+		<attr name='source'>[1001185.1000851.1000853.1000928.source]</attr>
+		<attr name='title'>[1001185.1000851.1000853.1000928.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>avalon_ext_LTD_3R0_v02ko_hd_001.png</attr>
+			<attr name='sha'>bc030abb1857c51b4987f3d918fa915ab18f9ea8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000865 1000980' >
+		<attr name='derived'>[1001185.1000851.1000865.1000980.derived]</attr>
+		<attr name='description'>[1001185.1000851.1000865.1000980.description]</attr>
+		<attr name='materialtypeid'>[1001185.1000851.1000865.1000980.materialtypeid]</attr>
+		<attr name='source'>[1001185.1000851.1000865.1000980.source]</attr>
+		<attr name='title'>[1001185.1000851.1000865.1000980.title]</attr>
+		<rule src='NVS' type='TEXT'>{1001185 conflicts(1001269)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>sequoia_ext_SR5_3R0_v05ko_hd_001.png</attr>
+			<attr name='sha'>8a882160d54679c8aa82316023b2e040d6dafdd3</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000865 1000981' >
+		<attr name='derived'>[1001185.1000851.1000865.1000981.derived]</attr>
+		<attr name='description'>[1001185.1000851.1000865.1000981.description]</attr>
+		<attr name='materialtypeid'>[1001185.1000851.1000865.1000981.materialtypeid]</attr>
+		<attr name='source'>[1001185.1000851.1000865.1000981.source]</attr>
+		<attr name='title'>[1001185.1000851.1000865.1000981.title]</attr>
+		<rule src='NVS' type='TEXT'>{1001185 conflicts(1001269)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>sequoia_ext_SR5_3R0_v05ko_hd_001.png</attr>
+			<attr name='sha'>8a882160d54679c8aa82316023b2e040d6dafdd3</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000865 1000982' >
+		<attr name='derived'>[1001185.1000851.1000865.1000982.derived]</attr>
+		<attr name='description'>[1001185.1000851.1000865.1000982.description]</attr>
+		<attr name='materialtypeid'>[1001185.1000851.1000865.1000982.materialtypeid]</attr>
+		<attr name='source'>[1001185.1000851.1000865.1000982.source]</attr>
+		<attr name='title'>[1001185.1000851.1000865.1000982.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>sequoia_ext_LTD_3R0_v05ko_hd_001.png</attr>
+			<attr name='sha'>d79932a6ba2355672ea36c2eeb119b0e2dd7bd9a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000865 1000983' >
+		<attr name='derived'>[1001185.1000851.1000865.1000983.derived]</attr>
+		<attr name='description'>[1001185.1000851.1000865.1000983.description]</attr>
+		<attr name='materialtypeid'>[1001185.1000851.1000865.1000983.materialtypeid]</attr>
+		<attr name='source'>[1001185.1000851.1000865.1000983.source]</attr>
+		<attr name='title'>[1001185.1000851.1000865.1000983.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>sequoia_ext_LTD_3R0_v05ko_hd_001.png</attr>
+			<attr name='sha'>d79932a6ba2355672ea36c2eeb119b0e2dd7bd9a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000865 1000984' >
+		<attr name='derived'>[1001185.1000851.1000865.1000984.derived]</attr>
+		<attr name='description'>[1001185.1000851.1000865.1000984.description]</attr>
+		<attr name='materialtypeid'>[1001185.1000851.1000865.1000984.materialtypeid]</attr>
+		<attr name='source'>[1001185.1000851.1000865.1000984.source]</attr>
+		<attr name='title'>[1001185.1000851.1000865.1000984.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>sequoia_ext_PLATINUM_3R0_v05ko_hd_001.png</attr>
+			<attr name='sha'>fb0c7f078f12bfeb215e446be51e5c0b8e512991</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000865 1000985' >
+		<attr name='derived'>[1001185.1000851.1000865.1000985.derived]</attr>
+		<attr name='description'>[1001185.1000851.1000865.1000985.description]</attr>
+		<attr name='materialtypeid'>[1001185.1000851.1000865.1000985.materialtypeid]</attr>
+		<attr name='source'>[1001185.1000851.1000865.1000985.source]</attr>
+		<attr name='title'>[1001185.1000851.1000865.1000985.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>sequoia_ext_PLATINUM_3R0_v05ko_hd_001.png</attr>
+			<attr name='sha'>fb0c7f078f12bfeb215e446be51e5c0b8e512991</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000865 1000986' >
+		<attr name='derived'>[1001185.1000851.1000865.1000986.derived]</attr>
+		<attr name='description'>[1001185.1000851.1000865.1000986.description]</attr>
+		<attr name='materialtypeid'>[1001185.1000851.1000865.1000986.materialtypeid]</attr>
+		<attr name='source'>[1001185.1000851.1000865.1000986.source]</attr>
+		<attr name='title'>[1001185.1000851.1000865.1000986.title]</attr>
+		<rule src='NVS' type='TEXT'>{1001185 conflicts(1001269)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>sequoia_ext_SR5_3R0_v05ko_hd_001.png</attr>
+			<attr name='sha'>8a882160d54679c8aa82316023b2e040d6dafdd3</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000865 1000987' >
+		<attr name='derived'>[1001185.1000851.1000865.1000987.derived]</attr>
+		<attr name='description'>[1001185.1000851.1000865.1000987.description]</attr>
+		<attr name='materialtypeid'>[1001185.1000851.1000865.1000987.materialtypeid]</attr>
+		<attr name='source'>[1001185.1000851.1000865.1000987.source]</attr>
+		<attr name='title'>[1001185.1000851.1000865.1000987.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>sequoia_ext_LTD_3R0_v05ko_hd_001.png</attr>
+			<attr name='sha'>d79932a6ba2355672ea36c2eeb119b0e2dd7bd9a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000865 1000988' >
+		<attr name='derived'>[1001185.1000851.1000865.1000988.derived]</attr>
+		<attr name='description'>[1001185.1000851.1000865.1000988.description]</attr>
+		<attr name='materialtypeid'>[1001185.1000851.1000865.1000988.materialtypeid]</attr>
+		<attr name='source'>[1001185.1000851.1000865.1000988.source]</attr>
+		<attr name='title'>[1001185.1000851.1000865.1000988.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>sequoia_ext_PLATINUM_3R0_v05ko_hd_001.png</attr>
+			<attr name='sha'>fb0c7f078f12bfeb215e446be51e5c0b8e512991</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1000922' >
+		<attr name='derived' livesite='false'>[1001185.1002622.1000853.1000922.derived]</attr>
+		<attr name='description'>[1001185.1002622.1000853.1000922.description]</attr>
+		<attr name='materialtypeid'>[1001185.1002622.1000853.1000922.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001185.1002622.1000853.1000922.source]</attr>
+		<attr name='title' livesite='false'>[1001185.1002622.1000853.1000922.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_03R0' type='TEXT'>{1001185 conflicts(1003282)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>avalon_ext_Hyb_XLE_PRM_3R0_v02ko_hd_001.png</attr>
+			<attr name='sha'>92713728be18ea88cb73809d77e23bf251057c94</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1000923' >
+		<attr name='derived' livesite='false'>[1001185.1002622.1000853.1000923.derived]</attr>
+		<attr name='description'>[1001185.1002622.1000853.1000923.description]</attr>
+		<attr name='materialtypeid'>[1001185.1002622.1000853.1000923.materialtypeid]</attr>
+		<attr name='source'>[1001185.1002622.1000853.1000923.source]</attr>
+		<attr name='title' livesite='false'>[1001185.1002622.1000853.1000923.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>avalon_ext_Hyb_XLE_Touring_3R0_v02ko_hd_001.png</attr>
+			<attr name='sha'>2c476e38f13a268d400c4cc535e72855804f9672</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1000924' >
+		<attr name='derived' livesite='false'>[1001185.1002622.1000853.1000924.derived]</attr>
+		<attr name='description'>[1001185.1002622.1000853.1000924.description]</attr>
+		<attr name='materialtypeid'>[1001185.1002622.1000853.1000924.materialtypeid]</attr>
+		<attr name='source'>[1001185.1002622.1000853.1000924.source]</attr>
+		<attr name='title' livesite='false'>[1001185.1002622.1000853.1000924.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>avalon_ext_Hyb_LTD_3R0_v02ko_hd_001.png</attr>
+			<attr name='sha'>e636a6336802066c64e38b682ea0dc7f5dea39ee</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1000925' >
+		<attr name='derived' livesite='false'>[1001185.1002622.1000853.1000925.derived]</attr>
+		<attr name='description'>[1001185.1002622.1000853.1000925.description]</attr>
+		<attr name='materialtypeid'>[1001185.1002622.1000853.1000925.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001185.1002622.1000853.1000925.source]</attr>
+		<attr name='title' livesite='false'>[1001185.1002622.1000853.1000925.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_03R0' type='TEXT'>{1001185 conflicts(1003282)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>avalon_ext_XLE_3R0_v02ko_hd_001.png</attr>
+			<attr name='sha'>d5b8a4f0e3535ef20da8a9225b0c6461ab7753af</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1000926' >
+		<attr name='derived' livesite='false'>[1001185.1002622.1000853.1000926.derived]</attr>
+		<attr name='description'>[1001185.1002622.1000853.1000926.description]</attr>
+		<attr name='materialtypeid'>[1001185.1002622.1000853.1000926.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001185.1002622.1000853.1000926.source]</attr>
+		<attr name='title' livesite='false'>[1001185.1002622.1000853.1000926.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>avalon_ext_XLE_PRM_3R0_v02ko_hd_001.png</attr>
+			<attr name='sha'>7272a27876935c4f8274708d218e62dc827f025d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1000927' >
+		<attr name='derived' livesite='false'>[1001185.1002622.1000853.1000927.derived]</attr>
+		<attr name='description'>[1001185.1002622.1000853.1000927.description]</attr>
+		<attr name='materialtypeid'>[1001185.1002622.1000853.1000927.materialtypeid]</attr>
+		<attr name='source'>[1001185.1002622.1000853.1000927.source]</attr>
+		<attr name='title' livesite='false'>[1001185.1002622.1000853.1000927.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>avalon_ext_XLE_Touring_3R0_v02ko_hd_001.png</attr>
+			<attr name='sha'>95c6716dfd8e8bbb087758fdb8084116669c008a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1000928' >
+		<attr name='derived' livesite='false'>[1001185.1002622.1000853.1000928.derived]</attr>
+		<attr name='description'>[1001185.1002622.1000853.1000928.description]</attr>
+		<attr name='materialtypeid'>[1001185.1002622.1000853.1000928.materialtypeid]</attr>
+		<attr name='source'>[1001185.1002622.1000853.1000928.source]</attr>
+		<attr name='title' livesite='false'>[1001185.1002622.1000853.1000928.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>avalon_ext_LTD_3R0_v02ko_hd_001.png</attr>
+			<attr name='sha'>bc030abb1857c51b4987f3d918fa915ab18f9ea8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000865 1000980' >
+		<attr name='derived' livesite='false'>[1001185.1002622.1000865.1000980.derived]</attr>
+		<attr name='description'>[1001185.1002622.1000865.1000980.description]</attr>
+		<attr name='materialtypeid'>[1001185.1002622.1000865.1000980.materialtypeid]</attr>
+		<attr name='source'>[1001185.1002622.1000865.1000980.source]</attr>
+		<attr name='title'>[1001185.1002622.1000865.1000980.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>sequoia_ext_SR5_3R0_v05ko_hd_001.png</attr>
+			<attr name='sha'>8a882160d54679c8aa82316023b2e040d6dafdd3</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000865 1000981' >
+		<attr name='derived' livesite='false'>[1001185.1002622.1000865.1000981.derived]</attr>
+		<attr name='description'>[1001185.1002622.1000865.1000981.description]</attr>
+		<attr name='materialtypeid'>[1001185.1002622.1000865.1000981.materialtypeid]</attr>
+		<attr name='source'>[1001185.1002622.1000865.1000981.source]</attr>
+		<attr name='title'>[1001185.1002622.1000865.1000981.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>sequoia_ext_SR5_3R0_v05ko_hd_001.png</attr>
+			<attr name='sha'>8a882160d54679c8aa82316023b2e040d6dafdd3</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000865 1000982' >
+		<attr name='derived' livesite='false'>[1001185.1002622.1000865.1000982.derived]</attr>
+		<attr name='description'>[1001185.1002622.1000865.1000982.description]</attr>
+		<attr name='materialtypeid'>[1001185.1002622.1000865.1000982.materialtypeid]</attr>
+		<attr name='source'>[1001185.1002622.1000865.1000982.source]</attr>
+		<attr name='title'>[1001185.1002622.1000865.1000982.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>sequoia_ext_LTD_3R0_v05ko_hd_001.png</attr>
+			<attr name='sha'>d79932a6ba2355672ea36c2eeb119b0e2dd7bd9a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000865 1000983' >
+		<attr name='derived' livesite='false'>[1001185.1002622.1000865.1000983.derived]</attr>
+		<attr name='description'>[1001185.1002622.1000865.1000983.description]</attr>
+		<attr name='materialtypeid'>[1001185.1002622.1000865.1000983.materialtypeid]</attr>
+		<attr name='source'>[1001185.1002622.1000865.1000983.source]</attr>
+		<attr name='title'>[1001185.1002622.1000865.1000983.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>sequoia_ext_LTD_3R0_v05ko_hd_001.png</attr>
+			<attr name='sha'>d79932a6ba2355672ea36c2eeb119b0e2dd7bd9a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000865 1000984' >
+		<attr name='derived' livesite='false'>[1001185.1002622.1000865.1000984.derived]</attr>
+		<attr name='description'>[1001185.1002622.1000865.1000984.description]</attr>
+		<attr name='materialtypeid'>[1001185.1002622.1000865.1000984.materialtypeid]</attr>
+		<attr name='source'>[1001185.1002622.1000865.1000984.source]</attr>
+		<attr name='title'>[1001185.1002622.1000865.1000984.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>sequoia_ext_PLATINUM_3R0_v05ko_hd_001.png</attr>
+			<attr name='sha'>fb0c7f078f12bfeb215e446be51e5c0b8e512991</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000865 1000985' >
+		<attr name='derived' livesite='false'>[1001185.1002622.1000865.1000985.derived]</attr>
+		<attr name='description'>[1001185.1002622.1000865.1000985.description]</attr>
+		<attr name='materialtypeid'>[1001185.1002622.1000865.1000985.materialtypeid]</attr>
+		<attr name='source'>[1001185.1002622.1000865.1000985.source]</attr>
+		<attr name='title'>[1001185.1002622.1000865.1000985.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>sequoia_ext_PLATINUM_3R0_v05ko_hd_001.png</attr>
+			<attr name='sha'>fb0c7f078f12bfeb215e446be51e5c0b8e512991</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000865 1000986' >
+		<attr name='derived' livesite='false'>[1001185.1002622.1000865.1000986.derived]</attr>
+		<attr name='description'>[1001185.1002622.1000865.1000986.description]</attr>
+		<attr name='materialtypeid'>[1001185.1002622.1000865.1000986.materialtypeid]</attr>
+		<attr name='source'>[1001185.1002622.1000865.1000986.source]</attr>
+		<attr name='title'>[1001185.1002622.1000865.1000986.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>sequoia_ext_SR5_3R0_v05ko_hd_001.png</attr>
+			<attr name='sha'>8a882160d54679c8aa82316023b2e040d6dafdd3</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000865 1000987' >
+		<attr name='derived' livesite='false'>[1001185.1002622.1000865.1000987.derived]</attr>
+		<attr name='description'>[1001185.1002622.1000865.1000987.description]</attr>
+		<attr name='materialtypeid'>[1001185.1002622.1000865.1000987.materialtypeid]</attr>
+		<attr name='source'>[1001185.1002622.1000865.1000987.source]</attr>
+		<attr name='title'>[1001185.1002622.1000865.1000987.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>sequoia_ext_LTD_3R0_v05ko_hd_001.png</attr>
+			<attr name='sha'>d79932a6ba2355672ea36c2eeb119b0e2dd7bd9a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000865 1000988' >
+		<attr name='derived' livesite='false'>[1001185.1002622.1000865.1000988.derived]</attr>
+		<attr name='description'>[1001185.1002622.1000865.1000988.description]</attr>
+		<attr name='materialtypeid'>[1001185.1002622.1000865.1000988.materialtypeid]</attr>
+		<attr name='source'>[1001185.1002622.1000865.1000988.source]</attr>
+		<attr name='title'>[1001185.1002622.1000865.1000988.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>sequoia_ext_PLATINUM_3R0_v05ko_hd_001.png</attr>
+			<attr name='sha'>fb0c7f078f12bfeb215e446be51e5c0b8e512991</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

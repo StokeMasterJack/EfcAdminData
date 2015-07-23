@@ -1,0 +1,12 @@
+<feature id='1003155' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1003155.description]</attr>
+	<attr name='derived'></attr>
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1003155.source]</attr>
+	<attr name='vtc' livesite='false'>[1003155.vtc]</attr>
+	<attr name='code'>2012_FJ_6</attr>
+	<if id='1002622' >
+		<attr name='description' livesite='false'>[1003155.1002622.description]</attr>
+	</if>
+
+</feature>

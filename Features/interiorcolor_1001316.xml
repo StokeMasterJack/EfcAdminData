@@ -1,0 +1,67 @@
+<feature id='1001316' type='interiorcolor' scope='1000851 1000858 1000947, 1002622 1000858' cardinality='mandatory' >
+	<attr name='code'>LC03</attr>
+	<attr name='title'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='msrp'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='vtc' livesite='false'>[1001316.vtc]</attr>
+	<attr name='source' livesite='false'>[1001316.source]</attr>
+	<attr name='derived'></attr>
+	<if id='1002622 1000858' >
+		<attr name='title' livesite='false'>[1001316.1002622.1000858.title]</attr>
+	</if>
+
+	<if id='1000851 1000858 1000947' >
+		<attr name='materialtypeid'>[1001316.1000851.1000858.1000947.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001316.1000851.1000858.1000947.title]</attr>
+		<attr name='source' livesite='false'>[1001316.1000851.1000858.1000947.source]</attr>
+		<attr name='description'>[1001316.1000851.1000858.1000947.description]</attr>
+		<attr name='derived' livesite='false'>[1001316.1000851.1000858.1000947.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>landcrusier_int_NO_TRIM_sandstone_v06ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>24b7cc3bb5d2125a58320b08e2d525ec1727c30d</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>landcrusier_int_NO_TRIM_sandstone_v06ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>51366291a103762a7193e0baec9840e30398ff0a</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>landcrusier_int_NO_TRIM_sandstone_v06ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>53f3c9c0c893857af12851bf7a8b4774464d918a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000858 1000947' >
+		<attr name='title' livesite='false'>[1001316.1002622.1000858.1000947.title]</attr>
+		<attr name='source' livesite='false'>[1001316.1002622.1000858.1000947.source]</attr>
+		<attr name='description'>[1001316.1002622.1000858.1000947.description]</attr>
+		<attr name='materialtypeid'>[1001316.1002622.1000858.1000947.materialtypeid]</attr>
+		<attr name='derived' livesite='false'>[1001316.1002622.1000858.1000947.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>landcrusier_int_NO_TRIM_sandstone_v06ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>24b7cc3bb5d2125a58320b08e2d525ec1727c30d</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>landcrusier_int_NO_TRIM_sandstone_v06ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>51366291a103762a7193e0baec9840e30398ff0a</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>landcrusier_int_NO_TRIM_sandstone_v06ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>53f3c9c0c893857af12851bf7a8b4774464d918a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

@@ -1,0 +1,8 @@
+<feature id='1002325' type='disclaimer' cardinality='optional' >
+	<attr name='code'>tpms</attr>
+	<attr name='derived' livesite='false'>[1002325.derived]</attr>
+	<attr name='description' livesite='false'>[1002325.description]</attr>
+	<attr name='source' livesite='false'>[1002325.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1002325.vtc]</attr>
+</feature>

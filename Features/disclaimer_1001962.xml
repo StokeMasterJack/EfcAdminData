@@ -1,0 +1,12 @@
+<feature id='1001962' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001962.vtc]</attr>
+	<attr name='code'>jd_power_prius_3yr</attr>
+	<attr name='derived' livesite='false'>[1001962.derived]</attr>
+	<attr name='source' livesite='false'>[1001962.source]</attr>
+	<attr name='description' livesite='false'>[1001962.description]</attr>
+	<if id='1002622' >
+		<attr name='description' livesite='false'>[1001962.1002622.description]</attr>
+	</if>
+
+</feature>

@@ -1,0 +1,16 @@
+<feature id='1002407' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='derived' livesite='false'>[1002407.derived]</attr>
+	<attr name='vtc' livesite='false'>[1002407.vtc]</attr>
+	<attr name='description' livesite='false'>[1002407.description]</attr>
+	<attr name='source' livesite='false'>[1002407.source]</attr>
+	<attr name='code'>yaris_ichoice_12</attr>
+	<if id='1000851' >
+		<attr name='description' livesite='false'>[1002407.1000851.description]</attr>
+	</if>
+
+	<if id='1002622' >
+		<attr name='description' livesite='false'>[1002407.1002622.description]</attr>
+	</if>
+
+</feature>

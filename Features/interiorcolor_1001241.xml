@@ -1,0 +1,165 @@
+<feature id='1001241' type='interiorcolor' scope='1000851 1000852 1001029, 1000851 1000852 1001027, 1002622 1000852 1001030, 1000851 1000852 1001032, 1000851 1000852 1001033, 1000851 1000852 1001030, 1002622 1000852 1001027, 1000851 1000852 1001034' cardinality='mandatory' >
+	<attr name='derived'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1001241.source]</attr>
+	<attr name='description'></attr>
+	<attr name='code'>FB22</attr>
+	<attr name='vtc' livesite='false'>[1001241.vtc]</attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='msrp'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='interiorseatimage'></attr>
+	<if id='1000851 1000852 1001027' >
+		<attr name='materialtypeid'>[1001241.1000851.1000852.1001027.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001241.1000851.1000852.1001027.title]</attr>
+		<attr name='source' livesite='false'>[1001241.1000851.1000852.1001027.source]</attr>
+		<attr name='description'>[1001241.1000851.1000852.1001027.description]</attr>
+		<attr name='derived' livesite='false'>[1001241.1000851.1000852.1001027.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>my14_4_runner_int_SR5_Fabric_Graphite.2.jpg</attr>
+			<attr name='sha'>544d798cf6d4a02ae46e5dadae7ab0778e13f20f</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>my14_4_runner_int_SR5_Fabric_Graphite.2.jpg</attr>
+			<attr name='sha'>3fa6930129c75902ff0214f0af177f0cb624c023</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>my14_4_runner_int_SR5_Fabric_Graphite.2.jpg</attr>
+			<attr name='sha'>5df4004d86a3c1ccd3c6aec836e7371cc886ae48</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000852 1001029' >
+		<attr name='materialtypeid'>[1001241.1000851.1000852.1001029.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001241.1000851.1000852.1001029.title]</attr>
+		<attr name='source' livesite='false'>[1001241.1000851.1000852.1001029.source]</attr>
+		<attr name='description'>[1001241.1000851.1000852.1001029.description]</attr>
+		<attr name='derived' livesite='false'>[1001241.1000851.1000852.1001029.derived]</attr>
+		<attr name='vtc' livesite='false'>[1001241.1000851.1000852.1001029.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000852 1001030' >
+		<attr name='materialtypeid'>[1001241.1000851.1000852.1001030.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001241.1000851.1000852.1001030.title]</attr>
+		<attr name='source' livesite='false'>[1001241.1000851.1000852.1001030.source]</attr>
+		<attr name='description'>[1001241.1000851.1000852.1001030.description]</attr>
+		<attr name='derived' livesite='false'>[1001241.1000851.1000852.1001030.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>my14_4runner_SR5_softex_graphite.2.jpg</attr>
+			<attr name='sha'>13420fc00484bc7413d726f7fa31a324947309d8</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>my14_4runner_SR5_softex_graphite.2.jpg</attr>
+			<attr name='sha'>000ebea00d87db502b405c1e79f284f9e87f099a</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>my14_4runner_SR5_softex_graphite.2.jpg</attr>
+			<attr name='sha'>ae5fabcd94b45484e7aee6b25a927c6fd0944b99</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000852 1001032' >
+		<attr name='materialtypeid'>[1001241.1000851.1000852.1001032.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001241.1000851.1000852.1001032.title]</attr>
+		<attr name='source' livesite='false'>[1001241.1000851.1000852.1001032.source]</attr>
+		<attr name='description'>[1001241.1000851.1000852.1001032.description]</attr>
+		<attr name='derived' livesite='false'>[1001241.1000851.1000852.1001032.derived]</attr>
+		<attr name='vtc' livesite='false'>[1001241.1000851.1000852.1001032.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000852 1001033' >
+		<attr name='materialtypeid'>[1001241.1000851.1000852.1001033.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001241.1000851.1000852.1001033.title]</attr>
+		<attr name='source' livesite='false'>[1001241.1000851.1000852.1001033.source]</attr>
+		<attr name='description'>[1001241.1000851.1000852.1001033.description]</attr>
+		<attr name='derived' livesite='false'>[1001241.1000851.1000852.1001033.derived]</attr>
+		<attr name='vtc' livesite='false'>[1001241.1000851.1000852.1001033.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000852 1001034' >
+		<attr name='materialtypeid'>[1001241.1000851.1000852.1001034.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001241.1000851.1000852.1001034.title]</attr>
+		<attr name='source' livesite='false'>[1001241.1000851.1000852.1001034.source]</attr>
+		<attr name='description'>[1001241.1000851.1000852.1001034.description]</attr>
+		<attr name='derived' livesite='false'>[1001241.1000851.1000852.1001034.derived]</attr>
+		<attr name='vtc' livesite='false'>[1001241.1000851.1000852.1001034.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000852 1001027' >
+		<attr name='materialtypeid'>[1001241.1002622.1000852.1001027.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001241.1002622.1000852.1001027.title]</attr>
+		<attr name='description'>[1001241.1002622.1000852.1001027.description]</attr>
+		<attr name='derived' livesite='false'>[1001241.1002622.1000852.1001027.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>my14_4_runner_int_SR5_Fabric_Graphite.2.jpg</attr>
+			<attr name='sha'>544d798cf6d4a02ae46e5dadae7ab0778e13f20f</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>my14_4_runner_int_SR5_Fabric_Graphite.2.jpg</attr>
+			<attr name='sha'>3fa6930129c75902ff0214f0af177f0cb624c023</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>my14_4_runner_int_SR5_Fabric_Graphite.2.jpg</attr>
+			<attr name='sha'>5df4004d86a3c1ccd3c6aec836e7371cc886ae48</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000852 1001030' >
+		<attr name='materialtypeid'>[1001241.1002622.1000852.1001030.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001241.1002622.1000852.1001030.title]</attr>
+		<attr name='description'>[1001241.1002622.1000852.1001030.description]</attr>
+		<attr name='derived' livesite='false'>[1001241.1002622.1000852.1001030.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>my14_4_runner_int_SR5_Fabric_Graphite.2.jpg</attr>
+			<attr name='sha'>544d798cf6d4a02ae46e5dadae7ab0778e13f20f</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>my14_4_runner_int_SR5_Fabric_Graphite.2.jpg</attr>
+			<attr name='sha'>3fa6930129c75902ff0214f0af177f0cb624c023</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>my14_4_runner_int_SR5_Fabric_Graphite.2.jpg</attr>
+			<attr name='sha'>5df4004d86a3c1ccd3c6aec836e7371cc886ae48</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>FB22 is not an available interior color on 8670</attr>
+		<attr name='systemdate'>2014 April 18</attr>
+		<attr name='time'>10:35:29PDT</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>FB22 is not an available interior color on 8672</attr>
+		<attr name='systemdate'>2014 April 18</attr>
+		<attr name='time'>10:59:46PDT</attr>
+	</complextype>
+</group>
+
+</feature>

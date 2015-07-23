@@ -1,0 +1,47 @@
+<feature id='1001235' type='interiorcolor' scope='1000851 1000854 1000905, 1000851 1000857 1000952' cardinality='mandatory' >
+	<attr name='vtc' livesite='false'>[1001235.vtc]</attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='msrp'></attr>
+	<attr name='description'></attr>
+	<attr name='title'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='derived'></attr>
+	<attr name='source' livesite='false'>[1001235.source]</attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='code'>FB00</attr>
+	<if id='1000851 1000854 1000905' >
+		<attr name='materialtypeid'>[1001235.1000851.1000854.1000905.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001235.1000851.1000854.1000905.title]</attr>
+		<attr name='source' livesite='false'>[1001235.1000851.1000854.1000905.source]</attr>
+		<attr name='description'>[1001235.1000851.1000854.1000905.description]</attr>
+		<attr name='derived' livesite='false'>[1001235.1000851.1000854.1000905.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>camry_my14_byt_jelly_XLE_4cyl_ivory.jpg</attr>
+			<attr name='sha'>d069e7fc9616b4d2622008a803ae40cc14439bff</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>camry_my14_byt_jelly_XLE_4cyl_ivory.jpg</attr>
+			<attr name='sha'>044eb24b3870811ec2faaec15542fd108dbb8cd4</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>camry_my14_byt_jelly_XLE_4cyl_ivory.jpg</attr>
+			<attr name='sha'>f32e990b96fca23d2cb285d03d625bf3d9574060</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000857 1000952' >
+		<attr name='materialtypeid'>[1001235.1000851.1000857.1000952.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001235.1000851.1000857.1000952.title]</attr>
+		<attr name='source' livesite='false'>[1001235.1000851.1000857.1000952.source]</attr>
+		<attr name='description'>[1001235.1000851.1000857.1000952.description]</attr>
+		<attr name='derived' livesite='false'>[1001235.1000851.1000857.1000952.derived]</attr>
+		<attr name='vtc' livesite='false'>[1001235.1000851.1000857.1000952.vtc]</attr>
+	</if>
+
+</feature>

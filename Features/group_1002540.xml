@@ -1,0 +1,7 @@
+<feature id='1002540' type='group' cardinality='optional' childtypes='abstractfeatures' children='1002546 1002521 1002547 1002548 1002549 1002550 1002422 1002551' categorytype='pickmany' >
+	<attr name='code'>Safety</attr>
+	<attr name='title' livesite='false'>[1002540.title]</attr>
+	<attr name='vtc' livesite='false'>[1002540.vtc]</attr>
+	<attr name='source'>[1002540.source]</attr>
+	<attr name='derived' livesite='false'>[1002540.derived]</attr>
+</feature>

@@ -1,0 +1,111 @@
+<feature id='1001383' type='grade' scope='1002622 1000853 1000924, 1000851 1000857 1000959, 1002622 1000857 1000959, 1002622 1000857 1000960, 1000851 1000853 1000924, 1000851 1000857 1000960' cardinality='mandatory' >
+	<attr name='availablecopy'></attr>
+	<attr name='code'>hybridlimited</attr>
+	<attr name='copyblock'></attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='hotspot'></attr>
+	<attr name='iconname'></attr>
+	<attr name='images'></attr>
+	<attr name='keyword'></attr>
+	<attr name='mpg'></attr>
+	<attr name='source'>[1001383.source]</attr>
+	<attr name='title'>[1001383.title]</attr>
+	<attr name='vtc'>[1001383.vtc]</attr>
+	<if id='1000851 1000853 1000924' >
+		<attr name='availablecopy' livesite='false'>[1001383.1000851.1000853.1000924.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001383.1000851.1000853.1000924.copyblock]</attr>
+		<attr name='derived'>[1001383.1000851.1000853.1000924.derived]</attr>
+		<attr name='description'>[1001383.1000851.1000853.1000924.description]</attr>
+		<attr name='hotspot'>[1001383.1000851.1000853.1000924.hotspot]</attr>
+		<attr name='iconname'>[1001383.1000851.1000853.1000924.iconname]</attr>
+		<attr name='keyword'>[1001383.1000851.1000853.1000924.keyword]</attr>
+		<attr name='mpg'>[1001383.1000851.1000853.1000924.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Avalon_HybridLtd.png</attr>
+			<attr name='sha'>595838dadd5a3528cdca8cc3c784d02011e84b3e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000857 1000959' disclaimers='1001985 1002190 1001754 1002101 1001624' >
+		<attr name='availablecopy'>[1001383.1000851.1000857.1000959.availablecopy]</attr>
+		<attr name='copyblock'>[1001383.1000851.1000857.1000959.copyblock]</attr>
+		<attr name='derived'>[1001383.1000851.1000857.1000959.derived]</attr>
+		<attr name='description'>[1001383.1000851.1000857.1000959.description]</attr>
+		<attr name='hotspot'>[1001383.1000851.1000857.1000959.hotspot]</attr>
+		<attr name='iconname'>[1001383.1000851.1000857.1000959.iconname]</attr>
+		<attr name='keyword'>[1001383.1000851.1000857.1000959.keyword]</attr>
+		<attr name='mpg'>[1001383.1000851.1000857.1000959.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Highlander_HybridLTD.png</attr>
+			<attr name='sha'>102ce5772032d4ca00dad0d4747d2185ce2dd1a9</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000857 1000960' >
+		<attr name='keyword'>[1001383.1000851.1000857.1000960.keyword]</attr>
+		<attr name='title'>[1001383.1000851.1000857.1000960.title]</attr>
+	</if>
+
+	<if id='1002622 1000853 1000924' >
+		<attr name='availablecopy' livesite='false'>[1001383.1002622.1000853.1000924.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001383.1002622.1000853.1000924.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001383.1002622.1000853.1000924.derived]</attr>
+		<attr name='description'>[1001383.1002622.1000853.1000924.description]</attr>
+		<attr name='hotspot'>[1001383.1002622.1000853.1000924.hotspot]</attr>
+		<attr name='iconname'>[1001383.1002622.1000853.1000924.iconname]</attr>
+		<attr name='keyword'>[1001383.1002622.1000853.1000924.keyword]</attr>
+		<attr name='mpg'>[1001383.1002622.1000853.1000924.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>avalon_ext_Hyb_LTD_8W6_v027_efc_jelly_profile_002.png</attr>
+			<attr name='sha'>4d38c52b8310daf463a31a69907b4a480e17cacc</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000959' >
+		<attr name='availablecopy'>[1001383.1002622.1000857.1000959.availablecopy]</attr>
+		<attr name='copyblock'>[1001383.1002622.1000857.1000959.copyblock]</attr>
+		<attr name='derived'>[1001383.1002622.1000857.1000959.derived]</attr>
+		<attr name='description'>[1001383.1002622.1000857.1000959.description]</attr>
+		<attr name='hotspot'>[1001383.1002622.1000857.1000959.hotspot]</attr>
+		<attr name='iconname'>[1001383.1002622.1000857.1000959.iconname]</attr>
+		<attr name='keyword'>[1001383.1002622.1000857.1000959.keyword]</attr>
+		<attr name='mpg'>[1001383.1002622.1000857.1000959.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Highlander_ext_HYB_Limited_06W4.png</attr>
+			<attr name='sha'>7a25b9a78259e7c4bf3f898e072694820aebf692</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000960' >
+		<attr name='availablecopy'>[1001383.1002622.1000857.1000960.availablecopy]</attr>
+		<attr name='copyblock'>[1001383.1002622.1000857.1000960.copyblock]</attr>
+		<attr name='derived'>[1001383.1002622.1000857.1000960.derived]</attr>
+		<attr name='description'>[1001383.1002622.1000857.1000960.description]</attr>
+		<attr name='hotspot'>[1001383.1002622.1000857.1000960.hotspot]</attr>
+		<attr name='iconname'>[1001383.1002622.1000857.1000960.iconname]</attr>
+		<attr name='keyword'>[1001383.1002622.1000857.1000960.keyword]</attr>
+		<attr name='mpg'>[1001383.1002622.1000857.1000960.mpg]</attr>
+		<attr name='title'>[1001383.1002622.1000857.1000960.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Highlander_ext_HYB_Limited_Platinum_06W4.png</attr>
+			<attr name='sha'>7a25b9a78259e7c4bf3f898e072694820aebf692</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

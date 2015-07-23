@@ -1,0 +1,210 @@
+<feature id='1001310' type='interiorcolor' scope='1000851 1000852 1001028, 1000851 1000852 1001027, 1002622 1000852 1003054, 1002622 1000852 1001031, 1000851 1000852 1001033, 1000851 1000852 1001030, 1000851 1000852 1001031, 1002622 1000852 1001028, 1000851 1000852 1001034' cardinality='mandatory' >
+	<attr name='code'>LB22</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1001310.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001310.vtc]</attr>
+	<if id='1000851 1000852 1001027' >
+		<attr name='derived' livesite='false'>[1001310.1000851.1000852.1001027.derived]</attr>
+		<attr name='description'>[1001310.1000851.1000852.1001027.description]</attr>
+		<attr name='materialtypeid'>[1001310.1000851.1000852.1001027.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001310.1000851.1000852.1001027.source]</attr>
+		<attr name='title' livesite='false'>[1001310.1000851.1000852.1001027.title]</attr>
+		<attr name='vtc' livesite='false'>[1001310.1000851.1000852.1001027.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000852 1001028' >
+		<attr name='derived' livesite='false'>[1001310.1000851.1000852.1001028.derived]</attr>
+		<attr name='description'>[1001310.1000851.1000852.1001028.description]</attr>
+		<attr name='materialtypeid'>[1001310.1000851.1000852.1001028.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001310.1000851.1000852.1001028.source]</attr>
+		<attr name='title' livesite='false'>[1001310.1000851.1000852.1001028.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>my14_4runner_SR5_softex_graphite.2.jpg</attr>
+			<attr name='sha'>000ebea00d87db502b405c1e79f284f9e87f099a</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>my14_4runner_SR5_softex_graphite.2.jpg</attr>
+			<attr name='sha'>ae5fabcd94b45484e7aee6b25a927c6fd0944b99</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>my14_4runner_SR5_softex_graphite.2.jpg</attr>
+			<attr name='sha'>13420fc00484bc7413d726f7fa31a324947309d8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000852 1001030' >
+		<attr name='derived' livesite='false'>[1001310.1000851.1000852.1001030.derived]</attr>
+		<attr name='description'>[1001310.1000851.1000852.1001030.description]</attr>
+		<attr name='materialtypeid'>[1001310.1000851.1000852.1001030.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001310.1000851.1000852.1001030.source]</attr>
+		<attr name='title' livesite='false'>[1001310.1000851.1000852.1001030.title]</attr>
+		<attr name='vtc' livesite='false'>[1001310.1000851.1000852.1001030.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000852 1001031' >
+		<attr name='derived' livesite='false'>[1001310.1000851.1000852.1001031.derived]</attr>
+		<attr name='description'>[1001310.1000851.1000852.1001031.description]</attr>
+		<attr name='materialtypeid'>[1001310.1000851.1000852.1001031.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001310.1000851.1000852.1001031.source]</attr>
+		<attr name='title' livesite='false'>[1001310.1000851.1000852.1001031.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>my14_4runner_SR5_softex_graphite.2.jpg</attr>
+			<attr name='sha'>000ebea00d87db502b405c1e79f284f9e87f099a</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>my14_4runner_SR5_softex_graphite.2.jpg</attr>
+			<attr name='sha'>ae5fabcd94b45484e7aee6b25a927c6fd0944b99</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>my14_4runner_SR5_softex_graphite.2.jpg</attr>
+			<attr name='sha'>13420fc00484bc7413d726f7fa31a324947309d8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000852 1001033' >
+		<attr name='derived' livesite='false'>[1001310.1000851.1000852.1001033.derived]</attr>
+		<attr name='description'>[1001310.1000851.1000852.1001033.description]</attr>
+		<attr name='materialtypeid'>[1001310.1000851.1000852.1001033.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001310.1000851.1000852.1001033.source]</attr>
+		<attr name='title' livesite='false'>[1001310.1000851.1000852.1001033.title]</attr>
+		<attr name='vtc' livesite='false'>[1001310.1000851.1000852.1001033.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000852 1001034' >
+		<attr name='derived' livesite='false'>[1001310.1000851.1000852.1001034.derived]</attr>
+		<attr name='description'>[1001310.1000851.1000852.1001034.description]</attr>
+		<attr name='materialtypeid'>[1001310.1000851.1000852.1001034.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001310.1000851.1000852.1001034.source]</attr>
+		<attr name='title' livesite='false'>[1001310.1000851.1000852.1001034.title]</attr>
+		<attr name='vtc' livesite='false'>[1001310.1000851.1000852.1001034.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000852 1001028' >
+		<attr name='derived' livesite='false'>[1001310.1002622.1000852.1001028.derived]</attr>
+		<attr name='description'>[1001310.1002622.1000852.1001028.description]</attr>
+		<attr name='materialtypeid'>[1001310.1002622.1000852.1001028.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001310.1002622.1000852.1001028.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>my14_4runner_SR5_softex_graphite.2.jpg</attr>
+			<attr name='sha'>000ebea00d87db502b405c1e79f284f9e87f099a</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>my14_4runner_SR5_softex_graphite.2.jpg</attr>
+			<attr name='sha'>ae5fabcd94b45484e7aee6b25a927c6fd0944b99</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>my14_4runner_SR5_softex_graphite.2.jpg</attr>
+			<attr name='sha'>13420fc00484bc7413d726f7fa31a324947309d8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000852 1001031' >
+		<attr name='derived' livesite='false'>[1001310.1002622.1000852.1001031.derived]</attr>
+		<attr name='description'>[1001310.1002622.1000852.1001031.description]</attr>
+		<attr name='materialtypeid'>[1001310.1002622.1000852.1001031.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001310.1002622.1000852.1001031.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>my14_4runner_SR5_softex_graphite.2.jpg</attr>
+			<attr name='sha'>000ebea00d87db502b405c1e79f284f9e87f099a</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>my14_4runner_SR5_softex_graphite.2.jpg</attr>
+			<attr name='sha'>ae5fabcd94b45484e7aee6b25a927c6fd0944b99</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>my14_4runner_SR5_softex_graphite.2.jpg</attr>
+			<attr name='sha'>13420fc00484bc7413d726f7fa31a324947309d8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000852 1003054' >
+		<attr name='derived' livesite='false'>[1001310.1002622.1000852.1003054.derived]</attr>
+		<attr name='description'>[1001310.1002622.1000852.1003054.description]</attr>
+		<attr name='materialtypeid'>[1001310.1002622.1000852.1003054.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001310.1002622.1000852.1003054.source]</attr>
+		<attr name='title' livesite='false'>[1001310.1002622.1000852.1003054.title]</attr>
+		<attr name='vtc' livesite='false'>[1001310.1002622.1000852.1003054.vtc]</attr>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>LB22 is not an available color on 8670</attr>
+		<attr name='systemdate'>2014 April 18</attr>
+		<attr name='time'>2014 April 18</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>LB22 is not an available interior color on 8672</attr>
+		<attr name='systemdate'>2014 April 18</attr>
+		<attr name='time'>2014 April 18</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>LB22 is not an available interior color per DOD. In the current Admin Tool it is un-vtc'd and not on Production.</attr>
+		<attr name='systemdate'>2014 February 23</attr>
+		<attr name='time'>2014 February 23</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>LB22 is not an available color on 8670</attr>
+		<attr name='systemdate'>2014 April 18</attr>
+		<attr name='time'>2014 April 18</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>LB22 is not an available interior color on 8672</attr>
+		<attr name='systemdate'>2014 April 18</attr>
+		<attr name='time'>2014 April 18</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>LB22 is not an available interior color per DOD. In the current Admin Tool it is un-vtc'd and not on Production.</attr>
+		<attr name='systemdate'>2014 February 23</attr>
+		<attr name='time'>2014 February 23</attr>
+	</complextype>
+</group>
+
+</feature>

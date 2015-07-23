@@ -1,0 +1,14 @@
+<feature id='1003287' type='disclaimer' cardinality='optional' >
+	<attr name='code'>trailer_sway_control</attr>
+	<attr name='title'>[1003287.title]</attr>
+	<attr name='description' livesite='false'>[1003287.description]</attr>
+	<attr name='vtc' livesite='false'>[1003287.vtc]</attr>
+	<attr name='source'>[1003287.source]</attr>
+	<attr name='derived' livesite='false'>[1003287.derived]</attr>
+	<if id='1002622 1000867' >
+		<attr name='source' livesite='false'>[1003287.1002622.1000867.source]</attr>
+		<attr name='description' livesite='false'>[1003287.1002622.1000867.description]</attr>
+		<attr name='vtc' livesite='false'>[1003287.1002622.1000867.vtc]</attr>
+	</if>
+
+</feature>

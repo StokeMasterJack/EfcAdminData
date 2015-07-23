@@ -1,0 +1,8 @@
+<feature id='1001775' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1001775.source]</attr>
+	<attr name='derived' livesite='false'>[1001775.derived]</attr>
+	<attr name='title'></attr>
+	<attr name='code'>epa_2011_corolla_auto_trans</attr>
+	<attr name='description' livesite='false'>[1001775.description]</attr>
+	<attr name='vtc' livesite='false'>[1001775.vtc]</attr>
+</feature>

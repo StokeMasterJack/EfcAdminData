@@ -1,0 +1,8 @@
+<feature id='1002245' type='disclaimer' cardinality='optional' >
+	<attr name='code'>stnd_s_le_xle</attr>
+	<attr name='vtc' livesite='false'>[1002245.vtc]</attr>
+	<attr name='description' livesite='false'>[1002245.description]</attr>
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1002245.source]</attr>
+	<attr name='derived' livesite='false'>[1002245.derived]</attr>
+</feature>

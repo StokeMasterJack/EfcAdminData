@@ -1,0 +1,11 @@
+<feature id='1002607' type='abstractfeatures' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='code'>Trail</attr>
+	<attr name='derived' livesite='false'>[1002607.derived]</attr>
+	<attr name='source' livesite='false'>[1002607.source]</attr>
+	<attr name='title' livesite='false'>[1002607.title]</attr>
+	<attr name='vtc' livesite='false'>[1002607.vtc]</attr>
+	<if id='1000851 1000852' >
+		<rule src='ADMIN' type='TEXT'>{1002607 requires((1000851*1000852*1001033),(1000851*1000852*1001034))}</rule>
+	</if>
+
+</feature>

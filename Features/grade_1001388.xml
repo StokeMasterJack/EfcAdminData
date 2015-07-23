@@ -1,0 +1,50 @@
+<feature id='1001388' type='grade' scope='1000851 1000858 1000947, 1002622 1000858 1000947' cardinality='mandatory' >
+	<attr name='availablecopy'></attr>
+	<attr name='keyword'></attr>
+	<attr name='mpg'></attr>
+	<attr name='derived'></attr>
+	<attr name='images'></attr>
+	<attr name='code'>landcruiser</attr>
+	<attr name='hotspot'></attr>
+	<attr name='iconname'></attr>
+	<attr name='copyblock'></attr>
+	<attr name='title' livesite='false'>[1001388.title]</attr>
+	<attr name='source' livesite='false'>[1001388.source]</attr>
+	<attr name='vtc' livesite='false'>[1001388.vtc]</attr>
+	<attr name='description'></attr>
+	<if id='1000851 1000858 1000947' >
+		<attr name='availablecopy'>[1001388.1000851.1000858.1000947.availablecopy]</attr>
+		<attr name='mpg'>[1001388.1000851.1000858.1000947.mpg]</attr>
+		<attr name='copyblock' livesite='false'>[1001388.1000851.1000858.1000947.copyblock]</attr>
+		<attr name='description'>[1001388.1000851.1000858.1000947.description]</attr>
+		<attr name='keyword'>[1001388.1000851.1000858.1000947.keyword]</attr>
+		<attr name='derived' livesite='false'>[1001388.1000851.1000858.1000947.derived]</attr>
+		<attr name='hotspot' livesite='false'>[1001388.1000851.1000858.1000947.hotspot]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_LandCruiser.png</attr>
+			<attr name='sha'>12f5a6e209b526d692514e6e7a7091a0a9a2ebee</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000858 1000947' >
+		<attr name='availablecopy'>[1001388.1002622.1000858.1000947.availablecopy]</attr>
+		<attr name='mpg'>[1001388.1002622.1000858.1000947.mpg]</attr>
+		<attr name='iconname'>[1001388.1002622.1000858.1000947.iconname]</attr>
+		<attr name='copyblock' livesite='false'>[1001388.1002622.1000858.1000947.copyblock]</attr>
+		<attr name='description'>[1001388.1002622.1000858.1000947.description]</attr>
+		<attr name='keyword'>[1001388.1002622.1000858.1000947.keyword]</attr>
+		<attr name='derived' livesite='false'>[1001388.1002622.1000858.1000947.derived]</attr>
+		<attr name='hotspot' livesite='false'>[1001388.1002622.1000858.1000947.hotspot]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Land_Cruiser_ext_0070.png</attr>
+			<attr name='sha'>3be89be0c4bb48c986e3c65983123b01f3dcfe2a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

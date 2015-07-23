@@ -1,0 +1,63 @@
+<feature id='1001284' type='interiorcolor' scope='1000851 1000867 1000961, 1000851 1000867 1000962' cardinality='mandatory' >
+	<attr name='code'>FT13</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1001284.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001284.vtc]</attr>
+	<if id='1000851 1000867 1000961' >
+		<attr name='derived' livesite='false'>[1001284.1000851.1000867.1000961.derived]</attr>
+		<attr name='description'>[1001284.1000851.1000867.1000961.description]</attr>
+		<attr name='materialtypeid'>[1001284.1000851.1000867.1000961.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001284.1000851.1000867.1000961.source]</attr>
+		<attr name='title' livesite='false'>[1001284.1000851.1000867.1000961.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>tacoma_my14_config_int_RC_comp_v09eh_Base_Graphite.002.jpg</attr>
+			<attr name='sha'>ef0811827ba1d50b0dd2294321be320ccafa5293</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>tacoma_my14_config_int_RC_comp_v09eh_Base_Graphite.002.jpg</attr>
+			<attr name='sha'>a0feaa4462321f1269dd196dac8e0548db14b5c5</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>tacoma_my14_config_int_RC_comp_v09eh_Base_Graphite.002.jpg</attr>
+			<attr name='sha'>0bd2cb7607c2e7bb73ab170108fc6ef9ecaa6dbd</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000962' >
+		<attr name='derived' livesite='false'>[1001284.1000851.1000867.1000962.derived]</attr>
+		<attr name='description'>[1001284.1000851.1000867.1000962.description]</attr>
+		<attr name='materialtypeid'>[1001284.1000851.1000867.1000962.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001284.1000851.1000867.1000962.source]</attr>
+		<attr name='title' livesite='false'>[1001284.1000851.1000867.1000962.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>tacoma_my14_config_int_RC_comp_v09eh_Base_Graphite.002.jpg</attr>
+			<attr name='sha'>ef0811827ba1d50b0dd2294321be320ccafa5293</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>tacoma_my14_config_int_RC_comp_v09eh_Base_Graphite.002.jpg</attr>
+			<attr name='sha'>a0feaa4462321f1269dd196dac8e0548db14b5c5</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>tacoma_my14_config_int_RC_comp_v09eh_Base_Graphite.002.jpg</attr>
+			<attr name='sha'>0bd2cb7607c2e7bb73ab170108fc6ef9ecaa6dbd</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

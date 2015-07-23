@@ -1,0 +1,69 @@
+<feature id='1001574' type='accessory' scope='1002622 1000852 1001034, 1002622 1000852 1001033, 1000851 1000852 1001033, 1000851 1000852 1001034' cardinality='mandatory' >
+	<attr name='alacarte'></attr>
+	<attr name='code'>TE</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='fullimage'></attr>
+	<attr name='group'></attr>
+	<attr name='keyfeatures'></attr>
+	<attr name='marketingeffectivedate'></attr>
+	<attr name='msrp'></attr>
+	<attr name='option'></attr>
+	<attr name='package'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='secondaryfeatures'></attr>
+	<attr name='source'></attr>
+	<attr name='specialexteriorcolorflag'></attr>
+	<attr name='specialinteriorcolorflag'></attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'></attr>
+	<attr name='type'>[1001574.type]</attr>
+	<attr name='videokey'></attr>
+	<attr name='viewpointkey'></attr>
+	<attr name='vtc'>[1001574.vtc]</attr>
+	<if id='1000851 1000852 1001033' >
+		<attr name='alacarte'>[1001574.1000851.1000852.1001033.alacarte]</attr>
+		<attr name='derived'>[1001574.1000851.1000852.1001033.derived]</attr>
+		<attr name='description'>[1001574.1000851.1000852.1001033.description]</attr>
+		<attr name='group'>[1001574.1000851.1000852.1001033.group]</attr>
+		<attr name='keyfeatures'>[1001574.1000851.1000852.1001033.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001574.1000851.1000852.1001033.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1001574.1000851.1000852.1001033.msrp]</attr>
+		<attr name='option'>[1001574.1000851.1000852.1001033.option]</attr>
+		<attr name='package'>[1001574.1000851.1000852.1001033.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001574.1000851.1000852.1001033.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001574.1000851.1000852.1001033.secondaryfeatures]</attr>
+		<attr name='source'>[1001574.1000851.1000852.1001033.source]</attr>
+		<attr name='specialexteriorcolorflag'>[1001574.1000851.1000852.1001033.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1001574.1000851.1000852.1001033.specialinteriorcolorflag]</attr>
+		<attr name='title'>[1001574.1000851.1000852.1001033.title]</attr>
+		<attr name='videokey'>[1001574.1000851.1000852.1001033.videokey]</attr>
+		<attr name='viewpointkey'>[1001574.1000851.1000852.1001033.viewpointkey]</attr>
+		<rule src='NVS' tag='COLORCOMBOACC_TAG_ACY_TE' type='TEXT'>{1001574 requires((1001186*1001252),(1001169*1001252),(1001171*1001252),(1001174*1001252),(1001207*1001252),(1001164*1001252))}</rule>
+	</if>
+
+	<if id='1000851 1000852 1001034' >
+		<attr name='derived'>[1001574.1000851.1000852.1001034.derived]</attr>
+		<attr name='description'>[1001574.1000851.1000852.1001034.description]</attr>
+		<attr name='msrp'>[1001574.1000851.1000852.1001034.msrp]</attr>
+		<attr name='package'>[1001574.1000851.1000852.1001034.package]</attr>
+		<attr name='source'>[1001574.1000851.1000852.1001034.source]</attr>
+		<attr name='title'>[1001574.1000851.1000852.1001034.title]</attr>
+		<rule src='NVS' tag='COLORCOMBOACC_TAG_ACY_TE' type='TEXT'>{1001574 requires((1001186*1001252),(1001171*1001252),(1001169*1001252),(1001174*1001252),(1001186*1001320),(1001207*1001252),(1001164*1001252),(1001169*1001320),(1001207*1001320),(1001171*1001320),(1001164*1001320),(1001174*1001320))}</rule>
+	</if>
+
+	<if id='1002622 1000852 1001033' >
+		<attr name='derived' livesite='false'>[1001574.1002622.1000852.1001033.derived]</attr>
+		<attr name='msrp'>[1001574.1002622.1000852.1001033.msrp]</attr>
+		<attr name='source'>[1001574.1002622.1000852.1001033.source]</attr>
+		<attr name='title'>[1001574.1002622.1000852.1001033.title]</attr>
+	</if>
+
+	<if id='1002622 1000852 1001034' >
+		<attr name='derived' livesite='false'>[1001574.1002622.1000852.1001034.derived]</attr>
+		<attr name='msrp'>[1001574.1002622.1000852.1001034.msrp]</attr>
+		<attr name='source'>[1001574.1002622.1000852.1001034.source]</attr>
+		<attr name='title'>[1001574.1002622.1000852.1001034.title]</attr>
+	</if>
+
+</feature>

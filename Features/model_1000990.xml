@@ -1,0 +1,110 @@
+<feature id='1000990' type='model' scope='1000851 1000868' cardinality='mandatory' >
+	<attr name='description'></attr>
+	<attr name='highwaympg'></attr>
+	<attr name='modeldisplayname'></attr>
+	<attr name='effectivedate'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='vtc' livesite='false'>[1000990.vtc]</attr>
+	<attr name='mpge'></attr>
+	<attr name='trimlevel'></attr>
+	<attr name='linkurl'></attr>
+	<attr name='bodystyle'></attr>
+	<attr name='title'></attr>
+	<attr name='horsepower'></attr>
+	<attr name='colorthreshold'></attr>
+	<attr name='transmissionflag'></attr>
+	<attr name='combinedmpg'></attr>
+	<attr name='msrp'></attr>
+	<attr name='gradehotspot'></attr>
+	<attr name='citympg'></attr>
+	<attr name='subgradehotspot'></attr>
+	<attr name='modelthreshold'></attr>
+	<attr name='cylinders'></attr>
+	<attr name='seating'></attr>
+	<attr name='source' livesite='false'>[1000990.source]</attr>
+	<attr name='enginedescription'></attr>
+	<attr name='piothreshold'></attr>
+	<attr name='fiothreshold'></attr>
+	<attr name='comparepackage'></attr>
+	<attr name='enginehotspot'></attr>
+	<attr name='modeltrim'></attr>
+	<attr name='transmission'></attr>
+	<attr name='inventoryrules'></attr>
+	<attr name='code'>8215</attr>
+	<attr name='derived'></attr>
+	<attr name='accessorythreshold'></attr>
+	<attr name='anchorimage'></attr>
+	<attr name='iconimage'></attr>
+	<attr name='imageid'></attr>
+	<attr name='destinationfee'></attr>
+	<attr name='transmissionhotspot'></attr>
+	<if id='1000851 1000868' >
+		<attr name='modelthreshold' livesite='false'>[1000990.1000851.1000868.modelthreshold]</attr>
+		<attr name='modeltrim'>[1000990.1000851.1000868.modeltrim]</attr>
+		<attr name='subgradehotspot'>[1000990.1000851.1000868.subgradehotspot]</attr>
+		<attr name='pnglayeringinclusionkey'>[1000990.1000851.1000868.pnglayeringinclusionkey]</attr>
+		<attr name='title' livesite='false'>[1000990.1000851.1000868.title]</attr>
+		<attr name='inventoryrules'>[1000990.1000851.1000868.inventoryrules]</attr>
+		<attr name='msrp' livesite='false'>[1000990.1000851.1000868.msrp]</attr>
+		<attr name='description' livesite='false'>[1000990.1000851.1000868.description]</attr>
+		<attr name='trimlevel' livesite='false'>[1000990.1000851.1000868.trimlevel]</attr>
+		<attr name='highwaympg' livesite='false'>[1000990.1000851.1000868.highwaympg]</attr>
+		<attr name='derived' livesite='false'>[1000990.1000851.1000868.derived]</attr>
+		<attr name='gradehotspot'>[1000990.1000851.1000868.gradehotspot]</attr>
+		<attr name='combinedmpg' livesite='false'>[1000990.1000851.1000868.combinedmpg]</attr>
+		<attr name='effectivedate' livesite='false'>[1000990.1000851.1000868.effectivedate]</attr>
+		<attr name='accessorythreshold' livesite='false'>[1000990.1000851.1000868.accessorythreshold]</attr>
+		<attr name='mpge'>[1000990.1000851.1000868.mpge]</attr>
+		<attr name='cylinders' livesite='false'>[1000990.1000851.1000868.cylinders]</attr>
+		<attr name='transmissionhotspot'>[1000990.1000851.1000868.transmissionhotspot]</attr>
+		<attr name='enginedescription' livesite='false'>[1000990.1000851.1000868.enginedescription]</attr>
+		<attr name='colorthreshold' livesite='false'>[1000990.1000851.1000868.colorthreshold]</attr>
+		<attr name='piothreshold'>[1000990.1000851.1000868.piothreshold]</attr>
+		<attr name='linkurl'>[1000990.1000851.1000868.linkurl]</attr>
+		<attr name='modeldisplayname'>[1000990.1000851.1000868.modeldisplayname]</attr>
+		<attr name='transmission' livesite='false'>[1000990.1000851.1000868.transmission]</attr>
+		<attr name='transmissionflag' livesite='false'>[1000990.1000851.1000868.transmissionflag]</attr>
+		<attr name='enginehotspot'>[1000990.1000851.1000868.enginehotspot]</attr>
+		<attr name='source' livesite='false'>[1000990.1000851.1000868.source]</attr>
+		<attr name='destinationfee' livesite='false'>[1000990.1000851.1000868.destinationfee]</attr>
+		<attr name='seating' livesite='false'>[1000990.1000851.1000868.seating]</attr>
+		<attr name='citympg' livesite='false'>[1000990.1000851.1000868.citympg]</attr>
+		<attr name='fiothreshold'>[1000990.1000851.1000868.fiothreshold]</attr>
+		<attr name='bodystyle'>[1000990.1000851.1000868.bodystyle]</attr>
+		<attr name='horsepower' livesite='false'>[1000990.1000851.1000868.horsepower]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>anchorimage</attr>
+			<attr name='name'>tundra_14_cm_LTD_v08ko_8T5_01.png</attr>
+			<attr name='sha'>6729601ea61ad02799650b0e9daf0f246e886c7c</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparepackage</attr>
+			<attr name='name'>TundraComparePackage8215.json</attr>
+			<attr name='sha'>c8994820d405053bc541a868892844ebb1b09fd5</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000868 1001164' >
+		<attr name='inventoryrules'>[1000990.1000851.1000868.inventoryrules]</attr>
+		<attr name='enginehotspot'>[1000990.1000851.1000868.enginehotspot]</attr>
+		<attr name='modeltrim'>[1000990.1000851.1000868.modeltrim]</attr>
+		<attr name='transmissionhotspot'>[1000990.1000851.1000868.transmissionhotspot]</attr>
+		<attr name='subgradehotspot'>[1000990.1000851.1000868.subgradehotspot]</attr>
+		<attr name='pnglayeringinclusionkey'>[1000990.1000851.1000868.pnglayeringinclusionkey]</attr>
+		<attr name='piothreshold'>[1000990.1000851.1000868.piothreshold]</attr>
+		<attr name='linkurl'>[1000990.1000851.1000868.linkurl]</attr>
+		<attr name='fiothreshold'>[1000990.1000851.1000868.fiothreshold]</attr>
+		<attr name='gradehotspot'>[1000990.1000851.1000868.gradehotspot]</attr>
+		<attr name='bodystyle'>[1000990.1000851.1000868.bodystyle]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>anchorimage</attr>
+			<attr name='name'>tundra_14_cm_LTD_v08ko_8T5_01.png</attr>
+			<attr name='sha'>6729601ea61ad02799650b0e9daf0f246e886c7c</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

@@ -1,0 +1,115 @@
+<feature id='1001189' type='exteriorcolor' scope='1002622 1000863 1000933, 1002622 1000863 1000932, 1002622 1000863 1000934, 1002622 1000863 1000931, 1002622 1000863 1000929, 1002622 1000863 1000930' cardinality='mandatory' >
+	<attr name='carjellyimage'></attr>
+	<attr name='code'>04R8</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='hexvalue' livesite='false'>[1001189.hexvalue]</attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1001189.source]</attr>
+	<attr name='title' livesite='false'>[1001189.title]</attr>
+	<attr name='vtc' livesite='false'>[1001189.vtc]</attr>
+	<if id='1002622 1000863 1000929' >
+		<attr name='derived' livesite='false'>[1001189.1002622.1000863.1000929.derived]</attr>
+		<attr name='description'>[1001189.1002622.1000863.1000929.description]</attr>
+		<attr name='materialtypeid'>[1001189.1002622.1000863.1000929.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001189.1002622.1000863.1000929.source]</attr>
+		<attr name='title' livesite='false'>[1001189.1002622.1000863.1000929.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04R8' type='TEXT'>{1001189 conflicts(1001237)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Rav4_ext_LE_FWD_04R8_v008_si_byt.0001.png</attr>
+			<attr name='sha'>eda11979ec0a351043e2e9ed6f19af139389bdc2</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000863 1000930' >
+		<attr name='derived' livesite='false'>[1001189.1002622.1000863.1000930.derived]</attr>
+		<attr name='description'>[1001189.1002622.1000863.1000930.description]</attr>
+		<attr name='materialtypeid'>[1001189.1002622.1000863.1000930.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001189.1002622.1000863.1000930.source]</attr>
+		<attr name='title' livesite='false'>[1001189.1002622.1000863.1000930.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04R8' type='TEXT'>{1001189 conflicts(1001237)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Rav4_ext_LE_FWD_04R8_v008_si_byt.0001.png</attr>
+			<attr name='sha'>eda11979ec0a351043e2e9ed6f19af139389bdc2</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000863 1000931' >
+		<attr name='derived' livesite='false'>[1001189.1002622.1000863.1000931.derived]</attr>
+		<attr name='description'>[1001189.1002622.1000863.1000931.description]</attr>
+		<attr name='materialtypeid'>[1001189.1002622.1000863.1000931.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001189.1002622.1000863.1000931.source]</attr>
+		<attr name='title' livesite='false'>[1001189.1002622.1000863.1000931.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04R8' type='TEXT'>{1001189 conflicts(1001223)}</rule>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04R8' type='TEXT'>{1001189 conflicts(1001231)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Rav4_ext_XLE_FWD_04R8_v008_si_byt.0001.png</attr>
+			<attr name='sha'>c51cdf94db56ef8c6af33fd25ddbae56ffd09896</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000863 1000932' >
+		<attr name='derived' livesite='false'>[1001189.1002622.1000863.1000932.derived]</attr>
+		<attr name='description'>[1001189.1002622.1000863.1000932.description]</attr>
+		<attr name='materialtypeid'>[1001189.1002622.1000863.1000932.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001189.1002622.1000863.1000932.source]</attr>
+		<attr name='title' livesite='false'>[1001189.1002622.1000863.1000932.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04R8' type='TEXT'>{1001189 conflicts(1001223)}</rule>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04R8' type='TEXT'>{1001189 conflicts(1001231)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Rav4_ext_XLE_FWD_04R8_v008_si_byt.0001.png</attr>
+			<attr name='sha'>c51cdf94db56ef8c6af33fd25ddbae56ffd09896</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000863 1000933' >
+		<attr name='description'>[1001189.1002622.1000863.1000933.description]</attr>
+		<attr name='materialtypeid'>[1001189.1002622.1000863.1000933.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001189.1002622.1000863.1000933.source]</attr>
+		<attr name='title' livesite='false'>[1001189.1002622.1000863.1000933.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04R8' type='TEXT'>{1001189 conflicts(1001220)}</rule>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04R8' type='TEXT'>{1001189 conflicts(1001219)}</rule>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04R8' type='TEXT'>{1001189 conflicts(1001217)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Rav4_ext_LTD_FWD_04R8_v008_si_byt.0001.png</attr>
+			<attr name='sha'>1801d07365653042c702ae94a8ba3759fee98d54</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000863 1000934' >
+		<attr name='derived' livesite='false'>[1001189.1002622.1000863.1000934.derived]</attr>
+		<attr name='description'>[1001189.1002622.1000863.1000934.description]</attr>
+		<attr name='materialtypeid'>[1001189.1002622.1000863.1000934.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001189.1002622.1000863.1000934.source]</attr>
+		<attr name='title' livesite='false'>[1001189.1002622.1000863.1000934.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04R8' type='TEXT'>{1001189 conflicts(1001219)}</rule>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04R8' type='TEXT'>{1001189 conflicts(1001220)}</rule>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04R8' type='TEXT'>{1001189 conflicts(1001217)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Rav4_ext_LTD_FWD_04R8_v008_si_byt.0001.png</attr>
+			<attr name='sha'>1801d07365653042c702ae94a8ba3759fee98d54</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

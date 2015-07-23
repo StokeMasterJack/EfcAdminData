@@ -1,0 +1,38 @@
+<feature id='1001263' type='interiorcolor' scope='1000851 1000854 1000910' cardinality='mandatory' >
+	<attr name='vtc' livesite='false'>[1001263.vtc]</attr>
+	<attr name='code'>FE11</attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='title'></attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='source' livesite='false'>[1001263.source]</attr>
+	<attr name='offswatchimage'></attr>
+	<if id='1000851 1000854 1000910' >
+		<attr name='materialtypeid'>[1001263.1000851.1000854.1000910.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001263.1000851.1000854.1000910.title]</attr>
+		<attr name='source' livesite='false'>[1001263.1000851.1000854.1000910.source]</attr>
+		<attr name='description'>[1001263.1000851.1000854.1000910.description]</attr>
+		<attr name='derived' livesite='false'>[1001263.1000851.1000854.1000910.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>Camry_int_Hybrid_LE_LightGray_v35eh_hd_002.jpg</attr>
+			<attr name='sha'>09a5058fdc310a8fc26e90aa259358c63893d92a</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>Camry_int_Hybrid_LE_LightGray_v35eh_hd_002.jpg</attr>
+			<attr name='sha'>dabf66b5879fed0bdf29ccfa10a3a89473546719</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>Camry_int_Hybrid_LE_LightGray_v35eh_hd_002.jpg</attr>
+			<attr name='sha'>66a8e5b571fcfbd3bb4f1b3babcfba97e245e7a7</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

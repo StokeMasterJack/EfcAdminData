@@ -1,0 +1,103 @@
+<feature id='1002511' type='accessory' scope='1000851 1000856' cardinality='mandatory' >
+	<attr name='alacarte'>[1002511.alacarte]</attr>
+	<attr name='code'>dio14</attr>
+	<attr name='derived'>[1002511.derived]</attr>
+	<attr name='description'>[1002511.description]</attr>
+	<attr name='fullimage'></attr>
+	<attr name='group' livesite='false'>[1002511.group]</attr>
+	<attr name='keyfeatures'>[1002511.keyfeatures]</attr>
+	<attr name='marketingeffectivedate'>[1002511.marketingeffectivedate]</attr>
+	<attr name='msrp'></attr>
+	<attr name='option'>[1002511.option]</attr>
+	<attr name='package'>[1002511.package]</attr>
+	<attr name='pnglayeringinclusionkey'>[1002511.pnglayeringinclusionkey]</attr>
+	<attr name='secondaryfeatures'>[1002511.secondaryfeatures]</attr>
+	<attr name='source'>[1002511.source]</attr>
+	<attr name='specialexteriorcolorflag'>[1002511.specialexteriorcolorflag]</attr>
+	<attr name='specialinteriorcolorflag'>[1002511.specialinteriorcolorflag]</attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'>[1002511.title]</attr>
+	<attr name='type'>[1002511.type]</attr>
+	<attr name='videokey'>[1002511.videokey]</attr>
+	<attr name='viewpointkey'>[1002511.viewpointkey]</attr>
+	<attr name='vtc'>[1002511.vtc]</attr>
+	<if id='1000851 1000856' >
+		<attr name='alacarte'>[1002511.1000851.1000856.alacarte]</attr>
+		<attr name='description'>[1002511.1000851.1000856.description]</attr>
+		<attr name='group'>[1002511.1000851.1000856.group]</attr>
+		<attr name='source'>[1002511.1000851.1000856.source]</attr>
+		<attr name='title'>[1002511.1000851.1000856.title]</attr>
+		<attr name='type'>[1002511.1000851.1000856.type]</attr>
+		<attr name='vtc'>[1002511.1000851.1000856.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000856 1000936' disclaimers='1002415' >
+		<attr name='description' livesite='false'>[1002511.1000851.1000856.1000936.description]</attr>
+		<attr name='keyfeatures'>[1002511.1000851.1000856.1000936.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002511.1000851.1000856.1000936.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1002511.1000851.1000856.1000936.msrp]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002511.1000851.1000856.1000936.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002511.1000851.1000856.1000936.secondaryfeatures]</attr>
+		<attr name='videokey'>[1002511.1000851.1000856.1000936.videokey]</attr>
+		<attr name='viewpointkey'>[1002511.1000851.1000856.1000936.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>TRD-Performance-Air-Intake.jpg</attr>
+			<attr name='sha'>d9303ca48fa88f8e06d9ac50cb7c4c5a64256765</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>TRD-Performance-Air-Intake.jpg</attr>
+			<attr name='sha'>31983e2938cc291b4fb85e06ce8c2857a73e3e4a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000856 1000937' disclaimers='1002415' >
+		<attr name='description' livesite='false'>[1002511.1000851.1000856.1000937.description]</attr>
+		<attr name='keyfeatures'>[1002511.1000851.1000856.1000937.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002511.1000851.1000856.1000937.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1002511.1000851.1000856.1000937.msrp]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002511.1000851.1000856.1000937.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002511.1000851.1000856.1000937.secondaryfeatures]</attr>
+		<attr name='videokey'>[1002511.1000851.1000856.1000937.videokey]</attr>
+		<attr name='viewpointkey'>[1002511.1000851.1000856.1000937.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>TRD-Performance-Air-Intake.jpg</attr>
+			<attr name='sha'>d9303ca48fa88f8e06d9ac50cb7c4c5a64256765</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>TRD-Performance-Air-Intake.jpg</attr>
+			<attr name='sha'>31983e2938cc291b4fb85e06ce8c2857a73e3e4a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000856 1000938' disclaimers='1002415' >
+		<attr name='description' livesite='false'>[1002511.1000851.1000856.1000938.description]</attr>
+		<attr name='keyfeatures'>[1002511.1000851.1000856.1000938.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002511.1000851.1000856.1000938.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1002511.1000851.1000856.1000938.msrp]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002511.1000851.1000856.1000938.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002511.1000851.1000856.1000938.secondaryfeatures]</attr>
+		<attr name='videokey'>[1002511.1000851.1000856.1000938.videokey]</attr>
+		<attr name='viewpointkey'>[1002511.1000851.1000856.1000938.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>TRD-Performance-Air-Intake.jpg</attr>
+			<attr name='sha'>d9303ca48fa88f8e06d9ac50cb7c4c5a64256765</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>TRD-Performance-Air-Intake.jpg</attr>
+			<attr name='sha'>31983e2938cc291b4fb85e06ce8c2857a73e3e4a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

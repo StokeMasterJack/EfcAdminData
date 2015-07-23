@@ -1,0 +1,12 @@
+<feature id='1002666' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1002666.description]</attr>
+	<attr name='code'>dash_bsm</attr>
+	<attr name='derived' livesite='false'>[1002666.derived]</attr>
+	<attr name='source' livesite='false'>[1002666.source]</attr>
+	<attr name='vtc' livesite='false'>[1002666.vtc]</attr>
+	<attr name='title'></attr>
+	<if id='1002622' >
+		<attr name='description' livesite='false'>[1002666.1002622.description]</attr>
+	</if>
+
+</feature>

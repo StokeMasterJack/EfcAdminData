@@ -1,0 +1,8 @@
+<feature id='1001690' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001690.vtc]</attr>
+	<attr name='code'>camry_best_selling_car</attr>
+	<attr name='description' livesite='false'>[1001690.description]</attr>
+	<attr name='source' livesite='false'>[1001690.source]</attr>
+	<attr name='derived' livesite='false'>[1001690.derived]</attr>
+</feature>

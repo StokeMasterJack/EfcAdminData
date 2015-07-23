@@ -1,0 +1,8 @@
+<feature id='1002692' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1002692.vtc]</attr>
+	<attr name='description' livesite='false'>[1002692.description]</attr>
+	<attr name='derived' livesite='false'>[1002692.derived]</attr>
+	<attr name='code'>driver_distraction_2</attr>
+	<attr name='source' livesite='false'>[1002692.source]</attr>
+</feature>

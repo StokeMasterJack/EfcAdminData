@@ -1,0 +1,8 @@
+<feature id='1001829' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1001829.description]</attr>
+	<attr name='code'>financial_lease_contract</attr>
+	<attr name='title'></attr>
+	<attr name='derived' livesite='false'>[1001829.derived]</attr>
+	<attr name='vtc' livesite='false'>[1001829.vtc]</attr>
+	<attr name='source' livesite='false'>[1001829.source]</attr>
+</feature>

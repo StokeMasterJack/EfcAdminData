@@ -1,0 +1,8 @@
+<feature id='1001738' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='code'>corolla_pwrmoonroof_req</attr>
+	<attr name='description' livesite='false'>[1001738.description]</attr>
+	<attr name='derived' livesite='false'>[1001738.derived]</attr>
+	<attr name='source' livesite='false'>[1001738.source]</attr>
+	<attr name='vtc' livesite='false'>[1001738.vtc]</attr>
+</feature>

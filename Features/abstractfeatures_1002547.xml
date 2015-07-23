@@ -1,0 +1,7 @@
+<feature id='1002547' type='abstractfeatures' scope='1000851' cardinality='mandatory' >
+	<attr name='code' livesite='false'>Lanedeparturewarnings</attr>
+	<attr name='derived' livesite='false'>[1002547.derived]</attr>
+	<attr name='source' livesite='false'>[1002547.source]</attr>
+	<attr name='title' livesite='false'>[1002547.title]</attr>
+	<attr name='vtc' livesite='false'>[1002547.vtc]</attr>
+</feature>

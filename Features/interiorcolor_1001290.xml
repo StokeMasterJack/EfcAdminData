@@ -1,0 +1,413 @@
+<feature id='1001290' type='interiorcolor' scope='1002622 1000857 1000955, 1002622 1000857 1000956, 1000851 1000854 1000909, 1002622 1000857 1000959, 1002622 1000854 1000905, 1002622 1000857 1000957, 1002622 1000857 1000958, 1002622 1000857 1000960, 1000851 1000857 1000958, 1000851 1000857 1000957, 1000851 1000857 1000959, 1000851 1000857 1000956, 1000851 1000857 1000955, 1000851 1000854 1000905, 1000851 1000857 1000960, 1002622 1000854 1000909' cardinality='mandatory' >
+	<attr name='code'>LA10</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1001290.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001290.vtc]</attr>
+	<if id='1000851 1000854 1000905' >
+		<attr name='derived' livesite='false'>[1001290.1000851.1000854.1000905.derived]</attr>
+		<attr name='description'>[1001290.1000851.1000854.1000905.description]</attr>
+		<attr name='materialtypeid'>[1001290.1000851.1000854.1000905.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001290.1000851.1000854.1000905.source]</attr>
+		<attr name='title' livesite='false'>[1001290.1000851.1000854.1000905.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>camry_my14_byt_jelly_XLE_V6_ash.jpg</attr>
+			<attr name='sha'>c0704847cea07e71c52ecccf2ce02cddf270e472</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>camry_my14_byt_jelly_XLE_V6_ash.jpg</attr>
+			<attr name='sha'>70ce93afc437e7ff2133d35ef219e1709eab626d</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>camry_my14_byt_jelly_XLE_V6_ash.jpg</attr>
+			<attr name='sha'>d523336cb4d0103ffb7fd2af56202c670f26ebb9</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000854 1000909' >
+		<attr name='derived' livesite='false'>[1001290.1000851.1000854.1000909.derived]</attr>
+		<attr name='description'>[1001290.1000851.1000854.1000909.description]</attr>
+		<attr name='materialtypeid'>[1001290.1000851.1000854.1000909.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001290.1000851.1000854.1000909.source]</attr>
+		<attr name='title' livesite='false'>[1001290.1000851.1000854.1000909.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>camry_my14_byt_jelly_XLE_V6_ash.jpg</attr>
+			<attr name='sha'>c0704847cea07e71c52ecccf2ce02cddf270e472</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>camry_my14_byt_jelly_XLE_V6_ash.jpg</attr>
+			<attr name='sha'>70ce93afc437e7ff2133d35ef219e1709eab626d</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>camry_my14_byt_jelly_XLE_V6_ash.jpg</attr>
+			<attr name='sha'>d523336cb4d0103ffb7fd2af56202c670f26ebb9</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000857 1000955' >
+		<attr name='derived' livesite='false'>[1001290.1000851.1000857.1000955.derived]</attr>
+		<attr name='description'>[1001290.1000851.1000857.1000955.description]</attr>
+		<attr name='materialtypeid'>[1001290.1000851.1000857.1000955.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001290.1000851.1000857.1000955.source]</attr>
+		<attr name='title' livesite='false'>[1001290.1000851.1000857.1000955.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>highlander_int_Limited_Ash_v38jc.jpg</attr>
+			<attr name='sha'>eac14c73609004f05e89e6ef8a02d26f27caa1de</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>highlander_int_XLE_Ash_v38jc.jpg</attr>
+			<attr name='sha'>02fcd9e8e65561b961b0a39a85e1836dcd4c7ddd</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>highlander_int_Limited_Ash_v38jc.jpg</attr>
+			<attr name='sha'>10fc114c0b626bc814ce28b8b9ea69e09153b5ac</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000857 1000956' >
+		<attr name='derived' livesite='false'>[1001290.1000851.1000857.1000956.derived]</attr>
+		<attr name='description'>[1001290.1000851.1000857.1000956.description]</attr>
+		<attr name='materialtypeid'>[1001290.1000851.1000857.1000956.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001290.1000851.1000857.1000956.source]</attr>
+		<attr name='title' livesite='false'>[1001290.1000851.1000857.1000956.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>highlander_int_Limited-Platinum_Ash_v38jc.jpg</attr>
+			<attr name='sha'>4b034e6121ee724d0b4a2912508e879676b35029</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>highlander_int_Limited_Platinum_Ash_v38jc.jpg</attr>
+			<attr name='sha'>05872cc751ee2d9f2ea42665b169d11282ba8086</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>highlander_int_Limited-Platinum_Ash_v38jc.jpg</attr>
+			<attr name='sha'>23d1a456ab51d7215b1e5804c6b61f395ed18c17</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000857 1000957' >
+		<attr name='derived' livesite='false'>[1001290.1000851.1000857.1000957.derived]</attr>
+		<attr name='description'>[1001290.1000851.1000857.1000957.description]</attr>
+		<attr name='materialtypeid'>[1001290.1000851.1000857.1000957.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001290.1000851.1000857.1000957.source]</attr>
+		<attr name='title' livesite='false'>[1001290.1000851.1000857.1000957.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>highlander_int_Limited_Ash_v38jc.jpg</attr>
+			<attr name='sha'>eac14c73609004f05e89e6ef8a02d26f27caa1de</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>highlander_int_Limited_Ash_v38jc.jpg</attr>
+			<attr name='sha'>b2044ac49e1c232d247a15766d816172f8918554</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>highlander_int_Limited_Ash_v38jc.jpg</attr>
+			<attr name='sha'>10fc114c0b626bc814ce28b8b9ea69e09153b5ac</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000857 1000958' >
+		<attr name='derived' livesite='false'>[1001290.1000851.1000857.1000958.derived]</attr>
+		<attr name='description'>[1001290.1000851.1000857.1000958.description]</attr>
+		<attr name='materialtypeid'>[1001290.1000851.1000857.1000958.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001290.1000851.1000857.1000958.source]</attr>
+		<attr name='title' livesite='false'>[1001290.1000851.1000857.1000958.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>highlander_int_Limited-Platinum_Ash_v38jc.jpg</attr>
+			<attr name='sha'>4b034e6121ee724d0b4a2912508e879676b35029</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>highlander_int_Limited_Platinum_Ash_v38jc.jpg</attr>
+			<attr name='sha'>05872cc751ee2d9f2ea42665b169d11282ba8086</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>highlander_int_Limited-Platinum_Ash_v38jc.jpg</attr>
+			<attr name='sha'>23d1a456ab51d7215b1e5804c6b61f395ed18c17</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000857 1000959' >
+		<attr name='derived' livesite='false'>[1001290.1000851.1000857.1000959.derived]</attr>
+		<attr name='description'>[1001290.1000851.1000857.1000959.description]</attr>
+		<attr name='materialtypeid'>[1001290.1000851.1000857.1000959.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001290.1000851.1000857.1000959.source]</attr>
+		<attr name='title' livesite='false'>[1001290.1000851.1000857.1000959.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>highlander_int_Hybrid_Ash_v38jc.jpg</attr>
+			<attr name='sha'>c370c69de3b162182bb45a1c1deef28caace6ed0</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>highlander_int_Hybrid_Ash_v38jc.jpg</attr>
+			<attr name='sha'>b00de2531d6a7d333e8b6bc43bfc75e47768de63</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>highlander_int_Hybrid_Ash_v38jc.jpg</attr>
+			<attr name='sha'>db75e0380d259a9568e4a16c301c47093feb0f01</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000857 1000960' >
+		<attr name='derived' livesite='false'>[1001290.1000851.1000857.1000960.derived]</attr>
+		<attr name='description'>[1001290.1000851.1000857.1000960.description]</attr>
+		<attr name='materialtypeid'>[1001290.1000851.1000857.1000960.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001290.1000851.1000857.1000960.source]</attr>
+		<attr name='title' livesite='false'>[1001290.1000851.1000857.1000960.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>highlander_int_Hybrid_Ash_v38jc.jpg</attr>
+			<attr name='sha'>c370c69de3b162182bb45a1c1deef28caace6ed0</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>highlander_int_Hybrid_Ash_v38jc.jpg</attr>
+			<attr name='sha'>b00de2531d6a7d333e8b6bc43bfc75e47768de63</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>highlander_int_Hybrid_Ash_v38jc.jpg</attr>
+			<attr name='sha'>db75e0380d259a9568e4a16c301c47093feb0f01</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000905' >
+		<attr name='derived' livesite='false'>[1001290.1002622.1000854.1000905.derived]</attr>
+		<attr name='description'>[1001290.1002622.1000854.1000905.description]</attr>
+		<attr name='materialtypeid'>[1001290.1002622.1000854.1000905.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001290.1002622.1000854.1000905.source]</attr>
+		<attr name='title' livesite='false'>[1001290.1002622.1000854.1000905.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>camry_int_XLEV6_Ash_v167_hd_002.jpg</attr>
+			<attr name='sha'>fc16c49e2c493f341cb080dce63f58ea78aa94b9</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>camry_int_XLEV6_Ash_v167_hd_002.jpg</attr>
+			<attr name='sha'>dcad671a20b08360dd619b1c884530b88cd8207e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>camry_int_LE_4-cyl_Ash_v167_hd_002.jpg</attr>
+			<attr name='sha'>83e30ab3b712a21e5dc24f73b5cf252e2cdf9974</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000909' >
+		<attr name='derived' livesite='false'>[1001290.1002622.1000854.1000909.derived]</attr>
+		<attr name='description'>[1001290.1002622.1000854.1000909.description]</attr>
+		<attr name='materialtypeid'>[1001290.1002622.1000854.1000909.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001290.1002622.1000854.1000909.source]</attr>
+		<attr name='title' livesite='false'>[1001290.1002622.1000854.1000909.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>camry_int_XLEV6_Ash_v167_hd_002.jpg</attr>
+			<attr name='sha'>fc16c49e2c493f341cb080dce63f58ea78aa94b9</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>camry_int_XLEV6_Ash_v167_hd_002.jpg</attr>
+			<attr name='sha'>dcad671a20b08360dd619b1c884530b88cd8207e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>camry_int_XLEV6_Ash_v167_hd_002.jpg</attr>
+			<attr name='sha'>582699f1fa1edceb5651fc66cc0ca9810d0be3ab</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000955' >
+		<attr name='derived' livesite='false'>[1001290.1002622.1000857.1000955.derived]</attr>
+		<attr name='description'>[1001290.1002622.1000857.1000955.description]</attr>
+		<attr name='materialtypeid'>[1001290.1002622.1000857.1000955.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001290.1002622.1000857.1000955.source]</attr>
+		<attr name='title' livesite='false'>[1001290.1002622.1000857.1000955.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>highlander_int_Limited_Ash_v38jc.jpg</attr>
+			<attr name='sha'>eac14c73609004f05e89e6ef8a02d26f27caa1de</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>highlander_int_Limited_Ash_v38jc.jpg</attr>
+			<attr name='sha'>b2044ac49e1c232d247a15766d816172f8918554</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>highlander_int_Limited_Ash_v38jc.jpg</attr>
+			<attr name='sha'>10fc114c0b626bc814ce28b8b9ea69e09153b5ac</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000956' >
+		<attr name='derived' livesite='false'>[1001290.1002622.1000857.1000956.derived]</attr>
+		<attr name='description'>[1001290.1002622.1000857.1000956.description]</attr>
+		<attr name='materialtypeid'>[1001290.1002622.1000857.1000956.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001290.1002622.1000857.1000956.source]</attr>
+		<attr name='title' livesite='false'>[1001290.1002622.1000857.1000956.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>highlander_int_Limited-Platinum_Ash_v38jc.jpg</attr>
+			<attr name='sha'>4b034e6121ee724d0b4a2912508e879676b35029</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>highlander_int_Limited_Platinum_Ash_v38jc.jpg</attr>
+			<attr name='sha'>05872cc751ee2d9f2ea42665b169d11282ba8086</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>highlander_int_Limited-Platinum_Ash_v38jc.jpg</attr>
+			<attr name='sha'>23d1a456ab51d7215b1e5804c6b61f395ed18c17</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000957' >
+		<attr name='derived' livesite='false'>[1001290.1002622.1000857.1000957.derived]</attr>
+		<attr name='description'>[1001290.1002622.1000857.1000957.description]</attr>
+		<attr name='materialtypeid'>[1001290.1002622.1000857.1000957.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001290.1002622.1000857.1000957.source]</attr>
+		<attr name='title' livesite='false'>[1001290.1002622.1000857.1000957.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>highlander_int_Limited_Ash_v38jc.jpg</attr>
+			<attr name='sha'>eac14c73609004f05e89e6ef8a02d26f27caa1de</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>highlander_int_Limited_Ash_v38jc.jpg</attr>
+			<attr name='sha'>b2044ac49e1c232d247a15766d816172f8918554</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>highlander_int_Limited_Ash_v38jc.jpg</attr>
+			<attr name='sha'>10fc114c0b626bc814ce28b8b9ea69e09153b5ac</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000958' >
+		<attr name='derived' livesite='false'>[1001290.1002622.1000857.1000958.derived]</attr>
+		<attr name='description'>[1001290.1002622.1000857.1000958.description]</attr>
+		<attr name='materialtypeid'>[1001290.1002622.1000857.1000958.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001290.1002622.1000857.1000958.source]</attr>
+		<attr name='title' livesite='false'>[1001290.1002622.1000857.1000958.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>highlander_int_Limited-Platinum_Ash_v38jc.jpg</attr>
+			<attr name='sha'>4b034e6121ee724d0b4a2912508e879676b35029</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>highlander_int_Limited_Platinum_Ash_v38jc.jpg</attr>
+			<attr name='sha'>05872cc751ee2d9f2ea42665b169d11282ba8086</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>highlander_int_Limited-Platinum_Ash_v38jc.jpg</attr>
+			<attr name='sha'>23d1a456ab51d7215b1e5804c6b61f395ed18c17</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000959' >
+		<attr name='derived' livesite='false'>[1001290.1002622.1000857.1000959.derived]</attr>
+		<attr name='description'>[1001290.1002622.1000857.1000959.description]</attr>
+		<attr name='materialtypeid'>[1001290.1002622.1000857.1000959.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001290.1002622.1000857.1000959.source]</attr>
+		<attr name='title' livesite='false'>[1001290.1002622.1000857.1000959.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>highlander_int_Hybrid_Ash_v38jc.jpg</attr>
+			<attr name='sha'>c370c69de3b162182bb45a1c1deef28caace6ed0</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>highlander_int_Hybrid_Ash_v38jc.jpg</attr>
+			<attr name='sha'>b00de2531d6a7d333e8b6bc43bfc75e47768de63</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>highlander_int_Hybrid_Ash_v38jc.jpg</attr>
+			<attr name='sha'>db75e0380d259a9568e4a16c301c47093feb0f01</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000960' >
+		<attr name='derived' livesite='false'>[1001290.1002622.1000857.1000960.derived]</attr>
+		<attr name='description'>[1001290.1002622.1000857.1000960.description]</attr>
+		<attr name='materialtypeid'>[1001290.1002622.1000857.1000960.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001290.1002622.1000857.1000960.source]</attr>
+		<attr name='title' livesite='false'>[1001290.1002622.1000857.1000960.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>highlander_int_Hybrid_Ash_v38jc.jpg</attr>
+			<attr name='sha'>c370c69de3b162182bb45a1c1deef28caace6ed0</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>highlander_int_Hybrid_Ash_v38jc.jpg</attr>
+			<attr name='sha'>b00de2531d6a7d333e8b6bc43bfc75e47768de63</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>highlander_int_Hybrid_Ash_v38jc.jpg</attr>
+			<attr name='sha'>db75e0380d259a9568e4a16c301c47093feb0f01</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

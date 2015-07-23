@@ -1,0 +1,94 @@
+<feature id='1000860' type='series' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='attachment'></attr>
+	<attr name='background'></attr>
+	<attr name='code'>priusc</attr>
+	<attr name='comparemodel'></attr>
+	<attr name='defaultmodel'></attr>
+	<attr name='derived'>[1000860.derived]</attr>
+	<attr name='description'>[1000860.description]</attr>
+	<attr name='source'>[1000860.source]</attr>
+	<attr name='title'>[1000860.title]</attr>
+	<attr name='vtc'>[1000860.vtc]</attr>
+	<if id='1000851' disclaimers='1002417 1002411 1001717 1002415 1002414 1002412 1001799 1002221 1002396 1002226 1002225 1002394 1002800 1002633 1002325 1001768 1001767 1001864 1002368 1001889 1001888 1001867 1002248 1002629 1002044 1001602 1001643 1001812 1001646' >
+		<attr name='defaultmodel'>[1000860.1000851.defaultmodel]</attr>
+		<attr name='derived'>[1000860.1000851.derived]</attr>
+		<attr name='description'>[1000860.1000851.description]</attr>
+		<attr name='source'>[1000860.1000851.source]</attr>
+		<attr name='title'>[1000860.1000851.title]</attr>
+		<attr name='vtc'>[1000860.1000851.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>EFC Background _0018_Prius c.jpg</attr>
+			<attr name='sha'>670d9b27e4bd2b136d439f02ba6659e8d849be60</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>StandardFeaturesPriusc.xml</attr>
+			<attr name='sha'>8696723821dbed25d7b4c194007d0d10baa5b1ec</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>PriuscCompareModelTMSCPD20140528v1.json</attr>
+			<attr name='sha'>8235bb6dda532e2494335eab71663d6e7edc2b9f</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>mediumbackground</attr>
+			<attr name='name'>EFC-background_0018_Prius_c_1024.jpg</attr>
+			<attr name='sha'>23a5dc5f243b46000eff6a019e86f5e255f013f1</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>smallbackground</attr>
+			<attr name='name'>EFC-background_0018_Prius_c_480.jpg</attr>
+			<attr name='sha'>b0fb559ae74ee1cf3fe608f47347840d40b03457</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>largebackground</attr>
+			<attr name='name'>EFC-background_0018_Prius-c_1500.jpg</attr>
+			<attr name='sha'>de8ff799bcae846e844e88548710907239896e87</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622' disclaimers='1002417 1001892 1002416 1002411 1001717 1002415 1002414 1002413 1002412 1002221 1002058 1002396 1002226 1002225 1002394 1002800 1002633 1002325 1001768 1001767 1001864 1002368 1001889 1002628 1001867 1002248 1003251 1002629 1002044 1001602 1001681 1001643 1001812 1002314 1001646 1001952' >
+		<attr name='defaultmodel'>[1000860.1002622.defaultmodel]</attr>
+		<attr name='derived'>[1000860.1002622.derived]</attr>
+		<attr name='description'>[1000860.1002622.description]</attr>
+		<attr name='source'>[1000860.1002622.source]</attr>
+		<attr name='title' livesite='false'>[1000860.1002622.title]</attr>
+		<attr name='vtc' livesite='false'>[1000860.1002622.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>EFC_Background_0018_Prius_c.jpg</attr>
+			<attr name='sha'>670d9b27e4bd2b136d439f02ba6659e8d849be60</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>mediumbackground</attr>
+			<attr name='name'>EFC-background_0018_Prius_c_1024.jpg</attr>
+			<attr name='sha'>23a5dc5f243b46000eff6a019e86f5e255f013f1</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>smallbackground</attr>
+			<attr name='name'>EFC-background_0018_Prius_c_480.jpg</attr>
+			<attr name='sha'>b0fb559ae74ee1cf3fe608f47347840d40b03457</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>largebackground</attr>
+			<attr name='name'>EFC-background_0018_Prius-c_1500.jpg</attr>
+			<attr name='sha'>de8ff799bcae846e844e88548710907239896e87</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>StandardFeaturesPriusc2015.xml</attr>
+			<attr name='sha'>a805f68b09963990598903311f6d9cd0fb3bbf963c36a66d2b7261492a4f09fc32f175cc78d5bf11cfdcdf0782950c6dd6f801bc5040e4750281d24e03aadf13</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>2015PriuscCompareModel_CPD_20141209v1.json</attr>
+			<attr name='sha'>8095ef11a0bebbf5349f5aa196511bd910f85d7e82fbca37291e08d16da154109b1c64372e77b5bbe89fe13b654f8a55528da4bb46aaa15beca876f27461807c</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

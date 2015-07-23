@@ -1,0 +1,7 @@
+<feature id='1002821' type='abstractfeatures' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='code'>Sportseats</attr>
+	<attr name='derived' livesite='false'>[1002821.derived]</attr>
+	<attr name='source' livesite='false'>[1002821.source]</attr>
+	<attr name='title' livesite='false'>[1002821.title]</attr>
+	<attr name='vtc' livesite='false'>[1002821.vtc]</attr>
+</feature>

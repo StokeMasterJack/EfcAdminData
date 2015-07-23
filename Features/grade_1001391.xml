@@ -1,0 +1,23 @@
+<feature id='1001391' type='grade' cardinality='optional' >
+	<attr name='code'>tacoma</attr>
+	<attr name='title' livesite='false'>[1001391.title]</attr>
+	<attr name='description'>[1001391.description]</attr>
+	<attr name='images'></attr>
+	<attr name='copyblock'>[1001391.copyblock]</attr>
+	<attr name='keyword'>[1001391.keyword]</attr>
+	<attr name='mpg'>[1001391.mpg]</attr>
+	<attr name='availablecopy'>[1001391.availablecopy]</attr>
+	<attr name='iconname'>[1001391.iconname]</attr>
+	<attr name='vtc' livesite='false'>[1001391.vtc]</attr>
+	<attr name='source' livesite='false'>[1001391.source]</attr>
+	<attr name='derived' livesite='false'>[1001391.derived]</attr>
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>This was assigned to Tacoma as a grade incorrectly therefore it is un-vtc'd. Removed the feature from By Hierarchy tree for each model from the series.</attr>
+		<attr name='systemdate'>2014 April 25</attr>
+		<attr name='time'>12:58:58PDT</attr>
+	</complextype>
+</group>
+
+</feature>

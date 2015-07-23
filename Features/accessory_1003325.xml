@@ -1,0 +1,24 @@
+<feature id='1003325' type='accessory' scope='1002622 1000870' cardinality='mandatory' >
+	<attr name='alacarte' livesite='false'>[1003325.alacarte]</attr>
+	<attr name='code'>PIO2</attr>
+	<attr name='derived' livesite='false'>[1003325.derived]</attr>
+	<attr name='description'></attr>
+	<attr name='fullimage'></attr>
+	<attr name='group'></attr>
+	<attr name='keyfeatures'></attr>
+	<attr name='marketingeffectivedate'></attr>
+	<attr name='msrp'></attr>
+	<attr name='option' livesite='false'>[1003325.option]</attr>
+	<attr name='package' livesite='false'>[1003325.package]</attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='secondaryfeatures'></attr>
+	<attr name='source'></attr>
+	<attr name='specialexteriorcolorflag' livesite='false'>[1003325.specialexteriorcolorflag]</attr>
+	<attr name='specialinteriorcolorflag' livesite='false'>[1003325.specialinteriorcolorflag]</attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'></attr>
+	<attr name='type' livesite='false'>[1003325.type]</attr>
+	<attr name='videokey'></attr>
+	<attr name='viewpointkey'></attr>
+	<attr name='vtc' livesite='false'>[1003325.vtc]</attr>
+</feature>

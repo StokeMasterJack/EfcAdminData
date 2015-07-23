@@ -1,0 +1,11 @@
+<feature id='groupRanking' type='group' cardinality='optional' childtypes='group' vta='false' >
+	<if id='1000929' children='1002518' >
+	</if>
+
+	<if id='1000930' children='1002518' >
+	</if>
+
+	<if id='1000853' children='1002518' >
+	</if>
+
+</feature>

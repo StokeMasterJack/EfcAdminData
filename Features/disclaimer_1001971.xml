@@ -1,0 +1,12 @@
+<feature id='1001971' type='disclaimer' cardinality='optional' >
+	<attr name='derived' livesite='false'>[1001971.derived]</attr>
+	<attr name='source' livesite='false'>[1001971.source]</attr>
+	<attr name='vtc' livesite='false'>[1001971.vtc]</attr>
+	<attr name='description' livesite='false'>[1001971.description]</attr>
+	<attr name='code'>kbb_2012</attr>
+	<attr name='title'></attr>
+	<if id='1000851' >
+		<attr name='description' livesite='false'>[1001971.1000851.description]</attr>
+	</if>
+
+</feature>

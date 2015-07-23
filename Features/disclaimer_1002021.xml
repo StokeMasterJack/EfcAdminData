@@ -1,0 +1,8 @@
+<feature id='1002021' type='disclaimer' cardinality='optional' >
+	<attr name='derived' livesite='false'>[1002021.derived]</attr>
+	<attr name='source' livesite='false'>[1002021.source]</attr>
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1002021.description]</attr>
+	<attr name='code'>motorist_choice</attr>
+	<attr name='vtc' livesite='false'>[1002021.vtc]</attr>
+</feature>

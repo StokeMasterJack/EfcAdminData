@@ -1,0 +1,15 @@
+<feature id='1002811' type='disclaimer' cardinality='optional' >
+	<attr name='vtc' livesite='false'>[1002811.vtc]</attr>
+	<attr name='description' livesite='false'>[1002811.description]</attr>
+	<attr name='code'>2014_prelim_mpg</attr>
+	<attr name='title'>[1002811.title]</attr>
+	<attr name='derived' livesite='false'>[1002811.derived]</attr>
+	<attr name='source'>[1002811.source]</attr>
+	<if id='1000851 1000867' >
+		<attr name='source' livesite='false'>[1002811.1000851.1000867.source]</attr>
+		<attr name='description' livesite='false'>[1002811.1000851.1000867.description]</attr>
+		<attr name='derived' livesite='false'>[1002811.1000851.1000867.derived]</attr>
+		<attr name='vtc' livesite='false'>[1002811.1000851.1000867.vtc]</attr>
+	</if>
+
+</feature>

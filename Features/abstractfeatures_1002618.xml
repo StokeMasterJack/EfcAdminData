@@ -1,0 +1,7 @@
+<feature id='1002618' type='abstractfeatures' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='code'>FFV</attr>
+	<attr name='derived' livesite='false'>[1002618.derived]</attr>
+	<attr name='source' livesite='false'>[1002618.source]</attr>
+	<attr name='title' livesite='false'>[1002618.title]</attr>
+	<attr name='vtc' livesite='false'>[1002618.vtc]</attr>
+</feature>

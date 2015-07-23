@@ -1,0 +1,54 @@
+<feature id='1004364' type='cab' scope='1002622 1000867 1003048, 1002622 1000867 1003049' cardinality='mandatory' >
+	<attr name='hotspot'>[1004364.hotspot]</attr>
+	<attr name='vtc' livesite='false'>[1004364.vtc]</attr>
+	<attr name='title' livesite='false'>[1004364.title]</attr>
+	<attr name='copyblock'>[1004364.copyblock]</attr>
+	<attr name='images'></attr>
+	<attr name='availablecopy'>[1004364.availablecopy]</attr>
+	<attr name='source'>[1004364.source]</attr>
+	<attr name='code'>trdprodouble</attr>
+	<attr name='iconname'>[1004364.iconname]</attr>
+	<attr name='derived' livesite='false'>[1004364.derived]</attr>
+	<attr name='bulletlist'>[1004364.bulletlist]</attr>
+	<attr name='description'>[1004364.description]</attr>
+	<if id='1002622 1000867 1003048' >
+		<attr name='availablecopy' livesite='false'>[1004364.1002622.1000867.1003048.availablecopy]</attr>
+		<attr name='title' livesite='false'>[1004364.1002622.1000867.1003048.title]</attr>
+		<attr name='iconname' livesite='false'>[1004364.1002622.1000867.1003048.iconname]</attr>
+		<attr name='source' livesite='false'>[1004364.1002622.1000867.1003048.source]</attr>
+		<attr name='copyblock' livesite='false'>[1004364.1002622.1000867.1003048.copyblock]</attr>
+		<attr name='description'>[1004364.1002622.1000867.1003048.description]</attr>
+		<attr name='bulletlist' livesite='false'>[1004364.1002622.1000867.1003048.bulletlist]</attr>
+		<attr name='derived' livesite='false'>[1004364.1002622.1000867.1003048.derived]</attr>
+		<attr name='vtc' livesite='false'>[1004364.1002622.1000867.1003048.vtc]</attr>
+		<attr name='hotspot'>[1004364.1002622.1000867.1003048.hotspot]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Tacoma_DC_my15_ext_TRDPro_04X0_v004_efc_002.png</attr>
+			<attr name='sha'>b317ef22a0ef0d467486f589d1f00be92df15812</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000867 1003049' >
+		<attr name='availablecopy' livesite='false'>[1004364.1002622.1000867.1003049.availablecopy]</attr>
+		<attr name='title' livesite='false'>[1004364.1002622.1000867.1003049.title]</attr>
+		<attr name='source'>[1004364.1002622.1000867.1003049.source]</attr>
+		<attr name='iconname' livesite='false'>[1004364.1002622.1000867.1003049.iconname]</attr>
+		<attr name='copyblock' livesite='false'>[1004364.1002622.1000867.1003049.copyblock]</attr>
+		<attr name='description'>[1004364.1002622.1000867.1003049.description]</attr>
+		<attr name='bulletlist' livesite='false'>[1004364.1002622.1000867.1003049.bulletlist]</attr>
+		<attr name='derived' livesite='false'>[1004364.1002622.1000867.1003049.derived]</attr>
+		<attr name='vtc' livesite='false'>[1004364.1002622.1000867.1003049.vtc]</attr>
+		<attr name='hotspot'>[1004364.1002622.1000867.1003049.hotspot]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Tacoma_DC_my15_ext_TRDPro_04X0_v004_efc_002.png</attr>
+			<attr name='sha'>b317ef22a0ef0d467486f589d1f00be92df15812</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

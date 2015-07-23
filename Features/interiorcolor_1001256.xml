@@ -1,0 +1,38 @@
+<feature id='1001256' type='interiorcolor' scope='1000851 1000854 1000904' cardinality='mandatory' >
+	<attr name='onswatchimage'></attr>
+	<attr name='msrp'></attr>
+	<attr name='code'>FD00</attr>
+	<attr name='derived'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='source' livesite='false'>[1001256.source]</attr>
+	<attr name='vtc' livesite='false'>[1001256.vtc]</attr>
+	<attr name='title'></attr>
+	<attr name='description'></attr>
+	<attr name='offswatchimage'></attr>
+	<if id='1000851 1000854 1000904' >
+		<attr name='materialtypeid'>[1001256.1000851.1000854.1000904.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001256.1000851.1000854.1000904.title]</attr>
+		<attr name='source' livesite='false'>[1001256.1000851.1000854.1000904.source]</attr>
+		<attr name='description'>[1001256.1000851.1000854.1000904.description]</attr>
+		<attr name='derived' livesite='false'>[1001256.1000851.1000854.1000904.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>Camry_int_LE_Ivory_v35eh_hd_002.jpg</attr>
+			<attr name='sha'>e856341efcc04f475fe13e6dd4437b0ec67904e9</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>Camry_int_LE_Ivory_v35eh_hd_002.jpg</attr>
+			<attr name='sha'>2d9f43b3b1dfa201d4ac1048809b432f0c5dd114</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>Camry_int_LE_Ivory_v35eh_hd_002.jpg</attr>
+			<attr name='sha'>e825de195ceb9f0ffdac44fb5c7d1b25a44da9b9</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

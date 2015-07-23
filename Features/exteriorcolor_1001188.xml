@@ -1,0 +1,46 @@
+<feature id='1001188' type='exteriorcolor' scope='1000851 1000858 1000947, 1002622 1000858 1000947' cardinality='mandatory' >
+	<attr name='carjellyimage'></attr>
+	<attr name='code'>04R3</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='hexvalue'>[1001188.hexvalue]</attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source'>[1001188.source]</attr>
+	<attr name='title'>[1001188.title]</attr>
+	<attr name='vtc'>[1001188.vtc]</attr>
+	<if id='1000851 1000858 1000947' >
+		<attr name='derived'>[1001188.1000851.1000858.1000947.derived]</attr>
+		<attr name='description'>[1001188.1000851.1000858.1000947.description]</attr>
+		<attr name='materialtypeid'>[1001188.1000851.1000858.1000947.materialtypeid]</attr>
+		<attr name='source'>[1001188.1000851.1000858.1000947.source]</attr>
+		<attr name='title'>[1001188.1000851.1000858.1000947.title]</attr>
+		<rule src='NVS' type='TEXT'>{1001188 conflicts(1001321)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>LandCruiser_ext_none_4R3_v17ee_hd_001.png</attr>
+			<attr name='sha'>f2b0218c0554e8c5f2a51e32635675044c3ee950</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000858 1000947' >
+		<attr name='derived' livesite='false'>[1001188.1002622.1000858.1000947.derived]</attr>
+		<attr name='description'>[1001188.1002622.1000858.1000947.description]</attr>
+		<attr name='materialtypeid'>[1001188.1002622.1000858.1000947.materialtypeid]</attr>
+		<attr name='source'>[1001188.1002622.1000858.1000947.source]</attr>
+		<attr name='title'>[1001188.1002622.1000858.1000947.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04R3' type='TEXT'>{1001188 conflicts(1001321)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>LC4R3.png</attr>
+			<attr name='sha'>36afc70d9361fc79f95d6cf5fbc2de2ce7b3f848</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

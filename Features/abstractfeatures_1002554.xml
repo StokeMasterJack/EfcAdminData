@@ -1,0 +1,7 @@
+<feature id='1002554' type='abstractfeatures' scope='1000851' cardinality='mandatory' >
+	<attr name='code' livesite='false'>Cruisecontrol</attr>
+	<attr name='derived' livesite='false'>[1002554.derived]</attr>
+	<attr name='source' livesite='false'>[1002554.source]</attr>
+	<attr name='title' livesite='false'>[1002554.title]</attr>
+	<attr name='vtc' livesite='false'>[1002554.vtc]</attr>
+</feature>

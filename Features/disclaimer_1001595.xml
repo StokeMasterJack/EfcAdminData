@@ -1,0 +1,8 @@
+<feature id='1001595' type='disclaimer' cardinality='optional' >
+	<attr name='code'>4wd_only</attr>
+	<attr name='derived' livesite='false'>[1001595.derived]</attr>
+	<attr name='vtc' livesite='false'>[1001595.vtc]</attr>
+	<attr name='source' livesite='false'>[1001595.source]</attr>
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1001595.description]</attr>
+</feature>

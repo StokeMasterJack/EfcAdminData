@@ -1,0 +1,8 @@
+<feature id='1002403' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1002403.source]</attr>
+	<attr name='derived' livesite='false'>[1002403.derived]</attr>
+	<attr name='vtc' livesite='false'>[1002403.vtc]</attr>
+	<attr name='title'></attr>
+	<attr name='code'>xm_sat_nav</attr>
+	<attr name='description' livesite='false'>[1002403.description]</attr>
+</feature>

@@ -1,0 +1,8 @@
+<feature id='1001703' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='code'>camry_ichoice_11</attr>
+	<attr name='vtc' livesite='false'>[1001703.vtc]</attr>
+	<attr name='source' livesite='false'>[1001703.source]</attr>
+	<attr name='description' livesite='false'>[1001703.description]</attr>
+	<attr name='derived' livesite='false'>[1001703.derived]</attr>
+</feature>

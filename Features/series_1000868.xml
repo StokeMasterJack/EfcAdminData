@@ -1,0 +1,86 @@
+<feature id='1000868' type='series' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='attachment'></attr>
+	<attr name='background'></attr>
+	<attr name='code'>tundra</attr>
+	<attr name='comparemodel'></attr>
+	<attr name='defaultmodel'></attr>
+	<attr name='derived'>[1000868.derived]</attr>
+	<attr name='description'>[1000868.description]</attr>
+	<attr name='source'>[1000868.source]</attr>
+	<attr name='title' livesite='false'>[1000868.title]</attr>
+	<attr name='vtc'>[1000868.vtc]</attr>
+	<if id='1000851' disclaimers='1002417 1001759 1002411 1001717 1002415 1002414 1001672 1002412 1002221 1002059 1001793 1002226 1002394 1002327 1002325 1001768 1002287 1001767 1001862 1002186 1002368 1001848 1001887 1002628 1002066 1001867 1002629 1002044 1001602 1001956 1001681 1001643 1001646 1001952' >
+		<attr name='derived'>[1000868.1000851.derived]</attr>
+		<attr name='description'>[1000868.1000851.description]</attr>
+		<attr name='source'>[1000868.1000851.source]</attr>
+		<attr name='title'>[1000868.1000851.title]</attr>
+		<attr name='vtc'>[1000868.1000851.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>EFCTundraBackgroundStandAlone.jpg</attr>
+			<attr name='sha'>c0ee4893bb21842e85af114d375ae956260c3286</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>StandardFeaturesTundra.xml</attr>
+			<attr name='sha'>6ff57dad3f9e29c58923791f702f4e4f1f91a032</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>TundraCompareModel20140606v1.json</attr>
+			<attr name='sha'>5efaa70917e7c76f72bdeba04aa07edb78b87a18</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622' disclaimers='1002417 1002416 1001759 1002411 1001717 1002415 1002414 1001672 1002413 1002412 1002696 1002221 1002059 1002226 1002394 1002327 1002633 1002325 1002322 1001768 1002287 1001767 1001862 1002186 1001848 1002368 1001887 1002628 1002066 1001867 1004368 1001869 1002629 1002044 1001602 1001956 1003296 1001681 1001643 1002314 1001646 1001952' >
+		<attr name='defaultmodel'>[1000868.1002622.defaultmodel]</attr>
+		<attr name='derived' livesite='false'>[1000868.1002622.derived]</attr>
+		<attr name='description'>[1000868.1002622.description]</attr>
+		<attr name='source'>[1000868.1002622.source]</attr>
+		<attr name='vtc' livesite='false'>[1000868.1002622.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>EFC_Background_0008_Tundra.jpg</attr>
+			<attr name='sha'>3d0efbdeb1b15e4897c66c3b992b7eb1e230df07</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>2015TundraCompareModel_TMS_CPD_20140825v1.json</attr>
+			<attr name='sha'>932e8ad153661715976af2c49fecf89669374f9b</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>mediumbackground</attr>
+			<attr name='name'>EFC-background_0008_Tundra_1024.jpg</attr>
+			<attr name='sha'>00baa4d26d776354eb2576e73a8e16eb44456845</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>smallbackground</attr>
+			<attr name='name'>EFC-background_0008_Tundra_480.jpg</attr>
+			<attr name='sha'>e1d5b116c36a5ec90f498b2015af0d27b8a98465</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>largebackground</attr>
+			<attr name='name'>EFC-background_0008_Tundra_1500.jpg</attr>
+			<attr name='sha'>27a34a9306cb635a130a608a8eec085c592caaf9</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>StandardFeaturesTundraTRDPro2015_FSOupdate_111314.xml</attr>
+			<attr name='sha'>a1836dddabbec10ec529e5069e356378ef9526c4</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>hon_hsu@toyota.com</attr>
+		<attr name='note'>Tundra publish</attr>
+		<attr name='systemdate'>2014 September 1</attr>
+		<attr name='time'>2014 September 1</attr>
+	</complextype>
+</group>
+
+</feature>

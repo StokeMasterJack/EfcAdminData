@@ -1,0 +1,11 @@
+<feature id='1002423' type='abstractfeatures' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='code' livesite='false'>Paddleshifters</attr>
+	<attr name='derived' livesite='false'>[1002423.derived]</attr>
+	<attr name='source' livesite='false'>[1002423.source]</attr>
+	<attr name='title' livesite='false'>[1002423.title]</attr>
+	<attr name='vtc' livesite='false'>[1002423.vtc]</attr>
+	<if id='1000851 1000853' >
+		<rule src='ADMIN' type='TEXT'>{1002423 requires((1000851*1000853*1000927),(1000851*1000853*1000928))}</rule>
+	</if>
+
+</feature>

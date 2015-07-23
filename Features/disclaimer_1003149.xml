@@ -1,0 +1,12 @@
+<feature id='1003149' type='disclaimer' cardinality='optional' >
+	<attr name='derived'></attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1003149.vtc]</attr>
+	<attr name='description' livesite='false'>[1003149.description]</attr>
+	<attr name='source' livesite='false'>[1003149.source]</attr>
+	<attr name='code'>2012_Corolla_6</attr>
+	<if id='1002622' >
+		<attr name='description' livesite='false'>[1003149.1002622.description]</attr>
+	</if>
+
+</feature>

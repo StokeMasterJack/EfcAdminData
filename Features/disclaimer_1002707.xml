@@ -1,0 +1,8 @@
+<feature id='1002707' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1002707.vtc]</attr>
+	<attr name='description' livesite='false'>[1002707.description]</attr>
+	<attr name='source' livesite='false'>[1002707.source]</attr>
+	<attr name='derived' livesite='false'>[1002707.derived]</attr>
+	<attr name='code'>fj_ichoice_13</attr>
+</feature>

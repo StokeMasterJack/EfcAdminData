@@ -1,0 +1,457 @@
+<feature id='1001143' type='accessory' scope='1000851 1000852 1001029, 1000851 1000852 1001028, 1002622 1000852 1001031, 1000851 1000852 1001032, 1000851 1000852 1001033, 1000851 1000852 1001031, 1002622 1000852 1001028' cardinality='mandatory' >
+	<attr name='alacarte'></attr>
+	<attr name='code'>TI</attr>
+	<attr name='derived'>[1001143.derived]</attr>
+	<attr name='description'></attr>
+	<attr name='fullimage'></attr>
+	<attr name='group'></attr>
+	<attr name='keyfeatures'></attr>
+	<attr name='marketingeffectivedate'></attr>
+	<attr name='msrp'></attr>
+	<attr name='option'></attr>
+	<attr name='package'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='secondaryfeatures'></attr>
+	<attr name='source'>[1001143.source]</attr>
+	<attr name='specialexteriorcolorflag'></attr>
+	<attr name='specialinteriorcolorflag'></attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'></attr>
+	<attr name='type'>[1001143.type]</attr>
+	<attr name='videokey'></attr>
+	<attr name='viewpointkey'></attr>
+	<attr name='vtc'>[1001143.vtc]</attr>
+	<if id='1000851 1000852 1001028' >
+		<attr name='alacarte'>[1001143.1000851.1000852.1001028.alacarte]</attr>
+		<attr name='description'>[1001143.1000851.1000852.1001028.description]</attr>
+		<attr name='group'>[1001143.1000851.1000852.1001028.group]</attr>
+		<attr name='keyfeatures'>[1001143.1000851.1000852.1001028.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001143.1000851.1000852.1001028.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1001143.1000851.1000852.1001028.msrp]</attr>
+		<attr name='option'>[1001143.1000851.1000852.1001028.option]</attr>
+		<attr name='package'>[1001143.1000851.1000852.1001028.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001143.1000851.1000852.1001028.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001143.1000851.1000852.1001028.secondaryfeatures]</attr>
+		<attr name='source'>[1001143.1000851.1000852.1001028.source]</attr>
+		<attr name='specialexteriorcolorflag'>[1001143.1000851.1000852.1001028.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1001143.1000851.1000852.1001028.specialinteriorcolorflag]</attr>
+		<attr name='title'>[1001143.1000851.1000852.1001028.title]</attr>
+		<attr name='videokey'>[1001143.1000851.1000852.1001028.videokey]</attr>
+		<attr name='viewpointkey'>[1001143.1000851.1000852.1001028.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_TI' type='TEXT'>{1001143 conflicts(1001067)}</rule>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_TI' type='TEXT'>{1001143 requires(1001119*1002609)}</rule>
+	</if>
+
+	<if id='1000851 1000852 1001029' >
+		<attr name='alacarte'>[1001143.1000851.1000852.1001029.alacarte]</attr>
+		<attr name='description'>[1001143.1000851.1000852.1001029.description]</attr>
+		<attr name='group'>[1001143.1000851.1000852.1001029.group]</attr>
+		<attr name='keyfeatures'>[1001143.1000851.1000852.1001029.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001143.1000851.1000852.1001029.marketingeffectivedate]</attr>
+		<attr name='option'>[1001143.1000851.1000852.1001029.option]</attr>
+		<attr name='package'>[1001143.1000851.1000852.1001029.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001143.1000851.1000852.1001029.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001143.1000851.1000852.1001029.secondaryfeatures]</attr>
+		<attr name='source'>[1001143.1000851.1000852.1001029.source]</attr>
+		<attr name='specialexteriorcolorflag'>[1001143.1000851.1000852.1001029.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1001143.1000851.1000852.1001029.specialinteriorcolorflag]</attr>
+		<attr name='title'>[1001143.1000851.1000852.1001029.title]</attr>
+		<attr name='videokey'>[1001143.1000851.1000852.1001029.videokey]</attr>
+		<attr name='viewpointkey'>[1001143.1000851.1000852.1001029.viewpointkey]</attr>
+		<attr name='vtc'>[1001143.1000851.1000852.1001029.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000852 1001031' >
+		<attr name='alacarte'>[1001143.1000851.1000852.1001031.alacarte]</attr>
+		<attr name='description'>[1001143.1000851.1000852.1001031.description]</attr>
+		<attr name='group'>[1001143.1000851.1000852.1001031.group]</attr>
+		<attr name='keyfeatures'>[1001143.1000851.1000852.1001031.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001143.1000851.1000852.1001031.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1001143.1000851.1000852.1001031.msrp]</attr>
+		<attr name='option'>[1001143.1000851.1000852.1001031.option]</attr>
+		<attr name='package'>[1001143.1000851.1000852.1001031.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001143.1000851.1000852.1001031.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001143.1000851.1000852.1001031.secondaryfeatures]</attr>
+		<attr name='source'>[1001143.1000851.1000852.1001031.source]</attr>
+		<attr name='specialexteriorcolorflag'>[1001143.1000851.1000852.1001031.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1001143.1000851.1000852.1001031.specialinteriorcolorflag]</attr>
+		<attr name='title'>[1001143.1000851.1000852.1001031.title]</attr>
+		<attr name='videokey'>[1001143.1000851.1000852.1001031.videokey]</attr>
+		<attr name='viewpointkey'>[1001143.1000851.1000852.1001031.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_TI' type='TEXT'>{1001143 conflicts(1001067)}</rule>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_TI' type='TEXT'>{1001143 requires(1001119*1002609)}</rule>
+	</if>
+
+	<if id='1000851 1000852 1001032' >
+		<attr name='alacarte'>[1001143.1000851.1000852.1001032.alacarte]</attr>
+		<attr name='derived'>[1001143.1000851.1000852.1001032.derived]</attr>
+		<attr name='description'>[1001143.1000851.1000852.1001032.description]</attr>
+		<attr name='group'>[1001143.1000851.1000852.1001032.group]</attr>
+		<attr name='keyfeatures'>[1001143.1000851.1000852.1001032.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001143.1000851.1000852.1001032.marketingeffectivedate]</attr>
+		<attr name='option'>[1001143.1000851.1000852.1001032.option]</attr>
+		<attr name='package'>[1001143.1000851.1000852.1001032.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001143.1000851.1000852.1001032.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001143.1000851.1000852.1001032.secondaryfeatures]</attr>
+		<attr name='source'>[1001143.1000851.1000852.1001032.source]</attr>
+		<attr name='specialexteriorcolorflag'>[1001143.1000851.1000852.1001032.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1001143.1000851.1000852.1001032.specialinteriorcolorflag]</attr>
+		<attr name='title'>[1001143.1000851.1000852.1001032.title]</attr>
+		<attr name='videokey'>[1001143.1000851.1000852.1001032.videokey]</attr>
+		<attr name='viewpointkey'>[1001143.1000851.1000852.1001032.viewpointkey]</attr>
+		<attr name='vtc'>[1001143.1000851.1000852.1001032.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000852 1001033' >
+		<attr name='msrp'>[1001143.1000851.1000852.1001033.msrp]</attr>
+		<attr name='source'>[1001143.1000851.1000852.1001033.source]</attr>
+		<attr name='title'>[1001143.1000851.1000852.1001033.title]</attr>
+	</if>
+
+	<if id='1002622 1000852 1001028' >
+		<attr name='alacarte' livesite='false'>[1001143.1002622.1000852.1001028.alacarte]</attr>
+		<attr name='description' livesite='false'>[1001143.1002622.1000852.1001028.description]</attr>
+		<attr name='msrp'>[1001143.1002622.1000852.1001028.msrp]</attr>
+		<attr name='package' livesite='false'>[1001143.1002622.1000852.1001028.package]</attr>
+		<attr name='source'>[1001143.1002622.1000852.1001028.source]</attr>
+		<attr name='title'>[1001143.1002622.1000852.1001028.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_TI' type='TEXT'>{1001143 conflicts(1001067)}</rule>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_TI' type='TEXT'>{1001143 requires(1001119*1002609)}</rule>
+	</if>
+
+	<if id='1002622 1000852 1001031' >
+		<attr name='alacarte' livesite='false'>[1001143.1002622.1000852.1001031.alacarte]</attr>
+		<attr name='description' livesite='false'>[1001143.1002622.1000852.1001031.description]</attr>
+		<attr name='msrp'>[1001143.1002622.1000852.1001031.msrp]</attr>
+		<attr name='package' livesite='false'>[1001143.1002622.1000852.1001031.package]</attr>
+		<attr name='source'>[1001143.1002622.1000852.1001031.source]</attr>
+		<attr name='title'>[1001143.1002622.1000852.1001031.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_TI' type='TEXT'>{1001143 conflicts(1001067)}</rule>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_TI' type='TEXT'>{1001143 requires(1001119*1002609)}</rule>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>TI per the schedule A is available on 8646 and 8666 only. un-vtcing on model 8648.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+</feature>

@@ -1,0 +1,61 @@
+<feature id='1001270' type='interiorcolor' scope='1000851 1000860 1000873, 1000851 1000860 1000872' cardinality='mandatory' >
+	<attr name='interiorseatimage'></attr>
+	<attr name='source' livesite='false'>[1001270.source]</attr>
+	<attr name='msrp'></attr>
+	<attr name='vtc' livesite='false'>[1001270.vtc]</attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='description'></attr>
+	<attr name='title'></attr>
+	<attr name='code'>FF28</attr>
+	<attr name='derived'></attr>
+	<attr name='materialtypeid'></attr>
+	<if id='1000851 1000860 1000872' >
+		<attr name='materialtypeid'>[1001270.1000851.1000860.1000872.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001270.1000851.1000860.1000872.title]</attr>
+		<attr name='description'>[1001270.1000851.1000860.1000872.description]</attr>
+		<attr name='derived' livesite='false'>[1001270.1000851.1000860.1000872.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>prius_c_int_two_Light_Blue_Gray_Black_v13eh_hd_002.jpg</attr>
+			<attr name='sha'>76b240d42349afcd5cebe7692ac64e9ac4bfc21a</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>prius_c_int_two_Light_Blue_Gray_Black_v13eh_hd_002.jpg</attr>
+			<attr name='sha'>10be17d651c8ec8815dd92a3ee2aac236e6a02f0</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>prius_c_int_two_Light_Blue_Gray_Black_v13eh_hd_002.jpg</attr>
+			<attr name='sha'>7cf9658b3bcd68e549bcec13f37299a6e8e7daec</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000860 1000873' >
+		<attr name='materialtypeid'>[1001270.1000851.1000860.1000873.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001270.1000851.1000860.1000873.title]</attr>
+		<attr name='description'>[1001270.1000851.1000860.1000873.description]</attr>
+		<attr name='derived' livesite='false'>[1001270.1000851.1000860.1000873.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>prius_c_int_three_Light_Blue_Gray_Black_v13eh_hd_002.jpg</attr>
+			<attr name='sha'>ffc5f100aba2a7d0da74f51456bb1d4b336a85ec</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>prius_c_int_three_Light_Blue_Gray_Black_v13eh_hd_002.jpg</attr>
+			<attr name='sha'>0c9b4aa07163f7be45808f4d7f26116876b4bdbb</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>prius_c_int_three_Light_Blue_Gray_Black_v13eh_hd_002.jpg</attr>
+			<attr name='sha'>7cc0da4bbaf0503c0b9cf4339970917099fabf17</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

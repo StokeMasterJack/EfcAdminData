@@ -1,0 +1,234 @@
+<feature id='1001224' type='interiorcolor' scope='1000851 1000856 1000936, 1000851 1000856 1000937, 1000851 1000856 1000938, 1000851 1000870 1000886, 1000851 1000870 1000887, 1000851 1000855 1000891, 1000851 1000870 1000884, 1000851 1000870 1000885, 1000851 1000855 1000892, 1002622 1000855 1000891, 1002622 1000855 1000892, 1000851 1000870 1000890' cardinality='mandatory' >
+	<attr name='code'>FA11</attr>
+	<attr name='title'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='msrp'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='vtc' livesite='false'>[1001224.vtc]</attr>
+	<attr name='source' livesite='false'>[1001224.source]</attr>
+	<attr name='derived'></attr>
+	<if id='1000851 1000870 1000884' >
+		<attr name='materialtypeid'>[1001224.1000851.1000870.1000884.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001224.1000851.1000870.1000884.title]</attr>
+		<attr name='source' livesite='false'>[1001224.1000851.1000870.1000884.source]</attr>
+		<attr name='description'>[1001224.1000851.1000870.1000884.description]</attr>
+		<attr name='derived' livesite='false'>[1001224.1000851.1000870.1000884.derived]</attr>
+		<attr name='vtc' livesite='false'>[1001224.1000851.1000870.1000884.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000870 1000885' >
+		<attr name='materialtypeid'>[1001224.1000851.1000870.1000885.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001224.1000851.1000870.1000885.title]</attr>
+		<attr name='source' livesite='false'>[1001224.1000851.1000870.1000885.source]</attr>
+		<attr name='description'>[1001224.1000851.1000870.1000885.description]</attr>
+		<attr name='derived' livesite='false'>[1001224.1000851.1000870.1000885.derived]</attr>
+		<attr name='vtc' livesite='false'>[1001224.1000851.1000870.1000885.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000870 1000886' >
+		<attr name='materialtypeid'>[1001224.1000851.1000870.1000886.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001224.1000851.1000870.1000886.title]</attr>
+		<attr name='source' livesite='false'>[1001224.1000851.1000870.1000886.source]</attr>
+		<attr name='description'>[1001224.1000851.1000870.1000886.description]</attr>
+		<attr name='derived' livesite='false'>[1001224.1000851.1000870.1000886.derived]</attr>
+		<attr name='vtc' livesite='false'>[1001224.1000851.1000870.1000886.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000870 1000887' >
+		<attr name='materialtypeid'>[1001224.1000851.1000870.1000887.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001224.1000851.1000870.1000887.title]</attr>
+		<attr name='source' livesite='false'>[1001224.1000851.1000870.1000887.source]</attr>
+		<attr name='description'>[1001224.1000851.1000870.1000887.description]</attr>
+		<attr name='derived' livesite='false'>[1001224.1000851.1000870.1000887.derived]</attr>
+		<attr name='vtc' livesite='false'>[1001224.1000851.1000870.1000887.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000870 1000890' >
+		<attr name='materialtypeid'>[1001224.1000851.1000870.1000890.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001224.1000851.1000870.1000890.title]</attr>
+		<attr name='source' livesite='false'>[1001224.1000851.1000870.1000890.source]</attr>
+		<attr name='description'>[1001224.1000851.1000870.1000890.description]</attr>
+		<attr name='derived' livesite='false'>[1001224.1000851.1000870.1000890.derived]</attr>
+		<attr name='vtc' livesite='false'>[1001224.1000851.1000870.1000890.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000855 1000891' >
+		<attr name='materialtypeid'>[1001224.1000851.1000855.1000891.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001224.1000851.1000855.1000891.title]</attr>
+		<attr name='source' livesite='false'>[1001224.1000851.1000855.1000891.source]</attr>
+		<attr name='description'>[1001224.1000851.1000855.1000891.description]</attr>
+		<attr name='derived' livesite='false'>[1001224.1000851.1000855.1000891.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>Corolla_int_L_Steel_Gray_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>527a66688a4c8c79c98b62f5e2737d2867dbac14</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>Corolla_int_L_Steel_Gray_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>3218de1c361694c2582f8ce27b10aa652ae18255</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>Corolla_int_L_Steel_Gray_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>106c0b0f5936924931ef60b529090ff3bc8a657a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000892' >
+		<attr name='title' livesite='false'>[1001224.1000851.1000855.1000892.title]</attr>
+		<attr name='source' livesite='false'>[1001224.1000851.1000855.1000892.source]</attr>
+		<attr name='derived' livesite='false'>[1001224.1000851.1000855.1000892.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>Corolla_int_L_Steel_Gray_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>527a66688a4c8c79c98b62f5e2737d2867dbac14</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>Corolla_int_L_Steel_Gray_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>3218de1c361694c2582f8ce27b10aa652ae18255</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>Corolla_int_L_Steel_Gray_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>106c0b0f5936924931ef60b529090ff3bc8a657a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000856 1000936' >
+		<attr name='materialtypeid'>[1001224.1000851.1000856.1000936.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001224.1000851.1000856.1000936.title]</attr>
+		<attr name='source' livesite='false'>[1001224.1000851.1000856.1000936.source]</attr>
+		<attr name='description'>[1001224.1000851.1000856.1000936.description]</attr>
+		<attr name='derived' livesite='false'>[1001224.1000851.1000856.1000936.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>fj_4x4AT_int_black.002.jpg</attr>
+			<attr name='sha'>3bb423ce09a4b14f3295388cbc255d172b871240</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>fj_4x4AT_int_black.002.jpg</attr>
+			<attr name='sha'>a5f0038850f29d66690073593e7009165e586acc</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>fj_4x4AT_int_black.002.jpg</attr>
+			<attr name='sha'>ab19012329d6bbe543353bb67ea4ad7c4aeda000</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000856 1000937' >
+		<attr name='title' livesite='false'>[1001224.1000851.1000856.1000937.title]</attr>
+		<attr name='source' livesite='false'>[1001224.1000851.1000856.1000937.source]</attr>
+		<attr name='derived' livesite='false'>[1001224.1000851.1000856.1000937.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>fj_4x4AT_int_black.002.jpg</attr>
+			<attr name='sha'>3bb423ce09a4b14f3295388cbc255d172b871240</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>fj_4x4AT_int_black.002.jpg</attr>
+			<attr name='sha'>a5f0038850f29d66690073593e7009165e586acc</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>fj_4x4AT_int_black.002.jpg</attr>
+			<attr name='sha'>ab19012329d6bbe543353bb67ea4ad7c4aeda000</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000856 1000938' >
+		<attr name='title' livesite='false'>[1001224.1000851.1000856.1000938.title]</attr>
+		<attr name='source' livesite='false'>[1001224.1000851.1000856.1000938.source]</attr>
+		<attr name='derived' livesite='false'>[1001224.1000851.1000856.1000938.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>fj_4x4AT_int_black.002.jpg</attr>
+			<attr name='sha'>3bb423ce09a4b14f3295388cbc255d172b871240</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>fj_4x4AT_int_black.002.jpg</attr>
+			<attr name='sha'>a5f0038850f29d66690073593e7009165e586acc</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>fj_4x4AT_int_black.002.jpg</attr>
+			<attr name='sha'>ab19012329d6bbe543353bb67ea4ad7c4aeda000</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000891' >
+		<attr name='title' livesite='false'>[1001224.1002622.1000855.1000891.title]</attr>
+		<attr name='description'>[1001224.1002622.1000855.1000891.description]</attr>
+		<attr name='materialtypeid'>[1001224.1002622.1000855.1000891.materialtypeid]</attr>
+		<attr name='derived' livesite='false'>[1001224.1002622.1000855.1000891.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>Corolla_int_L_Steel_Gray_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>527a66688a4c8c79c98b62f5e2737d2867dbac14</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>Corolla_int_L_Steel_Gray_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>3218de1c361694c2582f8ce27b10aa652ae18255</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>Corolla_int_L_Steel_Gray_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>106c0b0f5936924931ef60b529090ff3bc8a657a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000892' >
+		<attr name='title' livesite='false'>[1001224.1002622.1000855.1000892.title]</attr>
+		<attr name='description'>[1001224.1002622.1000855.1000892.description]</attr>
+		<attr name='materialtypeid'>[1001224.1002622.1000855.1000892.materialtypeid]</attr>
+		<attr name='derived' livesite='false'>[1001224.1002622.1000855.1000892.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>Corolla_int_L_Steel_Gray_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>527a66688a4c8c79c98b62f5e2737d2867dbac14</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>Corolla_int_L_Steel_Gray_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>3218de1c361694c2582f8ce27b10aa652ae18255</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>Corolla_int_L_Steel_Gray_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>106c0b0f5936924931ef60b529090ff3bc8a657a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>FA11 is not an live interior color. Un-vtcing</attr>
+		<attr name='systemdate'>2014 May 14</attr>
+		<attr name='time'>5:58:04PDT</attr>
+	</complextype>
+</group>
+
+</feature>

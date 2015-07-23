@@ -1,0 +1,7 @@
+<feature id='1002620' type='abstractfeatures' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='code'>20Wheels</attr>
+	<attr name='derived' livesite='false'>[1002620.derived]</attr>
+	<attr name='source' livesite='false'>[1002620.source]</attr>
+	<attr name='title' livesite='false'>[1002620.title]</attr>
+	<attr name='vtc' livesite='false'>[1002620.vtc]</attr>
+</feature>

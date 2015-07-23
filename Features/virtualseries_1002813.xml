@@ -1,0 +1,56 @@
+<feature id='1002813' type='virtualseries' scope='1000851 1000853 1000922, 1000851 1000853 1000923, 1000851 1000853 1000924, 1002622 1000853 1000922, 1002622 1000853 1000923, 1002622 1000853 1000924' cardinality='mandatory' >
+	<attr name='code'>avalonhybrid</attr>
+	<attr name='title'></attr>
+	<attr name='attachment'></attr>
+	<attr name='description'></attr>
+	<attr name='background'></attr>
+	<attr name='comparemodel'></attr>
+	<attr name='defaultmodel'></attr>
+	<attr name='vtc' livesite='false'>[1002813.vtc]</attr>
+	<attr name='source' livesite='false'>[1002813.source]</attr>
+	<attr name='derived'></attr>
+	<if id='1002622' >
+		<attr name='title'>[1002813.1002622.title]</attr>
+		<attr name='description'>[1002813.1002622.description]</attr>
+		<attr name='defaultmodel'>[1002813.1002622.defaultmodel]</attr>
+		<attr name='vtc' livesite='false'>[1002813.1002622.vtc]</attr>
+		<attr name='derived' livesite='false'>[1002813.1002622.derived]</attr>
+	</if>
+
+	<if id='1000851 1000853 1000922' >
+		<attr name='title' livesite='false'>[1002813.1000851.1000853.1000922.title]</attr>
+	</if>
+
+	<if id='1000851 1000853 1000923' >
+		<attr name='title' livesite='false'>[1002813.1000851.1000853.1000923.title]</attr>
+	</if>
+
+	<if id='1000851 1000853 1000924' >
+		<attr name='title' livesite='false'>[1002813.1000851.1000853.1000924.title]</attr>
+	</if>
+
+	<if id='1002622 1000853 1000922' >
+		<attr name='title' livesite='false'>[1002813.1002622.1000853.1000922.title]</attr>
+		<attr name='description'>[1002813.1002622.1000853.1000922.description]</attr>
+		<attr name='defaultmodel'>[1002813.1002622.1000853.1000922.defaultmodel]</attr>
+		<attr name='vtc' livesite='false'>[1002813.1002622.1000853.1000922.vtc]</attr>
+		<attr name='derived' livesite='false'>[1002813.1002622.1000853.1000922.derived]</attr>
+	</if>
+
+	<if id='1002622 1000853 1000923' >
+		<attr name='title' livesite='false'>[1002813.1002622.1000853.1000923.title]</attr>
+		<attr name='description'>[1002813.1002622.1000853.1000923.description]</attr>
+		<attr name='defaultmodel'>[1002813.1002622.1000853.1000923.defaultmodel]</attr>
+		<attr name='vtc' livesite='false'>[1002813.1002622.1000853.1000923.vtc]</attr>
+		<attr name='derived' livesite='false'>[1002813.1002622.1000853.1000923.derived]</attr>
+	</if>
+
+	<if id='1002622 1000853 1000924' >
+		<attr name='title' livesite='false'>[1002813.1002622.1000853.1000924.title]</attr>
+		<attr name='description'>[1002813.1002622.1000853.1000924.description]</attr>
+		<attr name='defaultmodel'>[1002813.1002622.1000853.1000924.defaultmodel]</attr>
+		<attr name='vtc' livesite='false'>[1002813.1002622.1000853.1000924.vtc]</attr>
+		<attr name='derived' livesite='false'>[1002813.1002622.1000853.1000924.derived]</attr>
+	</if>
+
+</feature>

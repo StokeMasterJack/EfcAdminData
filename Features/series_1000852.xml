@@ -1,0 +1,378 @@
+<feature id='1000852' type='series' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='attachment'></attr>
+	<attr name='background'></attr>
+	<attr name='code'>4runner</attr>
+	<attr name='comparemodel'></attr>
+	<attr name='defaultmodel'></attr>
+	<attr name='derived'>[1000852.derived]</attr>
+	<attr name='description'>[1000852.description]</attr>
+	<attr name='source'>[1000852.source]</attr>
+	<attr name='title' livesite='false'>[1000852.title]</attr>
+	<attr name='vtc'>[1000852.vtc]</attr>
+	<if id='1000851' disclaimers='1002417 1002411 1001717 1002415 1002414 1001750 1002412 1002696 1002221 1002226 1002394 1002225 1002191 1002325 1001768 1002287 1001767 1001864 1002368 1001887 1001748 1002628 1001741 1002066 1001867 1002629 1001869 1002044 1001602 1001643 1001681 1001646 1002286 1001952' >
+		<attr name='defaultmodel'>[1000852.1000851.defaultmodel]</attr>
+		<attr name='derived'>[1000852.1000851.derived]</attr>
+		<attr name='description' livesite='false'>[1000852.1000851.description]</attr>
+		<attr name='source'>[1000852.1000851.source]</attr>
+		<attr name='title' livesite='false'>[1000852.1000851.title]</attr>
+		<attr name='vtc'>[1000852.1000851.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>EFC Background _0014_4Runner.jpg</attr>
+			<attr name='sha'>07f112ac42449cbdae72c15ad5a1674f78152249</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>StandardFeatures4Runner.xml</attr>
+			<attr name='sha'>37710fb3a5895472c3c427ccc116be2913c9c17b</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>4RunnerCompareModel20140604v4.json</attr>
+			<attr name='sha'>9d189e2aa6749b3df57933ca2696f258d68f1f60</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622' disclaimers='1002417 1002416 1002411 1001717 1002415 1002414 1001750 1002413 1002412 1002696 1002221 1002058 1002226 1002225 1002394 1002191 1002633 1002325 1002322 1001768 1002287 1001767 1001864 1001848 1002368 1001887 1001748 1002628 1001741 1002066 1001867 1003251 1002629 1001869 1002044 1001602 1001681 1001643 1002314 1001646 1002286 1001952' >
+		<attr name='defaultmodel'>[1000852.1002622.defaultmodel]</attr>
+		<attr name='description'>[1000852.1002622.description]</attr>
+		<attr name='source'>[1000852.1002622.source]</attr>
+		<attr name='title' livesite='false'>[1000852.1002622.title]</attr>
+		<attr name='vtc' livesite='false'>[1000852.1002622.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>EFC_Background_0014_4Runner.jpg</attr>
+			<attr name='sha'>07f112ac42449cbdae72c15ad5a1674f78152249</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>Standard_Features_4Runner_2015.xml</attr>
+			<attr name='sha'>55fb76bbdc90f089ec7bf27ad5553723969cf344</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>MY15_4RunnerCompare_TMS_CPD_20140819v1.json</attr>
+			<attr name='sha'>e4ede499d4e59791d78fa2fa68cc95db0c0cb4d2</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 16</attr>
+		<attr name='time'>2015 January 16</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 21</attr>
+		<attr name='time'>2015 January 21</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 21</attr>
+		<attr name='time'>2015 January 21</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 19</attr>
+		<attr name='time'>2015 January 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>Shilpa_Chauhun@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 February 11</attr>
+		<attr name='time'>2015 February 11</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 19</attr>
+		<attr name='time'>2015 January 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 19</attr>
+		<attr name='time'>2015 January 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 16</attr>
+		<attr name='time'>2015 January 16</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 21</attr>
+		<attr name='time'>2015 January 21</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 21</attr>
+		<attr name='time'>2015 January 21</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 21</attr>
+		<attr name='time'>2015 January 21</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 16</attr>
+		<attr name='time'>2015 January 16</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 19</attr>
+		<attr name='time'>2015 January 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 21</attr>
+		<attr name='time'>2015 January 21</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 16</attr>
+		<attr name='time'>2015 January 16</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 21</attr>
+		<attr name='time'>2015 January 21</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 19</attr>
+		<attr name='time'>2015 January 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 16</attr>
+		<attr name='time'>2015 January 16</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 19</attr>
+		<attr name='time'>2015 January 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 16</attr>
+		<attr name='time'>2015 January 16</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 19</attr>
+		<attr name='time'>2015 January 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 19</attr>
+		<attr name='time'>2015 January 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 16</attr>
+		<attr name='time'>2015 January 16</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 19</attr>
+		<attr name='time'>2015 January 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 21</attr>
+		<attr name='time'>2015 January 21</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 21</attr>
+		<attr name='time'>2015 January 21</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 21</attr>
+		<attr name='time'>2015 January 21</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 21</attr>
+		<attr name='time'>2015 January 21</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 16</attr>
+		<attr name='time'>2015 January 16</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 19</attr>
+		<attr name='time'>2015 January 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 19</attr>
+		<attr name='time'>2015 January 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 16</attr>
+		<attr name='time'>2015 January 16</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 16</attr>
+		<attr name='time'>2015 January 16</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2015 January 16</attr>
+		<attr name='time'>2015 January 16</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>jessica_shen@toyota.com</attr>
+		<attr name='note'>add test note</attr>
+		<attr name='systemdate'>2015 February 16</attr>
+		<attr name='time'>1:36:18PST</attr>
+	</complextype>
+</group>
+
+</feature>

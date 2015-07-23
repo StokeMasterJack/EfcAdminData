@@ -1,0 +1,8 @@
+<feature id='1001844' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1001844.description]</attr>
+	<attr name='derived' livesite='false'>[1001844.derived]</attr>
+	<attr name='source' livesite='false'>[1001844.source]</attr>
+	<attr name='vtc' livesite='false'>[1001844.vtc]</attr>
+	<attr name='title'></attr>
+	<attr name='code'>fj_photo_cargo</attr>
+</feature>

@@ -1,0 +1,78 @@
+<feature id='1000863' type='series' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='attachment'></attr>
+	<attr name='background'></attr>
+	<attr name='code'>rav4</attr>
+	<attr name='comparemodel'></attr>
+	<attr name='defaultmodel'></attr>
+	<attr name='derived'>[1000863.derived]</attr>
+	<attr name='description'>[1000863.description]</attr>
+	<attr name='source'>[1000863.source]</attr>
+	<attr name='title'>[1000863.title]</attr>
+	<attr name='vtc'>[1000863.vtc]</attr>
+	<if id='1000851' disclaimers='1002417 1002411 1001717 1002415 1001672 1002414 1002412 1002696 1002221 1001985 1002396 1002226 1002225 1002394 1002325 1002290 1001768 1001767 1002287 1002186 1002368 1002628 1001867 1002629 1002044 1001602 1001643 1001681 1001646 1001624 1002810 1001952' >
+		<attr name='defaultmodel'>[1000863.1000851.defaultmodel]</attr>
+		<attr name='derived'>[1000863.1000851.derived]</attr>
+		<attr name='description'>[1000863.1000851.description]</attr>
+		<attr name='source'>[1000863.1000851.source]</attr>
+		<attr name='title' livesite='false'>[1000863.1000851.title]</attr>
+		<attr name='vtc'>[1000863.1000851.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>EFC Background _0009_RAV4.jpg</attr>
+			<attr name='sha'>a2ff877a57651433279f9b477f5503bb4a30405b</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>StandardFeaturesRAV4.xml</attr>
+			<attr name='sha'>71ea7b2f0e438b4ca6ab47c98003ac026a4e41cd</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>Rav4CompareModelTMS052314v1.json</attr>
+			<attr name='sha'>61e95fef53060489e2968d5f26b6a222ec0f9173</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622' disclaimers='1002417 1002416 1002411 1001717 1002415 1002414 1001672 1002413 1002412 1002221 1001985 1002058 1002396 1002226 1002225 1002394 1002633 1002325 1002632 1002322 1001768 1002287 1001767 1002186 1002368 1002628 1001867 1003251 1002629 1002044 1001602 1001643 1001681 1002314 1001646 1001624 1001952' >
+		<attr name='defaultmodel'>[1000863.1002622.defaultmodel]</attr>
+		<attr name='derived'>[1000863.1002622.derived]</attr>
+		<attr name='description'>[1000863.1002622.description]</attr>
+		<attr name='source'>[1000863.1002622.source]</attr>
+		<attr name='vtc' livesite='false'>[1000863.1002622.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>EFC_Background_0009_RAV4.jpg</attr>
+			<attr name='sha'>a2ff877a57651433279f9b477f5503bb4a30405b</attr>
+		</complextype>
+		<complextype name='IMAGE' type='undefined'>
+			<attr name='attrref'>mediumbackground</attr>
+			<attr name='name'>EFC-background_0009_RAV4_1024.jpg</attr>
+			<attr name='sha'>7251407cd6ac3fbe07ea77785b942fc52fec1ecd</attr>
+		</complextype>
+		<complextype name='IMAGE' type='undefined'>
+			<attr name='attrref'>smallbackground</attr>
+			<attr name='name'>EFC-background_0009_RAV4_480.jpg</attr>
+			<attr name='sha'>9568a96fbb725ebf2e1bbfd2b1c1b36eb13bb011</attr>
+		</complextype>
+		<complextype name='IMAGE' type='undefined'>
+			<attr name='attrref'>largebackground</attr>
+			<attr name='name'>EFC-background_0009_RAV4_1500.jpg</attr>
+			<attr name='sha'>d0c5ccd699d33f2363b12e035904e9666be65868</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>StandardFeaturesRAV42015v2.xml</attr>
+			<attr name='sha'>c7893e441ee9e2b8d546739957c370e602ecda90</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>2015Rav4CompareModel_TMS_CPD_20141017v1.json</attr>
+			<attr name='sha'>9a219a24661fa949ccfc897e0f6e176859190eef</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

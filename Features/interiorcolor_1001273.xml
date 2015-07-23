@@ -1,0 +1,37 @@
+<feature id='1001273' type='interiorcolor' scope='1000851 1000854 1002849' cardinality='mandatory' >
+	<attr name='derived'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='title'></attr>
+	<attr name='code'>FG15</attr>
+	<attr name='vtc' livesite='false'>[1001273.vtc]</attr>
+	<attr name='msrp'></attr>
+	<attr name='description'></attr>
+	<attr name='source' livesite='false'>[1001273.source]</attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='offswatchimage'></attr>
+	<if id='1000851 1000854 1002849' >
+		<attr name='materialtypeid'>[1001273.1000851.1000854.1002849.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001273.1000851.1000854.1002849.title]</attr>
+		<attr name='description'>[1001273.1000851.1000854.1002849.description]</attr>
+		<attr name='derived' livesite='false'>[1001273.1000851.1000854.1002849.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>camry_my145_config_int_v41es_HD_Hyb_SE_high_contrast.002.jpg</attr>
+			<attr name='sha'>8e966d32985ab00f70bcc4032e9a111545a6038e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>FG15_on.png</attr>
+			<attr name='sha'>a2d1e8c70a5b0f5ef876433dbde38891d49a38ad</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>FG15_off.png</attr>
+			<attr name='sha'>93e7c4bab5f525dd3012d6e870fdc96dcd39ff57</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

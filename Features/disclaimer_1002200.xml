@@ -1,0 +1,8 @@
+<feature id='1002200' type='disclaimer' cardinality='optional' >
+	<attr name='derived' livesite='false'>[1002200.derived]</attr>
+	<attr name='vtc' livesite='false'>[1002200.vtc]</attr>
+	<attr name='source' livesite='false'>[1002200.source]</attr>
+	<attr name='code'>sema_10</attr>
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1002200.description]</attr>
+</feature>

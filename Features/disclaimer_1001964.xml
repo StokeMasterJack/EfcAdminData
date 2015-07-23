@@ -1,0 +1,8 @@
+<feature id='1001964' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1001964.description]</attr>
+	<attr name='title'></attr>
+	<attr name='code'>jd_power_sequoia_4yr</attr>
+	<attr name='derived' livesite='false'>[1001964.derived]</attr>
+	<attr name='source' livesite='false'>[1001964.source]</attr>
+	<attr name='vtc' livesite='false'>[1001964.vtc]</attr>
+</feature>

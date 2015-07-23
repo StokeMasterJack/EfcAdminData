@@ -1,0 +1,8 @@
+<feature id='1001991' type='disclaimer' cardinality='optional' >
+	<attr name='derived' livesite='false'>[1001991.derived]</attr>
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1001991.source]</attr>
+	<attr name='description' livesite='false'>[1001991.description]</attr>
+	<attr name='vtc' livesite='false'>[1001991.vtc]</attr>
+	<attr name='code'>lease_2</attr>
+</feature>

@@ -1,0 +1,1 @@
+<feature id='colorfamilyRanking' type='group' cardinality='optional' childtypes='colorfamily' children='1002583 1002584 1002585 1002586 1002587 1002588 1002589 1002590 1002591 1002592' vta='false' > 	<if id='1002622' children='1002583 1002584 1002585 1002586 1002587 1002588 1002589 1002590 1002591 1002592 1002594' > 	</if> </feature>

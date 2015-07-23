@@ -1,0 +1,8 @@
+<feature id='1002078' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='derived' livesite='false'>[1002078.derived]</attr>
+	<attr name='description' livesite='false'>[1002078.description]</attr>
+	<attr name='source' livesite='false'>[1002078.source]</attr>
+	<attr name='vtc' livesite='false'>[1002078.vtc]</attr>
+	<attr name='code'>polk_brand_80_20</attr>
+</feature>

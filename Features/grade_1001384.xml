@@ -1,0 +1,90 @@
+<feature id='1001384' type='grade' scope='1002622 1000853 1000926, 1000851 1000853 1000926' cardinality='mandatory' >
+	<attr name='availablecopy'></attr>
+	<attr name='code'>XLEpremium</attr>
+	<attr name='copyblock'></attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='hotspot'></attr>
+	<attr name='iconname'></attr>
+	<attr name='images'></attr>
+	<attr name='keyword'></attr>
+	<attr name='mpg'></attr>
+	<attr name='source' livesite='false'>[1001384.source]</attr>
+	<attr name='title' livesite='false'>[1001384.title]</attr>
+	<attr name='vtc' livesite='false'>[1001384.vtc]</attr>
+	<if id='1000851 1000853 1000926' >
+		<attr name='availablecopy' livesite='false'>[1001384.1000851.1000853.1000926.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001384.1000851.1000853.1000926.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001384.1000851.1000853.1000926.derived]</attr>
+		<attr name='description'>[1001384.1000851.1000853.1000926.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001384.1000851.1000853.1000926.hotspot]</attr>
+		<attr name='iconname'>[1001384.1000851.1000853.1000926.iconname]</attr>
+		<attr name='keyword'>[1001384.1000851.1000853.1000926.keyword]</attr>
+		<attr name='mpg'>[1001384.1000851.1000853.1000926.mpg]</attr>
+		<attr name='title' livesite='false'>[1001384.1000851.1000853.1000926.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Avalon_XLE_Prem.png</attr>
+			<attr name='sha'>717f97cce5568ed0f217df2de4726f2a5f7c23bb</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1000926' >
+		<attr name='availablecopy' livesite='false'>[1001384.1002622.1000853.1000926.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001384.1002622.1000853.1000926.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001384.1002622.1000853.1000926.derived]</attr>
+		<attr name='description'>[1001384.1002622.1000853.1000926.description]</attr>
+		<attr name='hotspot'>[1001384.1002622.1000853.1000926.hotspot]</attr>
+		<attr name='iconname'>[1001384.1002622.1000853.1000926.iconname]</attr>
+		<attr name='keyword'>[1001384.1002622.1000853.1000926.keyword]</attr>
+		<attr name='mpg'>[1001384.1002622.1000853.1000926.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>avalon_ext_XLE_PRM_070_v026_efc_jelly_profile_002.png</attr>
+			<attr name='sha'>4fd759bd6e0445bd7d1431c715364cc7a9179c69</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1004145' >
+		<attr name='availablecopy' livesite='false'></attr>
+		<attr name='copyblock' livesite='false'></attr>
+		<attr name='derived' livesite='false'></attr>
+		<attr name='description'></attr>
+		<attr name='hotspot'></attr>
+		<attr name='iconname'></attr>
+		<attr name='keyword'></attr>
+		<attr name='mpg'></attr>
+		<attr name='title' livesite='false'></attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Sienna_MY15_ext_XLE_PRM_FWD_01H1_v005_efc_jelly_002.png</attr>
+			<attr name='sha'>0479ded98b1fe18677c82e6d6499d194c15e7735</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1004147' >
+		<attr name='availablecopy' livesite='false'></attr>
+		<attr name='copyblock' livesite='false'></attr>
+		<attr name='derived' livesite='false'></attr>
+		<attr name='description'></attr>
+		<attr name='hotspot'></attr>
+		<attr name='iconname'></attr>
+		<attr name='keyword'></attr>
+		<attr name='mpg'></attr>
+		<attr name='title' livesite='false'></attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Sienna_MY15_ext_XLE_PRM_FWD_01H1_v005_efc_jelly_002.png</attr>
+			<attr name='sha'>0479ded98b1fe18677c82e6d6499d194c15e7735</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

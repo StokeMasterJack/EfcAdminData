@@ -1,0 +1,11 @@
+<feature id='1002539' type='abstractfeatures' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='code'>Seatheater</attr>
+	<attr name='derived' livesite='false'>[1002539.derived]</attr>
+	<attr name='source' livesite='false'>[1002539.source]</attr>
+	<attr name='title' livesite='false'>[1002539.title]</attr>
+	<attr name='vtc' livesite='false'>[1002539.vtc]</attr>
+	<if id='1000851 1000855' >
+		<rule src='ADMIN' type='TEXT'>{1002539 requires((1000851*1000855*1000895),(1000851*1000855*1000899),(1000851*1000855*1000902))}</rule>
+	</if>
+
+</feature>

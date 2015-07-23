@@ -1,0 +1,33 @@
+<feature id='1002824' type='drive' scope='1002622 1000852 1003054, 1002622 1000852 1001032, 1000851 1000852 1001032' cardinality='mandatory' >
+	<attr name='bulletlist'>[1002824.bulletlist]</attr>
+	<attr name='code'>4x4FT</attr>
+	<attr name='derived' livesite='false'>[1002824.derived]</attr>
+	<attr name='description'>[1002824.description]</attr>
+	<attr name='hotspot'></attr>
+	<attr name='iconname'>[1002824.iconname]</attr>
+	<attr name='images'></attr>
+	<attr name='source'>[1002824.source]</attr>
+	<attr name='title'>[1002824.title]</attr>
+	<attr name='vtc' livesite='false'>[1002824.vtc]</attr>
+	<if id='1000851 1000852 1001032' >
+		<attr name='bulletlist' livesite='false'>[1002824.1000851.1000852.1001032.bulletlist]</attr>
+		<attr name='description'>[1002824.1000851.1000852.1001032.description]</attr>
+		<attr name='hotspot' livesite='false'>[1002824.1000851.1000852.1001032.hotspot]</attr>
+		<attr name='iconname' livesite='false'>[1002824.1000851.1000852.1001032.iconname]</attr>
+		<attr name='source' livesite='false'>[1002824.1000851.1000852.1001032.source]</attr>
+		<attr name='title' livesite='false'>[1002824.1000851.1000852.1001032.title]</attr>
+		<attr name='vtc' livesite='false'>[1002824.1000851.1000852.1001032.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000852 1001032' >
+		<attr name='bulletlist' livesite='false'>[1002824.1002622.1000852.1001032.bulletlist]</attr>
+		<attr name='hotspot' livesite='false'>[1002824.1002622.1000852.1001032.hotspot]</attr>
+		<attr name='iconname' livesite='false'>[1002824.1002622.1000852.1001032.iconname]</attr>
+		<attr name='title' livesite='false'>[1002824.1002622.1000852.1001032.title]</attr>
+	</if>
+
+	<if id='1002622 1000852 1003054' >
+		<attr name='title' livesite='false'>[1002824.1002622.1000852.1003054.title]</attr>
+	</if>
+
+</feature>

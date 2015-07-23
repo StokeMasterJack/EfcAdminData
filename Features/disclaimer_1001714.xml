@@ -1,0 +1,8 @@
+<feature id='1001714' type='disclaimer' cardinality='optional' >
+	<attr name='code'>camry_satellite</attr>
+	<attr name='derived' livesite='false'>[1001714.derived]</attr>
+	<attr name='source' livesite='false'>[1001714.source]</attr>
+	<attr name='description' livesite='false'>[1001714.description]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001714.vtc]</attr>
+</feature>

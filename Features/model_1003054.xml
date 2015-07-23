@@ -1,0 +1,87 @@
+<feature id='1003054' type='model' scope='1002622 1000852' cardinality='mandatory' >
+	<attr name='accessorythreshold'></attr>
+	<attr name='anchorimage'></attr>
+	<attr name='bodystyle'></attr>
+	<attr name='citympg'></attr>
+	<attr name='code'>8674</attr>
+	<attr name='colorthreshold'></attr>
+	<attr name='combinedmpg'></attr>
+	<attr name='comparepackage'></attr>
+	<attr name='cylinders'></attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='destinationfee'></attr>
+	<attr name='effectivedate'></attr>
+	<attr name='enginedescription'></attr>
+	<attr name='enginehotspot'></attr>
+	<attr name='fiothreshold'></attr>
+	<attr name='gradehotspot'></attr>
+	<attr name='highwaympg'></attr>
+	<attr name='horsepower'></attr>
+	<attr name='iconimage'></attr>
+	<attr name='imageid'></attr>
+	<attr name='inventoryrules'></attr>
+	<attr name='linkurl'></attr>
+	<attr name='modeldisplayname'></attr>
+	<attr name='modelthreshold'></attr>
+	<attr name='modeltrim'></attr>
+	<attr name='mpge'></attr>
+	<attr name='msrp'></attr>
+	<attr name='piothreshold'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='seating'></attr>
+	<attr name='source'>[1003054.source]</attr>
+	<attr name='subgradehotspot'></attr>
+	<attr name='title'></attr>
+	<attr name='transmission'></attr>
+	<attr name='transmissionflag'></attr>
+	<attr name='transmissionhotspot'></attr>
+	<attr name='trimlevel'></attr>
+	<attr name='vtc'>[1003054.vtc]</attr>
+	<if id='1002622 1000852' >
+		<attr name='accessorythreshold'>[1003054.1002622.1000852.accessorythreshold]</attr>
+		<attr name='bodystyle'>[1003054.1002622.1000852.bodystyle]</attr>
+		<attr name='citympg' livesite='false'>[1003054.1002622.1000852.citympg]</attr>
+		<attr name='colorthreshold'>[1003054.1002622.1000852.colorthreshold]</attr>
+		<attr name='combinedmpg' livesite='false'>[1003054.1002622.1000852.combinedmpg]</attr>
+		<attr name='cylinders'>[1003054.1002622.1000852.cylinders]</attr>
+		<attr name='derived'>[1003054.1002622.1000852.derived]</attr>
+		<attr name='description' livesite='false'>[1003054.1002622.1000852.description]</attr>
+		<attr name='destinationfee'>[1003054.1002622.1000852.destinationfee]</attr>
+		<attr name='effectivedate'>[1003054.1002622.1000852.effectivedate]</attr>
+		<attr name='enginedescription'>[1003054.1002622.1000852.enginedescription]</attr>
+		<attr name='enginehotspot'>[1003054.1002622.1000852.enginehotspot]</attr>
+		<attr name='fiothreshold'>[1003054.1002622.1000852.fiothreshold]</attr>
+		<attr name='gradehotspot'>[1003054.1002622.1000852.gradehotspot]</attr>
+		<attr name='highwaympg' livesite='false'>[1003054.1002622.1000852.highwaympg]</attr>
+		<attr name='horsepower'>[1003054.1002622.1000852.horsepower]</attr>
+		<attr name='inventoryrules'>[1003054.1002622.1000852.inventoryrules]</attr>
+		<attr name='linkurl'>[1003054.1002622.1000852.linkurl]</attr>
+		<attr name='modeldisplayname'>[1003054.1002622.1000852.modeldisplayname]</attr>
+		<attr name='modelthreshold'>[1003054.1002622.1000852.modelthreshold]</attr>
+		<attr name='modeltrim'>[1003054.1002622.1000852.modeltrim]</attr>
+		<attr name='mpge'>[1003054.1002622.1000852.mpge]</attr>
+		<attr name='msrp' livesite='false'>[1003054.1002622.1000852.msrp]</attr>
+		<attr name='piothreshold'>[1003054.1002622.1000852.piothreshold]</attr>
+		<attr name='pnglayeringinclusionkey'>[1003054.1002622.1000852.pnglayeringinclusionkey]</attr>
+		<attr name='seating'>[1003054.1002622.1000852.seating]</attr>
+		<attr name='source'>[1003054.1002622.1000852.source]</attr>
+		<attr name='subgradehotspot'>[1003054.1002622.1000852.subgradehotspot]</attr>
+		<attr name='title' livesite='false'>[1003054.1002622.1000852.title]</attr>
+		<attr name='transmission'>[1003054.1002622.1000852.transmission]</attr>
+		<attr name='transmissionflag'>[1003054.1002622.1000852.transmissionflag]</attr>
+		<attr name='transmissionhotspot'>[1003054.1002622.1000852.transmissionhotspot]</attr>
+		<attr name='trimlevel'>[1003054.1002622.1000852.trimlevel]</attr>
+		<attr name='vtc' livesite='false'>[1003054.1002622.1000852.vtc]</attr>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>huan_he@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2014 November 12</attr>
+		<attr name='time'>2014 November 12</attr>
+	</complextype>
+</group>
+
+</feature>

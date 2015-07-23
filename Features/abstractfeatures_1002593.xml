@@ -1,0 +1,11 @@
+<feature id='1002593' type='abstractfeatures' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='code'>Consoleshift</attr>
+	<attr name='derived' livesite='false'>[1002593.derived]</attr>
+	<attr name='source' livesite='false'>[1002593.source]</attr>
+	<attr name='title' livesite='false'>[1002593.title]</attr>
+	<attr name='vtc' livesite='false'>[1002593.vtc]</attr>
+	<if id='1000851 1000868' >
+		<rule src='ADMIN' type='TEXT'>{1002593 requires((1000851*1000868*1000993*1001136),(1000851*1000868*1000994*1001136),(1000851*1000868*1000997*1001136),(1000851*1000868*1001006*1001136),(1000851*1000868*1001009*1001136),(1000851*1000868*1001011*1001136),(1000851*1000868*1001012*1001136),(1000851*1000868*1001015*1001136),(1000851*1000868*1000998),(1000851*1000868*1001016),(1000851*1000868*1001017))}</rule>
+	</if>
+
+</feature>

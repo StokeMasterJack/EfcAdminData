@@ -1,0 +1,8 @@
+<feature id='1001606' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1001606.source]</attr>
+	<attr name='code'>alg_10</attr>
+	<attr name='derived' livesite='false'>[1001606.derived]</attr>
+	<attr name='description' livesite='false'>[1001606.description]</attr>
+	<attr name='vtc' livesite='false'>[1001606.vtc]</attr>
+</feature>

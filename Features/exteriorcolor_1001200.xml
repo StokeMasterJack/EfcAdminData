@@ -1,0 +1,276 @@
+<feature id='1001200' type='exteriorcolor' scope='1000851 1000867 1000967, 1000851 1000867 1000976, 1000851 1000867 1000968, 1000851 1000867 1000977, 1000851 1000867 1000978, 1000851 1000867 1000965, 1000851 1000867 1000979, 1000851 1000867 1000966, 1000851 1000867 1000969, 1000851 1000867 1000970, 1000851 1000867 1000963, 1000851 1000867 1000964, 1000851 1000867 1000973, 1000851 1000867 1000974, 1000851 1000867 1000975' cardinality='mandatory' >
+	<attr name='carjellyimage'></attr>
+	<attr name='code'>06V4</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='hexvalue' livesite='false'>[1001200.hexvalue]</attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='optionsshown'></attr>
+	<attr name='source' livesite='false'>[1001200.source]</attr>
+	<attr name='title' livesite='false'>[1001200.title]</attr>
+	<attr name='vtc' livesite='false'>[1001200.vtc]</attr>
+	<if id='1000851 1000867 1000963' >
+		<attr name='derived' livesite='false'>[1001200.1000851.1000867.1000963.derived]</attr>
+		<attr name='description'>[1001200.1000851.1000867.1000963.description]</attr>
+		<attr name='materialtypeid'>[1001200.1000851.1000867.1000963.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001200.1000851.1000867.1000963.source]</attr>
+		<attr name='title' livesite='false'>[1001200.1000851.1000867.1000963.title]</attr>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001267)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>vr_1_02.png</attr>
+			<attr name='sha'>413f648f69f35a06fd6621bea81000c99291bf3f</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000964' >
+		<attr name='derived' livesite='false'>[1001200.1000851.1000867.1000964.derived]</attr>
+		<attr name='description'>[1001200.1000851.1000867.1000964.description]</attr>
+		<attr name='materialtypeid'>[1001200.1000851.1000867.1000964.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001200.1000851.1000867.1000964.source]</attr>
+		<attr name='title' livesite='false'>[1001200.1000851.1000867.1000964.title]</attr>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001267)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>vr_1_02.png</attr>
+			<attr name='sha'>413f648f69f35a06fd6621bea81000c99291bf3f</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000965' >
+		<attr name='derived' livesite='false'>[1001200.1000851.1000867.1000965.derived]</attr>
+		<attr name='description'>[1001200.1000851.1000867.1000965.description]</attr>
+		<attr name='materialtypeid'>[1001200.1000851.1000867.1000965.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001200.1000851.1000867.1000965.source]</attr>
+		<attr name='title' livesite='false'>[1001200.1000851.1000867.1000965.title]</attr>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001275)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001276)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001264)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>vr_1_02.png</attr>
+			<attr name='sha'>bbdf1e7d9f1eaf117f6ab212572a952737d7a924</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000966' >
+		<attr name='derived' livesite='false'>[1001200.1000851.1000867.1000966.derived]</attr>
+		<attr name='description'>[1001200.1000851.1000867.1000966.description]</attr>
+		<attr name='materialtypeid'>[1001200.1000851.1000867.1000966.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001200.1000851.1000867.1000966.source]</attr>
+		<attr name='title' livesite='false'>[1001200.1000851.1000867.1000966.title]</attr>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001275)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001276)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001264)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>vr_1_02.png</attr>
+			<attr name='sha'>bbdf1e7d9f1eaf117f6ab212572a952737d7a924</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000967' >
+		<attr name='derived' livesite='false'>[1001200.1000851.1000867.1000967.derived]</attr>
+		<attr name='description'>[1001200.1000851.1000867.1000967.description]</attr>
+		<attr name='materialtypeid'>[1001200.1000851.1000867.1000967.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001200.1000851.1000867.1000967.source]</attr>
+		<attr name='title' livesite='false'>[1001200.1000851.1000867.1000967.title]</attr>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001282)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001281)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>vr_1_02.png</attr>
+			<attr name='sha'>0398363b3c981a24a4306499f1b40f72d4972263</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000968' >
+		<attr name='derived' livesite='false'>[1001200.1000851.1000867.1000968.derived]</attr>
+		<attr name='description'>[1001200.1000851.1000867.1000968.description]</attr>
+		<attr name='materialtypeid'>[1001200.1000851.1000867.1000968.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001200.1000851.1000867.1000968.source]</attr>
+		<attr name='title' livesite='false'>[1001200.1000851.1000867.1000968.title]</attr>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001281)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001282)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001287)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001286)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>vr_1_02.png</attr>
+			<attr name='sha'>bb192318093bbc76f715cb701b8a5c247301e21e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000969' >
+		<attr name='derived' livesite='false'>[1001200.1000851.1000867.1000969.derived]</attr>
+		<attr name='description'>[1001200.1000851.1000867.1000969.description]</attr>
+		<attr name='materialtypeid'>[1001200.1000851.1000867.1000969.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001200.1000851.1000867.1000969.source]</attr>
+		<attr name='title' livesite='false'>[1001200.1000851.1000867.1000969.title]</attr>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001282)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001281)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001287)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001286)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>vr_1_02.png</attr>
+			<attr name='sha'>bb192318093bbc76f715cb701b8a5c247301e21e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000970' >
+		<attr name='derived' livesite='false'>[1001200.1000851.1000867.1000970.derived]</attr>
+		<attr name='description'>[1001200.1000851.1000867.1000970.description]</attr>
+		<attr name='materialtypeid'>[1001200.1000851.1000867.1000970.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001200.1000851.1000867.1000970.source]</attr>
+		<attr name='title' livesite='false'>[1001200.1000851.1000867.1000970.title]</attr>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001282)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001281)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001287)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001286)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>vr_1_02.png</attr>
+			<attr name='sha'>1df990d7a8948aba0b26d9b6b51ca303a5536012</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000973' >
+		<attr name='derived' livesite='false'>[1001200.1000851.1000867.1000973.derived]</attr>
+		<attr name='description'>[1001200.1000851.1000867.1000973.description]</attr>
+		<attr name='materialtypeid'>[1001200.1000851.1000867.1000973.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001200.1000851.1000867.1000973.source]</attr>
+		<attr name='title' livesite='false'>[1001200.1000851.1000867.1000973.title]</attr>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001275)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001276)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001264)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>vr_1_02.png</attr>
+			<attr name='sha'>bbdf1e7d9f1eaf117f6ab212572a952737d7a924</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000974' >
+		<attr name='derived' livesite='false'>[1001200.1000851.1000867.1000974.derived]</attr>
+		<attr name='description'>[1001200.1000851.1000867.1000974.description]</attr>
+		<attr name='materialtypeid'>[1001200.1000851.1000867.1000974.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001200.1000851.1000867.1000974.source]</attr>
+		<attr name='title' livesite='false'>[1001200.1000851.1000867.1000974.title]</attr>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001275)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001276)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001264)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>vr_1_02.png</attr>
+			<attr name='sha'>bbdf1e7d9f1eaf117f6ab212572a952737d7a924</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000975' >
+		<attr name='derived' livesite='false'>[1001200.1000851.1000867.1000975.derived]</attr>
+		<attr name='description'>[1001200.1000851.1000867.1000975.description]</attr>
+		<attr name='materialtypeid'>[1001200.1000851.1000867.1000975.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001200.1000851.1000867.1000975.source]</attr>
+		<attr name='title' livesite='false'>[1001200.1000851.1000867.1000975.title]</attr>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001275)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001276)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001264)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>vr_1_02.png</attr>
+			<attr name='sha'>bbdf1e7d9f1eaf117f6ab212572a952737d7a924</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000976' >
+		<attr name='derived' livesite='false'>[1001200.1000851.1000867.1000976.derived]</attr>
+		<attr name='description'>[1001200.1000851.1000867.1000976.description]</attr>
+		<attr name='materialtypeid'>[1001200.1000851.1000867.1000976.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001200.1000851.1000867.1000976.source]</attr>
+		<attr name='title' livesite='false'>[1001200.1000851.1000867.1000976.title]</attr>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001275)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001276)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001264)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>vr_1_02.png</attr>
+			<attr name='sha'>bbdf1e7d9f1eaf117f6ab212572a952737d7a924</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000977' >
+		<attr name='source' livesite='false'>[1001200.1000851.1000867.1000977.source]</attr>
+		<attr name='title' livesite='false'>[1001200.1000851.1000867.1000977.title]</attr>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001281)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001282)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001287)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001286)}</rule>
+	</if>
+
+	<if id='1000851 1000867 1000978' >
+		<attr name='derived' livesite='false'>[1001200.1000851.1000867.1000978.derived]</attr>
+		<attr name='description'>[1001200.1000851.1000867.1000978.description]</attr>
+		<attr name='materialtypeid'>[1001200.1000851.1000867.1000978.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001200.1000851.1000867.1000978.source]</attr>
+		<attr name='title' livesite='false'>[1001200.1000851.1000867.1000978.title]</attr>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001281)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001282)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001287)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001286)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>vr_1_02.png</attr>
+			<attr name='sha'>bb192318093bbc76f715cb701b8a5c247301e21e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000979' >
+		<attr name='derived' livesite='false'>[1001200.1000851.1000867.1000979.derived]</attr>
+		<attr name='description'>[1001200.1000851.1000867.1000979.description]</attr>
+		<attr name='materialtypeid'>[1001200.1000851.1000867.1000979.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001200.1000851.1000867.1000979.source]</attr>
+		<attr name='title' livesite='false'>[1001200.1000851.1000867.1000979.title]</attr>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001281)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001282)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001287)}</rule>
+		<rule src='NVS' type='TEXT'>{1001200 conflicts(1001286)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>vr_1_02.png</attr>
+			<attr name='sha'>1df990d7a8948aba0b26d9b6b51ca303a5536012</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

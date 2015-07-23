@@ -1,0 +1,8 @@
+<feature id='1001624' type='disclaimer' cardinality='optional' >
+	<attr name='code'>auto_highbeam</attr>
+	<attr name='derived' livesite='false'>[1001624.derived]</attr>
+	<attr name='description' livesite='false'>[1001624.description]</attr>
+	<attr name='source' livesite='false'>[1001624.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001624.vtc]</attr>
+</feature>

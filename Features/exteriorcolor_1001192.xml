@@ -1,0 +1,184 @@
+<feature id='1001192' type='exteriorcolor' scope='1000851 1000869 1000916, 1000851 1000869 1000917, 1000851 1000869 1000918, 1000851 1000869 1000919, 1000851 1000869 1000921, 1000851 1000869 1000920, 1000851 1000869 1000913, 1000851 1000869 1000912, 1000851 1000869 1000915, 1000851 1000869 1000914' cardinality='mandatory' >
+	<attr name='hexvalue' livesite='false'>[1001192.hexvalue]</attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='title' livesite='false'>[1001192.title]</attr>
+	<attr name='description'></attr>
+	<attr name='msrp'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='vtc' livesite='false'>[1001192.vtc]</attr>
+	<attr name='carjellyimage'></attr>
+	<attr name='code'>04U2</attr>
+	<attr name='source' livesite='false'>[1001192.source]</attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='derived'></attr>
+	<if id='1000851 1000869 1000912' >
+		<attr name='materialtypeid'>[1001192.1000851.1000869.1000912.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001192.1000851.1000869.1000912.title]</attr>
+		<attr name='source' livesite='false'>[1001192.1000851.1000869.1000912.source]</attr>
+		<attr name='description'>[1001192.1000851.1000869.1000912.description]</attr>
+		<attr name='derived' livesite='false'>[1001192.1000851.1000869.1000912.derived]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04U2' type='TEXT'>{1001192 conflicts(1001230)}</rule>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04U2' type='TEXT'>{1001192 conflicts(1001225)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Venza_ext_LE_4U2_v45th_hd_001.png</attr>
+			<attr name='sha'>6b6a0f2c7cc01120e3a88c473e14ee8357040038</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000869 1000913' >
+		<attr name='materialtypeid'>[1001192.1000851.1000869.1000913.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001192.1000851.1000869.1000913.title]</attr>
+		<attr name='source' livesite='false'>[1001192.1000851.1000869.1000913.source]</attr>
+		<attr name='description'>[1001192.1000851.1000869.1000913.description]</attr>
+		<attr name='derived' livesite='false'>[1001192.1000851.1000869.1000913.derived]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04U2' type='TEXT'>{1001192 conflicts(1001230)}</rule>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04U2' type='TEXT'>{1001192 conflicts(1001225)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Venza_ext_LE_4U2_v45th_hd_001.png</attr>
+			<attr name='sha'>6b6a0f2c7cc01120e3a88c473e14ee8357040038</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000869 1000914' >
+		<attr name='materialtypeid'>[1001192.1000851.1000869.1000914.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001192.1000851.1000869.1000914.title]</attr>
+		<attr name='source' livesite='false'>[1001192.1000851.1000869.1000914.source]</attr>
+		<attr name='description'>[1001192.1000851.1000869.1000914.description]</attr>
+		<attr name='derived' livesite='false'>[1001192.1000851.1000869.1000914.derived]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04U2' type='TEXT'>{1001192 conflicts(1001230)}</rule>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04U2' type='TEXT'>{1001192 conflicts(1001225)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Venza_ext_LE_4U2_v45th_hd_001.png</attr>
+			<attr name='sha'>6b6a0f2c7cc01120e3a88c473e14ee8357040038</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000869 1000915' >
+		<attr name='materialtypeid'>[1001192.1000851.1000869.1000915.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001192.1000851.1000869.1000915.title]</attr>
+		<attr name='source' livesite='false'>[1001192.1000851.1000869.1000915.source]</attr>
+		<attr name='description'>[1001192.1000851.1000869.1000915.description]</attr>
+		<attr name='derived' livesite='false'>[1001192.1000851.1000869.1000915.derived]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04U2' type='TEXT'>{1001192 conflicts(1001230)}</rule>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04U2' type='TEXT'>{1001192 conflicts(1001225)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Venza_ext_LE_4U2_v45th_hd_001.png</attr>
+			<attr name='sha'>6b6a0f2c7cc01120e3a88c473e14ee8357040038</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000869 1000916' >
+		<attr name='materialtypeid'>[1001192.1000851.1000869.1000916.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001192.1000851.1000869.1000916.title]</attr>
+		<attr name='source' livesite='false'>[1001192.1000851.1000869.1000916.source]</attr>
+		<attr name='description'>[1001192.1000851.1000869.1000916.description]</attr>
+		<attr name='derived' livesite='false'>[1001192.1000851.1000869.1000916.derived]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04U2' type='TEXT'>{1001192 conflicts(1001291)}</rule>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04U2' type='TEXT'>{1001192 conflicts(1001298)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Venza_ext_XLE_4U2_v45th_hd_001.png</attr>
+			<attr name='sha'>b424a49a924e5240d6118d06aca0ddab8deb5de6</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000869 1000917' >
+		<attr name='materialtypeid'>[1001192.1000851.1000869.1000917.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001192.1000851.1000869.1000917.title]</attr>
+		<attr name='source' livesite='false'>[1001192.1000851.1000869.1000917.source]</attr>
+		<attr name='description'>[1001192.1000851.1000869.1000917.description]</attr>
+		<attr name='derived' livesite='false'>[1001192.1000851.1000869.1000917.derived]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04U2' type='TEXT'>{1001192 conflicts(1001291)}</rule>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04U2' type='TEXT'>{1001192 conflicts(1001298)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Venza_ext_XLE_4U2_v45th_hd_001.png</attr>
+			<attr name='sha'>b424a49a924e5240d6118d06aca0ddab8deb5de6</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000869 1000918' >
+		<attr name='materialtypeid'>[1001192.1000851.1000869.1000918.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001192.1000851.1000869.1000918.title]</attr>
+		<attr name='source' livesite='false'>[1001192.1000851.1000869.1000918.source]</attr>
+		<attr name='description'>[1001192.1000851.1000869.1000918.description]</attr>
+		<attr name='derived' livesite='false'>[1001192.1000851.1000869.1000918.derived]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04U2' type='TEXT'>{1001192 conflicts(1001291)}</rule>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04U2' type='TEXT'>{1001192 conflicts(1001298)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Venza_ext_XLE_4U2_v45th_hd_001.png</attr>
+			<attr name='sha'>b424a49a924e5240d6118d06aca0ddab8deb5de6</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000869 1000919' >
+		<attr name='materialtypeid'>[1001192.1000851.1000869.1000919.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001192.1000851.1000869.1000919.title]</attr>
+		<attr name='source' livesite='false'>[1001192.1000851.1000869.1000919.source]</attr>
+		<attr name='description'>[1001192.1000851.1000869.1000919.description]</attr>
+		<attr name='derived' livesite='false'>[1001192.1000851.1000869.1000919.derived]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04U2' type='TEXT'>{1001192 conflicts(1001291)}</rule>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04U2' type='TEXT'>{1001192 conflicts(1001298)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Venza_ext_XLE_4U2_v45th_hd_001.png</attr>
+			<attr name='sha'>b424a49a924e5240d6118d06aca0ddab8deb5de6</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000869 1000920' >
+		<attr name='materialtypeid'>[1001192.1000851.1000869.1000920.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001192.1000851.1000869.1000920.title]</attr>
+		<attr name='source' livesite='false'>[1001192.1000851.1000869.1000920.source]</attr>
+		<attr name='description'>[1001192.1000851.1000869.1000920.description]</attr>
+		<attr name='derived' livesite='false'>[1001192.1000851.1000869.1000920.derived]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04U2' type='TEXT'>{1001192 conflicts(1001291)}</rule>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04U2' type='TEXT'>{1001192 conflicts(1001298)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Venza_ext_Limited_4U2_v05eh_hd_001.png</attr>
+			<attr name='sha'>fcfabf68fe90d550f518deb3982597f859d0206d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000869 1000921' >
+		<attr name='materialtypeid'>[1001192.1000851.1000869.1000921.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001192.1000851.1000869.1000921.title]</attr>
+		<attr name='source' livesite='false'>[1001192.1000851.1000869.1000921.source]</attr>
+		<attr name='description'>[1001192.1000851.1000869.1000921.description]</attr>
+		<attr name='derived' livesite='false'>[1001192.1000851.1000869.1000921.derived]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04U2' type='TEXT'>{1001192 conflicts(1001291)}</rule>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04U2' type='TEXT'>{1001192 conflicts(1001298)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Venza_ext_Limited_4U2_v05eh_hd_001.png</attr>
+			<attr name='sha'>fcfabf68fe90d550f518deb3982597f859d0206d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

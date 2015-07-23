@@ -1,0 +1,12 @@
+<feature id='1003199' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1003199.description]</attr>
+	<attr name='derived'></attr>
+	<attr name='vtc' livesite='false'>[1003199.vtc]</attr>
+	<attr name='source' livesite='false'>[1003199.source]</attr>
+	<attr name='code'>2012PriusPHV_4</attr>
+	<attr name='title'></attr>
+	<if id='1002622' >
+		<attr name='description' livesite='false'>[1003199.1002622.description]</attr>
+	</if>
+
+</feature>

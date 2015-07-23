@@ -1,0 +1,12 @@
+<feature id='1002580' type='interiorcolorfamily' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='code'>Black</attr>
+	<attr name='derived'></attr>
+	<attr name='source' livesite='false'>[1002580.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1002580.vtc]</attr>
+	<rule src='ADMIN' type='TEXT'>{1002580 iffs(1001229,1001218,1001230,1001240,1001251,1001252,1003063,1001259,1001268,1001274,1003066,1001269,1003070,1001295,1001296,1001298,1001308,1001318,1001319,1001320,1001321,1001325,1001326,1001329,1001332,1001340,1001343,1001311,1001241,1001310)}</rule>
+	<if id='1002622' >
+		<attr name='title' livesite='false'>[1002580.1002622.title]</attr>
+	</if>
+
+</feature>

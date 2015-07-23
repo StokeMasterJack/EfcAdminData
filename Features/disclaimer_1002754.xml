@@ -1,0 +1,8 @@
+<feature id='1002754' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1002754.description]</attr>
+	<attr name='source' livesite='false'>[1002754.source]</attr>
+	<attr name='code'>prius_ichoice_11years</attr>
+	<attr name='derived' livesite='false'>[1002754.derived]</attr>
+	<attr name='vtc' livesite='false'>[1002754.vtc]</attr>
+</feature>

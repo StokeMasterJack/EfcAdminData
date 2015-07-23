@@ -1,0 +1,8 @@
+<feature id='1001591' type='disclaimer' cardinality='optional' >
+	<attr name='code'>4runner_4x4_mpg</attr>
+	<attr name='source' livesite='false'>[1001591.source]</attr>
+	<attr name='vtc' livesite='false'>[1001591.vtc]</attr>
+	<attr name='description' livesite='false'>[1001591.description]</attr>
+	<attr name='title'></attr>
+	<attr name='derived' livesite='false'>[1001591.derived]</attr>
+</feature>

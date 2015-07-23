@@ -1,0 +1,8 @@
+<feature id='1003261' type='disclaimer' cardinality='optional' >
+	<attr name='derived'></attr>
+	<attr name='description' livesite='false'>[1003261.description]</attr>
+	<attr name='code'>phv_tax_federal</attr>
+	<attr name='source' livesite='false'>[1003261.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1003261.vtc]</attr>
+</feature>

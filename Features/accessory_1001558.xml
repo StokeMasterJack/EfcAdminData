@@ -1,0 +1,103 @@
+<feature id='1001558' type='accessory' scope='1000851 1000867 1000976, 1000851 1000867 1000977, 1000851 1000867 1000978, 1000851 1000867 1000979, 1002622 1000867 1003047, 1002622 1000867 1003048, 1002622 1000867 1003049, 1002622 1000867 1003046, 1000851 1000867 1000975' cardinality='mandatory' >
+	<attr name='alacarte'>[1001558.alacarte]</attr>
+	<attr name='code'>CW</attr>
+	<attr name='derived'>[1001558.derived]</attr>
+	<attr name='description'>[1001558.description]</attr>
+	<attr name='fullimage'></attr>
+	<attr name='group'>[1001558.group]</attr>
+	<attr name='keyfeatures'>[1001558.keyfeatures]</attr>
+	<attr name='marketingeffectivedate'>[1001558.marketingeffectivedate]</attr>
+	<attr name='msrp'></attr>
+	<attr name='option'>[1001558.option]</attr>
+	<attr name='package'>[1001558.package]</attr>
+	<attr name='pnglayeringinclusionkey'>[1001558.pnglayeringinclusionkey]</attr>
+	<attr name='secondaryfeatures'>[1001558.secondaryfeatures]</attr>
+	<attr name='source'>[1001558.source]</attr>
+	<attr name='specialexteriorcolorflag'>[1001558.specialexteriorcolorflag]</attr>
+	<attr name='specialinteriorcolorflag'>[1001558.specialinteriorcolorflag]</attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'>[1001558.title]</attr>
+	<attr name='type'>[1001558.type]</attr>
+	<attr name='videokey'>[1001558.videokey]</attr>
+	<attr name='viewpointkey'>[1001558.viewpointkey]</attr>
+	<attr name='vtc'>[1001558.vtc]</attr>
+	<if id='1000851 1000867 1000975' >
+		<attr name='msrp'>[1001558.1000851.1000867.1000975.msrp]</attr>
+		<attr name='source'>[1001558.1000851.1000867.1000975.source]</attr>
+		<attr name='title'>[1001558.1000851.1000867.1000975.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_CW' type='TEXT'>{1001558 conflicts(1001134)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_CW' type='TEXT'>{1001558 conflicts(1001055)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_CW' type='TEXT'>{1001558 conflicts(1001541)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_CW' type='TEXT'>{1001558 conflicts(1001120)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_CW' type='TEXT'>{1001558 conflicts(1001135)}</rule>
+	</if>
+
+	<if id='1000851 1000867 1000976' >
+		<attr name='msrp'>[1001558.1000851.1000867.1000976.msrp]</attr>
+		<attr name='source'>[1001558.1000851.1000867.1000976.source]</attr>
+		<attr name='title'>[1001558.1000851.1000867.1000976.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_CW' type='TEXT'>{1001558 conflicts(1001134)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_CW' type='TEXT'>{1001558 conflicts(1001135)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_CW' type='TEXT'>{1001558 conflicts(1001120)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_CW' type='TEXT'>{1001558 conflicts(1001541)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_CW' type='TEXT'>{1001558 conflicts(1001055)}</rule>
+	</if>
+
+	<if id='1000851 1000867 1000977' >
+		<attr name='msrp'>[1001558.1000851.1000867.1000977.msrp]</attr>
+		<attr name='source'>[1001558.1000851.1000867.1000977.source]</attr>
+		<attr name='title'>[1001558.1000851.1000867.1000977.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_CW' type='TEXT'>{1001558 conflicts(1001134)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_CW' type='TEXT'>{1001558 conflicts(1001135)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_CW' type='TEXT'>{1001558 conflicts(1001120)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_CW' type='TEXT'>{1001558 conflicts(1001541)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_CW' type='TEXT'>{1001558 conflicts(1001055)}</rule>
+	</if>
+
+	<if id='1000851 1000867 1000978' >
+		<attr name='msrp'>[1001558.1000851.1000867.1000978.msrp]</attr>
+		<attr name='source'>[1001558.1000851.1000867.1000978.source]</attr>
+		<attr name='title'>[1001558.1000851.1000867.1000978.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_CW' type='TEXT'>{1001558 requires(1001091)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_CW' type='TEXT'>{1001558 conflicts(1001055)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_CW' type='TEXT'>{1001558 conflicts(1001104)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_CW' type='TEXT'>{1001558 conflicts(1001541)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_CW' type='TEXT'>{1001558 conflicts(1001120)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_CW' type='TEXT'>{1001558 conflicts(1001134)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_CW' type='TEXT'>{1001558 conflicts(1001135)}</rule>
+	</if>
+
+	<if id='1000851 1000867 1000979' >
+		<attr name='source'>[1001558.1000851.1000867.1000979.source]</attr>
+		<attr name='title'>[1001558.1000851.1000867.1000979.title]</attr>
+	</if>
+
+	<if id='1002622 1000867 1003046' >
+		<attr name='msrp'>[1001558.1002622.1000867.1003046.msrp]</attr>
+		<attr name='source'>[1001558.1002622.1000867.1003046.source]</attr>
+		<attr name='title'>[1001558.1002622.1000867.1003046.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_CW' type='TEXT'>{1001558 requires(1001505)}</rule>
+	</if>
+
+	<if id='1002622 1000867 1003047' >
+		<attr name='msrp'>[1001558.1002622.1000867.1003047.msrp]</attr>
+		<attr name='source'>[1001558.1002622.1000867.1003047.source]</attr>
+		<attr name='title'>[1001558.1002622.1000867.1003047.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_CW' type='TEXT'>{1001558 requires(1001505)}</rule>
+	</if>
+
+	<if id='1002622 1000867 1003048' >
+		<attr name='msrp'>[1001558.1002622.1000867.1003048.msrp]</attr>
+		<attr name='source'>[1001558.1002622.1000867.1003048.source]</attr>
+		<attr name='title'>[1001558.1002622.1000867.1003048.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_CW' type='TEXT'>{1001558 requires(1001505)}</rule>
+	</if>
+
+	<if id='1002622 1000867 1003049' >
+		<attr name='msrp'>[1001558.1002622.1000867.1003049.msrp]</attr>
+		<attr name='source'>[1001558.1002622.1000867.1003049.source]</attr>
+		<attr name='title'>[1001558.1002622.1000867.1003049.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_CW' type='TEXT'>{1001558 requires(1001505)}</rule>
+	</if>
+
+</feature>

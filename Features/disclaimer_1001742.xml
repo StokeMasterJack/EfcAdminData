@@ -1,0 +1,8 @@
+<feature id='1001742' type='disclaimer' cardinality='optional' >
+	<attr name='derived' livesite='false'>[1001742.derived]</attr>
+	<attr name='description' livesite='false'>[1001742.description]</attr>
+	<attr name='source' livesite='false'>[1001742.source]</attr>
+	<attr name='vtc' livesite='false'>[1001742.vtc]</attr>
+	<attr name='title'></attr>
+	<attr name='code'>crawl_fj_cruiser</attr>
+</feature>

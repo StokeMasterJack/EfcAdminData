@@ -1,0 +1,8 @@
+<feature id='1003122' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1003122.source]</attr>
+	<attr name='vtc' livesite='false'>[1003122.vtc]</attr>
+	<attr name='description' livesite='false'>[1003122.description]</attr>
+	<attr name='title'></attr>
+	<attr name='code'>13Tundra_Tachometer</attr>
+	<attr name='derived'></attr>
+</feature>

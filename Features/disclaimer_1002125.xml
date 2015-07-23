@@ -1,0 +1,8 @@
+<feature id='1002125' type='disclaimer' cardinality='optional' >
+	<attr name='code'>prius_remote_air</attr>
+	<attr name='source' livesite='false'>[1002125.source]</attr>
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1002125.description]</attr>
+	<attr name='derived' livesite='false'>[1002125.derived]</attr>
+	<attr name='vtc' livesite='false'>[1002125.vtc]</attr>
+</feature>

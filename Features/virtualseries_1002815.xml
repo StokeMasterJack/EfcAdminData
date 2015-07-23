@@ -1,0 +1,28 @@
+<feature id='1002815' type='virtualseries' scope='1000851 1000857 1000959, 1002622 1000857 1000959, 1002622 1000857 1000960, 1000851 1000857 1000960' cardinality='mandatory' >
+	<attr name='defaultmodel' livesite='false'>[1002815.defaultmodel]</attr>
+	<attr name='vtc' livesite='false'>[1002815.vtc]</attr>
+	<attr name='background'></attr>
+	<attr name='source' livesite='false'>[1002815.source]</attr>
+	<attr name='title'>[1002815.title]</attr>
+	<attr name='code'>highlanderhybrid</attr>
+	<attr name='description'>[1002815.description]</attr>
+	<attr name='comparemodel'></attr>
+	<attr name='attachment'></attr>
+	<attr name='derived' livesite='false'>[1002815.derived]</attr>
+	<if id='1000851 1000857 1000959' >
+		<attr name='title' livesite='false'>[1002815.1000851.1000857.1000959.title]</attr>
+	</if>
+
+	<if id='1000851 1000857 1000960' >
+		<attr name='title' livesite='false'>[1002815.1000851.1000857.1000960.title]</attr>
+	</if>
+
+	<if id='1002622 1000857 1000959' >
+		<attr name='title' livesite='false'>[1002815.1002622.1000857.1000959.title]</attr>
+	</if>
+
+	<if id='1002622 1000857 1000960' >
+		<attr name='title' livesite='false'>[1002815.1002622.1000857.1000960.title]</attr>
+	</if>
+
+</feature>

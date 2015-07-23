@@ -1,0 +1,36 @@
+<feature id='1004420' type='grade' scope='1002622 1000862 1003044' cardinality='mandatory' >
+	<attr name='availablecopy'>[1004420.availablecopy]</attr>
+	<attr name='code'>priusvfour</attr>
+	<attr name='copyblock'>[1004420.copyblock]</attr>
+	<attr name='derived' livesite='false'>[1004420.derived]</attr>
+	<attr name='description'>[1004420.description]</attr>
+	<attr name='hotspot'>[1004420.hotspot]</attr>
+	<attr name='iconname'>[1004420.iconname]</attr>
+	<attr name='images'></attr>
+	<attr name='keyword'>[1004420.keyword]</attr>
+	<attr name='mpg'>[1004420.mpg]</attr>
+	<attr name='source'>[1004420.source]</attr>
+	<attr name='title' livesite='false'>[1004420.title]</attr>
+	<attr name='vtc' livesite='false'>[1004420.vtc]</attr>
+	<if id='1002622 1000862 1003044' >
+		<attr name='availablecopy'>[1004420.1002622.1000862.1003044.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1004420.1002622.1000862.1003044.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1004420.1002622.1000862.1003044.derived]</attr>
+		<attr name='description'>[1004420.1002622.1000862.1003044.description]</attr>
+		<attr name='hotspot' livesite='false'>[1004420.1002622.1000862.1003044.hotspot]</attr>
+		<attr name='iconname'>[1004420.1002622.1000862.1003044.iconname]</attr>
+		<attr name='keyword'>[1004420.1002622.1000862.1003044.keyword]</attr>
+		<attr name='mpg'>[1004420.1002622.1000862.1003044.mpg]</attr>
+		<attr name='source' livesite='false'>[1004420.1002622.1000862.1003044.source]</attr>
+		<attr name='title' livesite='false'>[1004420.1002622.1000862.1003044.title]</attr>
+		<attr name='vtc' livesite='false'>[1004420.1002622.1000862.1003044.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>prius_v_MY15_ext_FOUR_XCOL_0787_v006_efc_002.png</attr>
+			<attr name='sha'>13852c6511517bb2f3e3eba6c758af03c1770023</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

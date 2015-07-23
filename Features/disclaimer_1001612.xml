@@ -1,0 +1,8 @@
+<feature id='1001612' type='disclaimer' cardinality='optional' >
+	<attr name='code'>alg_rva_priusc</attr>
+	<attr name='source' livesite='false'>[1001612.source]</attr>
+	<attr name='vtc' livesite='false'>[1001612.vtc]</attr>
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1001612.description]</attr>
+	<attr name='derived' livesite='false'>[1001612.derived]</attr>
+</feature>

@@ -1,0 +1,600 @@
+<feature id='1002859' type='accessory' scope='1002622 1000854 1000904, 1002622 1000854 1000905, 1002622 1000854 1000906, 1002622 1000854 1000907, 1002622 1000854 1000908, 1002622 1000854 1000909, 1002622 1000854 1000910, 1002622 1000854 1000911, 1002622 1000854 1002849, 1000851 1000853 1000922, 1000851 1000853 1000923, 1000851 1000853 1000925, 1000851 1000853 1000926, 1000851 1000853 1000927, 1002622 1000853 1003045, 1000851 1000854 1000909, 1000851 1000854 1000906, 1000851 1000854 1000905, 1000851 1000854 1000908, 1000851 1000854 1000907, 1000851 1000854 1000904, 1000851 1000854 1000903, 1002622 1000853 1000925, 1002622 1000853 1000926, 1002622 1000853 1000927, 1000851 1000854 1002849, 1002622 1000853 1000922, 1002622 1000853 1000923, 1000851 1000854 1000911, 1000851 1000854 1000910' cardinality='mandatory' >
+	<attr name='alacarte'></attr>
+	<attr name='code'>GE</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='fullimage'></attr>
+	<attr name='group' livesite='false'>[1002859.group]</attr>
+	<attr name='keyfeatures'></attr>
+	<attr name='marketingeffectivedate'></attr>
+	<attr name='msrp'></attr>
+	<attr name='option'></attr>
+	<attr name='package'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='secondaryfeatures'></attr>
+	<attr name='source'>[1002859.source]</attr>
+	<attr name='specialexteriorcolorflag'></attr>
+	<attr name='specialinteriorcolorflag'></attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'></attr>
+	<attr name='type'>[1002859.type]</attr>
+	<attr name='videokey'></attr>
+	<attr name='viewpointkey'></attr>
+	<attr name='vtc' livesite='false'>[1002859.vtc]</attr>
+	<if id='1000851 1000853 1000922' >
+		<attr name='msrp'>[1002859.1000851.1000853.1000922.msrp]</attr>
+		<attr name='title'>[1002859.1000851.1000853.1000922.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001096)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001163)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1002860)}</rule>
+	</if>
+
+	<if id='1000851 1000853 1000923' >
+		<attr name='msrp'>[1002859.1000851.1000853.1000923.msrp]</attr>
+		<attr name='title'>[1002859.1000851.1000853.1000923.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001163)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1002860)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001096)}</rule>
+	</if>
+
+	<if id='1000851 1000853 1000925' >
+		<attr name='msrp'>[1002859.1000851.1000853.1000925.msrp]</attr>
+		<attr name='title'>[1002859.1000851.1000853.1000925.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1002860)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001163)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001096)}</rule>
+	</if>
+
+	<if id='1000851 1000853 1000926' >
+		<attr name='msrp'>[1002859.1000851.1000853.1000926.msrp]</attr>
+		<attr name='title'>[1002859.1000851.1000853.1000926.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1002860)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001163)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001096)}</rule>
+	</if>
+
+	<if id='1000851 1000853 1000927' >
+		<attr name='msrp'>[1002859.1000851.1000853.1000927.msrp]</attr>
+		<attr name='title'>[1002859.1000851.1000853.1000927.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001096)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001163)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1002860)}</rule>
+	</if>
+
+	<if id='1000851 1000854 1000903' >
+		<attr name='msrp'>[1002859.1000851.1000854.1000903.msrp]</attr>
+		<attr name='title'>[1002859.1000851.1000854.1000903.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001159)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1002860)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001096)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001162)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001163)}</rule>
+	</if>
+
+	<if id='1000851 1000854 1000904' >
+		<attr name='msrp'>[1002859.1000851.1000854.1000904.msrp]</attr>
+		<attr name='title'>[1002859.1000851.1000854.1000904.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001162)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1002860)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001163)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001159)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001096)}</rule>
+	</if>
+
+	<if id='1000851 1000854 1000905' >
+		<attr name='msrp'>[1002859.1000851.1000854.1000905.msrp]</attr>
+		<attr name='title'>[1002859.1000851.1000854.1000905.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001163)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1002860)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001159)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001162)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001096)}</rule>
+	</if>
+
+	<if id='1000851 1000854 1000906' >
+		<attr name='msrp'>[1002859.1000851.1000854.1000906.msrp]</attr>
+		<attr name='title'>[1002859.1000851.1000854.1000906.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1002860)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001163)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001162)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001159)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001096)}</rule>
+	</if>
+
+	<if id='1000851 1000854 1000907' >
+		<attr name='msrp'>[1002859.1000851.1000854.1000907.msrp]</attr>
+		<attr name='title'>[1002859.1000851.1000854.1000907.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001096)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001159)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001162)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1002860)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001163)}</rule>
+	</if>
+
+	<if id='1000851 1000854 1000908' >
+		<attr name='msrp'>[1002859.1000851.1000854.1000908.msrp]</attr>
+		<attr name='title'>[1002859.1000851.1000854.1000908.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001163)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001162)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1002860)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001159)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001096)}</rule>
+	</if>
+
+	<if id='1000851 1000854 1000909' >
+		<attr name='msrp'>[1002859.1000851.1000854.1000909.msrp]</attr>
+		<attr name='title'>[1002859.1000851.1000854.1000909.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001163)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001162)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001159)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001096)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1002860)}</rule>
+	</if>
+
+	<if id='1000851 1000854 1000910' >
+		<attr name='msrp'>[1002859.1000851.1000854.1000910.msrp]</attr>
+		<attr name='title'>[1002859.1000851.1000854.1000910.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001159)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001163)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001096)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001162)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1002860)}</rule>
+	</if>
+
+	<if id='1000851 1000854 1000911' >
+		<attr name='msrp'>[1002859.1000851.1000854.1000911.msrp]</attr>
+		<attr name='title'>[1002859.1000851.1000854.1000911.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001096)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001159)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001163)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001162)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1002860)}</rule>
+	</if>
+
+	<if id='1000851 1000854 1002849' >
+		<attr name='alacarte'>[1002859.1000851.1000854.1002849.alacarte]</attr>
+		<attr name='derived'>[1002859.1000851.1000854.1002849.derived]</attr>
+		<attr name='description'>[1002859.1000851.1000854.1002849.description]</attr>
+		<attr name='group'>[1002859.1000851.1000854.1002849.group]</attr>
+		<attr name='keyfeatures'>[1002859.1000851.1000854.1002849.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002859.1000851.1000854.1002849.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1002859.1000851.1000854.1002849.msrp]</attr>
+		<attr name='option'>[1002859.1000851.1000854.1002849.option]</attr>
+		<attr name='package'>[1002859.1000851.1000854.1002849.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002859.1000851.1000854.1002849.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002859.1000851.1000854.1002849.secondaryfeatures]</attr>
+		<attr name='specialexteriorcolorflag'>[1002859.1000851.1000854.1002849.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1002859.1000851.1000854.1002849.specialinteriorcolorflag]</attr>
+		<attr name='title'>[1002859.1000851.1000854.1002849.title]</attr>
+		<attr name='videokey'>[1002859.1000851.1000854.1002849.videokey]</attr>
+		<attr name='viewpointkey'>[1002859.1000851.1000854.1002849.viewpointkey]</attr>
+		<attr name='vtc'>[1002859.1000851.1000854.1002849.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001096)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001163)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001159)}</rule>
+	</if>
+
+	<if id='1002622 1000853 1000922' >
+		<attr name='alacarte' livesite='false'>[1002859.1002622.1000853.1000922.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1002859.1002622.1000853.1000922.derived]</attr>
+		<attr name='description' livesite='false'>[1002859.1002622.1000853.1000922.description]</attr>
+		<attr name='group' livesite='false'>[1002859.1002622.1000853.1000922.group]</attr>
+		<attr name='keyfeatures'>[1002859.1002622.1000853.1000922.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002859.1002622.1000853.1000922.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1002859.1002622.1000853.1000922.msrp]</attr>
+		<attr name='option' livesite='false'>[1002859.1002622.1000853.1000922.option]</attr>
+		<attr name='package' livesite='false'>[1002859.1002622.1000853.1000922.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002859.1002622.1000853.1000922.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002859.1002622.1000853.1000922.secondaryfeatures]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1002859.1002622.1000853.1000922.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1002859.1002622.1000853.1000922.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1002859.1002622.1000853.1000922.title]</attr>
+		<attr name='videokey'>[1002859.1002622.1000853.1000922.videokey]</attr>
+		<attr name='viewpointkey'>[1002859.1002622.1000853.1000922.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1002859.1002622.1000853.1000922.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Avalon_2015_Cargo_net_zippered_storage_D.jpg</attr>
+			<attr name='sha'>9c27fbbd162ae15d613481d6861d781a2603a0d4</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1000923' >
+		<attr name='alacarte' livesite='false'>[1002859.1002622.1000853.1000923.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1002859.1002622.1000853.1000923.derived]</attr>
+		<attr name='description' livesite='false'>[1002859.1002622.1000853.1000923.description]</attr>
+		<attr name='group' livesite='false'>[1002859.1002622.1000853.1000923.group]</attr>
+		<attr name='keyfeatures'>[1002859.1002622.1000853.1000923.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002859.1002622.1000853.1000923.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1002859.1002622.1000853.1000923.msrp]</attr>
+		<attr name='option' livesite='false'>[1002859.1002622.1000853.1000923.option]</attr>
+		<attr name='package' livesite='false'>[1002859.1002622.1000853.1000923.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002859.1002622.1000853.1000923.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002859.1002622.1000853.1000923.secondaryfeatures]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1002859.1002622.1000853.1000923.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1002859.1002622.1000853.1000923.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1002859.1002622.1000853.1000923.title]</attr>
+		<attr name='videokey'>[1002859.1002622.1000853.1000923.videokey]</attr>
+		<attr name='viewpointkey'>[1002859.1002622.1000853.1000923.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1002859.1002622.1000853.1000923.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Avalon_2015_Cargo_net_zippered_storage_D.jpg</attr>
+			<attr name='sha'>9c27fbbd162ae15d613481d6861d781a2603a0d4</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1000925' >
+		<attr name='alacarte' livesite='false'>[1002859.1002622.1000853.1000925.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1002859.1002622.1000853.1000925.derived]</attr>
+		<attr name='description' livesite='false'>[1002859.1002622.1000853.1000925.description]</attr>
+		<attr name='group' livesite='false'>[1002859.1002622.1000853.1000925.group]</attr>
+		<attr name='keyfeatures'>[1002859.1002622.1000853.1000925.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002859.1002622.1000853.1000925.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1002859.1002622.1000853.1000925.msrp]</attr>
+		<attr name='option' livesite='false'>[1002859.1002622.1000853.1000925.option]</attr>
+		<attr name='package' livesite='false'>[1002859.1002622.1000853.1000925.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002859.1002622.1000853.1000925.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002859.1002622.1000853.1000925.secondaryfeatures]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1002859.1002622.1000853.1000925.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1002859.1002622.1000853.1000925.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1002859.1002622.1000853.1000925.title]</attr>
+		<attr name='videokey'>[1002859.1002622.1000853.1000925.videokey]</attr>
+		<attr name='viewpointkey'>[1002859.1002622.1000853.1000925.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1002859.1002622.1000853.1000925.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Avalon_2015_Cargo_net_zippered_storage_D.jpg</attr>
+			<attr name='sha'>9c27fbbd162ae15d613481d6861d781a2603a0d4</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1000926' >
+		<attr name='alacarte' livesite='false'>[1002859.1002622.1000853.1000926.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1002859.1002622.1000853.1000926.derived]</attr>
+		<attr name='description' livesite='false'>[1002859.1002622.1000853.1000926.description]</attr>
+		<attr name='group' livesite='false'>[1002859.1002622.1000853.1000926.group]</attr>
+		<attr name='keyfeatures'>[1002859.1002622.1000853.1000926.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002859.1002622.1000853.1000926.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1002859.1002622.1000853.1000926.msrp]</attr>
+		<attr name='option' livesite='false'>[1002859.1002622.1000853.1000926.option]</attr>
+		<attr name='package' livesite='false'>[1002859.1002622.1000853.1000926.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002859.1002622.1000853.1000926.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002859.1002622.1000853.1000926.secondaryfeatures]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1002859.1002622.1000853.1000926.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1002859.1002622.1000853.1000926.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1002859.1002622.1000853.1000926.title]</attr>
+		<attr name='videokey'>[1002859.1002622.1000853.1000926.videokey]</attr>
+		<attr name='viewpointkey'>[1002859.1002622.1000853.1000926.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1002859.1002622.1000853.1000926.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Avalon_2015_Cargo_net_zippered_storage_D.jpg</attr>
+			<attr name='sha'>9c27fbbd162ae15d613481d6861d781a2603a0d4</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1000927' >
+		<attr name='alacarte' livesite='false'>[1002859.1002622.1000853.1000927.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1002859.1002622.1000853.1000927.derived]</attr>
+		<attr name='description' livesite='false'>[1002859.1002622.1000853.1000927.description]</attr>
+		<attr name='group' livesite='false'>[1002859.1002622.1000853.1000927.group]</attr>
+		<attr name='keyfeatures'>[1002859.1002622.1000853.1000927.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002859.1002622.1000853.1000927.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1002859.1002622.1000853.1000927.msrp]</attr>
+		<attr name='option' livesite='false'>[1002859.1002622.1000853.1000927.option]</attr>
+		<attr name='package' livesite='false'>[1002859.1002622.1000853.1000927.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002859.1002622.1000853.1000927.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002859.1002622.1000853.1000927.secondaryfeatures]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1002859.1002622.1000853.1000927.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1002859.1002622.1000853.1000927.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1002859.1002622.1000853.1000927.title]</attr>
+		<attr name='videokey'>[1002859.1002622.1000853.1000927.videokey]</attr>
+		<attr name='viewpointkey'>[1002859.1002622.1000853.1000927.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1002859.1002622.1000853.1000927.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Avalon_2015_Cargo_net_zippered_storage_D.jpg</attr>
+			<attr name='sha'>9c27fbbd162ae15d613481d6861d781a2603a0d4</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1003045' >
+		<attr name='alacarte' livesite='false'>[1002859.1002622.1000853.1003045.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1002859.1002622.1000853.1003045.derived]</attr>
+		<attr name='description' livesite='false'>[1002859.1002622.1000853.1003045.description]</attr>
+		<attr name='group' livesite='false'>[1002859.1002622.1000853.1003045.group]</attr>
+		<attr name='keyfeatures'>[1002859.1002622.1000853.1003045.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002859.1002622.1000853.1003045.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1002859.1002622.1000853.1003045.msrp]</attr>
+		<attr name='option' livesite='false'>[1002859.1002622.1000853.1003045.option]</attr>
+		<attr name='package' livesite='false'>[1002859.1002622.1000853.1003045.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002859.1002622.1000853.1003045.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002859.1002622.1000853.1003045.secondaryfeatures]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1002859.1002622.1000853.1003045.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1002859.1002622.1000853.1003045.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1002859.1002622.1000853.1003045.title]</attr>
+		<attr name='videokey'>[1002859.1002622.1000853.1003045.videokey]</attr>
+		<attr name='viewpointkey'>[1002859.1002622.1000853.1003045.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1002859.1002622.1000853.1003045.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Avalon_2015_Cargo_net_zippered_storage_D.jpg</attr>
+			<attr name='sha'>9c27fbbd162ae15d613481d6861d781a2603a0d4</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000904' >
+		<attr name='alacarte'>[1002859.1002622.1000854.1000904.alacarte]</attr>
+		<attr name='derived'>[1002859.1002622.1000854.1000904.derived]</attr>
+		<attr name='description'>[1002859.1002622.1000854.1000904.description]</attr>
+		<attr name='group'>[1002859.1002622.1000854.1000904.group]</attr>
+		<attr name='keyfeatures'>[1002859.1002622.1000854.1000904.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002859.1002622.1000854.1000904.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1002859.1002622.1000854.1000904.msrp]</attr>
+		<attr name='option'>[1002859.1002622.1000854.1000904.option]</attr>
+		<attr name='package'>[1002859.1002622.1000854.1000904.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002859.1002622.1000854.1000904.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002859.1002622.1000854.1000904.secondaryfeatures]</attr>
+		<attr name='specialexteriorcolorflag'>[1002859.1002622.1000854.1000904.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1002859.1002622.1000854.1000904.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1002859.1002622.1000854.1000904.title]</attr>
+		<attr name='videokey'>[1002859.1002622.1000854.1000904.videokey]</attr>
+		<attr name='viewpointkey'>[1002859.1002622.1000854.1000904.viewpointkey]</attr>
+		<attr name='vtc'>[1002859.1002622.1000854.1000904.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1002860)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001162)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Cargo-Net-Envelope.jpg</attr>
+			<attr name='sha'>df4d3592998be68284b1788c8c234ba8fd5816ee</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000905' >
+		<attr name='alacarte'>[1002859.1002622.1000854.1000905.alacarte]</attr>
+		<attr name='derived'>[1002859.1002622.1000854.1000905.derived]</attr>
+		<attr name='description'>[1002859.1002622.1000854.1000905.description]</attr>
+		<attr name='group'>[1002859.1002622.1000854.1000905.group]</attr>
+		<attr name='keyfeatures'>[1002859.1002622.1000854.1000905.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002859.1002622.1000854.1000905.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1002859.1002622.1000854.1000905.msrp]</attr>
+		<attr name='option'>[1002859.1002622.1000854.1000905.option]</attr>
+		<attr name='package'>[1002859.1002622.1000854.1000905.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002859.1002622.1000854.1000905.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002859.1002622.1000854.1000905.secondaryfeatures]</attr>
+		<attr name='specialexteriorcolorflag'>[1002859.1002622.1000854.1000905.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1002859.1002622.1000854.1000905.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1002859.1002622.1000854.1000905.title]</attr>
+		<attr name='videokey'>[1002859.1002622.1000854.1000905.videokey]</attr>
+		<attr name='viewpointkey'>[1002859.1002622.1000854.1000905.viewpointkey]</attr>
+		<attr name='vtc'>[1002859.1002622.1000854.1000905.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1002860)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001162)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Cargo-Net-Envelope.jpg</attr>
+			<attr name='sha'>df4d3592998be68284b1788c8c234ba8fd5816ee</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000906' >
+		<attr name='alacarte'>[1002859.1002622.1000854.1000906.alacarte]</attr>
+		<attr name='derived'>[1002859.1002622.1000854.1000906.derived]</attr>
+		<attr name='description'>[1002859.1002622.1000854.1000906.description]</attr>
+		<attr name='group'>[1002859.1002622.1000854.1000906.group]</attr>
+		<attr name='keyfeatures'>[1002859.1002622.1000854.1000906.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002859.1002622.1000854.1000906.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1002859.1002622.1000854.1000906.msrp]</attr>
+		<attr name='option'>[1002859.1002622.1000854.1000906.option]</attr>
+		<attr name='package'>[1002859.1002622.1000854.1000906.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002859.1002622.1000854.1000906.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002859.1002622.1000854.1000906.secondaryfeatures]</attr>
+		<attr name='specialexteriorcolorflag'>[1002859.1002622.1000854.1000906.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1002859.1002622.1000854.1000906.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1002859.1002622.1000854.1000906.title]</attr>
+		<attr name='videokey'>[1002859.1002622.1000854.1000906.videokey]</attr>
+		<attr name='viewpointkey'>[1002859.1002622.1000854.1000906.viewpointkey]</attr>
+		<attr name='vtc'>[1002859.1002622.1000854.1000906.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1002860)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001162)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Cargo-Net-Envelope.jpg</attr>
+			<attr name='sha'>df4d3592998be68284b1788c8c234ba8fd5816ee</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000907' >
+		<attr name='alacarte'>[1002859.1002622.1000854.1000907.alacarte]</attr>
+		<attr name='derived'>[1002859.1002622.1000854.1000907.derived]</attr>
+		<attr name='description'>[1002859.1002622.1000854.1000907.description]</attr>
+		<attr name='group'>[1002859.1002622.1000854.1000907.group]</attr>
+		<attr name='keyfeatures'>[1002859.1002622.1000854.1000907.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002859.1002622.1000854.1000907.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1002859.1002622.1000854.1000907.msrp]</attr>
+		<attr name='option'>[1002859.1002622.1000854.1000907.option]</attr>
+		<attr name='package'>[1002859.1002622.1000854.1000907.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002859.1002622.1000854.1000907.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002859.1002622.1000854.1000907.secondaryfeatures]</attr>
+		<attr name='specialexteriorcolorflag'>[1002859.1002622.1000854.1000907.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1002859.1002622.1000854.1000907.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1002859.1002622.1000854.1000907.title]</attr>
+		<attr name='videokey'>[1002859.1002622.1000854.1000907.videokey]</attr>
+		<attr name='viewpointkey'>[1002859.1002622.1000854.1000907.viewpointkey]</attr>
+		<attr name='vtc'>[1002859.1002622.1000854.1000907.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001162)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1002860)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Cargo-Net-Envelope.jpg</attr>
+			<attr name='sha'>df4d3592998be68284b1788c8c234ba8fd5816ee</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000908' >
+		<attr name='alacarte'>[1002859.1002622.1000854.1000908.alacarte]</attr>
+		<attr name='derived'>[1002859.1002622.1000854.1000908.derived]</attr>
+		<attr name='description'>[1002859.1002622.1000854.1000908.description]</attr>
+		<attr name='group'>[1002859.1002622.1000854.1000908.group]</attr>
+		<attr name='keyfeatures'>[1002859.1002622.1000854.1000908.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002859.1002622.1000854.1000908.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1002859.1002622.1000854.1000908.msrp]</attr>
+		<attr name='option'>[1002859.1002622.1000854.1000908.option]</attr>
+		<attr name='package'>[1002859.1002622.1000854.1000908.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002859.1002622.1000854.1000908.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002859.1002622.1000854.1000908.secondaryfeatures]</attr>
+		<attr name='specialexteriorcolorflag'>[1002859.1002622.1000854.1000908.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1002859.1002622.1000854.1000908.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1002859.1002622.1000854.1000908.title]</attr>
+		<attr name='videokey'>[1002859.1002622.1000854.1000908.videokey]</attr>
+		<attr name='viewpointkey'>[1002859.1002622.1000854.1000908.viewpointkey]</attr>
+		<attr name='vtc'>[1002859.1002622.1000854.1000908.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1002860)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001162)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Cargo-Net-Envelope.jpg</attr>
+			<attr name='sha'>df4d3592998be68284b1788c8c234ba8fd5816ee</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000909' >
+		<attr name='alacarte'>[1002859.1002622.1000854.1000909.alacarte]</attr>
+		<attr name='derived'>[1002859.1002622.1000854.1000909.derived]</attr>
+		<attr name='description'>[1002859.1002622.1000854.1000909.description]</attr>
+		<attr name='group'>[1002859.1002622.1000854.1000909.group]</attr>
+		<attr name='keyfeatures'>[1002859.1002622.1000854.1000909.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002859.1002622.1000854.1000909.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1002859.1002622.1000854.1000909.msrp]</attr>
+		<attr name='option'>[1002859.1002622.1000854.1000909.option]</attr>
+		<attr name='package'>[1002859.1002622.1000854.1000909.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002859.1002622.1000854.1000909.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002859.1002622.1000854.1000909.secondaryfeatures]</attr>
+		<attr name='specialexteriorcolorflag'>[1002859.1002622.1000854.1000909.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1002859.1002622.1000854.1000909.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1002859.1002622.1000854.1000909.title]</attr>
+		<attr name='videokey'>[1002859.1002622.1000854.1000909.videokey]</attr>
+		<attr name='viewpointkey'>[1002859.1002622.1000854.1000909.viewpointkey]</attr>
+		<attr name='vtc'>[1002859.1002622.1000854.1000909.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1002860)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001162)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Cargo-Net-Envelope.jpg</attr>
+			<attr name='sha'>df4d3592998be68284b1788c8c234ba8fd5816ee</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000910' >
+		<attr name='alacarte'>[1002859.1002622.1000854.1000910.alacarte]</attr>
+		<attr name='derived'>[1002859.1002622.1000854.1000910.derived]</attr>
+		<attr name='description'>[1002859.1002622.1000854.1000910.description]</attr>
+		<attr name='group'>[1002859.1002622.1000854.1000910.group]</attr>
+		<attr name='keyfeatures'>[1002859.1002622.1000854.1000910.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002859.1002622.1000854.1000910.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1002859.1002622.1000854.1000910.msrp]</attr>
+		<attr name='option'>[1002859.1002622.1000854.1000910.option]</attr>
+		<attr name='package'>[1002859.1002622.1000854.1000910.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002859.1002622.1000854.1000910.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002859.1002622.1000854.1000910.secondaryfeatures]</attr>
+		<attr name='specialexteriorcolorflag'>[1002859.1002622.1000854.1000910.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1002859.1002622.1000854.1000910.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1002859.1002622.1000854.1000910.title]</attr>
+		<attr name='videokey'>[1002859.1002622.1000854.1000910.videokey]</attr>
+		<attr name='viewpointkey'>[1002859.1002622.1000854.1000910.viewpointkey]</attr>
+		<attr name='vtc'>[1002859.1002622.1000854.1000910.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001162)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1002860)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Cargo-Net-Envelope.jpg</attr>
+			<attr name='sha'>df4d3592998be68284b1788c8c234ba8fd5816ee</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000911' >
+		<attr name='alacarte'>[1002859.1002622.1000854.1000911.alacarte]</attr>
+		<attr name='derived'>[1002859.1002622.1000854.1000911.derived]</attr>
+		<attr name='description'>[1002859.1002622.1000854.1000911.description]</attr>
+		<attr name='group'>[1002859.1002622.1000854.1000911.group]</attr>
+		<attr name='keyfeatures'>[1002859.1002622.1000854.1000911.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002859.1002622.1000854.1000911.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1002859.1002622.1000854.1000911.msrp]</attr>
+		<attr name='option'>[1002859.1002622.1000854.1000911.option]</attr>
+		<attr name='package'>[1002859.1002622.1000854.1000911.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002859.1002622.1000854.1000911.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002859.1002622.1000854.1000911.secondaryfeatures]</attr>
+		<attr name='specialexteriorcolorflag'>[1002859.1002622.1000854.1000911.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1002859.1002622.1000854.1000911.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1002859.1002622.1000854.1000911.title]</attr>
+		<attr name='videokey'>[1002859.1002622.1000854.1000911.videokey]</attr>
+		<attr name='viewpointkey'>[1002859.1002622.1000854.1000911.viewpointkey]</attr>
+		<attr name='vtc'>[1002859.1002622.1000854.1000911.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001162)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1002860)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Cargo-Net-Envelope.jpg</attr>
+			<attr name='sha'>df4d3592998be68284b1788c8c234ba8fd5816ee</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1002849' >
+		<attr name='alacarte'>[1002859.1002622.1000854.1002849.alacarte]</attr>
+		<attr name='derived'>[1002859.1002622.1000854.1002849.derived]</attr>
+		<attr name='description'>[1002859.1002622.1000854.1002849.description]</attr>
+		<attr name='group'>[1002859.1002622.1000854.1002849.group]</attr>
+		<attr name='keyfeatures'>[1002859.1002622.1000854.1002849.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002859.1002622.1000854.1002849.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1002859.1002622.1000854.1002849.msrp]</attr>
+		<attr name='option'>[1002859.1002622.1000854.1002849.option]</attr>
+		<attr name='package'>[1002859.1002622.1000854.1002849.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002859.1002622.1000854.1002849.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002859.1002622.1000854.1002849.secondaryfeatures]</attr>
+		<attr name='specialexteriorcolorflag'>[1002859.1002622.1000854.1002849.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1002859.1002622.1000854.1002849.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1002859.1002622.1000854.1002849.title]</attr>
+		<attr name='videokey'>[1002859.1002622.1000854.1002849.videokey]</attr>
+		<attr name='viewpointkey'>[1002859.1002622.1000854.1002849.viewpointkey]</attr>
+		<attr name='vtc'>[1002859.1002622.1000854.1002849.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1001162)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_GE' type='TEXT'>{1002859 conflicts(1002860)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Cargo-Net-Envelope.jpg</attr>
+			<attr name='sha'>df4d3592998be68284b1788c8c234ba8fd5816ee</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

@@ -1,0 +1,16 @@
+<feature id='1002033' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1002033.source]</attr>
+	<attr name='code'>my13avalon_mpg_prelim</attr>
+	<attr name='description' livesite='false'>[1002033.description]</attr>
+	<attr name='derived' livesite='false'>[1002033.derived]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1002033.vtc]</attr>
+	<if id='1000851' >
+		<attr name='description' livesite='false'>[1002033.1000851.description]</attr>
+	</if>
+
+	<if id='1002622' >
+		<attr name='description' livesite='false'>[1002033.1002622.description]</attr>
+	</if>
+
+</feature>

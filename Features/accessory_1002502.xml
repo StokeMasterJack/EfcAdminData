@@ -1,0 +1,74 @@
+<feature id='1002502' type='accessory' scope='1000851 1000859, 1000851 1000862 1000882, 1000851 1000862 1000881, 1000851 1000862 1000883' cardinality='mandatory' >
+	<attr name='alacarte'>[1002502.alacarte]</attr>
+	<attr name='code'>dio5</attr>
+	<attr name='derived'>[1002502.derived]</attr>
+	<attr name='description'>[1002502.description]</attr>
+	<attr name='fullimage'></attr>
+	<attr name='group'>[1002502.group]</attr>
+	<attr name='keyfeatures'>[1002502.keyfeatures]</attr>
+	<attr name='marketingeffectivedate'>[1002502.marketingeffectivedate]</attr>
+	<attr name='msrp'></attr>
+	<attr name='option'>[1002502.option]</attr>
+	<attr name='package'>[1002502.package]</attr>
+	<attr name='pnglayeringinclusionkey'>[1002502.pnglayeringinclusionkey]</attr>
+	<attr name='secondaryfeatures'>[1002502.secondaryfeatures]</attr>
+	<attr name='source'>[1002502.source]</attr>
+	<attr name='specialexteriorcolorflag'>[1002502.specialexteriorcolorflag]</attr>
+	<attr name='specialinteriorcolorflag'>[1002502.specialinteriorcolorflag]</attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'>[1002502.title]</attr>
+	<attr name='type'>[1002502.type]</attr>
+	<attr name='videokey'>[1002502.videokey]</attr>
+	<attr name='viewpointkey'>[1002502.viewpointkey]</attr>
+	<attr name='vtc'>[1002502.vtc]</attr>
+	<if id='1000851 1000859' >
+		<attr name='alacarte'>[1002502.1000851.1000859.alacarte]</attr>
+		<attr name='description'>[1002502.1000851.1000859.description]</attr>
+		<attr name='group'>[1002502.1000851.1000859.group]</attr>
+		<attr name='msrp'>[1002502.1000851.1000859.msrp]</attr>
+		<attr name='source'>[1002502.1000851.1000859.source]</attr>
+		<attr name='title'>[1002502.1000851.1000859.title]</attr>
+		<attr name='type'>[1002502.1000851.1000859.type]</attr>
+		<attr name='vtc'>[1002502.1000851.1000859.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000859 1000875' >
+		<attr name='description' livesite='false'>[1002502.1000851.1000859.1000875.description]</attr>
+		<attr name='source'>[1002502.1000851.1000859.1000875.source]</attr>
+	</if>
+
+	<if id='1000851 1000859 1000876' >
+		<attr name='description' livesite='false'>[1002502.1000851.1000859.1000876.description]</attr>
+	</if>
+
+	<if id='1000851 1000859 1000877' >
+		<attr name='description' livesite='false'>[1002502.1000851.1000859.1000877.description]</attr>
+	</if>
+
+	<if id='1000851 1000859 1000878' >
+		<attr name='description' livesite='false'>[1002502.1000851.1000859.1000878.description]</attr>
+	</if>
+
+	<if id='1000851 1000862 1000881' >
+		<attr name='description' livesite='false'>[1002502.1000851.1000862.1000881.description]</attr>
+		<attr name='group' livesite='false'>[1002502.1000851.1000862.1000881.group]</attr>
+		<attr name='msrp' livesite='false'>[1002502.1000851.1000862.1000881.msrp]</attr>
+		<attr name='source' livesite='false'>[1002502.1000851.1000862.1000881.source]</attr>
+		<attr name='title' livesite='false'>[1002502.1000851.1000862.1000881.title]</attr>
+	</if>
+
+	<if id='1000851 1000862 1000882' >
+		<attr name='description' livesite='false'>[1002502.1000851.1000862.1000882.description]</attr>
+		<attr name='group' livesite='false'>[1002502.1000851.1000862.1000882.group]</attr>
+		<attr name='msrp' livesite='false'>[1002502.1000851.1000862.1000882.msrp]</attr>
+		<attr name='title' livesite='false'>[1002502.1000851.1000862.1000882.title]</attr>
+	</if>
+
+	<if id='1000851 1000862 1000883' >
+		<attr name='description' livesite='false'>[1002502.1000851.1000862.1000883.description]</attr>
+		<attr name='group' livesite='false'>[1002502.1000851.1000862.1000883.group]</attr>
+		<attr name='msrp' livesite='false'>[1002502.1000851.1000862.1000883.msrp]</attr>
+		<attr name='title' livesite='false'>[1002502.1000851.1000862.1000883.title]</attr>
+	</if>
+
+</feature>

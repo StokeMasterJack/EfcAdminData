@@ -1,0 +1,7 @@
+<feature id='1002563' type='abstractfeatures' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='code' livesite='false'>Gpsnavigation</attr>
+	<attr name='derived' livesite='false'>[1002563.derived]</attr>
+	<attr name='source' livesite='false'>[1002563.source]</attr>
+	<attr name='title' livesite='false'>[1002563.title]</attr>
+	<attr name='vtc' livesite='false'>[1002563.vtc]</attr>
+</feature>

@@ -1,0 +1,8 @@
+<feature id='1001692' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1001692.source]</attr>
+	<attr name='vtc' livesite='false'>[1001692.vtc]</attr>
+	<attr name='derived' livesite='false'>[1001692.derived]</attr>
+	<attr name='code'>camry_brand_10yr</attr>
+	<attr name='description' livesite='false'>[1001692.description]</attr>
+	<attr name='title'></attr>
+</feature>

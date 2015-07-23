@@ -1,0 +1,8 @@
+<feature id='1002305' type='disclaimer' cardinality='optional' >
+	<attr name='code'>towing_8600</attr>
+	<attr name='vtc' livesite='false'>[1002305.vtc]</attr>
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1002305.source]</attr>
+	<attr name='derived' livesite='false'>[1002305.derived]</attr>
+	<attr name='description' livesite='false'>[1002305.description]</attr>
+</feature>

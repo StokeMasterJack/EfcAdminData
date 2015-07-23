@@ -1,0 +1,8 @@
+<feature id='1002674' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1002674.source]</attr>
+	<attr name='derived' livesite='false'>[1002674.derived]</attr>
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1002674.description]</attr>
+	<attr name='vtc' livesite='false'>[1002674.vtc]</attr>
+	<attr name='code'>dash_flash_op2</attr>
+</feature>

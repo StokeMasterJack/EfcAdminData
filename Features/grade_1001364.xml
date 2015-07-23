@@ -1,0 +1,51 @@
+<feature id='1001364' type='grade' scope='1002622 1000870 1000890, 1000851 1000870 1000890' cardinality='mandatory' >
+	<attr name='code'>5doorLE</attr>
+	<attr name='title' livesite='false'>[1001364.title]</attr>
+	<attr name='description'></attr>
+	<attr name='images'></attr>
+	<attr name='copyblock'></attr>
+	<attr name='keyword'></attr>
+	<attr name='mpg'></attr>
+	<attr name='availablecopy'></attr>
+	<attr name='iconname'></attr>
+	<attr name='hotspot'></attr>
+	<attr name='vtc' livesite='false'>[1001364.vtc]</attr>
+	<attr name='source' livesite='false'>[1001364.source]</attr>
+	<attr name='derived'></attr>
+	<if id='1000851 1000870 1000890' disclaimers='1002396' >
+		<attr name='availablecopy'>[1001364.1000851.1000870.1000890.availablecopy]</attr>
+		<attr name='mpg'>[1001364.1000851.1000870.1000890.mpg]</attr>
+		<attr name='iconname'>[1001364.1000851.1000870.1000890.iconname]</attr>
+		<attr name='copyblock' livesite='false'>[1001364.1000851.1000870.1000890.copyblock]</attr>
+		<attr name='description'>[1001364.1000851.1000870.1000890.description]</attr>
+		<attr name='keyword' livesite='false'>[1001364.1000851.1000870.1000890.keyword]</attr>
+		<attr name='derived' livesite='false'>[1001364.1000851.1000870.1000890.derived]</attr>
+		<attr name='hotspot' livesite='false'>[1001364.1000851.1000870.1000890.hotspot]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Yaris_5DoorLE.png</attr>
+			<attr name='sha'>0c1cba8ccee89216d29b3aa4558051ee13a15c65</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000870 1000890' >
+		<attr name='copyblock' livesite='false'>[1001364.1002622.1000870.1000890.copyblock]</attr>
+		<attr name='keyword' livesite='false'>[1001364.1002622.1000870.1000890.keyword]</attr>
+		<attr name='description'>[1001364.1002622.1000870.1000890.description]</attr>
+		<attr name='mpg'>[1001364.1002622.1000870.1000890.mpg]</attr>
+		<attr name='availablecopy'>[1001364.1002622.1000870.1000890.availablecopy]</attr>
+		<attr name='iconname'>[1001364.1002622.1000870.1000890.iconname]</attr>
+		<attr name='hotspot'>[1001364.1002622.1000870.1000890.hotspot]</attr>
+		<attr name='derived' livesite='false'>[1001364.1002622.1000870.1000890.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>MY15_Yaris_ext_5DR_LE_08T7.png</attr>
+			<attr name='sha'>d72485af1f2946ab3b9a37e4d55bfefdd09a031e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

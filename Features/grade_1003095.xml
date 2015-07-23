@@ -1,0 +1,110 @@
+<feature id='1003095' type='grade' scope='1002622 1000868 1003050, 1002622 1000868 1003052, 1002622 1000868 1003051, 1002622 1000852 1003054, 1002622 1000868 1003053' cardinality='mandatory' >
+	<attr name='availablecopy'>[1003095.availablecopy]</attr>
+	<attr name='code'>trdpro</attr>
+	<attr name='copyblock'>[1003095.copyblock]</attr>
+	<attr name='derived' livesite='false'>[1003095.derived]</attr>
+	<attr name='description'>[1003095.description]</attr>
+	<attr name='hotspot'>[1003095.hotspot]</attr>
+	<attr name='iconname'>[1003095.iconname]</attr>
+	<attr name='images'></attr>
+	<attr name='keyword'>[1003095.keyword]</attr>
+	<attr name='mpg'>[1003095.mpg]</attr>
+	<attr name='source' livesite='false'>[1003095.source]</attr>
+	<attr name='title' livesite='false'>[1003095.title]</attr>
+	<attr name='vtc' livesite='false'>[1003095.vtc]</attr>
+	<if id='1002622 1000852 1003054' >
+		<attr name='availablecopy' livesite='false'>[1003095.1002622.1000852.1003054.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1003095.1002622.1000852.1003054.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1003095.1002622.1000852.1003054.derived]</attr>
+		<attr name='description'>[1003095.1002622.1000852.1003054.description]</attr>
+		<attr name='hotspot'>[1003095.1002622.1000852.1003054.hotspot]</attr>
+		<attr name='iconname'>[1003095.1002622.1000852.1003054.iconname]</attr>
+		<attr name='keyword'>[1003095.1002622.1000852.1003054.keyword]</attr>
+		<attr name='mpg'>[1003095.1002622.1000852.1003054.mpg]</attr>
+		<attr name='title' livesite='false'>[1003095.1002622.1000852.1003054.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>4Runner_ext_TRDPro_04X0_v014_efc_002.png</attr>
+			<attr name='sha'>c24a77d10bf317f33b851e1da6bcc15abe0fe38f</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000868 1003050' >
+		<attr name='availablecopy'>[1003095.1002622.1000868.1003050.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1003095.1002622.1000868.1003050.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1003095.1002622.1000868.1003050.derived]</attr>
+		<attr name='description'>[1003095.1002622.1000868.1003050.description]</attr>
+		<attr name='hotspot'>[1003095.1002622.1000868.1003050.hotspot]</attr>
+		<attr name='iconname'>[1003095.1002622.1000868.1003050.iconname]</attr>
+		<attr name='keyword'>[1003095.1002622.1000868.1003050.keyword]</attr>
+		<attr name='mpg'>[1003095.1002622.1000868.1003050.mpg]</attr>
+		<attr name='title' livesite='false'>[1003095.1002622.1000868.1003050.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Tundra_DC_my15_ext_TRDPro_04X0_v001_efc_002.png</attr>
+			<attr name='sha'>93166bfa9ee3d1ad42890324fbc343d71c550869</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000868 1003051' >
+		<attr name='availablecopy'>[1003095.1002622.1000868.1003051.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1003095.1002622.1000868.1003051.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1003095.1002622.1000868.1003051.derived]</attr>
+		<attr name='description'>[1003095.1002622.1000868.1003051.description]</attr>
+		<attr name='hotspot'>[1003095.1002622.1000868.1003051.hotspot]</attr>
+		<attr name='iconname'>[1003095.1002622.1000868.1003051.iconname]</attr>
+		<attr name='keyword'>[1003095.1002622.1000868.1003051.keyword]</attr>
+		<attr name='mpg'>[1003095.1002622.1000868.1003051.mpg]</attr>
+		<attr name='title' livesite='false'>[1003095.1002622.1000868.1003051.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Tundra_DC_my15_ext_TRDPro_04X0_v001_efc_002.png</attr>
+			<attr name='sha'>93166bfa9ee3d1ad42890324fbc343d71c550869</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000868 1003052' >
+		<attr name='availablecopy'>[1003095.1002622.1000868.1003052.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1003095.1002622.1000868.1003052.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1003095.1002622.1000868.1003052.derived]</attr>
+		<attr name='description'>[1003095.1002622.1000868.1003052.description]</attr>
+		<attr name='hotspot'>[1003095.1002622.1000868.1003052.hotspot]</attr>
+		<attr name='iconname'>[1003095.1002622.1000868.1003052.iconname]</attr>
+		<attr name='keyword'>[1003095.1002622.1000868.1003052.keyword]</attr>
+		<attr name='mpg'>[1003095.1002622.1000868.1003052.mpg]</attr>
+		<attr name='title' livesite='false'>[1003095.1002622.1000868.1003052.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Tundra_CM_my15_ext_TRDPro_04X0_v005_efc_002.png</attr>
+			<attr name='sha'>ce633a67979e316536b42f3a81a0dfb80e57eaa1</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000868 1003053' >
+		<attr name='availablecopy'>[1003095.1002622.1000868.1003053.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1003095.1002622.1000868.1003053.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1003095.1002622.1000868.1003053.derived]</attr>
+		<attr name='description'>[1003095.1002622.1000868.1003053.description]</attr>
+		<attr name='hotspot'>[1003095.1002622.1000868.1003053.hotspot]</attr>
+		<attr name='iconname'>[1003095.1002622.1000868.1003053.iconname]</attr>
+		<attr name='keyword'>[1003095.1002622.1000868.1003053.keyword]</attr>
+		<attr name='mpg'>[1003095.1002622.1000868.1003053.mpg]</attr>
+		<attr name='title' livesite='false'>[1003095.1002622.1000868.1003053.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Tundra_CM_my15_ext_TRDPro_04X0_v005_efc_002.png</attr>
+			<attr name='sha'>ce633a67979e316536b42f3a81a0dfb80e57eaa1</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

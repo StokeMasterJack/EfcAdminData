@@ -1,0 +1,33 @@
+<feature id='1003115' type='accessory' scope='1002622 1000859 1000875' cardinality='mandatory' >
+	<attr name='alacarte'></attr>
+	<attr name='code'>BC</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='fullimage'></attr>
+	<attr name='group'></attr>
+	<attr name='keyfeatures'></attr>
+	<attr name='marketingeffectivedate'></attr>
+	<attr name='msrp'></attr>
+	<attr name='option'></attr>
+	<attr name='package'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='secondaryfeatures'></attr>
+	<attr name='source' livesite='false'>[1003115.source]</attr>
+	<attr name='specialexteriorcolorflag'></attr>
+	<attr name='specialinteriorcolorflag'></attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'></attr>
+	<attr name='type' livesite='false'>[1003115.type]</attr>
+	<attr name='videokey'></attr>
+	<attr name='viewpointkey'></attr>
+	<attr name='vtc' livesite='false'>[1003115.vtc]</attr>
+	<if id='1002622 1000859 1000875' >
+		<attr name='alacarte' livesite='false'>[1003115.1002622.1000859.1000875.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1003115.1002622.1000859.1000875.derived]</attr>
+		<attr name='msrp' livesite='false'>[1003115.1002622.1000859.1000875.msrp]</attr>
+		<attr name='package' livesite='false'>[1003115.1002622.1000859.1000875.package]</attr>
+		<attr name='title' livesite='false'>[1003115.1002622.1000859.1000875.title]</attr>
+		<attr name='vtc' livesite='false'>[1003115.1002622.1000859.1000875.vtc]</attr>
+	</if>
+
+</feature>

@@ -1,0 +1,38 @@
+<feature id='1003082' type='interiorcolor' scope='1002622 1000853 1003045' cardinality='mandatory' >
+	<attr name='code'>LY20</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1003082.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1003082.vtc]</attr>
+	<if id='1002622 1000853 1003045' >
+		<attr name='derived' livesite='false'>[1003082.1002622.1000853.1003045.derived]</attr>
+		<attr name='description'>[1003082.1002622.1000853.1003045.description]</attr>
+		<attr name='materialtypeid'>[1003082.1002622.1000853.1003045.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003082.1002622.1000853.1003045.source]</attr>
+		<attr name='title' livesite='false'>[1003082.1002622.1000853.1003045.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>_int_XLE_Sport_Sport_v068_hd_002.jpg</attr>
+			<attr name='sha'>182755526f7d5a199bc0dac08c55eae6c0462f96</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>Avalon_int_XLE_Sport_Sport_v068_hd_002.jpg</attr>
+			<attr name='sha'>6ec408976de48cbf93a100f59361c7b2454f67ba</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>Avalon_int_XLE_Sport_Sport_v068_hd_002.jpg</attr>
+			<attr name='sha'>40e18a3672f1ffcaa889d43598c72cecd1aea0ce</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

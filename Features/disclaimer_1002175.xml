@@ -1,0 +1,8 @@
+<feature id='1002175' type='disclaimer' cardinality='optional' >
+	<attr name='derived' livesite='false'>[1002175.derived]</attr>
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1002175.source]</attr>
+	<attr name='vtc' livesite='false'>[1002175.vtc]</attr>
+	<attr name='description' livesite='false'>[1002175.description]</attr>
+	<attr name='code'>req_nav_pkg</attr>
+</feature>

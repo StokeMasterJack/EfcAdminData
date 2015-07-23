@@ -1,0 +1,12 @@
+<feature id='1002654' type='disclaimer' cardinality='optional' >
+	<attr name='vtc' livesite='false'>[1002654.vtc]</attr>
+	<attr name='derived' livesite='false'>[1002654.derived]</attr>
+	<attr name='code'>corolla_ECO_2014_epa</attr>
+	<attr name='source' livesite='false'>[1002654.source]</attr>
+	<attr name='description' livesite='false'>[1002654.description]</attr>
+	<attr name='title'></attr>
+	<if id='1000851 1000855' >
+		<attr name='description' livesite='false'>[1002654.1000851.1000855.description]</attr>
+	</if>
+
+</feature>

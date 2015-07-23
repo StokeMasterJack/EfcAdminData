@@ -1,0 +1,161 @@
+<feature id='1001230' type='interiorcolor' scope='1000851 1000869 1000913, 1002622 1000869 1000912, 1000851 1000869 1000912, 1000851 1000869 1000915, 1002622 1000869 1000914, 1000851 1000869 1000914' cardinality='mandatory' >
+	<attr name='title'></attr>
+	<attr name='msrp'></attr>
+	<attr name='vtc' livesite='false'>[1001230.vtc]</attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='derived'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='source' livesite='false'>[1001230.source]</attr>
+	<attr name='code'>FA28</attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='description'></attr>
+	<if id='1000851 1000869 1000912' >
+		<attr name='materialtypeid'>[1001230.1000851.1000869.1000912.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001230.1000851.1000869.1000912.title]</attr>
+		<attr name='source' livesite='false'>[1001230.1000851.1000869.1000912.source]</attr>
+		<attr name='description'>[1001230.1000851.1000869.1000912.description]</attr>
+		<attr name='derived' livesite='false'>[1001230.1000851.1000869.1000912.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>venza_cmp_int_v08mp_LE_4Cyl_FWD_Black.002.jpg</attr>
+			<attr name='sha'>ca890230c2b4b3f15f5f6aebf8b73882b63d21b0</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>venza_cmp_int_v08mp_LE_4Cyl_FWD_Black.002.jpg</attr>
+			<attr name='sha'>5dbef9fc22dc7fa0203de4d09e5ac2c8b615ad6b</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>venza_cmp_int_v08mp_LE_4Cyl_FWD_Black.002.jpg</attr>
+			<attr name='sha'>d148270a0ffedb7afbc7cc06ff6a969f9a5d62ac</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000869 1000913' >
+		<attr name='materialtypeid'>[1001230.1000851.1000869.1000913.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001230.1000851.1000869.1000913.title]</attr>
+		<attr name='source' livesite='false'>[1001230.1000851.1000869.1000913.source]</attr>
+		<attr name='description'>[1001230.1000851.1000869.1000913.description]</attr>
+		<attr name='derived' livesite='false'>[1001230.1000851.1000869.1000913.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>venza_cmp_int_v08mp_LE_4Cyl_FWD_Black.002.jpg</attr>
+			<attr name='sha'>ca890230c2b4b3f15f5f6aebf8b73882b63d21b0</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>venza_cmp_int_v08mp_LE_4Cyl_FWD_Black.002.jpg</attr>
+			<attr name='sha'>5dbef9fc22dc7fa0203de4d09e5ac2c8b615ad6b</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>venza_cmp_int_v08mp_LE_4Cyl_FWD_Black.002.jpg</attr>
+			<attr name='sha'>d148270a0ffedb7afbc7cc06ff6a969f9a5d62ac</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000869 1000914' >
+		<attr name='materialtypeid'>[1001230.1000851.1000869.1000914.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001230.1000851.1000869.1000914.title]</attr>
+		<attr name='source' livesite='false'>[1001230.1000851.1000869.1000914.source]</attr>
+		<attr name='description'>[1001230.1000851.1000869.1000914.description]</attr>
+		<attr name='derived' livesite='false'>[1001230.1000851.1000869.1000914.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>venza_cmp_int_v08mp_LE_4Cyl_FWD_Black.002.jpg</attr>
+			<attr name='sha'>ca890230c2b4b3f15f5f6aebf8b73882b63d21b0</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>venza_cmp_int_v08mp_LE_4Cyl_FWD_Black.002.jpg</attr>
+			<attr name='sha'>5dbef9fc22dc7fa0203de4d09e5ac2c8b615ad6b</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>venza_cmp_int_v08mp_LE_4Cyl_FWD_Black.002.jpg</attr>
+			<attr name='sha'>d148270a0ffedb7afbc7cc06ff6a969f9a5d62ac</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000869 1000915' >
+		<attr name='materialtypeid'>[1001230.1000851.1000869.1000915.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001230.1000851.1000869.1000915.title]</attr>
+		<attr name='source' livesite='false'>[1001230.1000851.1000869.1000915.source]</attr>
+		<attr name='description'>[1001230.1000851.1000869.1000915.description]</attr>
+		<attr name='derived' livesite='false'>[1001230.1000851.1000869.1000915.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>venza_cmp_int_v08mp_LE_4Cyl_FWD_Black.002.jpg</attr>
+			<attr name='sha'>ca890230c2b4b3f15f5f6aebf8b73882b63d21b0</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>venza_cmp_int_v08mp_LE_4Cyl_FWD_Black.002.jpg</attr>
+			<attr name='sha'>5dbef9fc22dc7fa0203de4d09e5ac2c8b615ad6b</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>venza_cmp_int_v08mp_LE_4Cyl_FWD_Black.002.jpg</attr>
+			<attr name='sha'>d148270a0ffedb7afbc7cc06ff6a969f9a5d62ac</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000869 1000912' >
+		<attr name='materialtypeid'>[1001230.1002622.1000869.1000912.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001230.1002622.1000869.1000912.title]</attr>
+		<attr name='description'>[1001230.1002622.1000869.1000912.description]</attr>
+		<attr name='derived' livesite='false'>[1001230.1002622.1000869.1000912.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>venza_cmp_int_v08mp_LE_4Cyl_FWD_Black.002.jpg</attr>
+			<attr name='sha'>ca890230c2b4b3f15f5f6aebf8b73882b63d21b0</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>venza_cmp_int_v08mp_LE_4Cyl_FWD_Black.002.jpg</attr>
+			<attr name='sha'>5dbef9fc22dc7fa0203de4d09e5ac2c8b615ad6b</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>venza_cmp_int_v08mp_LE_4Cyl_FWD_Black.002.jpg</attr>
+			<attr name='sha'>d148270a0ffedb7afbc7cc06ff6a969f9a5d62ac</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000869 1000914' >
+		<attr name='materialtypeid'>[1001230.1002622.1000869.1000914.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001230.1002622.1000869.1000914.title]</attr>
+		<attr name='description'>[1001230.1002622.1000869.1000914.description]</attr>
+		<attr name='derived' livesite='false'>[1001230.1002622.1000869.1000914.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>venza_cmp_int_v08mp_LE_4Cyl_FWD_Black.002.jpg</attr>
+			<attr name='sha'>ca890230c2b4b3f15f5f6aebf8b73882b63d21b0</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>venza_cmp_int_v08mp_LE_4Cyl_FWD_Black.002.jpg</attr>
+			<attr name='sha'>5dbef9fc22dc7fa0203de4d09e5ac2c8b615ad6b</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>venza_cmp_int_v08mp_LE_4Cyl_FWD_Black.002.jpg</attr>
+			<attr name='sha'>d148270a0ffedb7afbc7cc06ff6a969f9a5d62ac</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

@@ -1,0 +1,8 @@
+<feature id='1002358' type='disclaimer' cardinality='optional' >
+	<attr name='derived' livesite='false'>[1002358.derived]</attr>
+	<attr name='source' livesite='false'>[1002358.source]</attr>
+	<attr name='description' livesite='false'>[1002358.description]</attr>
+	<attr name='vtc' livesite='false'>[1002358.vtc]</attr>
+	<attr name='code'>tundra_iihs</attr>
+	<attr name='title'></attr>
+</feature>

@@ -1,0 +1,56 @@
+<feature id='1002981' type='warranty' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='additionalinformation8'>[1002981.additionalinformation8]</attr>
+	<attr name='additionalinformation6'>[1002981.additionalinformation6]</attr>
+	<attr name='additionalinformation4'>[1002981.additionalinformation4]</attr>
+	<attr name='warrantyfield9'>[1002981.warrantyfield9]</attr>
+	<attr name='warrantyfield6'>[1002981.warrantyfield6]</attr>
+	<attr name='additionalinformation9'>[1002981.additionalinformation9]</attr>
+	<attr name='additionalinformation3'>[1002981.additionalinformation3]</attr>
+	<attr name='additionalinformation5'>[1002981.additionalinformation5]</attr>
+	<attr name='title' livesite='false'>[1002981.title]</attr>
+	<attr name='source'>[1002981.source]</attr>
+	<attr name='vtc' livesite='false'>[1002981.vtc]</attr>
+	<attr name='warrantyfield1'>[1002981.warrantyfield1]</attr>
+	<attr name='code'>toyotawarranty</attr>
+	<attr name='warrantyfield7'>[1002981.warrantyfield7]</attr>
+	<attr name='header' livesite='false'>[1002981.header]</attr>
+	<attr name='warrantyfield3'>[1002981.warrantyfield3]</attr>
+	<attr name='additionalinformation2'>[1002981.additionalinformation2]</attr>
+	<attr name='warrantyfield2'>[1002981.warrantyfield2]</attr>
+	<attr name='warrantyfield5'>[1002981.warrantyfield5]</attr>
+	<attr name='additionalinformation7'>[1002981.additionalinformation7]</attr>
+	<attr name='derived' livesite='false'>[1002981.derived]</attr>
+	<attr name='additionalinformation1'>[1002981.additionalinformation1]</attr>
+	<attr name='warrantyfield4'>[1002981.warrantyfield4]</attr>
+	<attr name='warrantyfield8'>[1002981.warrantyfield8]</attr>
+	<if id='1000851' >
+		<attr name='warrantyfield5' livesite='false'>[1002981.1000851.warrantyfield5]</attr>
+		<attr name='warrantyfield4' livesite='false'>[1002981.1000851.warrantyfield4]</attr>
+		<attr name='warrantyfield3' livesite='false'>[1002981.1000851.warrantyfield3]</attr>
+		<attr name='warrantyfield2' livesite='false'>[1002981.1000851.warrantyfield2]</attr>
+		<attr name='warrantyfield1' livesite='false'>[1002981.1000851.warrantyfield1]</attr>
+		<attr name='header' livesite='false'>[1002981.1000851.header]</attr>
+		<attr name='warrantyfield6' livesite='false'>[1002981.1000851.warrantyfield6]</attr>
+		<attr name='additionalinformation2' livesite='false'>[1002981.1000851.additionalinformation2]</attr>
+		<attr name='additionalinformation1' livesite='false'>[1002981.1000851.additionalinformation1]</attr>
+		<attr name='additionalinformation4' livesite='false'>[1002981.1000851.additionalinformation4]</attr>
+		<attr name='additionalinformation3' livesite='false'>[1002981.1000851.additionalinformation3]</attr>
+		<attr name='source' livesite='false'>[1002981.1000851.source]</attr>
+		<attr name='vtc' livesite='false'>[1002981.1000851.vtc]</attr>
+	</if>
+
+	<if id='1002622' >
+		<attr name='warrantyfield5' livesite='false'>[1002981.1002622.warrantyfield5]</attr>
+		<attr name='additionalinformation2' livesite='false'>[1002981.1002622.additionalinformation2]</attr>
+		<attr name='warrantyfield4' livesite='false'>[1002981.1002622.warrantyfield4]</attr>
+		<attr name='additionalinformation1' livesite='false'>[1002981.1002622.additionalinformation1]</attr>
+		<attr name='warrantyfield3' livesite='false'>[1002981.1002622.warrantyfield3]</attr>
+		<attr name='additionalinformation4' livesite='false'>[1002981.1002622.additionalinformation4]</attr>
+		<attr name='warrantyfield2' livesite='false'>[1002981.1002622.warrantyfield2]</attr>
+		<attr name='additionalinformation3' livesite='false'>[1002981.1002622.additionalinformation3]</attr>
+		<attr name='warrantyfield1' livesite='false'>[1002981.1002622.warrantyfield1]</attr>
+		<attr name='header' livesite='false'>[1002981.1002622.header]</attr>
+		<attr name='warrantyfield6' livesite='false'>[1002981.1002622.warrantyfield6]</attr>
+	</if>
+
+</feature>

@@ -1,0 +1,36 @@
+<feature id='1003293' type='grade' scope='1002622 1000859 1003292' cardinality='mandatory' >
+	<attr name='derived' livesite='false'>[1003293.derived]</attr>
+	<attr name='vtc' livesite='false'>[1003293.vtc]</attr>
+	<attr name='title'>[1003293.title]</attr>
+	<attr name='iconname'>[1003293.iconname]</attr>
+	<attr name='hotspot'>[1003293.hotspot]</attr>
+	<attr name='code'>priuspersona</attr>
+	<attr name='availablecopy'>[1003293.availablecopy]</attr>
+	<attr name='keyword'>[1003293.keyword]</attr>
+	<attr name='description'>[1003293.description]</attr>
+	<attr name='source'>[1003293.source]</attr>
+	<attr name='copyblock'>[1003293.copyblock]</attr>
+	<attr name='images'></attr>
+	<attr name='mpg'>[1003293.mpg]</attr>
+	<if id='1002622 1000859 1003292' >
+		<attr name='availablecopy'>[1003293.1002622.1000859.1003292.availablecopy]</attr>
+		<attr name='title' livesite='false'>[1003293.1002622.1000859.1003292.title]</attr>
+		<attr name='mpg'>[1003293.1002622.1000859.1003292.mpg]</attr>
+		<attr name='iconname'>[1003293.1002622.1000859.1003292.iconname]</attr>
+		<attr name='source' livesite='false'>[1003293.1002622.1000859.1003292.source]</attr>
+		<attr name='copyblock' livesite='false'>[1003293.1002622.1000859.1003292.copyblock]</attr>
+		<attr name='description'>[1003293.1002622.1000859.1003292.description]</attr>
+		<attr name='keyword'>[1003293.1002622.1000859.1003292.keyword]</attr>
+		<attr name='derived' livesite='false'>[1003293.1002622.1000859.1003292.derived]</attr>
+		<attr name='vtc' livesite='false'>[1003293.1002622.1000859.1003292.vtc]</attr>
+		<attr name='hotspot'>[1003293.1002622.1000859.1003292.hotspot]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Prius_ext_Persona_03P0.png</attr>
+			<attr name='sha'>2f86d7cb43b24dfe5a3b298a00c3144d4f7f5011</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

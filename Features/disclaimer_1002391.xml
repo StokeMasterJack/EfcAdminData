@@ -1,0 +1,8 @@
+<feature id='1002391' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='code'>venza_navigation</attr>
+	<attr name='derived' livesite='false'>[1002391.derived]</attr>
+	<attr name='source' livesite='false'>[1002391.source]</attr>
+	<attr name='vtc' livesite='false'>[1002391.vtc]</attr>
+	<attr name='description' livesite='false'>[1002391.description]</attr>
+</feature>

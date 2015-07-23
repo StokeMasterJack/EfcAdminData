@@ -1,0 +1,16 @@
+<feature id='1002345' type='disclaimer' cardinality='optional' >
+	<attr name='vtc' livesite='false'>[1002345.vtc]</attr>
+	<attr name='title'></attr>
+	<attr name='code'>tundra_exp_pay</attr>
+	<attr name='derived' livesite='false'>[1002345.derived]</attr>
+	<attr name='source' livesite='false'>[1002345.source]</attr>
+	<attr name='description' livesite='false'>[1002345.description]</attr>
+	<if id='1000851' >
+		<attr name='description' livesite='false'>[1002345.1000851.description]</attr>
+	</if>
+
+	<if id='1002622' >
+		<attr name='description' livesite='false'>[1002345.1002622.description]</attr>
+	</if>
+
+</feature>

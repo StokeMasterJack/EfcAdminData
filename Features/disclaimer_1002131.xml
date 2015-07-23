@@ -1,0 +1,8 @@
+<feature id='1002131' type='disclaimer' cardinality='optional' >
+	<attr name='derived' livesite='false'>[1002131.derived]</attr>
+	<attr name='code'>prius_ventilation</attr>
+	<attr name='source' livesite='false'>[1002131.source]</attr>
+	<attr name='vtc' livesite='false'>[1002131.vtc]</attr>
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1002131.description]</attr>
+</feature>

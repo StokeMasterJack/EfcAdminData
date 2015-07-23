@@ -1,0 +1,8 @@
+<feature id='1001896' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1001896.source]</attr>
+	<attr name='title'></attr>
+	<attr name='code'>ichoice_11_3_door</attr>
+	<attr name='derived' livesite='false'>[1001896.derived]</attr>
+	<attr name='description' livesite='false'>[1001896.description]</attr>
+	<attr name='vtc' livesite='false'>[1001896.vtc]</attr>
+</feature>

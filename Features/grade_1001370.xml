@@ -1,0 +1,23 @@
+<feature id='1001370' type='grade' cardinality='optional' >
+	<attr name='mpg'>[1001370.mpg]</attr>
+	<attr name='code'>Splus</attr>
+	<attr name='iconname'></attr>
+	<attr name='copyblock'>[1001370.copyblock]</attr>
+	<attr name='availablecopy'>[1001370.availablecopy]</attr>
+	<attr name='keyword'>[1001370.keyword]</attr>
+	<attr name='derived' livesite='false'>[1001370.derived]</attr>
+	<attr name='images'></attr>
+	<attr name='hotspot'></attr>
+	<attr name='source' livesite='false'>[1001370.source]</attr>
+	<attr name='title' livesite='false'>[1001370.title]</attr>
+	<attr name='description'>[1001370.description]</attr>
+	<attr name='vtc' livesite='false'>[1001370.vtc]</attr>
+	<if id='1000851 1000855 1000897' >
+		<attr name='title' livesite='false'>[1001370.1000851.1000855.1000897.title]</attr>
+	</if>
+
+	<if id='1000851 1000855 1000898' >
+		<attr name='title' livesite='false'>[1001370.1000851.1000855.1000898.title]</attr>
+	</if>
+
+</feature>

@@ -1,0 +1,8 @@
+<feature id='1002279' type='disclaimer' cardinality='optional' >
+	<attr name='derived' livesite='false'>[1002279.derived]</attr>
+	<attr name='description' livesite='false'>[1002279.description]</attr>
+	<attr name='source' livesite='false'>[1002279.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1002279.vtc]</attr>
+	<attr name='code'>tcuv_firstuse</attr>
+</feature>

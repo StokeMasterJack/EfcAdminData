@@ -1,0 +1,78 @@
+<feature id='1000858' type='series' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='attachment'></attr>
+	<attr name='background'></attr>
+	<attr name='code'>landcruiser</attr>
+	<attr name='comparemodel'></attr>
+	<attr name='defaultmodel'></attr>
+	<attr name='derived'>[1000858.derived]</attr>
+	<attr name='description'>[1000858.description]</attr>
+	<attr name='source'>[1000858.source]</attr>
+	<attr name='title' livesite='false'>[1000858.title]</attr>
+	<attr name='vtc'>[1000858.vtc]</attr>
+	<if id='1000851' disclaimers='1002417 1002411 1001754 1002101 1001717 1002415 1002414 1002412 1002031 1002807 1002221 1001793 1002226 1002225 1002394 1002191 1002325 1001768 1002287 1001767 1001864 1002368 1001887 1001743 1001867 1001869 1001868 1002044 1001602 1001956 1001643 1001681 1001646 1002664 1002286 1001952' >
+		<attr name='defaultmodel'>[1000858.1000851.defaultmodel]</attr>
+		<attr name='derived'>[1000858.1000851.derived]</attr>
+		<attr name='description'>[1000858.1000851.description]</attr>
+		<attr name='source'>[1000858.1000851.source]</attr>
+		<attr name='title' livesite='false'>[1000858.1000851.title]</attr>
+		<attr name='vtc'>[1000858.1000851.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>EFC Background _0016_Land Cruiser.jpg</attr>
+			<attr name='sha'>3ef741d93c13eaad127df106c37a94958c0db72c</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>StandardFeaturesLandCruiser.xml</attr>
+			<attr name='sha'>dcffad9455bbfa53259b4df904c3e1f14817902d</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>LandCruiserCompareModel_TMS_CPD_20140710v1.json</attr>
+			<attr name='sha'>7f25531c15171fa0b1782d17245be31076425521</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622' disclaimers='1002417 1002416 1002411 1001754 1002101 1001717 1002415 1002414 1002413 1002412 1002031 1002221 1002058 1002226 1002225 1002394 1002191 1002633 1002325 1002322 1001768 1002287 1001767 1001864 1002368 1001887 1001743 1001867 1003251 1002629 1001869 1002044 1001868 1001602 1001956 1001643 1001681 1002314 1001646 1002664 1002286 1001952' >
+		<attr name='defaultmodel'>[1000858.1002622.defaultmodel]</attr>
+		<attr name='derived' livesite='false'>[1000858.1002622.derived]</attr>
+		<attr name='description'>[1000858.1002622.description]</attr>
+		<attr name='source'>[1000858.1002622.source]</attr>
+		<attr name='vtc' livesite='false'>[1000858.1002622.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>EFC_Background_0016_LandCruiser.jpg</attr>
+			<attr name='sha'>3ef741d93c13eaad127df106c37a94958c0db72c</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>StandardFeaturesLandCruiser2015.xml</attr>
+			<attr name='sha'>851744313c5d445c896e5663d93ff5f78a3e56c3</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>2015LandCruiserCompareModel_TMS_CPD_20140716v1.json</attr>
+			<attr name='sha'>30f740a0540514f04132b929d3e49e7ff50ad86f</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>mediumbackground</attr>
+			<attr name='name'>EFC-background_0016_Land_Cruiser_1024.jpg</attr>
+			<attr name='sha'>2ae5dcc4240505a39821afa9a00d9e01e30c69ca</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>smallbackground</attr>
+			<attr name='name'>EFC-background_0016_Land_Cruiser_480.jpg</attr>
+			<attr name='sha'>4038470d38cfceb0ae87eaf51308e5c03a366be8</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>largebackground</attr>
+			<attr name='name'>EFC-background_0016_Land-Cruiser_1500.jpg</attr>
+			<attr name='sha'>1a5917e3135fcef18341a5f9b9357e0768554d25</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

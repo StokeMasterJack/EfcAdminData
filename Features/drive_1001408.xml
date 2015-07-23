@@ -1,0 +1,19 @@
+<feature id='1001408' type='drive' scope='1000851 1000856 1000937' cardinality='mandatory' >
+	<attr name='vtc' livesite='false'>[1001408.vtc]</attr>
+	<attr name='iconname'></attr>
+	<attr name='title' livesite='false'>[1001408.title]</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='code'>4x4MT</attr>
+	<attr name='source' livesite='false'>[1001408.source]</attr>
+	<attr name='images'></attr>
+	<attr name='hotspot'></attr>
+	<attr name='bulletlist'></attr>
+	<if id='1000851 1000856 1000937' >
+		<attr name='title' livesite='false'>[1001408.1000851.1000856.1000937.title]</attr>
+		<attr name='iconname' livesite='false'>[1001408.1000851.1000856.1000937.iconname]</attr>
+		<attr name='bulletlist' livesite='false'>[1001408.1000851.1000856.1000937.bulletlist]</attr>
+		<attr name='hotspot' livesite='false'>[1001408.1000851.1000856.1000937.hotspot]</attr>
+	</if>
+
+</feature>

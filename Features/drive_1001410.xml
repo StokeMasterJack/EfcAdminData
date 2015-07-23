@@ -1,0 +1,38 @@
+<feature id='1001410' type='drive' scope='1000851 1000857 1000959, 1002622 1000857 1000959, 1002622 1000857 1000960, 1000851 1000857 1000960' cardinality='mandatory' >
+	<attr name='hotspot'></attr>
+	<attr name='iconname'></attr>
+	<attr name='bulletlist'></attr>
+	<attr name='description'></attr>
+	<attr name='derived'></attr>
+	<attr name='vtc'>[1001410.vtc]</attr>
+	<attr name='title'>[1001410.title]</attr>
+	<attr name='images'></attr>
+	<attr name='source'>[1001410.source]</attr>
+	<attr name='code'>hybrid</attr>
+	<if id='1000851 1000857 1000959' >
+		<attr name='title'>[1001410.1000851.1000857.1000959.title]</attr>
+		<attr name='iconname'>[1001410.1000851.1000857.1000959.iconname]</attr>
+		<attr name='bulletlist'>[1001410.1000851.1000857.1000959.bulletlist]</attr>
+		<attr name='hotspot'>[1001410.1000851.1000857.1000959.hotspot]</attr>
+	</if>
+
+	<if id='1000851 1000857 1000960' >
+		<attr name='title'>[1001410.1000851.1000857.1000960.title]</attr>
+		<attr name='iconname'>[1001410.1000851.1000857.1000960.iconname]</attr>
+		<attr name='bulletlist'>[1001410.1000851.1000857.1000960.bulletlist]</attr>
+		<attr name='hotspot'>[1001410.1000851.1000857.1000960.hotspot]</attr>
+	</if>
+
+	<if id='1002622 1000857 1000959' >
+		<attr name='iconname' livesite='false'>[1001410.1002622.1000857.1000959.iconname]</attr>
+		<attr name='bulletlist' livesite='false'>[1001410.1002622.1000857.1000959.bulletlist]</attr>
+		<attr name='hotspot' livesite='false'>[1001410.1002622.1000857.1000959.hotspot]</attr>
+	</if>
+
+	<if id='1002622 1000857 1000960' >
+		<attr name='iconname' livesite='false'>[1001410.1002622.1000857.1000960.iconname]</attr>
+		<attr name='bulletlist' livesite='false'>[1001410.1002622.1000857.1000960.bulletlist]</attr>
+		<attr name='hotspot' livesite='false'>[1001410.1002622.1000857.1000960.hotspot]</attr>
+	</if>
+
+</feature>

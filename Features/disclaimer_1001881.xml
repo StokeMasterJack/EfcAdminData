@@ -1,0 +1,8 @@
+<feature id='1001881' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1001881.description]</attr>
+	<attr name='source' livesite='false'>[1001881.source]</attr>
+	<attr name='vtc' livesite='false'>[1001881.vtc]</attr>
+	<attr name='title'></attr>
+	<attr name='derived' livesite='false'>[1001881.derived]</attr>
+	<attr name='code'>highlander_lp</attr>
+</feature>

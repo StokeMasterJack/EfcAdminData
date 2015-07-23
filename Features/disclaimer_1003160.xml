@@ -1,0 +1,12 @@
+<feature id='1003160' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1003160.vtc]</attr>
+	<attr name='description' livesite='false'>[1003160.description]</attr>
+	<attr name='derived'></attr>
+	<attr name='source' livesite='false'>[1003160.source]</attr>
+	<attr name='code'>2012_LANDCRUISER_4</attr>
+	<if id='1002622' >
+		<attr name='description' livesite='false'>[1003160.1002622.description]</attr>
+	</if>
+
+</feature>

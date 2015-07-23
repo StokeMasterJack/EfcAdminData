@@ -1,0 +1,8 @@
+<feature id='1001772' type='disclaimer' cardinality='optional' >
+	<attr name='code'>Entune_launch</attr>
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1001772.description]</attr>
+	<attr name='vtc' livesite='false'>[1001772.vtc]</attr>
+	<attr name='source' livesite='false'>[1001772.source]</attr>
+	<attr name='derived' livesite='false'>[1001772.derived]</attr>
+</feature>

@@ -1,0 +1,5 @@
+<feature id='bodytypeRanking' type='group' cardinality='optional' childtypes='bodytype' vta='false' >
+	<if id='1000867' children='1002425' >
+	</if>
+
+</feature>

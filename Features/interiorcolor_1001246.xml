@@ -1,0 +1,113 @@
+<feature id='1001246' type='interiorcolor' scope='1002622 1000859 1000876, 1002622 1000859 1000875, 1000851 1000859 1000875, 1000851 1000859 1000876' cardinality='mandatory' >
+	<attr name='code'>FB60</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1001246.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001246.vtc]</attr>
+	<if id='1000851 1000859 1000875' >
+		<attr name='derived' livesite='false'>[1001246.1000851.1000859.1000875.derived]</attr>
+		<attr name='description'>[1001246.1000851.1000859.1000875.description]</attr>
+		<attr name='materialtypeid'>[1001246.1000851.1000859.1000875.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001246.1000851.1000859.1000875.source]</attr>
+		<attr name='title' livesite='false'>[1001246.1000851.1000859.1000875.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>Prius_int_cmp_v35jc_2_MistyGray.002.jpg</attr>
+			<attr name='sha'>d581ea376f01a14800a7477516bacab13fc4ff6b</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>Prius_int_cmp_v35jc_2_MistyGray.002.jpg</attr>
+			<attr name='sha'>ab365c89de76a6c5015b87dd0315ebedb291868b</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>Prius_int_cmp_v35jc_2_MistyGray.002.jpg</attr>
+			<attr name='sha'>f7d9b7998769c4c2b1f872e25c6aa48b85110026</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000859 1000876' >
+		<attr name='derived' livesite='false'>[1001246.1000851.1000859.1000876.derived]</attr>
+		<attr name='description'>[1001246.1000851.1000859.1000876.description]</attr>
+		<attr name='materialtypeid'>[1001246.1000851.1000859.1000876.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001246.1000851.1000859.1000876.source]</attr>
+		<attr name='title' livesite='false'>[1001246.1000851.1000859.1000876.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>Prius_int_cmp_v35jc_3_MistyGray.002.jpg</attr>
+			<attr name='sha'>1830a1cb1be3e27539f43da6cddb3b9979fafb97</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>Prius_int_cmp_v35jc_3_MistyGray.002.jpg</attr>
+			<attr name='sha'>3f1db4cc8270d4edeb10385715972bb4d7bd2bc0</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>Prius_int_cmp_v35jc_3_MistyGray.002.jpg</attr>
+			<attr name='sha'>f7d9b7998769c4c2b1f872e25c6aa48b85110026</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000859 1000875' >
+		<attr name='derived' livesite='false'>[1001246.1002622.1000859.1000875.derived]</attr>
+		<attr name='description'>[1001246.1002622.1000859.1000875.description]</attr>
+		<attr name='materialtypeid'>[1001246.1002622.1000859.1000875.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001246.1002622.1000859.1000875.source]</attr>
+		<attr name='title' livesite='false'>[1001246.1002622.1000859.1000875.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>prius_int_2_Misty_Gray_v026_hd_002.jpg</attr>
+			<attr name='sha'>572201db83fc67f95422a79beb8c7840cc77627b</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>prius_int_3_Misty_Gray_v026_hd_002.jpg</attr>
+			<attr name='sha'>9cbb578f6fb4c4058b90648556bdb7ba86b15034</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>prius_int_2_Misty_Gray_v026_hd_002.jpg</attr>
+			<attr name='sha'>5253b2f98e220fadf76ea9d42c6c9ba09daa40d2</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000859 1000876' >
+		<attr name='derived' livesite='false'>[1001246.1002622.1000859.1000876.derived]</attr>
+		<attr name='description'>[1001246.1002622.1000859.1000876.description]</attr>
+		<attr name='materialtypeid'>[1001246.1002622.1000859.1000876.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001246.1002622.1000859.1000876.source]</attr>
+		<attr name='title' livesite='false'>[1001246.1002622.1000859.1000876.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>prius_int_2_Misty_Gray_v026_hd_002.jpg</attr>
+			<attr name='sha'>572201db83fc67f95422a79beb8c7840cc77627b</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>prius_int_3_Misty_Gray_v026_hd_002.jpg</attr>
+			<attr name='sha'>9cbb578f6fb4c4058b90648556bdb7ba86b15034</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>prius_int_3_Misty_Gray_v026_hd_002.jpg</attr>
+			<attr name='sha'>5253b2f98e220fadf76ea9d42c6c9ba09daa40d2</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

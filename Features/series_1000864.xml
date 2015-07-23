@@ -1,0 +1,30 @@
+<feature id='1000864' type='series' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='attachment'></attr>
+	<attr name='background'></attr>
+	<attr name='code'>rav4ev</attr>
+	<attr name='comparemodel'></attr>
+	<attr name='defaultmodel'></attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='source'></attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1000864.vtc]</attr>
+	<if id='1000851' >
+		<attr name='defaultmodel'>[1000864.1000851.defaultmodel]</attr>
+		<attr name='derived' livesite='false'>[1000864.1000851.derived]</attr>
+		<attr name='description' livesite='false'>[1000864.1000851.description]</attr>
+		<attr name='source' livesite='false'>[1000864.1000851.source]</attr>
+		<attr name='title' livesite='false'>[1000864.1000851.title]</attr>
+		<attr name='vtc' livesite='false'>[1000864.1000851.vtc]</attr>
+	</if>
+
+	<if id='1002622' >
+		<attr name='defaultmodel'>[1000864.1002622.defaultmodel]</attr>
+		<attr name='derived' livesite='false'>[1000864.1002622.derived]</attr>
+		<attr name='description'>[1000864.1002622.description]</attr>
+		<attr name='source'>[1000864.1002622.source]</attr>
+		<attr name='title'>[1000864.1002622.title]</attr>
+		<attr name='vtc' livesite='false'>[1000864.1002622.vtc]</attr>
+	</if>
+
+</feature>

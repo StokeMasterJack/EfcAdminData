@@ -1,0 +1,59 @@
+<feature id='1001577' type='grade' scope='1002622 1000852 1001034, 1000851 1000852 1001034' cardinality='mandatory' >
+	<attr name='availablecopy'>[1001577.availablecopy]</attr>
+	<attr name='code'>trailpremium</attr>
+	<attr name='copyblock'>[1001577.copyblock]</attr>
+	<attr name='derived'>[1001577.derived]</attr>
+	<attr name='description'>[1001577.description]</attr>
+	<attr name='hotspot'></attr>
+	<attr name='iconname'></attr>
+	<attr name='images'></attr>
+	<attr name='keyword'>[1001577.keyword]</attr>
+	<attr name='mpg'>[1001577.mpg]</attr>
+	<attr name='source'>[1001577.source]</attr>
+	<attr name='title'>[1001577.title]</attr>
+	<attr name='vtc'>[1001577.vtc]</attr>
+	<if id='1000851 1000852 1001034' >
+		<attr name='availablecopy' livesite='false'>[1001577.1000851.1000852.1001034.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001577.1000851.1000852.1001034.copyblock]</attr>
+		<attr name='description'>[1001577.1000851.1000852.1001034.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001577.1000851.1000852.1001034.hotspot]</attr>
+		<attr name='iconname'>[1001577.1000851.1000852.1001034.iconname]</attr>
+		<attr name='keyword'>[1001577.1000851.1000852.1001034.keyword]</attr>
+		<attr name='mpg'>[1001577.1000851.1000852.1001034.mpg]</attr>
+		<attr name='source'>[1001577.1000851.1000852.1001034.source]</attr>
+		<attr name='title'>[1001577.1000851.1000852.1001034.title]</attr>
+		<attr name='vtc'>[1001577.1000851.1000852.1001034.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_4runner_Trail_Prem.png</attr>
+			<attr name='sha'>0dbb2189b949163ab0ff0b90c0fcfcdcf07f9565</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000852 1001034' >
+		<attr name='availablecopy' livesite='false'>[1001577.1002622.1000852.1001034.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001577.1002622.1000852.1001034.copyblock]</attr>
+		<attr name='description'>[1001577.1002622.1000852.1001034.description]</attr>
+		<attr name='hotspot'>[1001577.1002622.1000852.1001034.hotspot]</attr>
+		<attr name='iconname'>[1001577.1002622.1000852.1001034.iconname]</attr>
+		<attr name='keyword'>[1001577.1002622.1000852.1001034.keyword]</attr>
+		<attr name='mpg'>[1001577.1002622.1000852.1001034.mpg]</attr>
+		<attr name='source'>[1001577.1002622.1000852.1001034.source]</attr>
+		<attr name='title'>[1001577.1002622.1000852.1001034.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>4Runner_ext_Trail_Premium_03R3.png</attr>
+			<attr name='sha'>88e187c4321a990667c77d53b80131c64db2186a</attr>
+		</complextype>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>4Runner_ext_Trail_Premium_03R3.png</attr>
+			<attr name='sha'>a3a8c159e31f7074822a82e108360a5733fc4fba</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

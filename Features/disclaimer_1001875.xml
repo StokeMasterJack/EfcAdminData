@@ -1,0 +1,16 @@
+<feature id='1001875' type='disclaimer' cardinality='optional' >
+	<attr name='code'>highlander_ichoice_12</attr>
+	<attr name='derived' livesite='false'>[1001875.derived]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001875.vtc]</attr>
+	<attr name='description' livesite='false'>[1001875.description]</attr>
+	<attr name='source' livesite='false'>[1001875.source]</attr>
+	<if id='1000851' >
+		<attr name='description' livesite='false'>[1001875.1000851.description]</attr>
+	</if>
+
+	<if id='1002622' >
+		<attr name='description' livesite='false'>[1001875.1002622.description]</attr>
+	</if>
+
+</feature>

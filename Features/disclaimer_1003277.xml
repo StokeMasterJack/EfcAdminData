@@ -1,0 +1,8 @@
+<feature id='1003277' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1003277.description]</attr>
+	<attr name='vtc' livesite='false'>[1003277.vtc]</attr>
+	<attr name='source' livesite='false'>[1003277.source]</attr>
+	<attr name='derived'></attr>
+	<attr name='code'>tundra_double_cab_intellichoice_2014</attr>
+</feature>

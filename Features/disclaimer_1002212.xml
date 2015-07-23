@@ -1,0 +1,8 @@
+<feature id='1002212' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1002212.vtc]</attr>
+	<attr name='description' livesite='false'>[1002212.description]</attr>
+	<attr name='source' livesite='false'>[1002212.source]</attr>
+	<attr name='derived' livesite='false'>[1002212.derived]</attr>
+	<attr name='code'>sienna_ichoice2_12</attr>
+</feature>

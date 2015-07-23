@@ -1,0 +1,12 @@
+<feature id='1003234' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1003234.vtc]</attr>
+	<attr name='code'>2013TACOMA_3</attr>
+	<attr name='source' livesite='false'>[1003234.source]</attr>
+	<attr name='description' livesite='false'>[1003234.description]</attr>
+	<attr name='derived'></attr>
+	<if id='1002622' >
+		<attr name='description' livesite='false'>[1003234.1002622.description]</attr>
+	</if>
+
+</feature>

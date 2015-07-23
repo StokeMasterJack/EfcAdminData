@@ -1,0 +1,8 @@
+<feature id='1001656' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1001656.source]</attr>
+	<attr name='code'>brand_4_NHTSA</attr>
+	<attr name='vtc' livesite='false'>[1001656.vtc]</attr>
+	<attr name='derived' livesite='false'>[1001656.derived]</attr>
+	<attr name='description' livesite='false'>[1001656.description]</attr>
+	<attr name='title'></attr>
+</feature>

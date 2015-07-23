@@ -1,0 +1,8 @@
+<feature id='1001793' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1001793.source]</attr>
+	<attr name='code'>epa_2013</attr>
+	<attr name='description' livesite='false'>[1001793.description]</attr>
+	<attr name='derived' livesite='false'>[1001793.derived]</attr>
+	<attr name='vtc' livesite='false'>[1001793.vtc]</attr>
+</feature>

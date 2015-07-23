@@ -1,0 +1,8 @@
+<feature id='1003123' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='code'>2012_4runner_1</attr>
+	<attr name='derived'></attr>
+	<attr name='source' livesite='false'>[1003123.source]</attr>
+	<attr name='description' livesite='false'>[1003123.description]</attr>
+	<attr name='vtc' livesite='false'>[1003123.vtc]</attr>
+</feature>

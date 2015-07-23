@@ -1,0 +1,8 @@
+<feature id='1001809' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1001809.source]</attr>
+	<attr name='vtc' livesite='false'>[1001809.vtc]</attr>
+	<attr name='title'></attr>
+	<attr name='derived' livesite='false'>[1001809.derived]</attr>
+	<attr name='description' livesite='false'>[1001809.description]</attr>
+	<attr name='code'>ev_remote_climate</attr>
+</feature>

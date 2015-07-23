@@ -1,0 +1,8 @@
+<feature id='1001737' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1001737.description]</attr>
+	<attr name='source' livesite='false'>[1001737.source]</attr>
+	<attr name='vtc' livesite='false'>[1001737.vtc]</attr>
+	<attr name='code'>corolla_not_base</attr>
+	<attr name='derived' livesite='false'>[1001737.derived]</attr>
+	<attr name='title'></attr>
+</feature>

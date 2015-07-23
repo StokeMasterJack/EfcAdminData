@@ -1,0 +1,122 @@
+<feature id='1003079' type='interiorcolor' scope='1002622 1000866 1000945, 1002622 1000866 1004147, 1002622 1000866 1004145, 1002622 1000866 1000942, 1002622 1000866 1000943' cardinality='mandatory' >
+	<attr name='code'>LC42</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1003079.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1003079.vtc]</attr>
+	<if id='1002622 1000866 1000942' >
+		<attr name='derived' livesite='false'>[1003079.1002622.1000866.1000942.derived]</attr>
+		<attr name='description'>[1003079.1002622.1000866.1000942.description]</attr>
+		<attr name='materialtypeid'>[1003079.1002622.1000866.1000942.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003079.1002622.1000866.1000942.source]</attr>
+		<attr name='title' livesite='false'>[1003079.1002622.1000866.1000942.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sienna_int_XLE_Dark_Bisque_v055_hd_002.jpg</attr>
+			<attr name='sha'>69d4f8541680559ed7f526be4dd7a623180245b3</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sienna_int_XLE_Dark_Bisque_v055_hd_002.jpg</attr>
+			<attr name='sha'>1b7f9d2683e4c8540b054ca401a3b4b685093b59</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sienna_int_XLE_Dark_Bisque_v055_hd_002.jpg</attr>
+			<attr name='sha'>f6c8f90cc8e09804976e1eba9338f046bd029445</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1000943' >
+		<attr name='derived' livesite='false'>[1003079.1002622.1000866.1000943.derived]</attr>
+		<attr name='description'>[1003079.1002622.1000866.1000943.description]</attr>
+		<attr name='materialtypeid'>[1003079.1002622.1000866.1000943.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003079.1002622.1000866.1000943.source]</attr>
+		<attr name='title'>[1003079.1002622.1000866.1000943.title]</attr>
+		<attr name='vtc' livesite='false'>[1003079.1002622.1000866.1000943.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000866 1000945' >
+		<attr name='derived' livesite='false'>[1003079.1002622.1000866.1000945.derived]</attr>
+		<attr name='description'>[1003079.1002622.1000866.1000945.description]</attr>
+		<attr name='materialtypeid'>[1003079.1002622.1000866.1000945.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003079.1002622.1000866.1000945.source]</attr>
+		<attr name='title' livesite='false'>[1003079.1002622.1000866.1000945.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sienna_int_XLE_Dark_Bisque_v055_hd_002.jpg</attr>
+			<attr name='sha'>69d4f8541680559ed7f526be4dd7a623180245b3</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sienna_int_XLE_Dark_Bisque_v055_hd_002.jpg</attr>
+			<attr name='sha'>1b7f9d2683e4c8540b054ca401a3b4b685093b59</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sienna_int_XLE_Dark_Bisque_v055_hd_002.jpg</attr>
+			<attr name='sha'>f6c8f90cc8e09804976e1eba9338f046bd029445</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1004145' >
+		<attr name='derived' livesite='false'>[1003079.1002622.1000866.1004145.derived]</attr>
+		<attr name='description'>[1003079.1002622.1000866.1004145.description]</attr>
+		<attr name='materialtypeid'>[1003079.1002622.1000866.1004145.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003079.1002622.1000866.1004145.source]</attr>
+		<attr name='title' livesite='false'>[1003079.1002622.1000866.1004145.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sienna_int_XLE_Dark_Bisque_v055_hd_002.jpg</attr>
+			<attr name='sha'>69d4f8541680559ed7f526be4dd7a623180245b3</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sienna_int_XLE_Dark_Bisque_v055_hd_002.jpg</attr>
+			<attr name='sha'>1b7f9d2683e4c8540b054ca401a3b4b685093b59</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sienna_int_XLE_Dark_Bisque_v055_hd_002.jpg</attr>
+			<attr name='sha'>f6c8f90cc8e09804976e1eba9338f046bd029445</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1004147' >
+		<attr name='derived' livesite='false'>[1003079.1002622.1000866.1004147.derived]</attr>
+		<attr name='description'>[1003079.1002622.1000866.1004147.description]</attr>
+		<attr name='materialtypeid'>[1003079.1002622.1000866.1004147.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003079.1002622.1000866.1004147.source]</attr>
+		<attr name='title' livesite='false'>[1003079.1002622.1000866.1004147.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sienna_int_XLE_Dark_Bisque_v055_hd_002.jpg</attr>
+			<attr name='sha'>69d4f8541680559ed7f526be4dd7a623180245b3</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sienna_int_XLE_Dark_Bisque_v055_hd_002.jpg</attr>
+			<attr name='sha'>1b7f9d2683e4c8540b054ca401a3b4b685093b59</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sienna_int_XLE_Dark_Bisque_v055_hd_002.jpg</attr>
+			<attr name='sha'>f6c8f90cc8e09804976e1eba9338f046bd029445</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

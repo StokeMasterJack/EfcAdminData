@@ -1,0 +1,7 @@
+<feature id='1002551' type='abstractfeatures' scope='1000851' cardinality='mandatory' >
+	<attr name='code' livesite='false'>Safetyconnect</attr>
+	<attr name='derived' livesite='false'>[1002551.derived]</attr>
+	<attr name='source' livesite='false'>[1002551.source]</attr>
+	<attr name='title' livesite='false'>[1002551.title]</attr>
+	<attr name='vtc' livesite='false'>[1002551.vtc]</attr>
+</feature>

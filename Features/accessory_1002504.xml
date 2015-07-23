@@ -1,0 +1,414 @@
+<feature id='1002504' type='accessory' scope='1000851 1000855 1000895, 1000851 1000855 1000894, 1000851 1000855 1000891, 1000851 1000855 1000893, 1000851 1000855 1000892, 1000851 1000855 1000899, 1000851 1000855 1000901, 1000851 1000855 1000900, 1000851 1000855 1000897, 1000851 1000855 1000896, 1000851 1000855 1000902, 1000851 1000856' cardinality='mandatory' >
+	<attr name='alacarte'>[1002504.alacarte]</attr>
+	<attr name='code'>dio7</attr>
+	<attr name='derived'>[1002504.derived]</attr>
+	<attr name='description'>[1002504.description]</attr>
+	<attr name='fullimage'></attr>
+	<attr name='group' livesite='false'>[1002504.group]</attr>
+	<attr name='keyfeatures'>[1002504.keyfeatures]</attr>
+	<attr name='marketingeffectivedate'>[1002504.marketingeffectivedate]</attr>
+	<attr name='msrp'></attr>
+	<attr name='option'>[1002504.option]</attr>
+	<attr name='package'>[1002504.package]</attr>
+	<attr name='pnglayeringinclusionkey'>[1002504.pnglayeringinclusionkey]</attr>
+	<attr name='secondaryfeatures'>[1002504.secondaryfeatures]</attr>
+	<attr name='source'>[1002504.source]</attr>
+	<attr name='specialexteriorcolorflag'>[1002504.specialexteriorcolorflag]</attr>
+	<attr name='specialinteriorcolorflag'>[1002504.specialinteriorcolorflag]</attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'>[1002504.title]</attr>
+	<attr name='type'>[1002504.type]</attr>
+	<attr name='videokey'>[1002504.videokey]</attr>
+	<attr name='viewpointkey'>[1002504.viewpointkey]</attr>
+	<attr name='vtc'>[1002504.vtc]</attr>
+	<if id='1000851 1000855' >
+		<attr name='description' livesite='false'>[1002504.1000851.1000855.description]</attr>
+		<attr name='group' livesite='false'>[1002504.1000851.1000855.group]</attr>
+		<attr name='msrp' livesite='false'>[1002504.1000851.1000855.msrp]</attr>
+		<attr name='title' livesite='false'>[1002504.1000851.1000855.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>COROLLA_2014_PaintProtectionFilm_bumper_D.jpg</attr>
+			<attr name='sha'>f91b82d4a661ba65ae8c17ba99d135782710b842</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>COROLLA_2014_PaintProtectionFilm_bumper_D.jpg</attr>
+			<attr name='sha'>2356d0f180df507fa012eb8307996621a0bf5f83</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000856' >
+		<attr name='alacarte'>[1002504.1000851.1000856.alacarte]</attr>
+		<attr name='description'>[1002504.1000851.1000856.description]</attr>
+		<attr name='group'>[1002504.1000851.1000856.group]</attr>
+		<attr name='source'>[1002504.1000851.1000856.source]</attr>
+		<attr name='title'>[1002504.1000851.1000856.title]</attr>
+		<attr name='type'>[1002504.1000851.1000856.type]</attr>
+		<attr name='vtc'>[1002504.1000851.1000856.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000855 1000891' disclaimers='1002415' >
+		<attr name='description' livesite='false'>[1002504.1000851.1000855.1000891.description]</attr>
+		<attr name='group' livesite='false'>[1002504.1000851.1000855.1000891.group]</attr>
+		<attr name='keyfeatures'>[1002504.1000851.1000855.1000891.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002504.1000851.1000855.1000891.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1002504.1000851.1000855.1000891.msrp]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002504.1000851.1000855.1000891.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002504.1000851.1000855.1000891.secondaryfeatures]</attr>
+		<attr name='source'>[1002504.1000851.1000855.1000891.source]</attr>
+		<attr name='title' livesite='false'>[1002504.1000851.1000855.1000891.title]</attr>
+		<attr name='videokey'>[1002504.1000851.1000855.1000891.videokey]</attr>
+		<attr name='viewpointkey'>[1002504.1000851.1000855.1000891.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>COROLLA_2014_PaintProtectionFilm_bumper_D.jpg</attr>
+			<attr name='sha'>f91b82d4a661ba65ae8c17ba99d135782710b842</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>COROLLA_2014_PaintProtectionFilm_bumper_D.jpg</attr>
+			<attr name='sha'>2356d0f180df507fa012eb8307996621a0bf5f83</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000892' disclaimers='1002415' >
+		<attr name='description' livesite='false'>[1002504.1000851.1000855.1000892.description]</attr>
+		<attr name='group' livesite='false'>[1002504.1000851.1000855.1000892.group]</attr>
+		<attr name='keyfeatures'>[1002504.1000851.1000855.1000892.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002504.1000851.1000855.1000892.marketingeffectivedate]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002504.1000851.1000855.1000892.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002504.1000851.1000855.1000892.secondaryfeatures]</attr>
+		<attr name='source'>[1002504.1000851.1000855.1000892.source]</attr>
+		<attr name='title' livesite='false'>[1002504.1000851.1000855.1000892.title]</attr>
+		<attr name='videokey'>[1002504.1000851.1000855.1000892.videokey]</attr>
+		<attr name='viewpointkey'>[1002504.1000851.1000855.1000892.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>COROLLA_2014_PaintProtectionFilm_bumper_D.jpg</attr>
+			<attr name='sha'>f91b82d4a661ba65ae8c17ba99d135782710b842</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>COROLLA_2014_PaintProtectionFilm_bumper_D.jpg</attr>
+			<attr name='sha'>2356d0f180df507fa012eb8307996621a0bf5f83</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000893' disclaimers='1002415' >
+		<attr name='description' livesite='false'>[1002504.1000851.1000855.1000893.description]</attr>
+		<attr name='group' livesite='false'>[1002504.1000851.1000855.1000893.group]</attr>
+		<attr name='keyfeatures'>[1002504.1000851.1000855.1000893.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002504.1000851.1000855.1000893.marketingeffectivedate]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002504.1000851.1000855.1000893.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002504.1000851.1000855.1000893.secondaryfeatures]</attr>
+		<attr name='source'>[1002504.1000851.1000855.1000893.source]</attr>
+		<attr name='title' livesite='false'>[1002504.1000851.1000855.1000893.title]</attr>
+		<attr name='videokey'>[1002504.1000851.1000855.1000893.videokey]</attr>
+		<attr name='viewpointkey'>[1002504.1000851.1000855.1000893.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>COROLLA_2014_PaintProtectionFilm_bumper_D.jpg</attr>
+			<attr name='sha'>f91b82d4a661ba65ae8c17ba99d135782710b842</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>COROLLA_2014_PaintProtectionFilm_bumper_D.jpg</attr>
+			<attr name='sha'>2356d0f180df507fa012eb8307996621a0bf5f83</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000894' disclaimers='1002415' >
+		<attr name='description' livesite='false'>[1002504.1000851.1000855.1000894.description]</attr>
+		<attr name='group' livesite='false'>[1002504.1000851.1000855.1000894.group]</attr>
+		<attr name='keyfeatures'>[1002504.1000851.1000855.1000894.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002504.1000851.1000855.1000894.marketingeffectivedate]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002504.1000851.1000855.1000894.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002504.1000851.1000855.1000894.secondaryfeatures]</attr>
+		<attr name='source'>[1002504.1000851.1000855.1000894.source]</attr>
+		<attr name='title' livesite='false'>[1002504.1000851.1000855.1000894.title]</attr>
+		<attr name='videokey'>[1002504.1000851.1000855.1000894.videokey]</attr>
+		<attr name='viewpointkey'>[1002504.1000851.1000855.1000894.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>COROLLA_2014_PaintProtectionFilm_bumper_D.jpg</attr>
+			<attr name='sha'>f91b82d4a661ba65ae8c17ba99d135782710b842</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>COROLLA_2014_PaintProtectionFilm_bumper_D.jpg</attr>
+			<attr name='sha'>2356d0f180df507fa012eb8307996621a0bf5f83</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000895' disclaimers='1002415' >
+		<attr name='description' livesite='false'>[1002504.1000851.1000855.1000895.description]</attr>
+		<attr name='group' livesite='false'>[1002504.1000851.1000855.1000895.group]</attr>
+		<attr name='keyfeatures'>[1002504.1000851.1000855.1000895.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002504.1000851.1000855.1000895.marketingeffectivedate]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002504.1000851.1000855.1000895.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002504.1000851.1000855.1000895.secondaryfeatures]</attr>
+		<attr name='source'>[1002504.1000851.1000855.1000895.source]</attr>
+		<attr name='title' livesite='false'>[1002504.1000851.1000855.1000895.title]</attr>
+		<attr name='videokey'>[1002504.1000851.1000855.1000895.videokey]</attr>
+		<attr name='viewpointkey'>[1002504.1000851.1000855.1000895.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>COROLLA_2014_PaintProtectionFilm_bumper_D.jpg</attr>
+			<attr name='sha'>f91b82d4a661ba65ae8c17ba99d135782710b842</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>COROLLA_2014_PaintProtectionFilm_bumper_D.jpg</attr>
+			<attr name='sha'>2356d0f180df507fa012eb8307996621a0bf5f83</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000896' disclaimers='1002415' >
+		<attr name='description' livesite='false'>[1002504.1000851.1000855.1000896.description]</attr>
+		<attr name='group' livesite='false'>[1002504.1000851.1000855.1000896.group]</attr>
+		<attr name='keyfeatures'>[1002504.1000851.1000855.1000896.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002504.1000851.1000855.1000896.marketingeffectivedate]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002504.1000851.1000855.1000896.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002504.1000851.1000855.1000896.secondaryfeatures]</attr>
+		<attr name='source'>[1002504.1000851.1000855.1000896.source]</attr>
+		<attr name='title' livesite='false'>[1002504.1000851.1000855.1000896.title]</attr>
+		<attr name='videokey'>[1002504.1000851.1000855.1000896.videokey]</attr>
+		<attr name='viewpointkey'>[1002504.1000851.1000855.1000896.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>COROLLA_2014_PaintProtectionFilm_bumper_D.jpg</attr>
+			<attr name='sha'>f91b82d4a661ba65ae8c17ba99d135782710b842</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>COROLLA_2014_PaintProtectionFilm_bumper_D.jpg</attr>
+			<attr name='sha'>2356d0f180df507fa012eb8307996621a0bf5f83</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000897' disclaimers='1002415' >
+		<attr name='description' livesite='false'>[1002504.1000851.1000855.1000897.description]</attr>
+		<attr name='group' livesite='false'>[1002504.1000851.1000855.1000897.group]</attr>
+		<attr name='keyfeatures'>[1002504.1000851.1000855.1000897.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002504.1000851.1000855.1000897.marketingeffectivedate]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002504.1000851.1000855.1000897.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002504.1000851.1000855.1000897.secondaryfeatures]</attr>
+		<attr name='source'>[1002504.1000851.1000855.1000897.source]</attr>
+		<attr name='title' livesite='false'>[1002504.1000851.1000855.1000897.title]</attr>
+		<attr name='videokey'>[1002504.1000851.1000855.1000897.videokey]</attr>
+		<attr name='viewpointkey'>[1002504.1000851.1000855.1000897.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>COROLLA_2014_PaintProtectionFilm_bumper_D.jpg</attr>
+			<attr name='sha'>f91b82d4a661ba65ae8c17ba99d135782710b842</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>COROLLA_2014_PaintProtectionFilm_bumper_D.jpg</attr>
+			<attr name='sha'>2356d0f180df507fa012eb8307996621a0bf5f83</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000898' >
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>COROLLA_2014_PaintProtectionFilm_bumper_D.jpg</attr>
+			<attr name='sha'>f91b82d4a661ba65ae8c17ba99d135782710b842</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>COROLLA_2014_PaintProtectionFilm_bumper_D.jpg</attr>
+			<attr name='sha'>2356d0f180df507fa012eb8307996621a0bf5f83</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000899' disclaimers='1002415' >
+		<attr name='description' livesite='false'>[1002504.1000851.1000855.1000899.description]</attr>
+		<attr name='group' livesite='false'>[1002504.1000851.1000855.1000899.group]</attr>
+		<attr name='keyfeatures'>[1002504.1000851.1000855.1000899.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002504.1000851.1000855.1000899.marketingeffectivedate]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002504.1000851.1000855.1000899.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002504.1000851.1000855.1000899.secondaryfeatures]</attr>
+		<attr name='source'>[1002504.1000851.1000855.1000899.source]</attr>
+		<attr name='title' livesite='false'>[1002504.1000851.1000855.1000899.title]</attr>
+		<attr name='videokey'>[1002504.1000851.1000855.1000899.videokey]</attr>
+		<attr name='viewpointkey'>[1002504.1000851.1000855.1000899.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>COROLLA_2014_PaintProtectionFilm_bumper_D.jpg</attr>
+			<attr name='sha'>f91b82d4a661ba65ae8c17ba99d135782710b842</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>COROLLA_2014_PaintProtectionFilm_bumper_D.jpg</attr>
+			<attr name='sha'>2356d0f180df507fa012eb8307996621a0bf5f83</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000900' disclaimers='1002415' >
+		<attr name='description' livesite='false'>[1002504.1000851.1000855.1000900.description]</attr>
+		<attr name='group' livesite='false'>[1002504.1000851.1000855.1000900.group]</attr>
+		<attr name='keyfeatures'>[1002504.1000851.1000855.1000900.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002504.1000851.1000855.1000900.marketingeffectivedate]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002504.1000851.1000855.1000900.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002504.1000851.1000855.1000900.secondaryfeatures]</attr>
+		<attr name='source'>[1002504.1000851.1000855.1000900.source]</attr>
+		<attr name='title' livesite='false'>[1002504.1000851.1000855.1000900.title]</attr>
+		<attr name='videokey'>[1002504.1000851.1000855.1000900.videokey]</attr>
+		<attr name='viewpointkey'>[1002504.1000851.1000855.1000900.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>COROLLA_2014_PaintProtectionFilm_bumper_D.jpg</attr>
+			<attr name='sha'>f91b82d4a661ba65ae8c17ba99d135782710b842</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>COROLLA_2014_PaintProtectionFilm_bumper_D.jpg</attr>
+			<attr name='sha'>2356d0f180df507fa012eb8307996621a0bf5f83</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000901' disclaimers='1002415' >
+		<attr name='description' livesite='false'>[1002504.1000851.1000855.1000901.description]</attr>
+		<attr name='group' livesite='false'>[1002504.1000851.1000855.1000901.group]</attr>
+		<attr name='keyfeatures'>[1002504.1000851.1000855.1000901.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002504.1000851.1000855.1000901.marketingeffectivedate]</attr>
+		<attr name='option' livesite='false'>[1002504.1000851.1000855.1000901.option]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002504.1000851.1000855.1000901.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002504.1000851.1000855.1000901.secondaryfeatures]</attr>
+		<attr name='source'>[1002504.1000851.1000855.1000901.source]</attr>
+		<attr name='title' livesite='false'>[1002504.1000851.1000855.1000901.title]</attr>
+		<attr name='videokey'>[1002504.1000851.1000855.1000901.videokey]</attr>
+		<attr name='viewpointkey'>[1002504.1000851.1000855.1000901.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>COROLLA_2014_PaintProtectionFilm_bumper_D.jpg</attr>
+			<attr name='sha'>f91b82d4a661ba65ae8c17ba99d135782710b842</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>COROLLA_2014_PaintProtectionFilm_bumper_D.jpg</attr>
+			<attr name='sha'>2356d0f180df507fa012eb8307996621a0bf5f83</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000902' disclaimers='1002415' >
+		<attr name='description' livesite='false'>[1002504.1000851.1000855.1000902.description]</attr>
+		<attr name='group' livesite='false'>[1002504.1000851.1000855.1000902.group]</attr>
+		<attr name='keyfeatures'>[1002504.1000851.1000855.1000902.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002504.1000851.1000855.1000902.marketingeffectivedate]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002504.1000851.1000855.1000902.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002504.1000851.1000855.1000902.secondaryfeatures]</attr>
+		<attr name='source'>[1002504.1000851.1000855.1000902.source]</attr>
+		<attr name='title' livesite='false'>[1002504.1000851.1000855.1000902.title]</attr>
+		<attr name='videokey'>[1002504.1000851.1000855.1000902.videokey]</attr>
+		<attr name='viewpointkey'>[1002504.1000851.1000855.1000902.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>COROLLA_2014_PaintProtectionFilm_bumper_D.jpg</attr>
+			<attr name='sha'>f91b82d4a661ba65ae8c17ba99d135782710b842</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>COROLLA_2014_PaintProtectionFilm_bumper_D.jpg</attr>
+			<attr name='sha'>2356d0f180df507fa012eb8307996621a0bf5f83</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000856 1000936' disclaimers='1002415' >
+		<attr name='description' livesite='false'>[1002504.1000851.1000856.1000936.description]</attr>
+		<attr name='keyfeatures'>[1002504.1000851.1000856.1000936.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002504.1000851.1000856.1000936.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1002504.1000851.1000856.1000936.msrp]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002504.1000851.1000856.1000936.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002504.1000851.1000856.1000936.secondaryfeatures]</attr>
+		<attr name='videokey'>[1002504.1000851.1000856.1000936.videokey]</attr>
+		<attr name='viewpointkey'>[1002504.1000851.1000856.1000936.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Paint-Protection-Film-Front-Bumper.jpg</attr>
+			<attr name='sha'>2c499d38bed74715fff2c5c68c1823d5d9953e46</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Paint-Protection-Film-Front-Bumper.jpg</attr>
+			<attr name='sha'>cb9d08b47d826ecbde29e7a094902c8b9875b476</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000856 1000937' disclaimers='1002415' >
+		<attr name='description' livesite='false'>[1002504.1000851.1000856.1000937.description]</attr>
+		<attr name='keyfeatures'>[1002504.1000851.1000856.1000937.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002504.1000851.1000856.1000937.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1002504.1000851.1000856.1000937.msrp]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002504.1000851.1000856.1000937.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002504.1000851.1000856.1000937.secondaryfeatures]</attr>
+		<attr name='videokey'>[1002504.1000851.1000856.1000937.videokey]</attr>
+		<attr name='viewpointkey'>[1002504.1000851.1000856.1000937.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Paint-Protection-Film-Front-Bumper.jpg</attr>
+			<attr name='sha'>2c499d38bed74715fff2c5c68c1823d5d9953e46</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Paint-Protection-Film-Front-Bumper.jpg</attr>
+			<attr name='sha'>cb9d08b47d826ecbde29e7a094902c8b9875b476</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000856 1000938' disclaimers='1002415' >
+		<attr name='description' livesite='false'>[1002504.1000851.1000856.1000938.description]</attr>
+		<attr name='keyfeatures'>[1002504.1000851.1000856.1000938.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002504.1000851.1000856.1000938.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1002504.1000851.1000856.1000938.msrp]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002504.1000851.1000856.1000938.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002504.1000851.1000856.1000938.secondaryfeatures]</attr>
+		<attr name='videokey'>[1002504.1000851.1000856.1000938.videokey]</attr>
+		<attr name='viewpointkey'>[1002504.1000851.1000856.1000938.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Paint-Protection-Film-Front-Bumper.jpg</attr>
+			<attr name='sha'>2c499d38bed74715fff2c5c68c1823d5d9953e46</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Paint-Protection-Film-Front-Bumper.jpg</attr>
+			<attr name='sha'>cb9d08b47d826ecbde29e7a094902c8b9875b476</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

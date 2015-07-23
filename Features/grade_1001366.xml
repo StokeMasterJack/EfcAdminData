@@ -1,0 +1,569 @@
+<feature id='1001366' type='grade' scope='1000851 1000855 1000895, 1002622 1000854 1000904, 1000851 1000855 1000894, 1000851 1000855 1000893, 1002622 1000863 1000929, 1002622 1000857 1000951, 1000851 1000857 1000949, 1000851 1000857 1000948, 1000851 1000863 1000930, 1000851 1000854 1000904, 1002622 1000857 1000948, 1002622 1000857 1000949, 1002622 1000863 1000930, 1000851 1000869 1000913, 1002622 1000869 1000912, 1000851 1000869 1000912, 1002622 1000869 1000914, 1000851 1000869 1000915, 1000851 1000869 1000914, 1002622 1000866 1000944, 1000851 1000863 1000929, 1000851 1000866 1000944, 1002622 1000855 1000893, 1002622 1000855 1000895, 1000851 1000857 1000951, 1002622 1000855 1000894, 1000851 1000866 1000940, 1002622 1000866 1000940' cardinality='mandatory' >
+	<attr name='availablecopy'></attr>
+	<attr name='code'>LE</attr>
+	<attr name='copyblock'></attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='hotspot'></attr>
+	<attr name='iconname'></attr>
+	<attr name='images'></attr>
+	<attr name='keyword'></attr>
+	<attr name='mpg'></attr>
+	<attr name='source'>[1001366.source]</attr>
+	<attr name='title'>[1001366.title]</attr>
+	<attr name='vtc'>[1001366.vtc]</attr>
+	<if id='1000851 1000854 1000904' >
+		<attr name='availablecopy' livesite='false'>[1001366.1000851.1000854.1000904.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001366.1000851.1000854.1000904.copyblock]</attr>
+		<attr name='derived'>[1001366.1000851.1000854.1000904.derived]</attr>
+		<attr name='description'>[1001366.1000851.1000854.1000904.description]</attr>
+		<attr name='hotspot'>[1001366.1000851.1000854.1000904.hotspot]</attr>
+		<attr name='iconname'>[1001366.1000851.1000854.1000904.iconname]</attr>
+		<attr name='keyword'>[1001366.1000851.1000854.1000904.keyword]</attr>
+		<attr name='mpg'>[1001366.1000851.1000854.1000904.mpg]</attr>
+		<attr name='title' livesite='false'>[1001366.1000851.1000854.1000904.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Camry_LE.png</attr>
+			<attr name='sha'>5468dec7f2dfdb60293ccd2becaa3b546632e6ca</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000893' disclaimers='1002396' >
+		<attr name='availablecopy'>[1001366.1000851.1000855.1000893.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001366.1000851.1000855.1000893.copyblock]</attr>
+		<attr name='derived'>[1001366.1000851.1000855.1000893.derived]</attr>
+		<attr name='description'>[1001366.1000851.1000855.1000893.description]</attr>
+		<attr name='hotspot'>[1001366.1000851.1000855.1000893.hotspot]</attr>
+		<attr name='iconname'>[1001366.1000851.1000855.1000893.iconname]</attr>
+		<attr name='keyword' livesite='false'>[1001366.1000851.1000855.1000893.keyword]</attr>
+		<attr name='mpg'>[1001366.1000851.1000855.1000893.mpg]</attr>
+		<attr name='title' livesite='false'>[1001366.1000851.1000855.1000893.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Corolla_LE.png</attr>
+			<attr name='sha'>e171511c882ec0915baf9fb13ec251381233f51d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000894' disclaimers='1002396' >
+		<attr name='availablecopy'>[1001366.1000851.1000855.1000894.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001366.1000851.1000855.1000894.copyblock]</attr>
+		<attr name='derived'>[1001366.1000851.1000855.1000894.derived]</attr>
+		<attr name='description'>[1001366.1000851.1000855.1000894.description]</attr>
+		<attr name='hotspot'>[1001366.1000851.1000855.1000894.hotspot]</attr>
+		<attr name='iconname'>[1001366.1000851.1000855.1000894.iconname]</attr>
+		<attr name='keyword' livesite='false'>[1001366.1000851.1000855.1000894.keyword]</attr>
+		<attr name='mpg'>[1001366.1000851.1000855.1000894.mpg]</attr>
+		<attr name='title' livesite='false'>[1001366.1000851.1000855.1000894.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Corolla_LE.png</attr>
+			<attr name='sha'>e171511c882ec0915baf9fb13ec251381233f51d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000895' disclaimers='1002396' >
+		<attr name='availablecopy'>[1001366.1000851.1000855.1000895.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001366.1000851.1000855.1000895.copyblock]</attr>
+		<attr name='derived'>[1001366.1000851.1000855.1000895.derived]</attr>
+		<attr name='description'>[1001366.1000851.1000855.1000895.description]</attr>
+		<attr name='hotspot'>[1001366.1000851.1000855.1000895.hotspot]</attr>
+		<attr name='iconname'>[1001366.1000851.1000855.1000895.iconname]</attr>
+		<attr name='keyword' livesite='false'>[1001366.1000851.1000855.1000895.keyword]</attr>
+		<attr name='mpg'>[1001366.1000851.1000855.1000895.mpg]</attr>
+		<attr name='title' livesite='false'>[1001366.1000851.1000855.1000895.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Corolla_LE.png</attr>
+			<attr name='sha'>e171511c882ec0915baf9fb13ec251381233f51d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000857 1000948' >
+		<attr name='availablecopy'>[1001366.1000851.1000857.1000948.availablecopy]</attr>
+		<attr name='copyblock'>[1001366.1000851.1000857.1000948.copyblock]</attr>
+		<attr name='derived'>[1001366.1000851.1000857.1000948.derived]</attr>
+		<attr name='description'>[1001366.1000851.1000857.1000948.description]</attr>
+		<attr name='hotspot'>[1001366.1000851.1000857.1000948.hotspot]</attr>
+		<attr name='iconname'>[1001366.1000851.1000857.1000948.iconname]</attr>
+		<attr name='keyword'>[1001366.1000851.1000857.1000948.keyword]</attr>
+		<attr name='mpg'>[1001366.1000851.1000857.1000948.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Highlander_LE.png</attr>
+			<attr name='sha'>4c849faaa0987af430fcc1329eda5cf98ca9106d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000857 1000949' >
+		<attr name='availablecopy'>[1001366.1000851.1000857.1000949.availablecopy]</attr>
+		<attr name='copyblock'>[1001366.1000851.1000857.1000949.copyblock]</attr>
+		<attr name='derived'>[1001366.1000851.1000857.1000949.derived]</attr>
+		<attr name='description'>[1001366.1000851.1000857.1000949.description]</attr>
+		<attr name='hotspot'>[1001366.1000851.1000857.1000949.hotspot]</attr>
+		<attr name='iconname'>[1001366.1000851.1000857.1000949.iconname]</attr>
+		<attr name='keyword'>[1001366.1000851.1000857.1000949.keyword]</attr>
+		<attr name='mpg'>[1001366.1000851.1000857.1000949.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Highlander_LE.png</attr>
+			<attr name='sha'>4c849faaa0987af430fcc1329eda5cf98ca9106d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000857 1000951' >
+		<attr name='availablecopy'>[1001366.1000851.1000857.1000951.availablecopy]</attr>
+		<attr name='copyblock'>[1001366.1000851.1000857.1000951.copyblock]</attr>
+		<attr name='derived'>[1001366.1000851.1000857.1000951.derived]</attr>
+		<attr name='description'></attr>
+		<attr name='hotspot'>[1001366.1000851.1000857.1000951.hotspot]</attr>
+		<attr name='iconname'>[1001366.1000851.1000857.1000951.iconname]</attr>
+		<attr name='keyword'>[1001366.1000851.1000857.1000951.keyword]</attr>
+		<attr name='mpg'>[1001366.1000851.1000857.1000951.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Highlander_LE.png</attr>
+			<attr name='sha'>4c849faaa0987af430fcc1329eda5cf98ca9106d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000863 1000929' >
+		<attr name='availablecopy'>[1001366.1000851.1000863.1000929.availablecopy]</attr>
+		<attr name='copyblock'>[1001366.1000851.1000863.1000929.copyblock]</attr>
+		<attr name='derived'>[1001366.1000851.1000863.1000929.derived]</attr>
+		<attr name='description'>[1001366.1000851.1000863.1000929.description]</attr>
+		<attr name='hotspot'>[1001366.1000851.1000863.1000929.hotspot]</attr>
+		<attr name='iconname'>[1001366.1000851.1000863.1000929.iconname]</attr>
+		<attr name='keyword'>[1001366.1000851.1000863.1000929.keyword]</attr>
+		<attr name='mpg'>[1001366.1000851.1000863.1000929.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_RAV4_LE.png</attr>
+			<attr name='sha'>7285e81bdc9b362915eed4ec5360ccd705d85663</attr>
+		</complextype>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_RAV4_LE_FWD.png</attr>
+			<attr name='sha'>3d371ba2da4809174279640b8d0ca1fdc83d8743</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000863 1000930' >
+		<attr name='availablecopy'>[1001366.1000851.1000863.1000930.availablecopy]</attr>
+		<attr name='copyblock'>[1001366.1000851.1000863.1000930.copyblock]</attr>
+		<attr name='derived'>[1001366.1000851.1000863.1000930.derived]</attr>
+		<attr name='description'>[1001366.1000851.1000863.1000930.description]</attr>
+		<attr name='hotspot'>[1001366.1000851.1000863.1000930.hotspot]</attr>
+		<attr name='iconname'>[1001366.1000851.1000863.1000930.iconname]</attr>
+		<attr name='keyword'>[1001366.1000851.1000863.1000930.keyword]</attr>
+		<attr name='mpg'>[1001366.1000851.1000863.1000930.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_RAV4_LE.png</attr>
+			<attr name='sha'>7285e81bdc9b362915eed4ec5360ccd705d85663</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000866 1000940' >
+		<attr name='availablecopy' livesite='false'>[1001366.1000851.1000866.1000940.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001366.1000851.1000866.1000940.copyblock]</attr>
+		<attr name='derived'>[1001366.1000851.1000866.1000940.derived]</attr>
+		<attr name='description'>[1001366.1000851.1000866.1000940.description]</attr>
+		<attr name='hotspot'>[1001366.1000851.1000866.1000940.hotspot]</attr>
+		<attr name='iconname'>[1001366.1000851.1000866.1000940.iconname]</attr>
+		<attr name='keyword'>[1001366.1000851.1000866.1000940.keyword]</attr>
+		<attr name='mpg'>[1001366.1000851.1000866.1000940.mpg]</attr>
+		<attr name='title' livesite='false'>[1001366.1000851.1000866.1000940.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Sienna_LE.png</attr>
+			<attr name='sha'>ab208d73a6ab8b2ec74c89d7fc2f36736a9be3eb</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000866 1000944' >
+		<attr name='availablecopy' livesite='false'>[1001366.1000851.1000866.1000944.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001366.1000851.1000866.1000944.copyblock]</attr>
+		<attr name='derived'>[1001366.1000851.1000866.1000944.derived]</attr>
+		<attr name='description'>[1001366.1000851.1000866.1000944.description]</attr>
+		<attr name='hotspot'>[1001366.1000851.1000866.1000944.hotspot]</attr>
+		<attr name='iconname'>[1001366.1000851.1000866.1000944.iconname]</attr>
+		<attr name='keyword'>[1001366.1000851.1000866.1000944.keyword]</attr>
+		<attr name='mpg'>[1001366.1000851.1000866.1000944.mpg]</attr>
+		<attr name='title' livesite='false'>[1001366.1000851.1000866.1000944.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Sienna_LE.png</attr>
+			<attr name='sha'>ab208d73a6ab8b2ec74c89d7fc2f36736a9be3eb</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000869 1000912' disclaimers='1001681 1002044' >
+		<attr name='availablecopy' livesite='false'>[1001366.1000851.1000869.1000912.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001366.1000851.1000869.1000912.copyblock]</attr>
+		<attr name='derived'>[1001366.1000851.1000869.1000912.derived]</attr>
+		<attr name='description'>[1001366.1000851.1000869.1000912.description]</attr>
+		<attr name='hotspot'>[1001366.1000851.1000869.1000912.hotspot]</attr>
+		<attr name='iconname'>[1001366.1000851.1000869.1000912.iconname]</attr>
+		<attr name='keyword'>[1001366.1000851.1000869.1000912.keyword]</attr>
+		<attr name='mpg'>[1001366.1000851.1000869.1000912.mpg]</attr>
+		<attr name='title' livesite='false'>[1001366.1000851.1000869.1000912.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Venza_LE.png</attr>
+			<attr name='sha'>ad453e672980421ddf19cb6e8c59f850d0b7712b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000869 1000913' disclaimers='1001681 1002044' >
+		<attr name='availablecopy' livesite='false'>[1001366.1000851.1000869.1000913.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001366.1000851.1000869.1000913.copyblock]</attr>
+		<attr name='derived'>[1001366.1000851.1000869.1000913.derived]</attr>
+		<attr name='description'>[1001366.1000851.1000869.1000913.description]</attr>
+		<attr name='hotspot'>[1001366.1000851.1000869.1000913.hotspot]</attr>
+		<attr name='iconname'>[1001366.1000851.1000869.1000913.iconname]</attr>
+		<attr name='keyword'>[1001366.1000851.1000869.1000913.keyword]</attr>
+		<attr name='mpg'>[1001366.1000851.1000869.1000913.mpg]</attr>
+		<attr name='title' livesite='false'>[1001366.1000851.1000869.1000913.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Venza_LE.png</attr>
+			<attr name='sha'>ad453e672980421ddf19cb6e8c59f850d0b7712b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000869 1000914' disclaimers='1001681 1002044' >
+		<attr name='availablecopy' livesite='false'>[1001366.1000851.1000869.1000914.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001366.1000851.1000869.1000914.copyblock]</attr>
+		<attr name='derived'>[1001366.1000851.1000869.1000914.derived]</attr>
+		<attr name='description'>[1001366.1000851.1000869.1000914.description]</attr>
+		<attr name='hotspot'>[1001366.1000851.1000869.1000914.hotspot]</attr>
+		<attr name='iconname'>[1001366.1000851.1000869.1000914.iconname]</attr>
+		<attr name='keyword'>[1001366.1000851.1000869.1000914.keyword]</attr>
+		<attr name='mpg'>[1001366.1000851.1000869.1000914.mpg]</attr>
+		<attr name='title' livesite='false'>[1001366.1000851.1000869.1000914.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Venza_LE.png</attr>
+			<attr name='sha'>ad453e672980421ddf19cb6e8c59f850d0b7712b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000869 1000915' disclaimers='1001681 1002044' >
+		<attr name='availablecopy' livesite='false'>[1001366.1000851.1000869.1000915.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001366.1000851.1000869.1000915.copyblock]</attr>
+		<attr name='derived'>[1001366.1000851.1000869.1000915.derived]</attr>
+		<attr name='description'>[1001366.1000851.1000869.1000915.description]</attr>
+		<attr name='hotspot'>[1001366.1000851.1000869.1000915.hotspot]</attr>
+		<attr name='iconname'>[1001366.1000851.1000869.1000915.iconname]</attr>
+		<attr name='keyword'>[1001366.1000851.1000869.1000915.keyword]</attr>
+		<attr name='mpg'>[1001366.1000851.1000869.1000915.mpg]</attr>
+		<attr name='title' livesite='false'>[1001366.1000851.1000869.1000915.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Venza_LE.png</attr>
+			<attr name='sha'>ad453e672980421ddf19cb6e8c59f850d0b7712b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000904' >
+		<attr name='availablecopy' livesite='false'>[1001366.1002622.1000854.1000904.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001366.1002622.1000854.1000904.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001366.1002622.1000854.1000904.derived]</attr>
+		<attr name='description'>[1001366.1002622.1000854.1000904.description]</attr>
+		<attr name='hotspot'>[1001366.1002622.1000854.1000904.hotspot]</attr>
+		<attr name='iconname'>[1001366.1002622.1000854.1000904.iconname]</attr>
+		<attr name='keyword'>[1001366.1002622.1000854.1000904.keyword]</attr>
+		<attr name='mpg'>[1001366.1002622.1000854.1000904.mpg]</attr>
+		<attr name='source'>[1001366.1002622.1000854.1000904.source]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>MY15_Camry_ext_LE_0040.png</attr>
+			<attr name='sha'>49a42ca80fd0e3501ba4a440b345236669e2738d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000893' >
+		<attr name='availablecopy'>[1001366.1002622.1000855.1000893.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001366.1002622.1000855.1000893.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001366.1002622.1000855.1000893.derived]</attr>
+		<attr name='description'>[1001366.1002622.1000855.1000893.description]</attr>
+		<attr name='hotspot'>[1001366.1002622.1000855.1000893.hotspot]</attr>
+		<attr name='iconname'>[1001366.1002622.1000855.1000893.iconname]</attr>
+		<attr name='keyword' livesite='false'>[1001366.1002622.1000855.1000893.keyword]</attr>
+		<attr name='mpg'>[1001366.1002622.1000855.1000893.mpg]</attr>
+		<attr name='title' livesite='false'>[1001366.1002622.1000855.1000893.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>MY15_Corolla_ext_LE_03R3.png</attr>
+			<attr name='sha'>1a291d9efcc51019c6dc4095fe4a626c7fb9778f</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000894' >
+		<attr name='availablecopy'>[1001366.1002622.1000855.1000894.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001366.1002622.1000855.1000894.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001366.1002622.1000855.1000894.derived]</attr>
+		<attr name='description'>[1001366.1002622.1000855.1000894.description]</attr>
+		<attr name='hotspot'>[1001366.1002622.1000855.1000894.hotspot]</attr>
+		<attr name='iconname'>[1001366.1002622.1000855.1000894.iconname]</attr>
+		<attr name='keyword' livesite='false'>[1001366.1002622.1000855.1000894.keyword]</attr>
+		<attr name='mpg'>[1001366.1002622.1000855.1000894.mpg]</attr>
+		<attr name='title' livesite='false'>[1001366.1002622.1000855.1000894.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>MY15_Corolla_ext_LE_Plus_03R3.png</attr>
+			<attr name='sha'>c2027079074a46face93ecc9f8065e34342b8127</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000895' >
+		<attr name='availablecopy'>[1001366.1002622.1000855.1000895.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001366.1002622.1000855.1000895.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001366.1002622.1000855.1000895.derived]</attr>
+		<attr name='description'>[1001366.1002622.1000855.1000895.description]</attr>
+		<attr name='hotspot'>[1001366.1002622.1000855.1000895.hotspot]</attr>
+		<attr name='iconname'>[1001366.1002622.1000855.1000895.iconname]</attr>
+		<attr name='keyword' livesite='false'>[1001366.1002622.1000855.1000895.keyword]</attr>
+		<attr name='mpg'>[1001366.1002622.1000855.1000895.mpg]</attr>
+		<attr name='title' livesite='false'>[1001366.1002622.1000855.1000895.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>MY15_Corolla_ext_LE_Premium_03R3.png</attr>
+			<attr name='sha'>a6a989d8ae5214be4fcaea8b08ec4e10d40e8983</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000948' >
+		<attr name='availablecopy'>[1001366.1002622.1000857.1000948.availablecopy]</attr>
+		<attr name='copyblock'>[1001366.1002622.1000857.1000948.copyblock]</attr>
+		<attr name='derived'>[1001366.1002622.1000857.1000948.derived]</attr>
+		<attr name='description'>[1001366.1002622.1000857.1000948.description]</attr>
+		<attr name='hotspot'>[1001366.1002622.1000857.1000948.hotspot]</attr>
+		<attr name='iconname'>[1001366.1002622.1000857.1000948.iconname]</attr>
+		<attr name='keyword'>[1001366.1002622.1000857.1000948.keyword]</attr>
+		<attr name='mpg'>[1001366.1002622.1000857.1000948.mpg]</attr>
+		<attr name='title'>[1001366.1002622.1000857.1000948.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Highlander_ext_LE_08V5.png</attr>
+			<attr name='sha'>53a3cd020e75969738ea760065c624baf820e394</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000949' >
+		<attr name='availablecopy'>[1001366.1002622.1000857.1000949.availablecopy]</attr>
+		<attr name='copyblock'>[1001366.1002622.1000857.1000949.copyblock]</attr>
+		<attr name='derived'>[1001366.1002622.1000857.1000949.derived]</attr>
+		<attr name='description'>[1001366.1002622.1000857.1000949.description]</attr>
+		<attr name='hotspot'>[1001366.1002622.1000857.1000949.hotspot]</attr>
+		<attr name='iconname'>[1001366.1002622.1000857.1000949.iconname]</attr>
+		<attr name='keyword'>[1001366.1002622.1000857.1000949.keyword]</attr>
+		<attr name='mpg'>[1001366.1002622.1000857.1000949.mpg]</attr>
+		<attr name='title'>[1001366.1002622.1000857.1000949.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Highlander_ext_LE_08V5.png</attr>
+			<attr name='sha'>53a3cd020e75969738ea760065c624baf820e394</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000950' >
+		<attr name='hotspot'></attr>
+		<attr name='keyword'></attr>
+		<attr name='title'></attr>
+	</if>
+
+	<if id='1002622 1000857 1000951' >
+		<attr name='availablecopy'>[1001366.1002622.1000857.1000951.availablecopy]</attr>
+		<attr name='copyblock'>[1001366.1002622.1000857.1000951.copyblock]</attr>
+		<attr name='derived'>[1001366.1002622.1000857.1000951.derived]</attr>
+		<attr name='description'>[1001366.1002622.1000857.1000951.description]</attr>
+		<attr name='hotspot'>[1001366.1002622.1000857.1000951.hotspot]</attr>
+		<attr name='iconname'>[1001366.1002622.1000857.1000951.iconname]</attr>
+		<attr name='keyword'>[1001366.1002622.1000857.1000951.keyword]</attr>
+		<attr name='mpg'>[1001366.1002622.1000857.1000951.mpg]</attr>
+		<attr name='title'>[1001366.1002622.1000857.1000951.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Highlander_ext_LE_08V5.png</attr>
+			<attr name='sha'>53a3cd020e75969738ea760065c624baf820e394</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000952' >
+		<attr name='hotspot'></attr>
+		<attr name='keyword'></attr>
+		<attr name='title'></attr>
+	</if>
+
+	<if id='1002622 1000863 1000929' >
+		<attr name='availablecopy' livesite='false'>[1001366.1002622.1000863.1000929.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001366.1002622.1000863.1000929.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001366.1002622.1000863.1000929.derived]</attr>
+		<attr name='description'>[1001366.1002622.1000863.1000929.description]</attr>
+		<attr name='hotspot'>[1001366.1002622.1000863.1000929.hotspot]</attr>
+		<attr name='iconname'>[1001366.1002622.1000863.1000929.iconname]</attr>
+		<attr name='keyword'>[1001366.1002622.1000863.1000929.keyword]</attr>
+		<attr name='mpg'>[1001366.1002622.1000863.1000929.mpg]</attr>
+		<attr name='title' livesite='false'>[1001366.1002622.1000863.1000929.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>MY15_Rav4_ext_LE_0202.png</attr>
+			<attr name='sha'>ee165d0ea7ddcbe2852f4b603e336733d5df2bcf</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000863 1000930' >
+		<attr name='availablecopy' livesite='false'>[1001366.1002622.1000863.1000930.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001366.1002622.1000863.1000930.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001366.1002622.1000863.1000930.derived]</attr>
+		<attr name='description'>[1001366.1002622.1000863.1000930.description]</attr>
+		<attr name='hotspot'>[1001366.1002622.1000863.1000930.hotspot]</attr>
+		<attr name='iconname'>[1001366.1002622.1000863.1000930.iconname]</attr>
+		<attr name='keyword'>[1001366.1002622.1000863.1000930.keyword]</attr>
+		<attr name='mpg'>[1001366.1002622.1000863.1000930.mpg]</attr>
+		<attr name='title' livesite='false'>[1001366.1002622.1000863.1000930.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>MY15_Rav4_ext_LE_0202.png</attr>
+			<attr name='sha'>ee165d0ea7ddcbe2852f4b603e336733d5df2bcf</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1000940' >
+		<attr name='availablecopy' livesite='false'>[1001366.1002622.1000866.1000940.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001366.1002622.1000866.1000940.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001366.1002622.1000866.1000940.derived]</attr>
+		<attr name='description'>[1001366.1002622.1000866.1000940.description]</attr>
+		<attr name='hotspot'>[1001366.1002622.1000866.1000940.hotspot]</attr>
+		<attr name='iconname'>[1001366.1002622.1000866.1000940.iconname]</attr>
+		<attr name='keyword'>[1001366.1002622.1000866.1000940.keyword]</attr>
+		<attr name='mpg'>[1001366.1002622.1000866.1000940.mpg]</attr>
+		<attr name='title' livesite='false'>[1001366.1002622.1000866.1000940.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Sienna_MY15_ext_LE_FWD_01D6_v005_efc_jelly_002.png</attr>
+			<attr name='sha'>f4d4d309efb9b5e95dcddccd50c3a2a8e20bc445</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1000944' >
+		<attr name='availablecopy' livesite='false'>[1001366.1002622.1000866.1000944.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001366.1002622.1000866.1000944.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001366.1002622.1000866.1000944.derived]</attr>
+		<attr name='description'>[1001366.1002622.1000866.1000944.description]</attr>
+		<attr name='hotspot'>[1001366.1002622.1000866.1000944.hotspot]</attr>
+		<attr name='iconname'>[1001366.1002622.1000866.1000944.iconname]</attr>
+		<attr name='keyword'>[1001366.1002622.1000866.1000944.keyword]</attr>
+		<attr name='mpg'>[1001366.1002622.1000866.1000944.mpg]</attr>
+		<attr name='title' livesite='false'>[1001366.1002622.1000866.1000944.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Sienna_MY15_ext_LE_FWD_01D6_v005_efc_jelly_002.png</attr>
+			<attr name='sha'>f4d4d309efb9b5e95dcddccd50c3a2a8e20bc445</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000869 1000912' >
+		<attr name='availablecopy'>[1001366.1002622.1000869.1000912.availablecopy]</attr>
+		<attr name='copyblock'>[1001366.1002622.1000869.1000912.copyblock]</attr>
+		<attr name='derived'>[1001366.1002622.1000869.1000912.derived]</attr>
+		<attr name='description'>[1001366.1002622.1000869.1000912.description]</attr>
+		<attr name='hotspot'>[1001366.1002622.1000869.1000912.hotspot]</attr>
+		<attr name='iconname'>[1001366.1002622.1000869.1000912.iconname]</attr>
+		<attr name='keyword'>[1001366.1002622.1000869.1000912.keyword]</attr>
+		<attr name='mpg'>[1001366.1002622.1000869.1000912.mpg]</attr>
+		<attr name='title'>[1001366.1002622.1000869.1000912.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Venza_ext_LE_01H2.png</attr>
+			<attr name='sha'>c83035fc05d0d15642ea15259e59b4bf1cfa8a65</attr>
+		</complextype>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Venza_ext_LE_01H2_v025_efc_jelly_001.png</attr>
+			<attr name='sha'>982a1877194924253e9189da56fbdd45e4da1058</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000869 1000914' >
+		<attr name='availablecopy'>[1001366.1002622.1000869.1000914.availablecopy]</attr>
+		<attr name='copyblock'>[1001366.1002622.1000869.1000914.copyblock]</attr>
+		<attr name='derived'>[1001366.1002622.1000869.1000914.derived]</attr>
+		<attr name='description'>[1001366.1002622.1000869.1000914.description]</attr>
+		<attr name='hotspot'>[1001366.1002622.1000869.1000914.hotspot]</attr>
+		<attr name='iconname'>[1001366.1002622.1000869.1000914.iconname]</attr>
+		<attr name='keyword'>[1001366.1002622.1000869.1000914.keyword]</attr>
+		<attr name='mpg'>[1001366.1002622.1000869.1000914.mpg]</attr>
+		<attr name='title'>[1001366.1002622.1000869.1000914.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Venza_ext_LE_01H2.png</attr>
+			<attr name='sha'>c83035fc05d0d15642ea15259e59b4bf1cfa8a65</attr>
+		</complextype>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Venza_ext_LE_01H2_v025_efc_jelly_001.png</attr>
+			<attr name='sha'>982a1877194924253e9189da56fbdd45e4da1058</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

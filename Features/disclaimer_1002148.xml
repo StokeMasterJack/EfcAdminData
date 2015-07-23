@@ -1,0 +1,8 @@
+<feature id='1002148' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1002148.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1002148.vtc]</attr>
+	<attr name='description' livesite='false'>[1002148.description]</attr>
+	<attr name='derived' livesite='false'>[1002148.derived]</attr>
+	<attr name='code'>rav4ev_charge</attr>
+</feature>

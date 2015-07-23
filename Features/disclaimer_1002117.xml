@@ -1,0 +1,8 @@
+<feature id='1002117' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1002117.description]</attr>
+	<attr name='vtc' livesite='false'>[1002117.vtc]</attr>
+	<attr name='source' livesite='false'>[1002117.source]</attr>
+	<attr name='code'>prius_jdpower_12</attr>
+	<attr name='derived' livesite='false'>[1002117.derived]</attr>
+</feature>

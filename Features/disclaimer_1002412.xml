@@ -1,0 +1,12 @@
+<feature id='1002412' type='disclaimer' cardinality='optional' >
+	<attr name='code'>univ_dph_excludes</attr>
+	<attr name='derived' livesite='false'>[1002412.derived]</attr>
+	<attr name='description' livesite='false'>[1002412.description]</attr>
+	<attr name='source' livesite='false'>[1002412.source]</attr>
+	<attr name='title'>[1002412.title]</attr>
+	<attr name='vtc' livesite='false'>[1002412.vtc]</attr>
+	<if id='1000851 1000868' >
+		<attr name='description' livesite='false'>[1002412.1000851.1000868.description]</attr>
+	</if>
+
+</feature>

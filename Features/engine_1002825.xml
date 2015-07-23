@@ -1,0 +1,63 @@
+<feature id='1002825' type='engine' scope='1000851 1000855 1000901, 1000851 1000855 1000900, 1000851 1000855 1000902, 1002622 1000855 1000902, 1002622 1000855 1000900, 1002622 1000855 1000901' cardinality='mandatory' >
+	<attr name='bulletlist'>[1002825.bulletlist]</attr>
+	<attr name='code'>1.8LECO</attr>
+	<attr name='derived' livesite='false'>[1002825.derived]</attr>
+	<attr name='description'>[1002825.description]</attr>
+	<attr name='hotspot'></attr>
+	<attr name='iconname'>[1002825.iconname]</attr>
+	<attr name='images'></attr>
+	<attr name='source'>[1002825.source]</attr>
+	<attr name='title'>[1002825.title]</attr>
+	<attr name='vtc' livesite='false'>[1002825.vtc]</attr>
+	<if id='1000851 1000855 1000900' >
+		<attr name='bulletlist' livesite='false'>[1002825.1000851.1000855.1000900.bulletlist]</attr>
+		<attr name='description'>[1002825.1000851.1000855.1000900.description]</attr>
+		<attr name='hotspot' livesite='false'>[1002825.1000851.1000855.1000900.hotspot]</attr>
+		<attr name='iconname' livesite='false'>[1002825.1000851.1000855.1000900.iconname]</attr>
+		<attr name='source' livesite='false'>[1002825.1000851.1000855.1000900.source]</attr>
+		<attr name='title' livesite='false'>[1002825.1000851.1000855.1000900.title]</attr>
+		<attr name='vtc' livesite='false'>[1002825.1000851.1000855.1000900.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000855 1000901' >
+		<attr name='bulletlist' livesite='false'>[1002825.1000851.1000855.1000901.bulletlist]</attr>
+		<attr name='description'>[1002825.1000851.1000855.1000901.description]</attr>
+		<attr name='hotspot' livesite='false'>[1002825.1000851.1000855.1000901.hotspot]</attr>
+		<attr name='iconname' livesite='false'>[1002825.1000851.1000855.1000901.iconname]</attr>
+		<attr name='source'>[1002825.1000851.1000855.1000901.source]</attr>
+		<attr name='title' livesite='false'>[1002825.1000851.1000855.1000901.title]</attr>
+		<attr name='vtc' livesite='false'>[1002825.1000851.1000855.1000901.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000855 1000902' >
+		<attr name='bulletlist' livesite='false'>[1002825.1000851.1000855.1000902.bulletlist]</attr>
+		<attr name='description'>[1002825.1000851.1000855.1000902.description]</attr>
+		<attr name='hotspot' livesite='false'>[1002825.1000851.1000855.1000902.hotspot]</attr>
+		<attr name='iconname' livesite='false'>[1002825.1000851.1000855.1000902.iconname]</attr>
+		<attr name='source'>[1002825.1000851.1000855.1000902.source]</attr>
+		<attr name='title' livesite='false'>[1002825.1000851.1000855.1000902.title]</attr>
+		<attr name='vtc' livesite='false'>[1002825.1000851.1000855.1000902.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000855 1000900' >
+		<attr name='bulletlist' livesite='false'>[1002825.1002622.1000855.1000900.bulletlist]</attr>
+		<attr name='description' livesite='false'>[1002825.1002622.1000855.1000900.description]</attr>
+		<attr name='iconname' livesite='false'>[1002825.1002622.1000855.1000900.iconname]</attr>
+		<attr name='title' livesite='false'>[1002825.1002622.1000855.1000900.title]</attr>
+	</if>
+
+	<if id='1002622 1000855 1000901' >
+		<attr name='bulletlist' livesite='false'>[1002825.1002622.1000855.1000901.bulletlist]</attr>
+		<attr name='description' livesite='false'>[1002825.1002622.1000855.1000901.description]</attr>
+		<attr name='iconname' livesite='false'>[1002825.1002622.1000855.1000901.iconname]</attr>
+		<attr name='title' livesite='false'>[1002825.1002622.1000855.1000901.title]</attr>
+	</if>
+
+	<if id='1002622 1000855 1000902' >
+		<attr name='bulletlist' livesite='false'>[1002825.1002622.1000855.1000902.bulletlist]</attr>
+		<attr name='description' livesite='false'>[1002825.1002622.1000855.1000902.description]</attr>
+		<attr name='iconname' livesite='false'>[1002825.1002622.1000855.1000902.iconname]</attr>
+		<attr name='title' livesite='false'>[1002825.1002622.1000855.1000902.title]</attr>
+	</if>
+
+</feature>

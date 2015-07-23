@@ -1,0 +1,7 @@
+<feature id='1002573' type='abstractfeatures' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='code'>Slidingwindow</attr>
+	<attr name='derived' livesite='false'>[1002573.derived]</attr>
+	<attr name='source' livesite='false'>[1002573.source]</attr>
+	<attr name='title' livesite='false'>[1002573.title]</attr>
+	<attr name='vtc' livesite='false'>[1002573.vtc]</attr>
+</feature>

@@ -1,0 +1,113 @@
+<feature id='1001231' type='interiorcolor' scope='1002622 1000863 1000932, 1002622 1000863 1000931, 1000851 1000863 1000931, 1000851 1000863 1000932' cardinality='mandatory' >
+	<attr name='code'>FA40</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1001231.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001231.vtc]</attr>
+	<if id='1000851 1000863 1000931' >
+		<attr name='derived' livesite='false'>[1001231.1000851.1000863.1000931.derived]</attr>
+		<attr name='description'>[1001231.1000851.1000863.1000931.description]</attr>
+		<attr name='materialtypeid'>[1001231.1000851.1000863.1000931.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001231.1000851.1000863.1000931.source]</attr>
+		<attr name='title' livesite='false'>[1001231.1000851.1000863.1000931.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>my14_rav4_int_XLE_Latte.jpg</attr>
+			<attr name='sha'>c652921086a4a54dcab60e7da2894d07e3c12b9c</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>my14_rav4_int_XLE_Latte.jpg</attr>
+			<attr name='sha'>4d79e9c85225c12913f1bbaa6838fb1eaef4f331</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>my14_rav4_int_XLE_Latte.jpg</attr>
+			<attr name='sha'>9015d2936d06a29fd690a2300abd42a383ca98f5</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000863 1000932' >
+		<attr name='derived' livesite='false'>[1001231.1000851.1000863.1000932.derived]</attr>
+		<attr name='description'>[1001231.1000851.1000863.1000932.description]</attr>
+		<attr name='materialtypeid'>[1001231.1000851.1000863.1000932.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001231.1000851.1000863.1000932.source]</attr>
+		<attr name='title' livesite='false'>[1001231.1000851.1000863.1000932.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>my14_rav4_int_XLE_Latte.jpg</attr>
+			<attr name='sha'>c652921086a4a54dcab60e7da2894d07e3c12b9c</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>my14_rav4_int_XLE_Latte.jpg</attr>
+			<attr name='sha'>4d79e9c85225c12913f1bbaa6838fb1eaef4f331</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>my14_rav4_int_XLE_Latte.jpg</attr>
+			<attr name='sha'>9015d2936d06a29fd690a2300abd42a383ca98f5</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000863 1000931' >
+		<attr name='derived' livesite='false'>[1001231.1002622.1000863.1000931.derived]</attr>
+		<attr name='description'>[1001231.1002622.1000863.1000931.description]</attr>
+		<attr name='materialtypeid'>[1001231.1002622.1000863.1000931.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001231.1002622.1000863.1000931.source]</attr>
+		<attr name='title' livesite='false'>[1001231.1002622.1000863.1000931.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>my14_rav4_int_XLE_Latte.jpg</attr>
+			<attr name='sha'>9015d2936d06a29fd690a2300abd42a383ca98f5</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>my14_rav4_int_XLE_Latte.jpg</attr>
+			<attr name='sha'>c652921086a4a54dcab60e7da2894d07e3c12b9c</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>my14_rav4_int_XLE_Latte.jpg</attr>
+			<attr name='sha'>4d79e9c85225c12913f1bbaa6838fb1eaef4f331</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000863 1000932' >
+		<attr name='derived' livesite='false'>[1001231.1002622.1000863.1000932.derived]</attr>
+		<attr name='description'>[1001231.1002622.1000863.1000932.description]</attr>
+		<attr name='materialtypeid'>[1001231.1002622.1000863.1000932.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001231.1002622.1000863.1000932.source]</attr>
+		<attr name='title' livesite='false'>[1001231.1002622.1000863.1000932.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>my14_rav4_int_XLE_Latte.jpg</attr>
+			<attr name='sha'>9015d2936d06a29fd690a2300abd42a383ca98f5</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>my14_rav4_int_XLE_Latte.jpg</attr>
+			<attr name='sha'>c652921086a4a54dcab60e7da2894d07e3c12b9c</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>my14_rav4_int_XLE_Latte.jpg</attr>
+			<attr name='sha'>4d79e9c85225c12913f1bbaa6838fb1eaef4f331</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

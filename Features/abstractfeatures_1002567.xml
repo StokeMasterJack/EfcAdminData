@@ -1,0 +1,7 @@
+<feature id='1002567' type='abstractfeatures' scope='1000851' cardinality='mandatory' >
+	<attr name='code' livesite='false'>Ipodinterface</attr>
+	<attr name='derived' livesite='false'>[1002567.derived]</attr>
+	<attr name='source' livesite='false'>[1002567.source]</attr>
+	<attr name='title' livesite='false'>[1002567.title]</attr>
+	<attr name='vtc' livesite='false'>[1002567.vtc]</attr>
+</feature>

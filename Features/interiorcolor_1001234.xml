@@ -1,0 +1,63 @@
+<feature id='1001234' type='interiorcolor' scope='1000851 1000862 1000882, 1000851 1000862 1000881' cardinality='mandatory' >
+	<attr name='onswatchimage'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='description'></attr>
+	<attr name='source' livesite='false'>[1001234.source]</attr>
+	<attr name='code'>FA66</attr>
+	<attr name='title'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='derived'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='vtc' livesite='false'>[1001234.vtc]</attr>
+	<if id='1000851 1000862 1000881' >
+		<attr name='materialtypeid'>[1001234.1000851.1000862.1000881.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001234.1000851.1000862.1000881.title]</attr>
+		<attr name='source' livesite='false'>[1001234.1000851.1000862.1000881.source]</attr>
+		<attr name='description'>[1001234.1000851.1000862.1000881.description]</attr>
+		<attr name='derived' livesite='false'>[1001234.1000851.1000862.1000881.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>prv_int_comp_v20eh_2_Misty_Gray.002.jpg</attr>
+			<attr name='sha'>72b17b7905dd3cbe6a970ba122c04d0cdaf7a5e7</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>prv_int_comp_v20eh_2_Misty_Gray.002.jpg</attr>
+			<attr name='sha'>114ea00545af3c0589dedf2530f2f4f8115d51be</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000862 1000882' >
+		<attr name='materialtypeid'>[1001234.1000851.1000862.1000882.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001234.1000851.1000862.1000882.title]</attr>
+		<attr name='source' livesite='false'>[1001234.1000851.1000862.1000882.source]</attr>
+		<attr name='description'>[1001234.1000851.1000862.1000882.description]</attr>
+		<attr name='derived' livesite='false'>[1001234.1000851.1000862.1000882.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>prv_int_comp_v20eh_3_Misty_Gray.002.jpg</attr>
+			<attr name='sha'>9f97acf6e0379f7f7a569a94e459ff3774b11b22</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>prv_int_comp_v20eh_3_Misty_Gray.002.jpg</attr>
+			<attr name='sha'>9f2d82bcdba66365c1770cbe1854c72280b18260</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>prv_int_comp_v20eh_3_Misty_Gray.002.jpg</attr>
+			<attr name='sha'>90d1fd577cf930d88b3ac03dc737467ef520e0d4</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000862 1000882 1001164' >
+		<attr name='materialtypeid'>[1001234.1000851.1000862.1000882.materialtypeid]</attr>
+		<attr name='description'>[1001234.1000851.1000862.1000882.description]</attr>
+	</if>
+
+</feature>

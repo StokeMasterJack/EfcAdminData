@@ -1,0 +1,8 @@
+<feature id='1002187' type='disclaimer' cardinality='optional' >
+	<attr name='derived' livesite='false'>[1002187.derived]</attr>
+	<attr name='description' livesite='false'>[1002187.description]</attr>
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1002187.source]</attr>
+	<attr name='vtc' livesite='false'>[1002187.vtc]</attr>
+	<attr name='code'>run_flat</attr>
+</feature>

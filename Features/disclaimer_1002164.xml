@@ -1,0 +1,8 @@
+<feature id='1002164' type='disclaimer' cardinality='optional' >
+	<attr name='code'>remote_ac</attr>
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1002164.description]</attr>
+	<attr name='source' livesite='false'>[1002164.source]</attr>
+	<attr name='vtc' livesite='false'>[1002164.vtc]</attr>
+	<attr name='derived' livesite='false'>[1002164.derived]</attr>
+</feature>

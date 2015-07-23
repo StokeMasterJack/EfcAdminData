@@ -1,0 +1,8 @@
+<feature id='1001821' type='disclaimer' cardinality='optional' >
+	<attr name='code'>financial_affordability</attr>
+	<attr name='description' livesite='false'>[1001821.description]</attr>
+	<attr name='source' livesite='false'>[1001821.source]</attr>
+	<attr name='title'></attr>
+	<attr name='derived' livesite='false'>[1001821.derived]</attr>
+	<attr name='vtc' livesite='false'>[1001821.vtc]</attr>
+</feature>

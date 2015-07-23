@@ -1,0 +1,199 @@
+<feature id='1001499' type='accessory' scope='1000851 1000869 1000921, 1000851 1000869 1000920, 1002622 1000869 1000921, 1000851 1000869 1000913, 1002622 1000869 1000912, 1000851 1000869 1000912, 1000851 1000869 1000915, 1002622 1000869 1000914, 1000851 1000869 1000914, 1002622 1000869 1000917, 1000851 1000869 1000916, 1002622 1000869 1000916, 1000851 1000869 1000917, 1000851 1000869 1000918, 1002622 1000869 1000919, 1000851 1000869 1000919, 1002622 1000869 1000918' cardinality='mandatory' >
+	<attr name='alacarte'></attr>
+	<attr name='code'>3S</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='fullimage'></attr>
+	<attr name='group' livesite='false'>[1001499.group]</attr>
+	<attr name='keyfeatures'></attr>
+	<attr name='marketingeffectivedate'></attr>
+	<attr name='msrp'></attr>
+	<attr name='option'></attr>
+	<attr name='package'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='secondaryfeatures'></attr>
+	<attr name='source'></attr>
+	<attr name='specialexteriorcolorflag'></attr>
+	<attr name='specialinteriorcolorflag'></attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'></attr>
+	<attr name='type'>[1001499.type]</attr>
+	<attr name='videokey'></attr>
+	<attr name='viewpointkey'></attr>
+	<attr name='vtc'>[1001499.vtc]</attr>
+	<if id='1000851 1000869 1000912' >
+		<attr name='msrp'>[1001499.1000851.1000869.1000912.msrp]</attr>
+		<attr name='source'>[1001499.1000851.1000869.1000912.source]</attr>
+		<attr name='title'>[1001499.1000851.1000869.1000912.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_3S' type='TEXT'>{1001499 conflicts(1001501)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_3S' type='TEXT'>{1001499 conflicts(1001502)}</rule>
+	</if>
+
+	<if id='1000851 1000869 1000913' >
+		<attr name='msrp'>[1001499.1000851.1000869.1000913.msrp]</attr>
+		<attr name='source'>[1001499.1000851.1000869.1000913.source]</attr>
+		<attr name='title'>[1001499.1000851.1000869.1000913.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_3S' type='TEXT'>{1001499 conflicts(1001502)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_3S' type='TEXT'>{1001499 conflicts(1001501)}</rule>
+	</if>
+
+	<if id='1000851 1000869 1000914' >
+		<attr name='msrp'>[1001499.1000851.1000869.1000914.msrp]</attr>
+		<attr name='source'>[1001499.1000851.1000869.1000914.source]</attr>
+		<attr name='title'>[1001499.1000851.1000869.1000914.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_3S' type='TEXT'>{1001499 conflicts(1001501)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_3S' type='TEXT'>{1001499 conflicts(1001502)}</rule>
+	</if>
+
+	<if id='1000851 1000869 1000915' >
+		<attr name='msrp'>[1001499.1000851.1000869.1000915.msrp]</attr>
+		<attr name='source'>[1001499.1000851.1000869.1000915.source]</attr>
+		<attr name='title'>[1001499.1000851.1000869.1000915.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_3S' type='TEXT'>{1001499 conflicts(1001501)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_3S' type='TEXT'>{1001499 conflicts(1001502)}</rule>
+	</if>
+
+	<if id='1000851 1000869 1000916' >
+		<attr name='alacarte'>[1001499.1000851.1000869.1000916.alacarte]</attr>
+		<attr name='derived'>[1001499.1000851.1000869.1000916.derived]</attr>
+		<attr name='description'>[1001499.1000851.1000869.1000916.description]</attr>
+		<attr name='group'>[1001499.1000851.1000869.1000916.group]</attr>
+		<attr name='keyfeatures'>[1001499.1000851.1000869.1000916.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001499.1000851.1000869.1000916.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1001499.1000851.1000869.1000916.msrp]</attr>
+		<attr name='option'>[1001499.1000851.1000869.1000916.option]</attr>
+		<attr name='package'>[1001499.1000851.1000869.1000916.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001499.1000851.1000869.1000916.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001499.1000851.1000869.1000916.secondaryfeatures]</attr>
+		<attr name='source'>[1001499.1000851.1000869.1000916.source]</attr>
+		<attr name='specialexteriorcolorflag'>[1001499.1000851.1000869.1000916.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1001499.1000851.1000869.1000916.specialinteriorcolorflag]</attr>
+		<attr name='title'>[1001499.1000851.1000869.1000916.title]</attr>
+		<attr name='videokey'>[1001499.1000851.1000869.1000916.videokey]</attr>
+		<attr name='viewpointkey'>[1001499.1000851.1000869.1000916.viewpointkey]</attr>
+		<attr name='vtc'>[1001499.1000851.1000869.1000916.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_3S' type='TEXT'>{1001499 conflicts(1001501)}</rule>
+	</if>
+
+	<if id='1000851 1000869 1000917' >
+		<attr name='msrp'>[1001499.1000851.1000869.1000917.msrp]</attr>
+		<attr name='source'>[1001499.1000851.1000869.1000917.source]</attr>
+		<attr name='title'>[1001499.1000851.1000869.1000917.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_3S' type='TEXT'>{1001499 conflicts(1001501)}</rule>
+	</if>
+
+	<if id='1000851 1000869 1000918' >
+		<attr name='msrp'>[1001499.1000851.1000869.1000918.msrp]</attr>
+		<attr name='source'>[1001499.1000851.1000869.1000918.source]</attr>
+		<attr name='title'>[1001499.1000851.1000869.1000918.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_3S' type='TEXT'>{1001499 conflicts(1001501)}</rule>
+	</if>
+
+	<if id='1000851 1000869 1000919' >
+		<attr name='msrp'>[1001499.1000851.1000869.1000919.msrp]</attr>
+		<attr name='source'>[1001499.1000851.1000869.1000919.source]</attr>
+		<attr name='title'>[1001499.1000851.1000869.1000919.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_3S' type='TEXT'>{1001499 conflicts(1001501)}</rule>
+	</if>
+
+	<if id='1000851 1000869 1000920' >
+		<attr name='msrp'>[1001499.1000851.1000869.1000920.msrp]</attr>
+		<attr name='source'>[1001499.1000851.1000869.1000920.source]</attr>
+		<attr name='title'>[1001499.1000851.1000869.1000920.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_3S' type='TEXT'>{1001499 conflicts(1001501)}</rule>
+	</if>
+
+	<if id='1000851 1000869 1000921' >
+		<attr name='msrp'>[1001499.1000851.1000869.1000921.msrp]</attr>
+		<attr name='source'>[1001499.1000851.1000869.1000921.source]</attr>
+		<attr name='title'>[1001499.1000851.1000869.1000921.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_3S' type='TEXT'>{1001499 conflicts(1001501)}</rule>
+	</if>
+
+	<if id='1002622 1000869 1000912' >
+		<attr name='alacarte'>[1001499.1002622.1000869.1000912.alacarte]</attr>
+		<attr name='derived'>[1001499.1002622.1000869.1000912.derived]</attr>
+		<attr name='group'>[1001499.1002622.1000869.1000912.group]</attr>
+		<attr name='msrp'>[1001499.1002622.1000869.1000912.msrp]</attr>
+		<attr name='package'>[1001499.1002622.1000869.1000912.package]</attr>
+		<attr name='source'>[1001499.1002622.1000869.1000912.source]</attr>
+		<attr name='title'>[1001499.1002622.1000869.1000912.title]</attr>
+		<attr name='vtc'>[1001499.1002622.1000869.1000912.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_3S' type='TEXT'>{1001499 conflicts(1001502)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_3S' type='TEXT'>{1001499 conflicts(1001501)}</rule>
+	</if>
+
+	<if id='1002622 1000869 1000914' >
+		<attr name='alacarte'>[1001499.1002622.1000869.1000914.alacarte]</attr>
+		<attr name='derived'>[1001499.1002622.1000869.1000914.derived]</attr>
+		<attr name='group'>[1001499.1002622.1000869.1000914.group]</attr>
+		<attr name='msrp'>[1001499.1002622.1000869.1000914.msrp]</attr>
+		<attr name='package'>[1001499.1002622.1000869.1000914.package]</attr>
+		<attr name='source'>[1001499.1002622.1000869.1000914.source]</attr>
+		<attr name='title'>[1001499.1002622.1000869.1000914.title]</attr>
+		<attr name='vtc'>[1001499.1002622.1000869.1000914.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_3S' type='TEXT'>{1001499 conflicts(1001502)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_3S' type='TEXT'>{1001499 conflicts(1001501)}</rule>
+	</if>
+
+	<if id='1002622 1000869 1000916' >
+		<attr name='alacarte'>[1001499.1002622.1000869.1000916.alacarte]</attr>
+		<attr name='derived'>[1001499.1002622.1000869.1000916.derived]</attr>
+		<attr name='group'>[1001499.1002622.1000869.1000916.group]</attr>
+		<attr name='msrp'>[1001499.1002622.1000869.1000916.msrp]</attr>
+		<attr name='package'>[1001499.1002622.1000869.1000916.package]</attr>
+		<attr name='source'>[1001499.1002622.1000869.1000916.source]</attr>
+		<attr name='title'>[1001499.1002622.1000869.1000916.title]</attr>
+		<attr name='vtc'>[1001499.1002622.1000869.1000916.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_3S' type='TEXT'>{1001499 conflicts(1001501)}</rule>
+	</if>
+
+	<if id='1002622 1000869 1000917' >
+		<attr name='alacarte'>[1001499.1002622.1000869.1000917.alacarte]</attr>
+		<attr name='derived'>[1001499.1002622.1000869.1000917.derived]</attr>
+		<attr name='group'>[1001499.1002622.1000869.1000917.group]</attr>
+		<attr name='msrp'>[1001499.1002622.1000869.1000917.msrp]</attr>
+		<attr name='package'>[1001499.1002622.1000869.1000917.package]</attr>
+		<attr name='source'>[1001499.1002622.1000869.1000917.source]</attr>
+		<attr name='title'>[1001499.1002622.1000869.1000917.title]</attr>
+		<attr name='vtc'>[1001499.1002622.1000869.1000917.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_3S' type='TEXT'>{1001499 conflicts(1001501)}</rule>
+	</if>
+
+	<if id='1002622 1000869 1000918' >
+		<attr name='alacarte'>[1001499.1002622.1000869.1000918.alacarte]</attr>
+		<attr name='derived'>[1001499.1002622.1000869.1000918.derived]</attr>
+		<attr name='group'>[1001499.1002622.1000869.1000918.group]</attr>
+		<attr name='msrp'>[1001499.1002622.1000869.1000918.msrp]</attr>
+		<attr name='package'>[1001499.1002622.1000869.1000918.package]</attr>
+		<attr name='source'>[1001499.1002622.1000869.1000918.source]</attr>
+		<attr name='title'>[1001499.1002622.1000869.1000918.title]</attr>
+		<attr name='vtc'>[1001499.1002622.1000869.1000918.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_3S' type='TEXT'>{1001499 conflicts(1001501)}</rule>
+	</if>
+
+	<if id='1002622 1000869 1000919' >
+		<attr name='alacarte'>[1001499.1002622.1000869.1000919.alacarte]</attr>
+		<attr name='derived'>[1001499.1002622.1000869.1000919.derived]</attr>
+		<attr name='group'>[1001499.1002622.1000869.1000919.group]</attr>
+		<attr name='msrp'>[1001499.1002622.1000869.1000919.msrp]</attr>
+		<attr name='package'>[1001499.1002622.1000869.1000919.package]</attr>
+		<attr name='source'>[1001499.1002622.1000869.1000919.source]</attr>
+		<attr name='title'>[1001499.1002622.1000869.1000919.title]</attr>
+		<attr name='vtc'>[1001499.1002622.1000869.1000919.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_3S' type='TEXT'>{1001499 conflicts(1001501)}</rule>
+	</if>
+
+	<if id='1002622 1000869 1000921' >
+		<attr name='alacarte'>[1001499.1002622.1000869.1000921.alacarte]</attr>
+		<attr name='derived'>[1001499.1002622.1000869.1000921.derived]</attr>
+		<attr name='group'>[1001499.1002622.1000869.1000921.group]</attr>
+		<attr name='msrp'>[1001499.1002622.1000869.1000921.msrp]</attr>
+		<attr name='package'>[1001499.1002622.1000869.1000921.package]</attr>
+		<attr name='source'>[1001499.1002622.1000869.1000921.source]</attr>
+		<attr name='title'>[1001499.1002622.1000869.1000921.title]</attr>
+		<attr name='vtc'>[1001499.1002622.1000869.1000921.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_3S' type='TEXT'>{1001499 conflicts(1001501)}</rule>
+	</if>
+
+</feature>

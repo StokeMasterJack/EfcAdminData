@@ -1,0 +1,8 @@
+<feature id='1001728' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1001728.source]</attr>
+	<attr name='derived' livesite='false'>[1001728.derived]</attr>
+	<attr name='description' livesite='false'>[1001728.description]</attr>
+	<attr name='code'>console_vents</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001728.vtc]</attr>
+</feature>

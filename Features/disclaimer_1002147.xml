@@ -1,0 +1,8 @@
+<feature id='1002147' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1002147.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1002147.vtc]</attr>
+	<attr name='code'>rav4ev_epa_driving_range</attr>
+	<attr name='derived' livesite='false'>[1002147.derived]</attr>
+	<attr name='description' livesite='false'>[1002147.description]</attr>
+</feature>

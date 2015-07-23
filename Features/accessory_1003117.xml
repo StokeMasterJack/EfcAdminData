@@ -1,0 +1,378 @@
+<feature id='1003117' type='accessory' scope='1002622 1000855 1000891, 1002622 1000855 1000893, 1002622 1000855 1000902, 1002622 1000855 1000892, 1002622 1000855 1000895, 1002622 1000855 1000900, 1002622 1000855 1000894, 1002622 1000855 1000901, 1002622 1000855 1000897, 1002622 1000855 1000896, 1002622 1000855 1000899, 1002622 1000855 1000898' cardinality='mandatory' >
+	<attr name='alacarte'></attr>
+	<attr name='code'>Q3</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='fullimage'></attr>
+	<attr name='group' livesite='false'>[1003117.group]</attr>
+	<attr name='keyfeatures'></attr>
+	<attr name='marketingeffectivedate'></attr>
+	<attr name='msrp'></attr>
+	<attr name='option'></attr>
+	<attr name='package'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='secondaryfeatures'></attr>
+	<attr name='source' livesite='false'>[1003117.source]</attr>
+	<attr name='specialexteriorcolorflag'></attr>
+	<attr name='specialinteriorcolorflag'></attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'></attr>
+	<attr name='type' livesite='false'>[1003117.type]</attr>
+	<attr name='videokey'></attr>
+	<attr name='viewpointkey'></attr>
+	<attr name='vtc' livesite='false'>[1003117.vtc]</attr>
+	<if id='1002622 1000855 1000891' >
+		<attr name='alacarte' livesite='false'>[1003117.1002622.1000855.1000891.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1003117.1002622.1000855.1000891.derived]</attr>
+		<attr name='description' livesite='false'>[1003117.1002622.1000855.1000891.description]</attr>
+		<attr name='group' livesite='false'>[1003117.1002622.1000855.1000891.group]</attr>
+		<attr name='keyfeatures'>[1003117.1002622.1000855.1000891.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1003117.1002622.1000855.1000891.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1003117.1002622.1000855.1000891.msrp]</attr>
+		<attr name='option' livesite='false'>[1003117.1002622.1000855.1000891.option]</attr>
+		<attr name='package' livesite='false'>[1003117.1002622.1000855.1000891.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1003117.1002622.1000855.1000891.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1003117.1002622.1000855.1000891.secondaryfeatures]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1003117.1002622.1000855.1000891.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1003117.1002622.1000855.1000891.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1003117.1002622.1000855.1000891.title]</attr>
+		<attr name='videokey'>[1003117.1002622.1000855.1000891.videokey]</attr>
+		<attr name='viewpointkey'>[1003117.1002622.1000855.1000891.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1003117.1002622.1000855.1000891.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001122)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001061)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001073)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001484)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001485)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001083)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1003116)}</rule>
+		<rule src='NVS' tag='PKGACC_TAG_ACY_Q3' type='TEXT'>{1003117 includes(1001073*1001083*1001061)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Q3-Body-Protection-Package2.gif</attr>
+			<attr name='sha'>ea238dea654307c904ba8530c0fc498111567e90541768fad2383f6772ac0d662131bfcd0c8ed5c29d6949f173084662283db65ad883da760e06ef45a920f8b0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000892' >
+		<attr name='alacarte' livesite='false'>[1003117.1002622.1000855.1000892.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1003117.1002622.1000855.1000892.derived]</attr>
+		<attr name='description' livesite='false'>[1003117.1002622.1000855.1000892.description]</attr>
+		<attr name='group' livesite='false'>[1003117.1002622.1000855.1000892.group]</attr>
+		<attr name='msrp' livesite='false'>[1003117.1002622.1000855.1000892.msrp]</attr>
+		<attr name='option' livesite='false'>[1003117.1002622.1000855.1000892.option]</attr>
+		<attr name='package' livesite='false'>[1003117.1002622.1000855.1000892.package]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1003117.1002622.1000855.1000892.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1003117.1002622.1000855.1000892.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1003117.1002622.1000855.1000892.title]</attr>
+		<attr name='vtc' livesite='false'>[1003117.1002622.1000855.1000892.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001061)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001083)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001484)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001122)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001485)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001073)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1003116)}</rule>
+		<rule src='NVS' tag='PKGACC_TAG_ACY_Q3' type='TEXT'>{1003117 includes(1001073*1001083*1001061)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Q3-Body-Protection-Package2.gif</attr>
+			<attr name='sha'>ea238dea654307c904ba8530c0fc498111567e90541768fad2383f6772ac0d662131bfcd0c8ed5c29d6949f173084662283db65ad883da760e06ef45a920f8b0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000893' >
+		<attr name='alacarte' livesite='false'>[1003117.1002622.1000855.1000893.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1003117.1002622.1000855.1000893.derived]</attr>
+		<attr name='description' livesite='false'>[1003117.1002622.1000855.1000893.description]</attr>
+		<attr name='group' livesite='false'>[1003117.1002622.1000855.1000893.group]</attr>
+		<attr name='msrp' livesite='false'>[1003117.1002622.1000855.1000893.msrp]</attr>
+		<attr name='option' livesite='false'>[1003117.1002622.1000855.1000893.option]</attr>
+		<attr name='package' livesite='false'>[1003117.1002622.1000855.1000893.package]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1003117.1002622.1000855.1000893.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1003117.1002622.1000855.1000893.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1003117.1002622.1000855.1000893.title]</attr>
+		<attr name='vtc' livesite='false'>[1003117.1002622.1000855.1000893.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001484)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001073)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001061)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001083)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001485)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001122)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1003116)}</rule>
+		<rule src='NVS' tag='PKGACC_TAG_ACY_Q3' type='TEXT'>{1003117 includes(1001073*1001083*1001061)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Q3-Body-Protection-Package2.gif</attr>
+			<attr name='sha'>ea238dea654307c904ba8530c0fc498111567e90541768fad2383f6772ac0d662131bfcd0c8ed5c29d6949f173084662283db65ad883da760e06ef45a920f8b0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000894' >
+		<attr name='alacarte' livesite='false'>[1003117.1002622.1000855.1000894.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1003117.1002622.1000855.1000894.derived]</attr>
+		<attr name='description' livesite='false'>[1003117.1002622.1000855.1000894.description]</attr>
+		<attr name='group' livesite='false'>[1003117.1002622.1000855.1000894.group]</attr>
+		<attr name='msrp' livesite='false'>[1003117.1002622.1000855.1000894.msrp]</attr>
+		<attr name='option' livesite='false'>[1003117.1002622.1000855.1000894.option]</attr>
+		<attr name='package' livesite='false'>[1003117.1002622.1000855.1000894.package]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1003117.1002622.1000855.1000894.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1003117.1002622.1000855.1000894.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1003117.1002622.1000855.1000894.title]</attr>
+		<attr name='vtc' livesite='false'>[1003117.1002622.1000855.1000894.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001061)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001073)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001485)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001484)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1003116)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001122)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001083)}</rule>
+		<rule src='NVS' tag='PKGACC_TAG_ACY_Q3' type='TEXT'>{1003117 includes(1001073*1001083*1001061)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Q3-Body-Protection-Package2.gif</attr>
+			<attr name='sha'>ea238dea654307c904ba8530c0fc498111567e90541768fad2383f6772ac0d662131bfcd0c8ed5c29d6949f173084662283db65ad883da760e06ef45a920f8b0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000895' >
+		<attr name='alacarte' livesite='false'>[1003117.1002622.1000855.1000895.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1003117.1002622.1000855.1000895.derived]</attr>
+		<attr name='description' livesite='false'>[1003117.1002622.1000855.1000895.description]</attr>
+		<attr name='group' livesite='false'>[1003117.1002622.1000855.1000895.group]</attr>
+		<attr name='msrp' livesite='false'>[1003117.1002622.1000855.1000895.msrp]</attr>
+		<attr name='option' livesite='false'>[1003117.1002622.1000855.1000895.option]</attr>
+		<attr name='package' livesite='false'>[1003117.1002622.1000855.1000895.package]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1003117.1002622.1000855.1000895.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1003117.1002622.1000855.1000895.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1003117.1002622.1000855.1000895.title]</attr>
+		<attr name='vtc' livesite='false'>[1003117.1002622.1000855.1000895.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001122)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001484)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001485)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001083)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001073)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1003116)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001061)}</rule>
+		<rule src='NVS' tag='PKGACC_TAG_ACY_Q3' type='TEXT'>{1003117 includes(1001073*1001083*1001061)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Q3-Body-Protection-Package2.gif</attr>
+			<attr name='sha'>ea238dea654307c904ba8530c0fc498111567e90541768fad2383f6772ac0d662131bfcd0c8ed5c29d6949f173084662283db65ad883da760e06ef45a920f8b0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000896' >
+		<attr name='alacarte' livesite='false'>[1003117.1002622.1000855.1000896.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1003117.1002622.1000855.1000896.derived]</attr>
+		<attr name='description' livesite='false'>[1003117.1002622.1000855.1000896.description]</attr>
+		<attr name='group' livesite='false'>[1003117.1002622.1000855.1000896.group]</attr>
+		<attr name='msrp' livesite='false'>[1003117.1002622.1000855.1000896.msrp]</attr>
+		<attr name='option' livesite='false'>[1003117.1002622.1000855.1000896.option]</attr>
+		<attr name='package' livesite='false'>[1003117.1002622.1000855.1000896.package]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1003117.1002622.1000855.1000896.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1003117.1002622.1000855.1000896.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1003117.1002622.1000855.1000896.title]</attr>
+		<attr name='vtc' livesite='false'>[1003117.1002622.1000855.1000896.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001484)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001122)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001061)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001485)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001083)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001073)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1003116)}</rule>
+		<rule src='NVS' tag='PKGACC_TAG_ACY_Q3' type='TEXT'>{1003117 includes(1001073*1001083*1001061)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Q3-Body-Protection-Package2.gif</attr>
+			<attr name='sha'>ea238dea654307c904ba8530c0fc498111567e90541768fad2383f6772ac0d662131bfcd0c8ed5c29d6949f173084662283db65ad883da760e06ef45a920f8b0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000897' >
+		<attr name='alacarte' livesite='false'>[1003117.1002622.1000855.1000897.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1003117.1002622.1000855.1000897.derived]</attr>
+		<attr name='description' livesite='false'>[1003117.1002622.1000855.1000897.description]</attr>
+		<attr name='group' livesite='false'>[1003117.1002622.1000855.1000897.group]</attr>
+		<attr name='msrp' livesite='false'>[1003117.1002622.1000855.1000897.msrp]</attr>
+		<attr name='option' livesite='false'>[1003117.1002622.1000855.1000897.option]</attr>
+		<attr name='package' livesite='false'>[1003117.1002622.1000855.1000897.package]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1003117.1002622.1000855.1000897.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1003117.1002622.1000855.1000897.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1003117.1002622.1000855.1000897.title]</attr>
+		<attr name='vtc' livesite='false'>[1003117.1002622.1000855.1000897.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001061)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1003116)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001485)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001073)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001083)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001484)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001122)}</rule>
+		<rule src='NVS' tag='PKGACC_TAG_ACY_Q3' type='TEXT'>{1003117 includes(1001073*1001083*1001061)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Q3-Body-Protection-Package2.gif</attr>
+			<attr name='sha'>ea238dea654307c904ba8530c0fc498111567e90541768fad2383f6772ac0d662131bfcd0c8ed5c29d6949f173084662283db65ad883da760e06ef45a920f8b0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000898' >
+		<attr name='alacarte' livesite='false'>[1003117.1002622.1000855.1000898.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1003117.1002622.1000855.1000898.derived]</attr>
+		<attr name='description' livesite='false'>[1003117.1002622.1000855.1000898.description]</attr>
+		<attr name='group' livesite='false'>[1003117.1002622.1000855.1000898.group]</attr>
+		<attr name='msrp' livesite='false'>[1003117.1002622.1000855.1000898.msrp]</attr>
+		<attr name='option' livesite='false'>[1003117.1002622.1000855.1000898.option]</attr>
+		<attr name='package' livesite='false'>[1003117.1002622.1000855.1000898.package]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1003117.1002622.1000855.1000898.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1003117.1002622.1000855.1000898.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1003117.1002622.1000855.1000898.title]</attr>
+		<attr name='vtc' livesite='false'>[1003117.1002622.1000855.1000898.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1003116)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001073)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001083)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001485)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001484)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001061)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001122)}</rule>
+		<rule src='NVS' tag='PKGACC_TAG_ACY_Q3' type='TEXT'>{1003117 includes(1001073*1001083*1001061)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Q3-Body-Protection-Package2.gif</attr>
+			<attr name='sha'>ea238dea654307c904ba8530c0fc498111567e90541768fad2383f6772ac0d662131bfcd0c8ed5c29d6949f173084662283db65ad883da760e06ef45a920f8b0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000899' >
+		<attr name='alacarte' livesite='false'>[1003117.1002622.1000855.1000899.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1003117.1002622.1000855.1000899.derived]</attr>
+		<attr name='description' livesite='false'>[1003117.1002622.1000855.1000899.description]</attr>
+		<attr name='group' livesite='false'>[1003117.1002622.1000855.1000899.group]</attr>
+		<attr name='msrp' livesite='false'>[1003117.1002622.1000855.1000899.msrp]</attr>
+		<attr name='option' livesite='false'>[1003117.1002622.1000855.1000899.option]</attr>
+		<attr name='package' livesite='false'>[1003117.1002622.1000855.1000899.package]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1003117.1002622.1000855.1000899.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1003117.1002622.1000855.1000899.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1003117.1002622.1000855.1000899.title]</attr>
+		<attr name='vtc' livesite='false'>[1003117.1002622.1000855.1000899.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001083)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001122)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001485)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001061)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001484)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1003116)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001073)}</rule>
+		<rule src='NVS' tag='PKGACC_TAG_ACY_Q3' type='TEXT'>{1003117 includes(1001073*1001083*1001061)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Q3-Body-Protection-Package2.gif</attr>
+			<attr name='sha'>ea238dea654307c904ba8530c0fc498111567e90541768fad2383f6772ac0d662131bfcd0c8ed5c29d6949f173084662283db65ad883da760e06ef45a920f8b0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000900' >
+		<attr name='alacarte' livesite='false'>[1003117.1002622.1000855.1000900.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1003117.1002622.1000855.1000900.derived]</attr>
+		<attr name='description' livesite='false'>[1003117.1002622.1000855.1000900.description]</attr>
+		<attr name='group' livesite='false'>[1003117.1002622.1000855.1000900.group]</attr>
+		<attr name='msrp' livesite='false'>[1003117.1002622.1000855.1000900.msrp]</attr>
+		<attr name='option' livesite='false'>[1003117.1002622.1000855.1000900.option]</attr>
+		<attr name='package' livesite='false'>[1003117.1002622.1000855.1000900.package]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1003117.1002622.1000855.1000900.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1003117.1002622.1000855.1000900.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1003117.1002622.1000855.1000900.title]</attr>
+		<attr name='vtc' livesite='false'>[1003117.1002622.1000855.1000900.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001073)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001083)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001484)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001485)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001122)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1003116)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001061)}</rule>
+		<rule src='NVS' tag='PKGACC_TAG_ACY_Q3' type='TEXT'>{1003117 includes(1001073*1001083*1001061)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Q3-Body-Protection-Package2.gif</attr>
+			<attr name='sha'>ea238dea654307c904ba8530c0fc498111567e90541768fad2383f6772ac0d662131bfcd0c8ed5c29d6949f173084662283db65ad883da760e06ef45a920f8b0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000901' >
+		<attr name='alacarte' livesite='false'>[1003117.1002622.1000855.1000901.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1003117.1002622.1000855.1000901.derived]</attr>
+		<attr name='description' livesite='false'>[1003117.1002622.1000855.1000901.description]</attr>
+		<attr name='group' livesite='false'>[1003117.1002622.1000855.1000901.group]</attr>
+		<attr name='msrp' livesite='false'>[1003117.1002622.1000855.1000901.msrp]</attr>
+		<attr name='option' livesite='false'>[1003117.1002622.1000855.1000901.option]</attr>
+		<attr name='package' livesite='false'>[1003117.1002622.1000855.1000901.package]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1003117.1002622.1000855.1000901.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1003117.1002622.1000855.1000901.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1003117.1002622.1000855.1000901.title]</attr>
+		<attr name='vtc' livesite='false'>[1003117.1002622.1000855.1000901.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001484)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001485)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001122)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001061)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001073)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001083)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1003116)}</rule>
+		<rule src='NVS' tag='PKGACC_TAG_ACY_Q3' type='TEXT'>{1003117 includes(1001073*1001083*1001061)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Q3-Body-Protection-Package2.gif</attr>
+			<attr name='sha'>ea238dea654307c904ba8530c0fc498111567e90541768fad2383f6772ac0d662131bfcd0c8ed5c29d6949f173084662283db65ad883da760e06ef45a920f8b0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000902' >
+		<attr name='alacarte' livesite='false'>[1003117.1002622.1000855.1000902.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1003117.1002622.1000855.1000902.derived]</attr>
+		<attr name='description' livesite='false'>[1003117.1002622.1000855.1000902.description]</attr>
+		<attr name='group' livesite='false'>[1003117.1002622.1000855.1000902.group]</attr>
+		<attr name='msrp' livesite='false'>[1003117.1002622.1000855.1000902.msrp]</attr>
+		<attr name='option' livesite='false'>[1003117.1002622.1000855.1000902.option]</attr>
+		<attr name='package' livesite='false'>[1003117.1002622.1000855.1000902.package]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1003117.1002622.1000855.1000902.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1003117.1002622.1000855.1000902.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1003117.1002622.1000855.1000902.title]</attr>
+		<attr name='vtc' livesite='false'>[1003117.1002622.1000855.1000902.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001484)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001122)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1003116)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001485)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001073)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001061)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_Q3' type='TEXT'>{1003117 conflicts(1001083)}</rule>
+		<rule src='NVS' tag='PKGACC_TAG_ACY_Q3' type='TEXT'>{1003117 includes(1001073*1001083*1001061)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Q3-Body-Protection-Package2.gif</attr>
+			<attr name='sha'>ea238dea654307c904ba8530c0fc498111567e90541768fad2383f6772ac0d662131bfcd0c8ed5c29d6949f173084662283db65ad883da760e06ef45a920f8b0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

@@ -1,0 +1,16 @@
+<feature id='1001701' type='disclaimer' cardinality='optional' >
+	<attr name='derived' livesite='false'>[1001701.derived]</attr>
+	<attr name='source' livesite='false'>[1001701.source]</attr>
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1001701.description]</attr>
+	<attr name='code'>camry_hybrid_gas_class_leading</attr>
+	<attr name='vtc' livesite='false'>[1001701.vtc]</attr>
+	<if id='1000851' >
+		<attr name='description' livesite='false'>[1001701.1000851.description]</attr>
+	</if>
+
+	<if id='1002622' >
+		<attr name='description' livesite='false'>[1001701.1002622.description]</attr>
+	</if>
+
+</feature>

@@ -1,0 +1,156 @@
+<feature id='1001337' type='interiorcolor' scope='1000851 1000865 1000988, 1000851 1000865 1000985, 1000851 1000865 1000984, 1002622 1000865 1000988, 1002622 1000865 1000985, 1002622 1000865 1000984' cardinality='mandatory' >
+	<attr name='code'>LH44</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1001337.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001337.vtc]</attr>
+	<if id='1000851 1000865 1000984' >
+		<attr name='derived' livesite='false'>[1001337.1000851.1000865.1000984.derived]</attr>
+		<attr name='description'>[1001337.1000851.1000865.1000984.description]</attr>
+		<attr name='materialtypeid'>[1001337.1000851.1000865.1000984.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001337.1000851.1000865.1000984.source]</attr>
+		<attr name='title' livesite='false'>[1001337.1000851.1000865.1000984.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sequoia_int_Platinum_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>9adcd83ca68ede80fd2cb95622ba4df5b1177b0a</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sequoia_int_Platinum_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>7977186de2e2bf01c274a88976f011bc4fe02395</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sequoia_int_Platinum_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>609c06771b1ff6af7507d32974b973cad61c5ab3</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000865 1000985' >
+		<attr name='derived' livesite='false'>[1001337.1000851.1000865.1000985.derived]</attr>
+		<attr name='description'>[1001337.1000851.1000865.1000985.description]</attr>
+		<attr name='materialtypeid'>[1001337.1000851.1000865.1000985.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001337.1000851.1000865.1000985.source]</attr>
+		<attr name='title' livesite='false'>[1001337.1000851.1000865.1000985.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sequoia_int_Platinum_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>9adcd83ca68ede80fd2cb95622ba4df5b1177b0a</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sequoia_int_Platinum_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>7977186de2e2bf01c274a88976f011bc4fe02395</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sequoia_int_Platinum_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>609c06771b1ff6af7507d32974b973cad61c5ab3</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000865 1000988' >
+		<attr name='derived' livesite='false'>[1001337.1000851.1000865.1000988.derived]</attr>
+		<attr name='description'>[1001337.1000851.1000865.1000988.description]</attr>
+		<attr name='materialtypeid'>[1001337.1000851.1000865.1000988.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001337.1000851.1000865.1000988.source]</attr>
+		<attr name='title' livesite='false'>[1001337.1000851.1000865.1000988.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sequoia_int_Platinum_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>9adcd83ca68ede80fd2cb95622ba4df5b1177b0a</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sequoia_int_Platinum_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>7977186de2e2bf01c274a88976f011bc4fe02395</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sequoia_int_Platinum_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>609c06771b1ff6af7507d32974b973cad61c5ab3</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000865 1000984' >
+		<attr name='derived' livesite='false'>[1001337.1002622.1000865.1000984.derived]</attr>
+		<attr name='description'>[1001337.1002622.1000865.1000984.description]</attr>
+		<attr name='materialtypeid'>[1001337.1002622.1000865.1000984.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001337.1002622.1000865.1000984.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sequoia_int_Platinum_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>9adcd83ca68ede80fd2cb95622ba4df5b1177b0a</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sequoia_int_Platinum_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>7977186de2e2bf01c274a88976f011bc4fe02395</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sequoia_int_Platinum_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>609c06771b1ff6af7507d32974b973cad61c5ab3</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000865 1000985' >
+		<attr name='derived' livesite='false'>[1001337.1002622.1000865.1000985.derived]</attr>
+		<attr name='title' livesite='false'>[1001337.1002622.1000865.1000985.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sequoia_int_Platinum_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>9adcd83ca68ede80fd2cb95622ba4df5b1177b0a</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sequoia_int_Platinum_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>7977186de2e2bf01c274a88976f011bc4fe02395</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sequoia_int_Platinum_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>609c06771b1ff6af7507d32974b973cad61c5ab3</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000865 1000988' >
+		<attr name='derived' livesite='false'>[1001337.1002622.1000865.1000988.derived]</attr>
+		<attr name='title' livesite='false'>[1001337.1002622.1000865.1000988.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sequoia_int_Platinum_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>9adcd83ca68ede80fd2cb95622ba4df5b1177b0a</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sequoia_int_Platinum_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>7977186de2e2bf01c274a88976f011bc4fe02395</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sequoia_int_Platinum_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>609c06771b1ff6af7507d32974b973cad61c5ab3</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

@@ -1,0 +1,370 @@
+<feature id='1001216' type='exteriorcolor' scope='1002622 1000863 1000933, 1002622 1000863 1000932, 1002622 1000854 1002849, 1002622 1000863 1000934, 1002622 1000854 1000907, 1000851 1000855 1000899, 1002622 1000854 1000908, 1000851 1000855 1000898, 1002622 1000863 1000929, 1002622 1000863 1000931, 1000851 1000855 1000897, 1000851 1000855 1000896, 1002622 1000863 1000930, 1002622 1000854 1000906, 1000851 1000863 1000929, 1000851 1000863 1000931, 1000851 1000863 1000930, 1000851 1000863 1000933, 1002622 1000855 1000897, 1000851 1000863 1000932, 1002622 1000855 1000896, 1002622 1000855 1000899, 1000851 1000863 1000934, 1002622 1000855 1000898' cardinality='mandatory' >
+	<attr name='carjellyimage'></attr>
+	<attr name='code'>08W7</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='hexvalue'>[1001216.hexvalue]</attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source'>[1001216.source]</attr>
+	<attr name='title'>[1001216.title]</attr>
+	<attr name='vtc'>[1001216.vtc]</attr>
+	<if id='1000851 1000855 1000896' >
+		<attr name='derived'>[1001216.1000851.1000855.1000896.derived]</attr>
+		<attr name='description'>[1001216.1000851.1000855.1000896.description]</attr>
+		<attr name='materialtypeid'>[1001216.1000851.1000855.1000896.materialtypeid]</attr>
+		<attr name='source'>[1001216.1000851.1000855.1000896.source]</attr>
+		<attr name='title'>[1001216.1000851.1000855.1000896.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Corolla_ext_S_8W7_v01ma_hd_001.png</attr>
+			<attr name='sha'>6be16f5c6ff5f510424cffe7567b8d65b1692acd</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000897' >
+		<attr name='derived'>[1001216.1000851.1000855.1000897.derived]</attr>
+		<attr name='source'>[1001216.1000851.1000855.1000897.source]</attr>
+		<attr name='title'>[1001216.1000851.1000855.1000897.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Corolla_ext_S_8W7_v01ma_hd_001.png</attr>
+			<attr name='sha'>6be16f5c6ff5f510424cffe7567b8d65b1692acd</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000898' >
+		<attr name='derived'>[1001216.1000851.1000855.1000898.derived]</attr>
+		<attr name='source'>[1001216.1000851.1000855.1000898.source]</attr>
+		<attr name='title'>[1001216.1000851.1000855.1000898.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Corolla_ext_S_8W7_v01ma_hd_001.png</attr>
+			<attr name='sha'>6be16f5c6ff5f510424cffe7567b8d65b1692acd</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000899' >
+		<attr name='derived'>[1001216.1000851.1000855.1000899.derived]</attr>
+		<attr name='source'>[1001216.1000851.1000855.1000899.source]</attr>
+		<attr name='title'>[1001216.1000851.1000855.1000899.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Corolla_ext_S_8W7_v01ma_hd_001.png</attr>
+			<attr name='sha'>6be16f5c6ff5f510424cffe7567b8d65b1692acd</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000863 1000929' >
+		<attr name='derived'>[1001216.1000851.1000863.1000929.derived]</attr>
+		<attr name='description'>[1001216.1000851.1000863.1000929.description]</attr>
+		<attr name='materialtypeid'>[1001216.1000851.1000863.1000929.materialtypeid]</attr>
+		<attr name='source'>[1001216.1000851.1000863.1000929.source]</attr>
+		<attr name='title'>[1001216.1000851.1000863.1000929.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>vehicle_ext_LE_FWD_8W7_v01ko_hd_001.png</attr>
+			<attr name='sha'>69a107a0dbc6a0326883f1dcac768b2b8aa11552</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000863 1000930' >
+		<attr name='derived'>[1001216.1000851.1000863.1000930.derived]</attr>
+		<attr name='description'>[1001216.1000851.1000863.1000930.description]</attr>
+		<attr name='materialtypeid'>[1001216.1000851.1000863.1000930.materialtypeid]</attr>
+		<attr name='source'>[1001216.1000851.1000863.1000930.source]</attr>
+		<attr name='title'>[1001216.1000851.1000863.1000930.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>vehicle_ext_LE_FWD_8W7_v01ko_hd_001.png</attr>
+			<attr name='sha'>69a107a0dbc6a0326883f1dcac768b2b8aa11552</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000863 1000931' >
+		<attr name='derived'>[1001216.1000851.1000863.1000931.derived]</attr>
+		<attr name='description'>[1001216.1000851.1000863.1000931.description]</attr>
+		<attr name='materialtypeid'>[1001216.1000851.1000863.1000931.materialtypeid]</attr>
+		<attr name='source'>[1001216.1000851.1000863.1000931.source]</attr>
+		<attr name='title'>[1001216.1000851.1000863.1000931.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>vehicle_ext_XLE_FWD_8W7_v01ko_hd_001.png</attr>
+			<attr name='sha'>c1f95e88627e85df2a30eb3cf7aea02f35e5ca55</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000863 1000932' >
+		<attr name='derived'>[1001216.1000851.1000863.1000932.derived]</attr>
+		<attr name='description'>[1001216.1000851.1000863.1000932.description]</attr>
+		<attr name='materialtypeid'>[1001216.1000851.1000863.1000932.materialtypeid]</attr>
+		<attr name='source'>[1001216.1000851.1000863.1000932.source]</attr>
+		<attr name='title'>[1001216.1000851.1000863.1000932.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>vehicle_ext_XLE_FWD_8W7_v01ko_hd_001.png</attr>
+			<attr name='sha'>c1f95e88627e85df2a30eb3cf7aea02f35e5ca55</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000863 1000933' >
+		<attr name='derived'>[1001216.1000851.1000863.1000933.derived]</attr>
+		<attr name='description'>[1001216.1000851.1000863.1000933.description]</attr>
+		<attr name='materialtypeid'>[1001216.1000851.1000863.1000933.materialtypeid]</attr>
+		<attr name='source'>[1001216.1000851.1000863.1000933.source]</attr>
+		<attr name='title'>[1001216.1000851.1000863.1000933.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>vehicle_ext_LTD_FWD_8W7_v01ko_hd_001.png</attr>
+			<attr name='sha'>3b6ffa8bf24c703e42e939266a01b0e81da9dd37</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000863 1000934' >
+		<attr name='derived'>[1001216.1000851.1000863.1000934.derived]</attr>
+		<attr name='description'>[1001216.1000851.1000863.1000934.description]</attr>
+		<attr name='materialtypeid'>[1001216.1000851.1000863.1000934.materialtypeid]</attr>
+		<attr name='source'>[1001216.1000851.1000863.1000934.source]</attr>
+		<attr name='title'>[1001216.1000851.1000863.1000934.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>vehicle_ext_LTD_FWD_8W7_v01ko_hd_001.png</attr>
+			<attr name='sha'>3b6ffa8bf24c703e42e939266a01b0e81da9dd37</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000906' >
+		<attr name='derived' livesite='false'>[1001216.1002622.1000854.1000906.derived]</attr>
+		<attr name='description'>[1001216.1002622.1000854.1000906.description]</attr>
+		<attr name='materialtypeid'>[1001216.1002622.1000854.1000906.materialtypeid]</attr>
+		<attr name='source'>[1001216.1002622.1000854.1000906.source]</attr>
+		<attr name='title' livesite='false'>[1001216.1002622.1000854.1000906.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Camry_ext_SE_08W7_v017_hd_001.png</attr>
+			<attr name='sha'>8350b153bcee9379aa2c4f6c9555cd16a829cf3a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000907' >
+		<attr name='derived' livesite='false'>[1001216.1002622.1000854.1000907.derived]</attr>
+		<attr name='description'>[1001216.1002622.1000854.1000907.description]</attr>
+		<attr name='materialtypeid'>[1001216.1002622.1000854.1000907.materialtypeid]</attr>
+		<attr name='source'>[1001216.1002622.1000854.1000907.source]</attr>
+		<attr name='title' livesite='false'>[1001216.1002622.1000854.1000907.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Camry_ext_XSE_08W7_v017_si_byt.0001.png</attr>
+			<attr name='sha'>ded51fb540f01257269175ced9470fdb5ab5262c</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000908' >
+		<attr name='derived' livesite='false'>[1001216.1002622.1000854.1000908.derived]</attr>
+		<attr name='description'>[1001216.1002622.1000854.1000908.description]</attr>
+		<attr name='materialtypeid'>[1001216.1002622.1000854.1000908.materialtypeid]</attr>
+		<attr name='source'>[1001216.1002622.1000854.1000908.source]</attr>
+		<attr name='title' livesite='false'>[1001216.1002622.1000854.1000908.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Camry_ext_XSE_V6_08W7_v017_hd_001.png</attr>
+			<attr name='sha'>28a6cf0aaccd1cbf5d64292df48780d61a8c9067</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1002849' >
+		<attr name='derived' livesite='false'>[1001216.1002622.1000854.1002849.derived]</attr>
+		<attr name='description'>[1001216.1002622.1000854.1002849.description]</attr>
+		<attr name='materialtypeid'>[1001216.1002622.1000854.1002849.materialtypeid]</attr>
+		<attr name='source'>[1001216.1002622.1000854.1002849.source]</attr>
+		<attr name='title' livesite='false'>[1001216.1002622.1000854.1002849.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Camry_ext_HYB_SE_08W7_v017_hd_001.png</attr>
+			<attr name='sha'>0167822d5daca6b2441ca9b130ec3e862f43852b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000896' >
+		<attr name='derived' livesite='false'>[1001216.1002622.1000855.1000896.derived]</attr>
+		<attr name='description'>[1001216.1002622.1000855.1000896.description]</attr>
+		<attr name='materialtypeid'>[1001216.1002622.1000855.1000896.materialtypeid]</attr>
+		<attr name='source'>[1001216.1002622.1000855.1000896.source]</attr>
+		<attr name='title' livesite='false'>[1001216.1002622.1000855.1000896.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Corolla_ext_S_8W7_v01ma_hd_001.png</attr>
+			<attr name='sha'>6be16f5c6ff5f510424cffe7567b8d65b1692acd</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000897' >
+		<attr name='derived' livesite='false'>[1001216.1002622.1000855.1000897.derived]</attr>
+		<attr name='description'>[1001216.1002622.1000855.1000897.description]</attr>
+		<attr name='materialtypeid'>[1001216.1002622.1000855.1000897.materialtypeid]</attr>
+		<attr name='source'>[1001216.1002622.1000855.1000897.source]</attr>
+		<attr name='title' livesite='false'>[1001216.1002622.1000855.1000897.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Corolla_ext_S_8W7_v01ma_hd_001.png</attr>
+			<attr name='sha'>6be16f5c6ff5f510424cffe7567b8d65b1692acd</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000898' >
+		<attr name='derived' livesite='false'>[1001216.1002622.1000855.1000898.derived]</attr>
+		<attr name='description'>[1001216.1002622.1000855.1000898.description]</attr>
+		<attr name='materialtypeid'>[1001216.1002622.1000855.1000898.materialtypeid]</attr>
+		<attr name='source'>[1001216.1002622.1000855.1000898.source]</attr>
+		<attr name='title' livesite='false'>[1001216.1002622.1000855.1000898.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Corolla_ext_S_8W7_v01ma_hd_001.png</attr>
+			<attr name='sha'>6be16f5c6ff5f510424cffe7567b8d65b1692acd</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000899' >
+		<attr name='derived' livesite='false'>[1001216.1002622.1000855.1000899.derived]</attr>
+		<attr name='description'>[1001216.1002622.1000855.1000899.description]</attr>
+		<attr name='materialtypeid'>[1001216.1002622.1000855.1000899.materialtypeid]</attr>
+		<attr name='source'>[1001216.1002622.1000855.1000899.source]</attr>
+		<attr name='title' livesite='false'>[1001216.1002622.1000855.1000899.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Corolla_ext_S_8W7_v01ma_hd_001.png</attr>
+			<attr name='sha'>6be16f5c6ff5f510424cffe7567b8d65b1692acd</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000863 1000929' >
+		<attr name='derived' livesite='false'>[1001216.1002622.1000863.1000929.derived]</attr>
+		<attr name='description'>[1001216.1002622.1000863.1000929.description]</attr>
+		<attr name='materialtypeid'>[1001216.1002622.1000863.1000929.materialtypeid]</attr>
+		<attr name='source'>[1001216.1002622.1000863.1000929.source]</attr>
+		<attr name='title' livesite='false'>[1001216.1002622.1000863.1000929.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>vehicle_ext_LE_FWD_8W7_v01ko_hd_001.png</attr>
+			<attr name='sha'>69a107a0dbc6a0326883f1dcac768b2b8aa11552</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000863 1000930' >
+		<attr name='derived' livesite='false'>[1001216.1002622.1000863.1000930.derived]</attr>
+		<attr name='description'>[1001216.1002622.1000863.1000930.description]</attr>
+		<attr name='materialtypeid'>[1001216.1002622.1000863.1000930.materialtypeid]</attr>
+		<attr name='source'>[1001216.1002622.1000863.1000930.source]</attr>
+		<attr name='title' livesite='false'>[1001216.1002622.1000863.1000930.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>vehicle_ext_LE_FWD_8W7_v01ko_hd_001.png</attr>
+			<attr name='sha'>69a107a0dbc6a0326883f1dcac768b2b8aa11552</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000863 1000931' >
+		<attr name='derived' livesite='false'>[1001216.1002622.1000863.1000931.derived]</attr>
+		<attr name='description'>[1001216.1002622.1000863.1000931.description]</attr>
+		<attr name='materialtypeid'>[1001216.1002622.1000863.1000931.materialtypeid]</attr>
+		<attr name='source'>[1001216.1002622.1000863.1000931.source]</attr>
+		<attr name='title' livesite='false'>[1001216.1002622.1000863.1000931.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Rav4_ext_XLE_FWD_08W7_v008_si_byt.0001.png</attr>
+			<attr name='sha'>360fac7d3b26ccf83ccdaba576bdec6d000748aa</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000863 1000932' >
+		<attr name='derived' livesite='false'>[1001216.1002622.1000863.1000932.derived]</attr>
+		<attr name='description'>[1001216.1002622.1000863.1000932.description]</attr>
+		<attr name='materialtypeid'>[1001216.1002622.1000863.1000932.materialtypeid]</attr>
+		<attr name='source'>[1001216.1002622.1000863.1000932.source]</attr>
+		<attr name='title' livesite='false'>[1001216.1002622.1000863.1000932.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Rav4_ext_XLE_FWD_08W7_v008_si_byt.0001.png</attr>
+			<attr name='sha'>360fac7d3b26ccf83ccdaba576bdec6d000748aa</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000863 1000933' >
+		<attr name='derived' livesite='false'>[1001216.1002622.1000863.1000933.derived]</attr>
+		<attr name='description'>[1001216.1002622.1000863.1000933.description]</attr>
+		<attr name='materialtypeid'>[1001216.1002622.1000863.1000933.materialtypeid]</attr>
+		<attr name='source'>[1001216.1002622.1000863.1000933.source]</attr>
+		<attr name='title' livesite='false'>[1001216.1002622.1000863.1000933.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_08W7' type='TEXT'>{1001216 conflicts(1001219)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>vehicle_ext_LTD_FWD_8W7_v01ko_hd_001.png</attr>
+			<attr name='sha'>3b6ffa8bf24c703e42e939266a01b0e81da9dd37</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000863 1000934' >
+		<attr name='derived' livesite='false'>[1001216.1002622.1000863.1000934.derived]</attr>
+		<attr name='description'>[1001216.1002622.1000863.1000934.description]</attr>
+		<attr name='materialtypeid'>[1001216.1002622.1000863.1000934.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001216.1002622.1000863.1000934.source]</attr>
+		<attr name='title' livesite='false'>[1001216.1002622.1000863.1000934.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_08W7' type='TEXT'>{1001216 conflicts(1001219)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>vehicle_ext_LTD_FWD_8W7_v01ko_hd_001.png</attr>
+			<attr name='sha'>3b6ffa8bf24c703e42e939266a01b0e81da9dd37</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

@@ -1,0 +1,38 @@
+<feature id='1001864' type='disclaimer' cardinality='optional' >
+	<attr name='code'>hac_4Runner</attr>
+	<attr name='derived' livesite='false'>[1001864.derived]</attr>
+	<attr name='description' livesite='false'>[1001864.description]</attr>
+	<attr name='source' livesite='false'>[1001864.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001864.vtc]</attr>
+	<if id='1002622 1000852' >
+		<attr name='description' livesite='false'>[1001864.1002622.1000852.description]</attr>
+	</if>
+
+	<if id='1002622 1000857' >
+		<attr name='description' livesite='false'>[1001864.1002622.1000857.description]</attr>
+		<attr name='title'>[1001864.1002622.1000857.title]</attr>
+	</if>
+
+	<if id='1002622 1000858' >
+		<attr name='description' livesite='false'>[1001864.1002622.1000858.description]</attr>
+	</if>
+
+	<if id='1002622 1000860' >
+		<attr name='description' livesite='false'>[1001864.1002622.1000860.description]</attr>
+	</if>
+
+	<if id='1002622 1000866' >
+		<attr name='description' livesite='false'>[1001864.1002622.1000866.description]</attr>
+	</if>
+
+	<if id='1002622 1000867' >
+		<attr name='description' livesite='false'>[1001864.1002622.1000867.description]</attr>
+	</if>
+
+	<if id='1002622 1000869' >
+		<attr name='description' livesite='false'>[1001864.1002622.1000869.description]</attr>
+		<attr name='title'>[1001864.1002622.1000869.title]</attr>
+	</if>
+
+</feature>

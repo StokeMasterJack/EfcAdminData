@@ -1,0 +1,19 @@
+<feature id='1003316' type='series' scope='1000851' cardinality='mandatory' >
+	<attr name='attachment'></attr>
+	<attr name='background'></attr>
+	<attr name='code'>dummy</attr>
+	<attr name='comparemodel'></attr>
+	<attr name='defaultmodel'></attr>
+	<attr name='derived' livesite='false'>[1003316.derived]</attr>
+	<attr name='description'></attr>
+	<attr name='source'></attr>
+	<attr name='title' livesite='false'>[1003316.title]</attr>
+	<attr name='vtc' livesite='false'>[1003316.vtc]</attr>
+	<if id='1000851' >
+		<attr name='defaultmodel'>[1003316.1000851.defaultmodel]</attr>
+		<attr name='description'>[1003316.1000851.description]</attr>
+		<attr name='source'>[1003316.1000851.source]</attr>
+		<attr name='title' livesite='false'>[1003316.1000851.title]</attr>
+	</if>
+
+</feature>

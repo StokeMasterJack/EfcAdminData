@@ -1,0 +1,123 @@
+<feature id='1000873' type='model' scope='1000851 1000860, 1002622 1000860' cardinality='mandatory' >
+	<attr name='accessorythreshold'></attr>
+	<attr name='anchorimage'></attr>
+	<attr name='bodystyle'></attr>
+	<attr name='citympg'></attr>
+	<attr name='code'>1205</attr>
+	<attr name='colorthreshold'></attr>
+	<attr name='combinedmpg'></attr>
+	<attr name='comparepackage'></attr>
+	<attr name='cylinders'></attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='destinationfee'></attr>
+	<attr name='effectivedate'></attr>
+	<attr name='enginedescription'></attr>
+	<attr name='enginehotspot'></attr>
+	<attr name='fiothreshold'></attr>
+	<attr name='gradehotspot'></attr>
+	<attr name='highwaympg'></attr>
+	<attr name='horsepower'></attr>
+	<attr name='iconimage'></attr>
+	<attr name='imageid'></attr>
+	<attr name='inventoryrules'></attr>
+	<attr name='linkurl'></attr>
+	<attr name='modeldisplayname'></attr>
+	<attr name='modelthreshold'></attr>
+	<attr name='modeltrim'></attr>
+	<attr name='mpge'></attr>
+	<attr name='msrp'></attr>
+	<attr name='piothreshold'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='seating'></attr>
+	<attr name='source'>[1000873.source]</attr>
+	<attr name='subgradehotspot'></attr>
+	<attr name='title'></attr>
+	<attr name='transmission'></attr>
+	<attr name='transmissionflag'></attr>
+	<attr name='transmissionhotspot'></attr>
+	<attr name='trimlevel'></attr>
+	<attr name='vtc'>[1000873.vtc]</attr>
+	<if id='1000851 1000860' >
+		<attr name='accessorythreshold'>[1000873.1000851.1000860.accessorythreshold]</attr>
+		<attr name='bodystyle'>[1000873.1000851.1000860.bodystyle]</attr>
+		<attr name='citympg'>[1000873.1000851.1000860.citympg]</attr>
+		<attr name='colorthreshold'>[1000873.1000851.1000860.colorthreshold]</attr>
+		<attr name='combinedmpg'>[1000873.1000851.1000860.combinedmpg]</attr>
+		<attr name='cylinders'>[1000873.1000851.1000860.cylinders]</attr>
+		<attr name='derived'>[1000873.1000851.1000860.derived]</attr>
+		<attr name='description'>[1000873.1000851.1000860.description]</attr>
+		<attr name='destinationfee'>[1000873.1000851.1000860.destinationfee]</attr>
+		<attr name='effectivedate'>[1000873.1000851.1000860.effectivedate]</attr>
+		<attr name='enginedescription'>[1000873.1000851.1000860.enginedescription]</attr>
+		<attr name='enginehotspot'>[1000873.1000851.1000860.enginehotspot]</attr>
+		<attr name='fiothreshold'>[1000873.1000851.1000860.fiothreshold]</attr>
+		<attr name='gradehotspot'>[1000873.1000851.1000860.gradehotspot]</attr>
+		<attr name='highwaympg'>[1000873.1000851.1000860.highwaympg]</attr>
+		<attr name='horsepower'>[1000873.1000851.1000860.horsepower]</attr>
+		<attr name='inventoryrules'>[1000873.1000851.1000860.inventoryrules]</attr>
+		<attr name='linkurl'>[1000873.1000851.1000860.linkurl]</attr>
+		<attr name='modeldisplayname'>[1000873.1000851.1000860.modeldisplayname]</attr>
+		<attr name='modelthreshold'>[1000873.1000851.1000860.modelthreshold]</attr>
+		<attr name='modeltrim'>[1000873.1000851.1000860.modeltrim]</attr>
+		<attr name='mpge'>[1000873.1000851.1000860.mpge]</attr>
+		<attr name='msrp'>[1000873.1000851.1000860.msrp]</attr>
+		<attr name='piothreshold'>[1000873.1000851.1000860.piothreshold]</attr>
+		<attr name='pnglayeringinclusionkey'>[1000873.1000851.1000860.pnglayeringinclusionkey]</attr>
+		<attr name='seating'>[1000873.1000851.1000860.seating]</attr>
+		<attr name='source'>[1000873.1000851.1000860.source]</attr>
+		<attr name='subgradehotspot'>[1000873.1000851.1000860.subgradehotspot]</attr>
+		<attr name='title'>[1000873.1000851.1000860.title]</attr>
+		<attr name='transmission'>[1000873.1000851.1000860.transmission]</attr>
+		<attr name='transmissionflag'>[1000873.1000851.1000860.transmissionflag]</attr>
+		<attr name='transmissionhotspot'>[1000873.1000851.1000860.transmissionhotspot]</attr>
+		<attr name='trimlevel'>[1000873.1000851.1000860.trimlevel]</attr>
+		<rule src='ADMIN' type='TEXT'>{1000873 requires(1002553)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>anchorimage</attr>
+			<attr name='name'>priusC_ext_two_4V7_v16ee_hd_025_025.png</attr>
+			<attr name='sha'>2a430bf25f540a36e3b584a3edcc8eae3a746396</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000860' >
+		<attr name='accessorythreshold' livesite='false'>[1000873.1002622.1000860.accessorythreshold]</attr>
+		<attr name='bodystyle'>[1000873.1002622.1000860.bodystyle]</attr>
+		<attr name='citympg' livesite='false'>[1000873.1002622.1000860.citympg]</attr>
+		<attr name='colorthreshold' livesite='false'>[1000873.1002622.1000860.colorthreshold]</attr>
+		<attr name='combinedmpg' livesite='false'>[1000873.1002622.1000860.combinedmpg]</attr>
+		<attr name='cylinders' livesite='false'>[1000873.1002622.1000860.cylinders]</attr>
+		<attr name='derived' livesite='false'>[1000873.1002622.1000860.derived]</attr>
+		<attr name='description' livesite='false'>[1000873.1002622.1000860.description]</attr>
+		<attr name='destinationfee' livesite='false'>[1000873.1002622.1000860.destinationfee]</attr>
+		<attr name='effectivedate'>[1000873.1002622.1000860.effectivedate]</attr>
+		<attr name='enginedescription' livesite='false'>[1000873.1002622.1000860.enginedescription]</attr>
+		<attr name='enginehotspot'>[1000873.1002622.1000860.enginehotspot]</attr>
+		<attr name='fiothreshold'>[1000873.1002622.1000860.fiothreshold]</attr>
+		<attr name='gradehotspot'>[1000873.1002622.1000860.gradehotspot]</attr>
+		<attr name='highwaympg' livesite='false'>[1000873.1002622.1000860.highwaympg]</attr>
+		<attr name='horsepower' livesite='false'>[1000873.1002622.1000860.horsepower]</attr>
+		<attr name='inventoryrules'>[1000873.1002622.1000860.inventoryrules]</attr>
+		<attr name='linkurl'>[1000873.1002622.1000860.linkurl]</attr>
+		<attr name='modeldisplayname'>[1000873.1002622.1000860.modeldisplayname]</attr>
+		<attr name='modelthreshold' livesite='false'>[1000873.1002622.1000860.modelthreshold]</attr>
+		<attr name='modeltrim'>[1000873.1002622.1000860.modeltrim]</attr>
+		<attr name='mpge'>[1000873.1002622.1000860.mpge]</attr>
+		<attr name='msrp' livesite='false'>[1000873.1002622.1000860.msrp]</attr>
+		<attr name='piothreshold'>[1000873.1002622.1000860.piothreshold]</attr>
+		<attr name='pnglayeringinclusionkey'>[1000873.1002622.1000860.pnglayeringinclusionkey]</attr>
+		<attr name='seating' livesite='false'>[1000873.1002622.1000860.seating]</attr>
+		<attr name='source'>[1000873.1002622.1000860.source]</attr>
+		<attr name='subgradehotspot'>[1000873.1002622.1000860.subgradehotspot]</attr>
+		<attr name='title' livesite='false'>[1000873.1002622.1000860.title]</attr>
+		<attr name='transmission' livesite='false'>[1000873.1002622.1000860.transmission]</attr>
+		<attr name='transmissionflag'>[1000873.1002622.1000860.transmissionflag]</attr>
+		<attr name='transmissionhotspot'>[1000873.1002622.1000860.transmissionhotspot]</attr>
+		<attr name='trimlevel' livesite='false'>[1000873.1002622.1000860.trimlevel]</attr>
+		<rule src='NVS' tag='COLORCOMBOACC_TAG_ACY_FM' type='TEXT'>{((1000873*1001183*1004421),(1000873*1003112*1004421),(1000873*1001169*1004421),(1000873*1001175*1004421),(1000873*1001196*1004421),(1000873*1001211*1004421),(1000873*1003113*1004421),(1000873*1001171*1004421),(1000873*1003114*1004421),(1000873*1001167*1004421),(1000873*1001164*1004421)) iffs(1002622*1000860*1000873*1004422)}</rule>
+		<rule src='ADMIN' type='TEXT'>{1000873 requires(1002553)}</rule>
+	</if>
+
+</feature>

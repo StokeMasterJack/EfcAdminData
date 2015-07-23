@@ -1,0 +1,419 @@
+<feature id='1001089' type='accessory' scope='1000851 1000855 1000895, 1000851 1000855 1000894, 1000851 1000855 1000901, 1000851 1000855 1000899, 1000851 1000855 1000898, 1000851 1000855 1000902, 1002622 1000866 1000945, 1000851 1000854 1000911, 1000851 1000854 1000906, 1000851 1000854 1000905, 1000851 1000854 1000907, 1002622 1000855 1000894, 1002622 1000855 1000901, 1002622 1000866 1000942, 1002622 1000855 1000898' cardinality='mandatory' >
+	<attr name='alacarte'></attr>
+	<attr name='code'>EX</attr>
+	<attr name='derived'>[1001089.derived]</attr>
+	<attr name='description'></attr>
+	<attr name='fullimage'></attr>
+	<attr name='group'></attr>
+	<attr name='keyfeatures'></attr>
+	<attr name='marketingeffectivedate'></attr>
+	<attr name='msrp'></attr>
+	<attr name='option'></attr>
+	<attr name='package'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='secondaryfeatures'></attr>
+	<attr name='source'>[1001089.source]</attr>
+	<attr name='specialexteriorcolorflag'></attr>
+	<attr name='specialinteriorcolorflag'></attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'></attr>
+	<attr name='type'>[1001089.type]</attr>
+	<attr name='videokey'></attr>
+	<attr name='viewpointkey'></attr>
+	<attr name='vtc'>[1001089.vtc]</attr>
+	<if id='1000851 1000854 1000905' >
+		<attr name='alacarte'>[1001089.1000851.1000854.1000905.alacarte]</attr>
+		<attr name='description'>[1001089.1000851.1000854.1000905.description]</attr>
+		<attr name='group'>[1001089.1000851.1000854.1000905.group]</attr>
+		<attr name='keyfeatures'>[1001089.1000851.1000854.1000905.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001089.1000851.1000854.1000905.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1001089.1000851.1000854.1000905.msrp]</attr>
+		<attr name='option'>[1001089.1000851.1000854.1000905.option]</attr>
+		<attr name='package'>[1001089.1000851.1000854.1000905.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001089.1000851.1000854.1000905.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001089.1000851.1000854.1000905.secondaryfeatures]</attr>
+		<attr name='source'>[1001089.1000851.1000854.1000905.source]</attr>
+		<attr name='specialexteriorcolorflag'>[1001089.1000851.1000854.1000905.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1001089.1000851.1000854.1000905.specialinteriorcolorflag]</attr>
+		<attr name='title'>[1001089.1000851.1000854.1000905.title]</attr>
+		<attr name='videokey'>[1001089.1000851.1000854.1000905.videokey]</attr>
+		<attr name='viewpointkey'>[1001089.1000851.1000854.1000905.viewpointkey]</attr>
+		<attr name='vtc'>[1001089.1000851.1000854.1000905.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_EX' type='TEXT'>{1001089 conflicts(1001057)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_EX' type='TEXT'>{1001089 conflicts(1001084)}</rule>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_EX' type='TEXT'>{1001089 requires(1001070)}</rule>
+		<rule src='ADMIN' type='TEXT'>{1001089 requires(1002563)}</rule>
+	</if>
+
+	<if id='1000851 1000854 1000906' >
+		<attr name='alacarte'>[1001089.1000851.1000854.1000906.alacarte]</attr>
+		<attr name='description'>[1001089.1000851.1000854.1000906.description]</attr>
+		<attr name='group'>[1001089.1000851.1000854.1000906.group]</attr>
+		<attr name='keyfeatures'>[1001089.1000851.1000854.1000906.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001089.1000851.1000854.1000906.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1001089.1000851.1000854.1000906.msrp]</attr>
+		<attr name='option'>[1001089.1000851.1000854.1000906.option]</attr>
+		<attr name='package'>[1001089.1000851.1000854.1000906.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001089.1000851.1000854.1000906.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001089.1000851.1000854.1000906.secondaryfeatures]</attr>
+		<attr name='source'>[1001089.1000851.1000854.1000906.source]</attr>
+		<attr name='specialexteriorcolorflag'>[1001089.1000851.1000854.1000906.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1001089.1000851.1000854.1000906.specialinteriorcolorflag]</attr>
+		<attr name='title'>[1001089.1000851.1000854.1000906.title]</attr>
+		<attr name='videokey'>[1001089.1000851.1000854.1000906.videokey]</attr>
+		<attr name='viewpointkey'>[1001089.1000851.1000854.1000906.viewpointkey]</attr>
+		<attr name='vtc'>[1001089.1000851.1000854.1000906.vtc]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_EX' type='TEXT'>{1001089 requires((1001103),(1001115))}</rule>
+		<rule src='ADMIN' type='TEXT'>{1001089 requires(1002563)}</rule>
+	</if>
+
+	<if id='1000851 1000854 1000907' >
+		<attr name='alacarte'>[1001089.1000851.1000854.1000907.alacarte]</attr>
+		<attr name='description'>[1001089.1000851.1000854.1000907.description]</attr>
+		<attr name='group'>[1001089.1000851.1000854.1000907.group]</attr>
+		<attr name='keyfeatures'>[1001089.1000851.1000854.1000907.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001089.1000851.1000854.1000907.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1001089.1000851.1000854.1000907.msrp]</attr>
+		<attr name='option'>[1001089.1000851.1000854.1000907.option]</attr>
+		<attr name='package'>[1001089.1000851.1000854.1000907.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001089.1000851.1000854.1000907.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001089.1000851.1000854.1000907.secondaryfeatures]</attr>
+		<attr name='source'>[1001089.1000851.1000854.1000907.source]</attr>
+		<attr name='specialexteriorcolorflag'>[1001089.1000851.1000854.1000907.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1001089.1000851.1000854.1000907.specialinteriorcolorflag]</attr>
+		<attr name='title'>[1001089.1000851.1000854.1000907.title]</attr>
+		<attr name='videokey'>[1001089.1000851.1000854.1000907.videokey]</attr>
+		<attr name='viewpointkey'>[1001089.1000851.1000854.1000907.viewpointkey]</attr>
+		<attr name='vtc'>[1001089.1000851.1000854.1000907.vtc]</attr>
+		<rule src='ADMIN' type='TEXT'>{1001089 requires(1002563)}</rule>
+	</if>
+
+	<if id='1000851 1000854 1000911' >
+		<attr name='alacarte'>[1001089.1000851.1000854.1000911.alacarte]</attr>
+		<attr name='description'>[1001089.1000851.1000854.1000911.description]</attr>
+		<attr name='group'>[1001089.1000851.1000854.1000911.group]</attr>
+		<attr name='keyfeatures'>[1001089.1000851.1000854.1000911.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001089.1000851.1000854.1000911.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1001089.1000851.1000854.1000911.msrp]</attr>
+		<attr name='option'>[1001089.1000851.1000854.1000911.option]</attr>
+		<attr name='package'>[1001089.1000851.1000854.1000911.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001089.1000851.1000854.1000911.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001089.1000851.1000854.1000911.secondaryfeatures]</attr>
+		<attr name='source'>[1001089.1000851.1000854.1000911.source]</attr>
+		<attr name='specialexteriorcolorflag'>[1001089.1000851.1000854.1000911.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1001089.1000851.1000854.1000911.specialinteriorcolorflag]</attr>
+		<attr name='title'>[1001089.1000851.1000854.1000911.title]</attr>
+		<attr name='videokey'>[1001089.1000851.1000854.1000911.videokey]</attr>
+		<attr name='viewpointkey'>[1001089.1000851.1000854.1000911.viewpointkey]</attr>
+		<attr name='vtc'>[1001089.1000851.1000854.1000911.vtc]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_EX' type='TEXT'>{1001089 requires((1001091),(1001070))}</rule>
+		<rule src='ADMIN' type='TEXT'>{1001089 requires(1002563)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_EX' type='TEXT'>{1001089 conflicts(1001110)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_EX' type='TEXT'>{1001089 conflicts(1001057)}</rule>
+	</if>
+
+	<if id='1000851 1000855 1000893' >
+		<attr name='msrp'>[1001089.1000851.1000855.1000893.msrp]</attr>
+		<attr name='source'>[1001089.1000851.1000855.1000893.source]</attr>
+		<attr name='title'>[1001089.1000851.1000855.1000893.title]</attr>
+	</if>
+
+	<if id='1000851 1000855 1000894' >
+		<attr name='description'>[1001089.1000851.1000855.1000894.description]</attr>
+		<attr name='msrp'>[1001089.1000851.1000855.1000894.msrp]</attr>
+		<attr name='package'>[1001089.1000851.1000855.1000894.package]</attr>
+		<attr name='source'>[1001089.1000851.1000855.1000894.source]</attr>
+		<attr name='title'>[1001089.1000851.1000855.1000894.title]</attr>
+		<rule src='ADMIN' type='requires'>1002531</rule>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_EX' type='TEXT'>{1001089 requires(1001107)}</rule>
+	</if>
+
+	<if id='1000851 1000855 1000895' >
+		<attr name='description'>[1001089.1000851.1000855.1000895.description]</attr>
+		<attr name='msrp'>[1001089.1000851.1000855.1000895.msrp]</attr>
+		<attr name='option'>[1001089.1000851.1000855.1000895.option]</attr>
+		<attr name='package'>[1001089.1000851.1000855.1000895.package]</attr>
+		<attr name='source'>[1001089.1000851.1000855.1000895.source]</attr>
+		<attr name='title'>[1001089.1000851.1000855.1000895.title]</attr>
+		<rule src='ADMIN' type='requires'>1002531</rule>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_EX' type='TEXT'>{1001089 requires(1001107)}</rule>
+	</if>
+
+	<if id='1000851 1000855 1000896' >
+		<attr name='msrp'>[1001089.1000851.1000855.1000896.msrp]</attr>
+		<attr name='source'>[1001089.1000851.1000855.1000896.source]</attr>
+		<attr name='title'>[1001089.1000851.1000855.1000896.title]</attr>
+	</if>
+
+	<if id='1000851 1000855 1000897' >
+		<attr name='msrp'>[1001089.1000851.1000855.1000897.msrp]</attr>
+		<attr name='source'>[1001089.1000851.1000855.1000897.source]</attr>
+		<attr name='title'>[1001089.1000851.1000855.1000897.title]</attr>
+	</if>
+
+	<if id='1000851 1000855 1000898' >
+		<attr name='description'>[1001089.1000851.1000855.1000898.description]</attr>
+		<attr name='msrp'>[1001089.1000851.1000855.1000898.msrp]</attr>
+		<attr name='option'>[1001089.1000851.1000855.1000898.option]</attr>
+		<attr name='package'>[1001089.1000851.1000855.1000898.package]</attr>
+		<attr name='source'>[1001089.1000851.1000855.1000898.source]</attr>
+		<attr name='title'>[1001089.1000851.1000855.1000898.title]</attr>
+		<rule src='ADMIN' type='requires'>1002531</rule>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_EX' type='TEXT'>{1001089 requires(1001107)}</rule>
+	</if>
+
+	<if id='1000851 1000855 1000899' >
+		<attr name='description'>[1001089.1000851.1000855.1000899.description]</attr>
+		<attr name='msrp'>[1001089.1000851.1000855.1000899.msrp]</attr>
+		<attr name='option'>[1001089.1000851.1000855.1000899.option]</attr>
+		<attr name='package'>[1001089.1000851.1000855.1000899.package]</attr>
+		<attr name='source'>[1001089.1000851.1000855.1000899.source]</attr>
+		<attr name='title'>[1001089.1000851.1000855.1000899.title]</attr>
+		<rule src='ADMIN' type='requires'>1002531</rule>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_EX' type='TEXT'>{1001089 requires(1001107)}</rule>
+	</if>
+
+	<if id='1000851 1000855 1000900' >
+		<attr name='msrp'>[1001089.1000851.1000855.1000900.msrp]</attr>
+		<attr name='source'>[1001089.1000851.1000855.1000900.source]</attr>
+		<attr name='title'>[1001089.1000851.1000855.1000900.title]</attr>
+	</if>
+
+	<if id='1000851 1000855 1000901' >
+		<attr name='description'>[1001089.1000851.1000855.1000901.description]</attr>
+		<attr name='msrp'>[1001089.1000851.1000855.1000901.msrp]</attr>
+		<attr name='option'>[1001089.1000851.1000855.1000901.option]</attr>
+		<attr name='package'>[1001089.1000851.1000855.1000901.package]</attr>
+		<attr name='source'>[1001089.1000851.1000855.1000901.source]</attr>
+		<attr name='title'>[1001089.1000851.1000855.1000901.title]</attr>
+		<rule src='ADMIN' type='requires'>1002531</rule>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_EX' type='TEXT'>{1001089 requires(1001107)}</rule>
+	</if>
+
+	<if id='1000851 1000855 1000902' >
+		<attr name='description'>[1001089.1000851.1000855.1000902.description]</attr>
+		<attr name='msrp'>[1001089.1000851.1000855.1000902.msrp]</attr>
+		<attr name='option'>[1001089.1000851.1000855.1000902.option]</attr>
+		<attr name='package'>[1001089.1000851.1000855.1000902.package]</attr>
+		<attr name='source'>[1001089.1000851.1000855.1000902.source]</attr>
+		<attr name='title'>[1001089.1000851.1000855.1000902.title]</attr>
+		<rule src='ADMIN' type='requires'>1002531</rule>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_EX' type='TEXT'>{1001089 requires(1001107)}</rule>
+	</if>
+
+	<if id='1002622 1000855 1000894' >
+		<attr name='alacarte'>[1001089.1002622.1000855.1000894.alacarte]</attr>
+		<attr name='description'>[1001089.1002622.1000855.1000894.description]</attr>
+		<attr name='msrp'>[1001089.1002622.1000855.1000894.msrp]</attr>
+		<attr name='package'>[1001089.1002622.1000855.1000894.package]</attr>
+		<attr name='source'>[1001089.1002622.1000855.1000894.source]</attr>
+		<attr name='title'>[1001089.1002622.1000855.1000894.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_EX' type='TEXT'>{1001089 requires(1001107)}</rule>
+		<rule src='ADMIN' type='TEXT'>{1001089 requires(1002531)}</rule>
+	</if>
+
+	<if id='1002622 1000855 1000898' >
+		<attr name='alacarte'>[1001089.1002622.1000855.1000898.alacarte]</attr>
+		<attr name='description'>[1001089.1002622.1000855.1000898.description]</attr>
+		<attr name='msrp'>[1001089.1002622.1000855.1000898.msrp]</attr>
+		<attr name='package'>[1001089.1002622.1000855.1000898.package]</attr>
+		<attr name='source'>[1001089.1002622.1000855.1000898.source]</attr>
+		<attr name='title'>[1001089.1002622.1000855.1000898.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_EX' type='TEXT'>{1001089 requires(1001107)}</rule>
+		<rule src='ADMIN' type='TEXT'>{1001089 requires(1002531)}</rule>
+	</if>
+
+	<if id='1002622 1000855 1000901' >
+		<attr name='alacarte'>[1001089.1002622.1000855.1000901.alacarte]</attr>
+		<attr name='description'>[1001089.1002622.1000855.1000901.description]</attr>
+		<attr name='msrp'>[1001089.1002622.1000855.1000901.msrp]</attr>
+		<attr name='package'>[1001089.1002622.1000855.1000901.package]</attr>
+		<attr name='source'>[1001089.1002622.1000855.1000901.source]</attr>
+		<attr name='title'>[1001089.1002622.1000855.1000901.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_EX' type='TEXT'>{1001089 requires(1001107)}</rule>
+		<rule src='ADMIN' type='TEXT'>{1001089 requires(1002531)}</rule>
+	</if>
+
+	<if id='1002622 1000866 1000942' >
+		<attr name='alacarte' livesite='false'>[1001089.1002622.1000866.1000942.alacarte]</attr>
+		<attr name='description' livesite='false'>[1001089.1002622.1000866.1000942.description]</attr>
+		<attr name='msrp' livesite='false'>[1001089.1002622.1000866.1000942.msrp]</attr>
+		<attr name='package' livesite='false'>[1001089.1002622.1000866.1000942.package]</attr>
+		<attr name='source'>[1001089.1002622.1000866.1000942.source]</attr>
+		<attr name='title'>[1001089.1002622.1000866.1000942.title]</attr>
+		<rule src='ADMIN' type='TEXT'>{1001089 requires(1002563)}</rule>
+	</if>
+
+	<if id='1002622 1000866 1000945' >
+		<attr name='alacarte' livesite='false'>[1001089.1002622.1000866.1000945.alacarte]</attr>
+		<attr name='description' livesite='false'>[1001089.1002622.1000866.1000945.description]</attr>
+		<attr name='msrp' livesite='false'>[1001089.1002622.1000866.1000945.msrp]</attr>
+		<attr name='package' livesite='false'>[1001089.1002622.1000866.1000945.package]</attr>
+		<attr name='source'>[1001089.1002622.1000866.1000945.source]</attr>
+		<attr name='title'>[1001089.1002622.1000866.1000945.title]</attr>
+		<rule src='ADMIN' type='TEXT'>{1001089 requires(1002563)}</rule>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>EX is a MY14 accessory not on 14.5.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>EX is a MY14 accessory not on 14.5.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>EX is a MY14 accessory not on 14.5.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>EX is a MY14 accessory not on 14.5.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>EX is a MY14 accessory not on 14.5.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>EX is a MY14 accessory not on 14.5.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>EX is a MY14 accessory not on 14.5.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>EX is a MY14 accessory not on 14.5.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>EX is a MY14 accessory not on 14.5.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>EX is a MY14 accessory not on 14.5.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>EX is a MY14 accessory not on 14.5.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>EX is a MY14 accessory not on 14.5.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>EX is a MY14 accessory not on 14.5.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>EX is a MY14 accessory not on 14.5.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>EX is a MY14 accessory not on 14.5.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>EX is a MY14 accessory not on 14.5.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>EX is a MY14 accessory not on 14.5.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>EX is a MY14 accessory not on 14.5.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+</feature>

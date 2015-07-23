@@ -1,0 +1,12 @@
+<feature id='1003236' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='code'>2013YARIS_2</attr>
+	<attr name='derived'></attr>
+	<attr name='source' livesite='false'>[1003236.source]</attr>
+	<attr name='vtc' livesite='false'>[1003236.vtc]</attr>
+	<attr name='description' livesite='false'>[1003236.description]</attr>
+	<if id='1002622' >
+		<attr name='description' livesite='false'>[1003236.1002622.description]</attr>
+	</if>
+
+</feature>

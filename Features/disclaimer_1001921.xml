@@ -1,0 +1,8 @@
+<feature id='1001921' type='disclaimer' cardinality='optional' >
+	<attr name='code'>iihs_11_prius</attr>
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1001921.description]</attr>
+	<attr name='derived' livesite='false'>[1001921.derived]</attr>
+	<attr name='source' livesite='false'>[1001921.source]</attr>
+	<attr name='vtc' livesite='false'>[1001921.vtc]</attr>
+</feature>

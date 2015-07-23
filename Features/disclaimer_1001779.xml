@@ -1,0 +1,16 @@
+<feature id='1001779' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1001779.description]</attr>
+	<attr name='code'>epa_2011_preliminary</attr>
+	<attr name='vtc' livesite='false'>[1001779.vtc]</attr>
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1001779.source]</attr>
+	<attr name='derived' livesite='false'>[1001779.derived]</attr>
+	<if id='1000851' >
+		<attr name='description' livesite='false'>[1001779.1000851.description]</attr>
+	</if>
+
+	<if id='1002622' >
+		<attr name='description' livesite='false'>[1001779.1002622.description]</attr>
+	</if>
+
+</feature>

@@ -1,0 +1,76 @@
+<feature id='1000869' type='series' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='attachment'></attr>
+	<attr name='background'></attr>
+	<attr name='code'>venza</attr>
+	<attr name='comparemodel'></attr>
+	<attr name='defaultmodel'></attr>
+	<attr name='derived'>[1000869.derived]</attr>
+	<attr name='description'>[1000869.description]</attr>
+	<attr name='source'>[1000869.source]</attr>
+	<attr name='title' livesite='false'>[1000869.title]</attr>
+	<attr name='vtc'>[1000869.vtc]</attr>
+	<if id='1000851' disclaimers='1002417 1002411 1001717 1002415 1002414 1002412 1002221 1001793 1002226 1002225 1002394 1002325 1002632 1001768 1001767 1002287 1001864 1002368 1001887 1001867 1002629 1001869 1002044 1001602 1001956 1001643 1001681 1001646 1001624 1002810 1001952' >
+		<attr name='derived'>[1000869.1000851.derived]</attr>
+		<attr name='description'>[1000869.1000851.description]</attr>
+		<attr name='source'>[1000869.1000851.source]</attr>
+		<attr name='title'>[1000869.1000851.title]</attr>
+		<attr name='vtc'>[1000869.1000851.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>EFC Background _0010_Venza.jpg</attr>
+			<attr name='sha'>efd400b2ac908e52df8d6a1f29b6cbd40794f58d</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>StandardFeaturesVenza.xml</attr>
+			<attr name='sha'>103b519ec04db193627a39f486bc7ea1832bca62</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>VenzaCompareModelTMS20140522v1.json</attr>
+			<attr name='sha'>2de83306d9864efd82c53aa6a53da65f3e8a9241</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622' disclaimers='1002417 1002416 1002411 1001717 1002415 1002414 1002413 1002412 1002696 1002221 1002058 1002226 1002225 1002394 1002633 1002325 1002632 1002322 1001768 1002287 1001767 1001864 1002368 1001887 1002628 1001867 1002629 1001869 1002044 1001602 1001681 1001643 1002314 1001646 1001624 1001952' >
+		<attr name='defaultmodel'>[1000869.1002622.defaultmodel]</attr>
+		<attr name='derived' livesite='false'>[1000869.1002622.derived]</attr>
+		<attr name='description' livesite='false'>[1000869.1002622.description]</attr>
+		<attr name='source'>[1000869.1002622.source]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>Venza_Background.jpg</attr>
+			<attr name='sha'>efd400b2ac908e52df8d6a1f29b6cbd40794f58d</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>Venza_2015_Standard_Features.xml</attr>
+			<attr name='sha'>9834de6cd83ee55815b6272d674f4a27406d9b94</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>2015VenzaCompareModel_TMS_CPD_20140807v1.json</attr>
+			<attr name='sha'>98ba87f5c78564e04a6e0ee166dda0ab24d12799</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>mediumbackground</attr>
+			<attr name='name'>EFC-background_0010_Venza_1024.jpg</attr>
+			<attr name='sha'>7644ac1c96fecebd49dff56cc71c7db00a6b07b5</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>smallbackground</attr>
+			<attr name='name'>EFC-background_0010_Venza_480.jpg</attr>
+			<attr name='sha'>b96a38afe24ada7dd75e70436a100637df0f6fc8</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>largebackground</attr>
+			<attr name='name'>EFC-background_0010_Venza_1500.jpg</attr>
+			<attr name='sha'>25cfc0b841211bef27237f29692acdd6b99f2065</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

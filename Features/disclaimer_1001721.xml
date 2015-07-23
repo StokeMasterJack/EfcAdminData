@@ -1,0 +1,8 @@
+<feature id='1001721' type='disclaimer' cardinality='optional' >
+	<attr name='vtc' livesite='false'>[1001721.vtc]</attr>
+	<attr name='title'></attr>
+	<attr name='derived' livesite='false'>[1001721.derived]</attr>
+	<attr name='description' livesite='false'>[1001721.description]</attr>
+	<attr name='code'>cars_2011_v2</attr>
+	<attr name='source' livesite='false'>[1001721.source]</attr>
+</feature>

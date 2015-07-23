@@ -1,0 +1,38 @@
+<feature id='1003069' type='interiorcolor' scope='1002622 1000854 1002849' cardinality='mandatory' >
+	<attr name='code'>FH15</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1003069.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1003069.vtc]</attr>
+	<if id='1002622 1000854 1002849' >
+		<attr name='derived' livesite='false'>[1003069.1002622.1000854.1002849.derived]</attr>
+		<attr name='description'>[1003069.1002622.1000854.1002849.description]</attr>
+		<attr name='materialtypeid'>[1003069.1002622.1000854.1002849.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003069.1002622.1000854.1002849.source]</attr>
+		<attr name='title' livesite='false'>[1003069.1002622.1000854.1002849.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>camry_int_HybridSE_Ash_v170_hd_002.jpg</attr>
+			<attr name='sha'>0a48e1bcb67aabd2ae0807e3ae10f3b27498332c</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>camry_int_XLEV6_Ash_v167_hd_002.jpg</attr>
+			<attr name='sha'>fc16c49e2c493f341cb080dce63f58ea78aa94b9</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>camry_int_XLEV6_Ash_v167_hd_002.jpg</attr>
+			<attr name='sha'>dcad671a20b08360dd619b1c884530b88cd8207e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

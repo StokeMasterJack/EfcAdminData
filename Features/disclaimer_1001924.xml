@@ -1,0 +1,8 @@
+<feature id='1001924' type='disclaimer' cardinality='optional' >
+	<attr name='code'>iihs_11_venza</attr>
+	<attr name='vtc' livesite='false'>[1001924.vtc]</attr>
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1001924.description]</attr>
+	<attr name='source' livesite='false'>[1001924.source]</attr>
+	<attr name='derived' livesite='false'>[1001924.derived]</attr>
+</feature>

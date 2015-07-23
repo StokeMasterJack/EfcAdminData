@@ -1,0 +1,8 @@
+<feature id='1002030' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1002030.description]</attr>
+	<attr name='derived' livesite='false'>[1002030.derived]</attr>
+	<attr name='source' livesite='false'>[1002030.source]</attr>
+	<attr name='vtc' livesite='false'>[1002030.vtc]</attr>
+	<attr name='code'>msrp_priusplus</attr>
+	<attr name='title'></attr>
+</feature>

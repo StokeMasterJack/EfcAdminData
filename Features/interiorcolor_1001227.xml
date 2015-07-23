@@ -1,0 +1,63 @@
+<feature id='1001227' type='interiorcolor' scope='1002622 1000866 1000939, 1000851 1000866 1000939' cardinality='mandatory' >
+	<attr name='code'>FA14</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1001227.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001227.vtc]</attr>
+	<if id='1000851 1000866 1000939' >
+		<attr name='derived' livesite='false'>[1001227.1000851.1000866.1000939.derived]</attr>
+		<attr name='description'>[1001227.1000851.1000866.1000939.description]</attr>
+		<attr name='materialtypeid'>[1001227.1000851.1000866.1000939.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001227.1000851.1000866.1000939.source]</attr>
+		<attr name='title' livesite='false'>[1001227.1000851.1000866.1000939.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sienna_int_l_grey_v14cs_hd_002.jpg</attr>
+			<attr name='sha'>6292ea31692a44b9d546cbe044683fa5d611a64c</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sienna_int_l_grey_v14cs_hd_002.jpg</attr>
+			<attr name='sha'>6df536c800440c8cb9234dc27137e2907d9871d2</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sienna_int_l_grey_v14cs_hd_002.jpg</attr>
+			<attr name='sha'>8ce11f6f8c533d8204f1fafb455719e74b259b64</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1000939' >
+		<attr name='derived' livesite='false'>[1001227.1002622.1000866.1000939.derived]</attr>
+		<attr name='description'>[1001227.1002622.1000866.1000939.description]</attr>
+		<attr name='materialtypeid'>[1001227.1002622.1000866.1000939.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001227.1002622.1000866.1000939.source]</attr>
+		<attr name='title' livesite='false'>[1001227.1002622.1000866.1000939.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sienna_int_L_Ash_v055_hd_002.jpg</attr>
+			<attr name='sha'>bf11b2cf9aee1e7eef9f3e260adad581a59d93a2</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sienna_int_L_Ash_v055_hd_002.jpg</attr>
+			<attr name='sha'>8a48f0ada5af2961bdfa31d0c4aeb15e4ddb208c</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sienna_int_L_Ash_v055_hd_002.jpg</attr>
+			<attr name='sha'>3f3798594338e4ca27fd304924b291dd5d5f6cce</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

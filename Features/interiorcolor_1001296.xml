@@ -1,0 +1,311 @@
+<feature id='1001296' type='interiorcolor' scope='1000851 1000855 1000895, 1000851 1000852 1001029, 1000851 1000855 1000899, 1002622 1000852 1001032, 1000851 1000855 1000902, 1002622 1000855 1000902, 1000851 1000852 1001032, 1002622 1000855 1000895, 1002622 1000862 1003044, 1002622 1000862 1000883, 1002622 1000855 1000899, 1002622 1000852 1001029' cardinality='mandatory' >
+	<attr name='code'>LA22</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1001296.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001296.vtc]</attr>
+	<if id='1000851 1000852 1001029' >
+		<attr name='derived' livesite='false'>[1001296.1000851.1000852.1001029.derived]</attr>
+		<attr name='description'>[1001296.1000851.1000852.1001029.description]</attr>
+		<attr name='materialtypeid'>[1001296.1000851.1000852.1001029.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001296.1000851.1000852.1001029.source]</attr>
+		<attr name='title' livesite='false'>[1001296.1000851.1000852.1001029.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>my14_4_runner_int_Limited_Leather_Black.2.jpg</attr>
+			<attr name='sha'>7e78f29b25f8dcbb19917bbb4dd45a1c7ab4bdbf</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>my14_4_runner_int_Limited_Leather_Black.2.jpg</attr>
+			<attr name='sha'>0e5acff904a6a8ba9521ad602c0bb887b0f8e9b0</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>my14_4_runner_int_Limited_Leather_Black.2.jpg</attr>
+			<attr name='sha'>10bbfdb51fe87ba4c840ad4585ef86417ed92d3e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000852 1001032' >
+		<attr name='derived' livesite='false'>[1001296.1000851.1000852.1001032.derived]</attr>
+		<attr name='description'>[1001296.1000851.1000852.1001032.description]</attr>
+		<attr name='materialtypeid'>[1001296.1000851.1000852.1001032.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001296.1000851.1000852.1001032.source]</attr>
+		<attr name='title' livesite='false'>[1001296.1000851.1000852.1001032.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>my14_4_runner_int_Limited_Leather_Black.2.jpg</attr>
+			<attr name='sha'>7e78f29b25f8dcbb19917bbb4dd45a1c7ab4bdbf</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>my14_4_runner_int_Limited_Leather_Black.2.jpg</attr>
+			<attr name='sha'>0e5acff904a6a8ba9521ad602c0bb887b0f8e9b0</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>my14_4_runner_int_Limited_Leather_Black.2.jpg</attr>
+			<attr name='sha'>10bbfdb51fe87ba4c840ad4585ef86417ed92d3e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000895' >
+		<attr name='derived' livesite='false'>[1001296.1000851.1000855.1000895.derived]</attr>
+		<attr name='description'>[1001296.1000851.1000855.1000895.description]</attr>
+		<attr name='materialtypeid'>[1001296.1000851.1000855.1000895.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001296.1000851.1000855.1000895.source]</attr>
+		<attr name='title' livesite='false'>[1001296.1000851.1000855.1000895.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>corolla_int_brochure_v05jb_LE_Softex.jpg</attr>
+			<attr name='sha'>50db65326193c56b121387c9a08f7f1d3f964553</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>corolla_int_brochure_v05jb_LE_Softex.jpg</attr>
+			<attr name='sha'>f18f78c82f74d252576dd0a679622d9d721b30c4</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>corolla_int_brochure_v05jb_LE_Softex.jpg</attr>
+			<attr name='sha'>a6e59fd64728cd94b5cef11d3c8780303f78d991</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000899' >
+		<attr name='derived' livesite='false'>[1001296.1000851.1000855.1000899.derived]</attr>
+		<attr name='description'>[1001296.1000851.1000855.1000899.description]</attr>
+		<attr name='materialtypeid'>[1001296.1000851.1000855.1000899.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001296.1000851.1000855.1000899.source]</attr>
+		<attr name='title' livesite='false'>[1001296.1000851.1000855.1000899.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>corolla_int_brochure_v05jb_S_Softex.jpg</attr>
+			<attr name='sha'>b52e9130469b78036bd5366cc6240ce21c5d778b</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>corolla_int_brochure_v05jb_S_Softex.jpg</attr>
+			<attr name='sha'>76ee83f49f6af42f2a954de06c5923303f519716</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>corolla_int_brochure_v05jb_S_Softex.jpg</attr>
+			<attr name='sha'>71c48e891e2966a5a6b4ff9969093e40ee955ad6</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000902' >
+		<attr name='derived' livesite='false'>[1001296.1000851.1000855.1000902.derived]</attr>
+		<attr name='description'>[1001296.1000851.1000855.1000902.description]</attr>
+		<attr name='materialtypeid'>[1001296.1000851.1000855.1000902.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001296.1000851.1000855.1000902.source]</attr>
+		<attr name='title' livesite='false'>[1001296.1000851.1000855.1000902.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>corolla_int_brochure_v05jb_LE_Softex.jpg</attr>
+			<attr name='sha'>50db65326193c56b121387c9a08f7f1d3f964553</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>corolla_int_brochure_v05jb_LE_Softex.jpg</attr>
+			<attr name='sha'>f18f78c82f74d252576dd0a679622d9d721b30c4</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>corolla_int_brochure_v05jb_LE_Softex.jpg</attr>
+			<attr name='sha'>a6e59fd64728cd94b5cef11d3c8780303f78d991</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000852 1001029' >
+		<attr name='derived' livesite='false'>[1001296.1002622.1000852.1001029.derived]</attr>
+		<attr name='description'>[1001296.1002622.1000852.1001029.description]</attr>
+		<attr name='materialtypeid'>[1001296.1002622.1000852.1001029.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001296.1002622.1000852.1001029.source]</attr>
+		<attr name='title' livesite='false'>[1001296.1002622.1000852.1001029.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>my14_4_runner_int_Limited_Leather_Black.2.jpg</attr>
+			<attr name='sha'>7e78f29b25f8dcbb19917bbb4dd45a1c7ab4bdbf</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>my14_4_runner_int_Limited_Leather_Black.2.jpg</attr>
+			<attr name='sha'>0e5acff904a6a8ba9521ad602c0bb887b0f8e9b0</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>my14_4_runner_int_Limited_Leather_Black.2.jpg</attr>
+			<attr name='sha'>10bbfdb51fe87ba4c840ad4585ef86417ed92d3e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000852 1001032' >
+		<attr name='derived' livesite='false'>[1001296.1002622.1000852.1001032.derived]</attr>
+		<attr name='description'>[1001296.1002622.1000852.1001032.description]</attr>
+		<attr name='materialtypeid'>[1001296.1002622.1000852.1001032.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001296.1002622.1000852.1001032.source]</attr>
+		<attr name='title' livesite='false'>[1001296.1002622.1000852.1001032.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>my14_4_runner_int_Limited_Leather_Black.2.jpg</attr>
+			<attr name='sha'>7e78f29b25f8dcbb19917bbb4dd45a1c7ab4bdbf</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>my14_4_runner_int_Limited_Leather_Black.2.jpg</attr>
+			<attr name='sha'>0e5acff904a6a8ba9521ad602c0bb887b0f8e9b0</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>my14_4_runner_int_Limited_Leather_Black.2.jpg</attr>
+			<attr name='sha'>10bbfdb51fe87ba4c840ad4585ef86417ed92d3e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000895' >
+		<attr name='derived' livesite='false'>[1001296.1002622.1000855.1000895.derived]</attr>
+		<attr name='description'>[1001296.1002622.1000855.1000895.description]</attr>
+		<attr name='materialtypeid'>[1001296.1002622.1000855.1000895.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001296.1002622.1000855.1000895.source]</attr>
+		<attr name='title' livesite='false'>[1001296.1002622.1000855.1000895.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>corolla_int_brochure_v05jb_LE_Softex.jpg</attr>
+			<attr name='sha'>50db65326193c56b121387c9a08f7f1d3f964553</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>corolla_int_brochure_v05jb_LE_Softex.jpg</attr>
+			<attr name='sha'>f18f78c82f74d252576dd0a679622d9d721b30c4</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>corolla_int_brochure_v05jb_LE_Softex.jpg</attr>
+			<attr name='sha'>a6e59fd64728cd94b5cef11d3c8780303f78d991</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000899' >
+		<attr name='derived' livesite='false'>[1001296.1002622.1000855.1000899.derived]</attr>
+		<attr name='description'>[1001296.1002622.1000855.1000899.description]</attr>
+		<attr name='materialtypeid'>[1001296.1002622.1000855.1000899.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001296.1002622.1000855.1000899.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>corolla_int_brochure_v05jb_S_Softex.jpg</attr>
+			<attr name='sha'>b52e9130469b78036bd5366cc6240ce21c5d778b</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>corolla_int_brochure_v05jb_S_Softex.jpg</attr>
+			<attr name='sha'>76ee83f49f6af42f2a954de06c5923303f519716</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>corolla_int_brochure_v05jb_S_Softex.jpg</attr>
+			<attr name='sha'>71c48e891e2966a5a6b4ff9969093e40ee955ad6</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000902' >
+		<attr name='derived' livesite='false'>[1001296.1002622.1000855.1000902.derived]</attr>
+		<attr name='description'>[1001296.1002622.1000855.1000902.description]</attr>
+		<attr name='materialtypeid'>[1001296.1002622.1000855.1000902.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001296.1002622.1000855.1000902.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>corolla_int_brochure_v05jb_LE_Softex.jpg</attr>
+			<attr name='sha'>50db65326193c56b121387c9a08f7f1d3f964553</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>corolla_int_brochure_v05jb_LE_Softex.jpg</attr>
+			<attr name='sha'>f18f78c82f74d252576dd0a679622d9d721b30c4</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>corolla_int_brochure_v05jb_LE_Softex.jpg</attr>
+			<attr name='sha'>a6e59fd64728cd94b5cef11d3c8780303f78d991</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000862 1000883' >
+		<attr name='derived' livesite='false'>[1001296.1002622.1000862.1000883.derived]</attr>
+		<attr name='description'>[1001296.1002622.1000862.1000883.description]</attr>
+		<attr name='materialtypeid'>[1001296.1002622.1000862.1000883.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001296.1002622.1000862.1000883.source]</attr>
+		<attr name='title' livesite='false'>[1001296.1002622.1000862.1000883.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>priusv_int_5_Black_v017_hd_002.jpg</attr>
+			<attr name='sha'>7d53c0925e36a36cadea63f723c1d6dadc2dfafba6d96306c4092bb2fbb9a5f08a6badc4efd775003ba7975e0ca6513ee8e2bd11c278fb77be990dc9321b60b6</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>priusv_int_5_Black_v017_hd_002.jpg</attr>
+			<attr name='sha'>2641c154a5383eee3ba32ffb4f7fa9d8ea814be2f3a2b9833cd0118653dd5d1c7cb4f4dee98b1c5c6c6f7a88a469d66ff65a8d6180bfc3c07d4837cce7cb9a70</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>priusv_int_5_Black_v017_hd_002.jpg</attr>
+			<attr name='sha'>fd0aa0bc28234eccaec755e7dda8e6576239ac5804b1b2b85dd88fc1ef2662c5e59fe9a413c190e2822d2eb0e2f4e631a302e4c03d6a3fbe372eeab61040c1e0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000862 1003044' >
+		<attr name='derived' livesite='false'>[1001296.1002622.1000862.1003044.derived]</attr>
+		<attr name='description'>[1001296.1002622.1000862.1003044.description]</attr>
+		<attr name='materialtypeid'>[1001296.1002622.1000862.1003044.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001296.1002622.1000862.1003044.source]</attr>
+		<attr name='title' livesite='false'>[1001296.1002622.1000862.1003044.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>priusv_int_5_Black_v017_hd_002.jpg</attr>
+			<attr name='sha'>7d53c0925e36a36cadea63f723c1d6dadc2dfafba6d96306c4092bb2fbb9a5f08a6badc4efd775003ba7975e0ca6513ee8e2bd11c278fb77be990dc9321b60b6</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>priusv_int_5_Black_v017_hd_002.jpg</attr>
+			<attr name='sha'>2641c154a5383eee3ba32ffb4f7fa9d8ea814be2f3a2b9833cd0118653dd5d1c7cb4f4dee98b1c5c6c6f7a88a469d66ff65a8d6180bfc3c07d4837cce7cb9a70</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>priusv_int_5_Black_v017_hd_002.jpg</attr>
+			<attr name='sha'>fd0aa0bc28234eccaec755e7dda8e6576239ac5804b1b2b85dd88fc1ef2662c5e59fe9a413c190e2822d2eb0e2f4e631a302e4c03d6a3fbe372eeab61040c1e0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

@@ -1,0 +1,8 @@
+<feature id='1003241' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1003241.description]</attr>
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1003241.source]</attr>
+	<attr name='vtc' livesite='false'>[1003241.vtc]</attr>
+	<attr name='code'>avalon_lowest_ownership_2014</attr>
+	<attr name='derived'></attr>
+</feature>

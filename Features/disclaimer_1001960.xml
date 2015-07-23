@@ -1,0 +1,8 @@
+<feature id='1001960' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1001960.source]</attr>
+	<attr name='derived' livesite='false'>[1001960.derived]</attr>
+	<attr name='title'></attr>
+	<attr name='code'>jd_power_highlander_3yr</attr>
+	<attr name='vtc' livesite='false'>[1001960.vtc]</attr>
+	<attr name='description' livesite='false'>[1001960.description]</attr>
+</feature>

@@ -1,0 +1,8 @@
+<feature id='1002657' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1002657.source]</attr>
+	<attr name='derived' livesite='false'>[1002657.derived]</attr>
+	<attr name='vtc' livesite='false'>[1002657.vtc]</attr>
+	<attr name='code'>corolla_LEECO_2014_epa</attr>
+	<attr name='description' livesite='false'>[1002657.description]</attr>
+	<attr name='title'></attr>
+</feature>

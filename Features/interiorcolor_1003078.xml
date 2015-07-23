@@ -1,0 +1,38 @@
+<feature id='1003078' type='interiorcolor' scope='1002622 1000859 1003292' cardinality='mandatory' >
+	<attr name='code'>LC29</attr>
+	<attr name='title'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='msrp'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='vtc' livesite='false'>[1003078.vtc]</attr>
+	<attr name='source' livesite='false'>[1003078.source]</attr>
+	<attr name='derived'></attr>
+	<if id='1002622 1000859 1003292' >
+		<attr name='title' livesite='false'>[1003078.1002622.1000859.1003292.title]</attr>
+		<attr name='source' livesite='false'>[1003078.1002622.1000859.1003292.source]</attr>
+		<attr name='description'>[1003078.1002622.1000859.1003292.description]</attr>
+		<attr name='materialtypeid'>[1003078.1002622.1000859.1003292.materialtypeid]</attr>
+		<attr name='derived' livesite='false'>[1003078.1002622.1000859.1003292.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>1228_persona_seat_image.jpg</attr>
+			<attr name='sha'>02ecf02cc91069bcee75c6fdf7765b20a1e2ed06</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>Black_LC29_on.jpg</attr>
+			<attr name='sha'>0e55da67968c8643b5593013e93043ef2dbfacc5</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>Black_off_LC29.jpg</attr>
+			<attr name='sha'>8e6cded201ca5f734aade912d983961747efa3c5</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

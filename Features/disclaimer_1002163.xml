@@ -1,0 +1,8 @@
+<feature id='1002163' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1002163.source]</attr>
+	<attr name='vtc' livesite='false'>[1002163.vtc]</attr>
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1002163.description]</attr>
+	<attr name='derived' livesite='false'>[1002163.derived]</attr>
+	<attr name='code'>regen_braking</attr>
+</feature>

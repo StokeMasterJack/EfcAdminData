@@ -1,0 +1,8 @@
+<feature id='1002140' type='disclaimer' cardinality='optional' >
+	<attr name='code'>pzev_hp</attr>
+	<attr name='derived' livesite='false'>[1002140.derived]</attr>
+	<attr name='description' livesite='false'>[1002140.description]</attr>
+	<attr name='source' livesite='false'>[1002140.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1002140.vtc]</attr>
+</feature>

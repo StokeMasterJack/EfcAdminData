@@ -1,0 +1,16 @@
+<feature id='1002029' type='disclaimer' cardinality='optional' >
+	<attr name='derived' livesite='false'>[1002029.derived]</attr>
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1002029.source]</attr>
+	<attr name='vtc' livesite='false'>[1002029.vtc]</attr>
+	<attr name='description' livesite='false'>[1002029.description]</attr>
+	<attr name='code'>msrp_4cyl</attr>
+	<if id='1000851' >
+		<attr name='description' livesite='false'>[1002029.1000851.description]</attr>
+	</if>
+
+	<if id='1002622' >
+		<attr name='description' livesite='false'>[1002029.1002622.description]</attr>
+	</if>
+
+</feature>

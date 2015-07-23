@@ -1,0 +1,8 @@
+<feature id='1001845' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1001845.source]</attr>
+	<attr name='code'>fj_prototype</attr>
+	<attr name='vtc' livesite='false'>[1001845.vtc]</attr>
+	<attr name='derived' livesite='false'>[1001845.derived]</attr>
+	<attr name='description' livesite='false'>[1001845.description]</attr>
+</feature>

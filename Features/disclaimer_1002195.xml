@@ -1,0 +1,8 @@
+<feature id='1002195' type='disclaimer' cardinality='optional' >
+	<attr name='code'>satellite_generic</attr>
+	<attr name='derived' livesite='false'>[1002195.derived]</attr>
+	<attr name='source' livesite='false'>[1002195.source]</attr>
+	<attr name='vtc' livesite='false'>[1002195.vtc]</attr>
+	<attr name='description' livesite='false'>[1002195.description]</attr>
+	<attr name='title'></attr>
+</feature>

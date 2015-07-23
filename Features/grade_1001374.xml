@@ -1,0 +1,19 @@
+<feature id='1001374' type='grade' cardinality='optional' >
+	<attr name='keyword'>[1001374.keyword]</attr>
+	<attr name='code'>LEecopremium</attr>
+	<attr name='images'></attr>
+	<attr name='mpg'>[1001374.mpg]</attr>
+	<attr name='vtc' livesite='false'>[1001374.vtc]</attr>
+	<attr name='iconname'>[1001374.iconname]</attr>
+	<attr name='copyblock'>[1001374.copyblock]</attr>
+	<attr name='availablecopy'>[1001374.availablecopy]</attr>
+	<attr name='title' livesite='false'>[1001374.title]</attr>
+	<attr name='description'>[1001374.description]</attr>
+	<attr name='derived' livesite='false'>[1001374.derived]</attr>
+	<attr name='source' livesite='false'>[1001374.source]</attr>
+	<attr name='hotspot'></attr>
+	<if id='1000851 1000855 1000902' >
+		<attr name='title' livesite='false'>[1001374.1000851.1000855.1000902.title]</attr>
+	</if>
+
+</feature>

@@ -1,0 +1,12 @@
+<feature id='1002771' type='disclaimer' cardinality='optional' >
+	<attr name='derived' livesite='false'>[1002771.derived]</attr>
+	<attr name='vtc' livesite='false'>[1002771.vtc]</attr>
+	<attr name='description' livesite='false'>[1002771.description]</attr>
+	<attr name='title'></attr>
+	<attr name='code'>seq_ffv</attr>
+	<attr name='source' livesite='false'>[1002771.source]</attr>
+	<if id='1002622 1000865' >
+		<attr name='description'>[1002771.1002622.1000865.description]</attr>
+	</if>
+
+</feature>

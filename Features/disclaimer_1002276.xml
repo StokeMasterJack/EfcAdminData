@@ -1,0 +1,8 @@
+<feature id='1002276' type='disclaimer' cardinality='optional' >
+	<attr name='code'>tcuv_autodata</attr>
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1002276.source]</attr>
+	<attr name='vtc' livesite='false'>[1002276.vtc]</attr>
+	<attr name='description' livesite='false'>[1002276.description]</attr>
+	<attr name='derived' livesite='false'>[1002276.derived]</attr>
+</feature>

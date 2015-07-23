@@ -1,0 +1,35 @@
+<feature id='1004149' type='grade' cardinality='optional' >
+	<attr name='code'>SEpremium</attr>
+	<attr name='title'>[1004149.title]</attr>
+	<attr name='description'>[1004149.description]</attr>
+	<attr name='images'></attr>
+	<attr name='copyblock'>[1004149.copyblock]</attr>
+	<attr name='keyword'>[1004149.keyword]</attr>
+	<attr name='mpg'>[1004149.mpg]</attr>
+	<attr name='availablecopy'>[1004149.availablecopy]</attr>
+	<attr name='iconname'>[1004149.iconname]</attr>
+	<attr name='hotspot'>[1004149.hotspot]</attr>
+	<attr name='vtc' livesite='false'>[1004149.vtc]</attr>
+	<attr name='source'>[1004149.source]</attr>
+	<attr name='derived' livesite='false'>[1004149.derived]</attr>
+	<if id='1002622 1000866 1004144' >
+		<attr name='availablecopy'>[1004149.1002622.1000866.1004144.availablecopy]</attr>
+		<attr name='title' livesite='false'>[1004149.1002622.1000866.1004144.title]</attr>
+		<attr name='mpg'>[1004149.1002622.1000866.1004144.mpg]</attr>
+		<attr name='iconname'>[1004149.1002622.1000866.1004144.iconname]</attr>
+		<attr name='source' livesite='false'>[1004149.1002622.1000866.1004144.source]</attr>
+		<attr name='copyblock' livesite='false'>[1004149.1002622.1000866.1004144.copyblock]</attr>
+		<attr name='description'>[1004149.1002622.1000866.1004144.description]</attr>
+		<attr name='keyword'>[1004149.1002622.1000866.1004144.keyword]</attr>
+		<attr name='vtc' livesite='false'>[1004149.1002622.1000866.1004144.vtc]</attr>
+		<attr name='hotspot'>[1004149.1002622.1000866.1004144.hotspot]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Sienna_MY15_ext_SE_PRM_0218_v005_efc_jelly_002.png</attr>
+			<attr name='sha'>024aa215ee69ac2ff33b16b380f8d4105385044d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

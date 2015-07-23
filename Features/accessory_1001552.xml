@@ -1,0 +1,284 @@
+<feature id='1001552' type='accessory' scope='1002622 1000868 1003050, 1002622 1000868 1003052, 1002622 1000868 1003051, 1002622 1000852 1003054, 1002622 1000868 1003053, 1000851 1000867 1000976, 1000851 1000867 1000977, 1000851 1000867 1000978, 1000851 1000867 1000979, 1002622 1000867 1003047, 1002622 1000867 1003048, 1002622 1000867 1003049, 1002622 1000867 1003046, 1000851 1000867 1000975' cardinality='mandatory' >
+	<attr name='alacarte'>[1001552.alacarte]</attr>
+	<attr name='code'>6I</attr>
+	<attr name='derived'>[1001552.derived]</attr>
+	<attr name='description'>[1001552.description]</attr>
+	<attr name='fullimage'></attr>
+	<attr name='group'>[1001552.group]</attr>
+	<attr name='keyfeatures'>[1001552.keyfeatures]</attr>
+	<attr name='marketingeffectivedate'>[1001552.marketingeffectivedate]</attr>
+	<attr name='msrp'></attr>
+	<attr name='option'>[1001552.option]</attr>
+	<attr name='package'>[1001552.package]</attr>
+	<attr name='pnglayeringinclusionkey'>[1001552.pnglayeringinclusionkey]</attr>
+	<attr name='secondaryfeatures'>[1001552.secondaryfeatures]</attr>
+	<attr name='source'>[1001552.source]</attr>
+	<attr name='specialexteriorcolorflag'>[1001552.specialexteriorcolorflag]</attr>
+	<attr name='specialinteriorcolorflag'>[1001552.specialinteriorcolorflag]</attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'>[1001552.title]</attr>
+	<attr name='type'>[1001552.type]</attr>
+	<attr name='videokey'>[1001552.videokey]</attr>
+	<attr name='viewpointkey'>[1001552.viewpointkey]</attr>
+	<attr name='vtc'>[1001552.vtc]</attr>
+	<if id='1000851 1000867 1000967' >
+		<attr name='msrp'>[1001552.1000851.1000867.1000967.msrp]</attr>
+		<attr name='source'>[1001552.1000851.1000867.1000967.source]</attr>
+		<attr name='title'>[1001552.1000851.1000867.1000967.title]</attr>
+		<attr name='vtc'>[1001552.1000851.1000867.1000967.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000867 1000968' >
+		<attr name='msrp'>[1001552.1000851.1000867.1000968.msrp]</attr>
+		<attr name='source'>[1001552.1000851.1000867.1000968.source]</attr>
+		<attr name='title'>[1001552.1000851.1000867.1000968.title]</attr>
+		<attr name='vtc'>[1001552.1000851.1000867.1000968.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000867 1000969' >
+		<attr name='msrp'>[1001552.1000851.1000867.1000969.msrp]</attr>
+		<attr name='source'>[1001552.1000851.1000867.1000969.source]</attr>
+		<attr name='title'>[1001552.1000851.1000867.1000969.title]</attr>
+		<attr name='vtc'>[1001552.1000851.1000867.1000969.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000867 1000970' >
+		<attr name='msrp'>[1001552.1000851.1000867.1000970.msrp]</attr>
+		<attr name='source'>[1001552.1000851.1000867.1000970.source]</attr>
+		<attr name='title'>[1001552.1000851.1000867.1000970.title]</attr>
+		<attr name='vtc'>[1001552.1000851.1000867.1000970.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000867 1000971' >
+		<attr name='msrp'>[1001552.1000851.1000867.1000971.msrp]</attr>
+		<attr name='source'>[1001552.1000851.1000867.1000971.source]</attr>
+		<attr name='title'>[1001552.1000851.1000867.1000971.title]</attr>
+		<attr name='vtc'>[1001552.1000851.1000867.1000971.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000867 1000972' >
+		<attr name='msrp'>[1001552.1000851.1000867.1000972.msrp]</attr>
+		<attr name='source'>[1001552.1000851.1000867.1000972.source]</attr>
+		<attr name='title'>[1001552.1000851.1000867.1000972.title]</attr>
+		<attr name='vtc'>[1001552.1000851.1000867.1000972.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000867 1000973' >
+		<attr name='msrp'>[1001552.1000851.1000867.1000973.msrp]</attr>
+		<attr name='source'>[1001552.1000851.1000867.1000973.source]</attr>
+		<attr name='title'>[1001552.1000851.1000867.1000973.title]</attr>
+		<attr name='vtc'>[1001552.1000851.1000867.1000973.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000867 1000974' >
+		<attr name='msrp'>[1001552.1000851.1000867.1000974.msrp]</attr>
+		<attr name='source'>[1001552.1000851.1000867.1000974.source]</attr>
+		<attr name='title'>[1001552.1000851.1000867.1000974.title]</attr>
+		<attr name='vtc'>[1001552.1000851.1000867.1000974.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000867 1000975' >
+		<attr name='derived'>[1001552.1000851.1000867.1000975.derived]</attr>
+		<attr name='description'>[1001552.1000851.1000867.1000975.description]</attr>
+		<attr name='group'>[1001552.1000851.1000867.1000975.group]</attr>
+		<attr name='keyfeatures'>[1001552.1000851.1000867.1000975.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001552.1000851.1000867.1000975.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1001552.1000851.1000867.1000975.msrp]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001552.1000851.1000867.1000975.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001552.1000851.1000867.1000975.secondaryfeatures]</attr>
+		<attr name='source'>[1001552.1000851.1000867.1000975.source]</attr>
+		<attr name='title'>[1001552.1000851.1000867.1000975.title]</attr>
+		<attr name='videokey'>[1001552.1000851.1000867.1000975.videokey]</attr>
+		<attr name='viewpointkey'>[1001552.1000851.1000867.1000975.viewpointkey]</attr>
+		<attr name='vtc'>[1001552.1000851.1000867.1000975.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_6I' type='TEXT'>{1001552 conflicts(1001557)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_6I' type='TEXT'>{1001552 conflicts(1001550)}</rule>
+	</if>
+
+	<if id='1000851 1000867 1000976' >
+		<attr name='alacarte'>[1001552.1000851.1000867.1000976.alacarte]</attr>
+		<attr name='derived'>[1001552.1000851.1000867.1000976.derived]</attr>
+		<attr name='description'>[1001552.1000851.1000867.1000976.description]</attr>
+		<attr name='group'>[1001552.1000851.1000867.1000976.group]</attr>
+		<attr name='keyfeatures'>[1001552.1000851.1000867.1000976.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001552.1000851.1000867.1000976.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1001552.1000851.1000867.1000976.msrp]</attr>
+		<attr name='option'>[1001552.1000851.1000867.1000976.option]</attr>
+		<attr name='package'>[1001552.1000851.1000867.1000976.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001552.1000851.1000867.1000976.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001552.1000851.1000867.1000976.secondaryfeatures]</attr>
+		<attr name='source'>[1001552.1000851.1000867.1000976.source]</attr>
+		<attr name='specialexteriorcolorflag'>[1001552.1000851.1000867.1000976.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1001552.1000851.1000867.1000976.specialinteriorcolorflag]</attr>
+		<attr name='title'>[1001552.1000851.1000867.1000976.title]</attr>
+		<attr name='videokey'>[1001552.1000851.1000867.1000976.videokey]</attr>
+		<attr name='viewpointkey'>[1001552.1000851.1000867.1000976.viewpointkey]</attr>
+		<attr name='vtc'>[1001552.1000851.1000867.1000976.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_6I' type='TEXT'>{1001552 conflicts(1001557)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_6I' type='TEXT'>{1001552 conflicts(1001550)}</rule>
+	</if>
+
+	<if id='1000851 1000867 1000977' >
+		<attr name='description'>[1001552.1000851.1000867.1000977.description]</attr>
+		<attr name='group'>[1001552.1000851.1000867.1000977.group]</attr>
+		<attr name='keyfeatures'>[1001552.1000851.1000867.1000977.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001552.1000851.1000867.1000977.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1001552.1000851.1000867.1000977.msrp]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001552.1000851.1000867.1000977.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001552.1000851.1000867.1000977.secondaryfeatures]</attr>
+		<attr name='source'>[1001552.1000851.1000867.1000977.source]</attr>
+		<attr name='title'>[1001552.1000851.1000867.1000977.title]</attr>
+		<attr name='videokey'>[1001552.1000851.1000867.1000977.videokey]</attr>
+		<attr name='viewpointkey'>[1001552.1000851.1000867.1000977.viewpointkey]</attr>
+		<attr name='vtc'>[1001552.1000851.1000867.1000977.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_6I' type='TEXT'>{1001552 conflicts(1001557)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_6I' type='TEXT'>{1001552 conflicts(1001550)}</rule>
+	</if>
+
+	<if id='1000851 1000867 1000978' >
+		<attr name='msrp'>[1001552.1000851.1000867.1000978.msrp]</attr>
+		<attr name='source'>[1001552.1000851.1000867.1000978.source]</attr>
+		<attr name='title'>[1001552.1000851.1000867.1000978.title]</attr>
+		<attr name='vtc'>[1001552.1000851.1000867.1000978.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_6I' type='TEXT'>{1001552 conflicts(1001557)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_6I' type='TEXT'>{1001552 conflicts(1001550)}</rule>
+	</if>
+
+	<if id='1000851 1000867 1000979' >
+		<attr name='msrp'>[1001552.1000851.1000867.1000979.msrp]</attr>
+		<attr name='source'>[1001552.1000851.1000867.1000979.source]</attr>
+		<attr name='title'>[1001552.1000851.1000867.1000979.title]</attr>
+		<attr name='vtc'>[1001552.1000851.1000867.1000979.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_6I' type='TEXT'>{1001552 conflicts(1001557)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_6I' type='TEXT'>{1001552 conflicts(1001550)}</rule>
+	</if>
+
+	<if id='1002622 1000852 1003054' >
+		<attr name='derived' livesite='false'>[1001552.1002622.1000852.1003054.derived]</attr>
+		<attr name='msrp'>[1001552.1002622.1000852.1003054.msrp]</attr>
+		<attr name='source'>[1001552.1002622.1000852.1003054.source]</attr>
+		<attr name='title'>[1001552.1002622.1000852.1003054.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_6I' type='TEXT'>{1001552 conflicts(1001505)}</rule>
+	</if>
+
+	<if id='1002622 1000867 1003046' >
+		<attr name='derived' livesite='false'>[1001552.1002622.1000867.1003046.derived]</attr>
+		<attr name='title' livesite='false'>[1001552.1002622.1000867.1003046.title]</attr>
+	</if>
+
+	<if id='1002622 1000867 1003047' >
+		<attr name='derived' livesite='false'>[1001552.1002622.1000867.1003047.derived]</attr>
+		<attr name='title' livesite='false'>[1001552.1002622.1000867.1003047.title]</attr>
+	</if>
+
+	<if id='1002622 1000867 1003048' >
+		<attr name='derived' livesite='false'>[1001552.1002622.1000867.1003048.derived]</attr>
+		<attr name='title' livesite='false'>[1001552.1002622.1000867.1003048.title]</attr>
+	</if>
+
+	<if id='1002622 1000867 1003049' >
+		<attr name='derived' livesite='false'>[1001552.1002622.1000867.1003049.derived]</attr>
+		<attr name='title' livesite='false'>[1001552.1002622.1000867.1003049.title]</attr>
+	</if>
+
+	<if id='1002622 1000868 1003050' >
+		<attr name='derived' livesite='false'>[1001552.1002622.1000868.1003050.derived]</attr>
+		<attr name='msrp'>[1001552.1002622.1000868.1003050.msrp]</attr>
+		<attr name='source'>[1001552.1002622.1000868.1003050.source]</attr>
+		<attr name='title' livesite='false'>[1001552.1002622.1000868.1003050.title]</attr>
+	</if>
+
+	<if id='1002622 1000868 1003051' >
+		<attr name='derived' livesite='false'>[1001552.1002622.1000868.1003051.derived]</attr>
+		<attr name='msrp'>[1001552.1002622.1000868.1003051.msrp]</attr>
+		<attr name='source'>[1001552.1002622.1000868.1003051.source]</attr>
+		<attr name='title' livesite='false'>[1001552.1002622.1000868.1003051.title]</attr>
+	</if>
+
+	<if id='1002622 1000868 1003052' >
+		<attr name='derived' livesite='false'>[1001552.1002622.1000868.1003052.derived]</attr>
+		<attr name='msrp'>[1001552.1002622.1000868.1003052.msrp]</attr>
+		<attr name='source'>[1001552.1002622.1000868.1003052.source]</attr>
+		<attr name='title' livesite='false'>[1001552.1002622.1000868.1003052.title]</attr>
+	</if>
+
+	<if id='1002622 1000868 1003053' >
+		<attr name='derived' livesite='false'>[1001552.1002622.1000868.1003053.derived]</attr>
+		<attr name='msrp'>[1001552.1002622.1000868.1003053.msrp]</attr>
+		<attr name='source'>[1001552.1002622.1000868.1003053.source]</attr>
+		<attr name='title' livesite='false'>[1001552.1002622.1000868.1003053.title]</attr>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>un-vtcing to confirm availability and msrp</attr>
+		<attr name='systemdate'>2014 June 23</attr>
+		<attr name='time'>2014 June 23</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>un-vtcing to confirm availability and msrp</attr>
+		<attr name='systemdate'>2014 June 23</attr>
+		<attr name='time'>2014 June 23</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>un-vtcing to confirm availability and msrp</attr>
+		<attr name='systemdate'>2014 June 23</attr>
+		<attr name='time'>2014 June 23</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>un-vtcing to confirm availability and msrp</attr>
+		<attr name='systemdate'>2014 June 23</attr>
+		<attr name='time'>2014 June 23</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>un-vtcing to confirm availability and msrp</attr>
+		<attr name='systemdate'>2014 June 23</attr>
+		<attr name='time'>2014 June 23</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>un-vtcing to confirm availability and msrp</attr>
+		<attr name='systemdate'>2014 June 23</attr>
+		<attr name='time'>2014 June 23</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>un-vtcing to confirm availability and msrp</attr>
+		<attr name='systemdate'>2014 June 23</attr>
+		<attr name='time'>2014 June 23</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>un-vtcing to confirm availability and msrp</attr>
+		<attr name='systemdate'>2014 June 23</attr>
+		<attr name='time'>2014 June 23</attr>
+	</complextype>
+</group>
+
+</feature>

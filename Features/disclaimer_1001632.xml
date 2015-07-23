@@ -1,0 +1,8 @@
+<feature id='1001632' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1001632.source]</attr>
+	<attr name='vtc' livesite='false'>[1001632.vtc]</attr>
+	<attr name='derived' livesite='false'>[1001632.derived]</attr>
+	<attr name='description' livesite='false'>[1001632.description]</attr>
+	<attr name='title'></attr>
+	<attr name='code'>avalon_hybrid</attr>
+</feature>

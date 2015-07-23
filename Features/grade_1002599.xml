@@ -1,0 +1,121 @@
+<feature id='1002599' type='grade' cardinality='optional' >
+	<attr name='code'>regularcab</attr>
+	<attr name='title'>[1002599.title]</attr>
+	<attr name='description'>[1002599.description]</attr>
+	<attr name='images'></attr>
+	<attr name='copyblock'>[1002599.copyblock]</attr>
+	<attr name='keyword'>[1002599.keyword]</attr>
+	<attr name='mpg'>[1002599.mpg]</attr>
+	<attr name='availablecopy'>[1002599.availablecopy]</attr>
+	<attr name='iconname'>[1002599.iconname]</attr>
+	<attr name='vtc' livesite='false'>[1002599.vtc]</attr>
+	<attr name='source'>[1002599.source]</attr>
+	<attr name='derived' livesite='false'>[1002599.derived]</attr>
+	<if id='1000851 1000867 1000961' >
+		<attr name='availablecopy' livesite='false'>[1002599.1000851.1000867.1000961.availablecopy]</attr>
+		<attr name='title' livesite='false'>[1002599.1000851.1000867.1000961.title]</attr>
+		<attr name='mpg'>[1002599.1000851.1000867.1000961.mpg]</attr>
+		<attr name='source' livesite='false'>[1002599.1000851.1000867.1000961.source]</attr>
+		<attr name='iconname'>[1002599.1000851.1000867.1000961.iconname]</attr>
+		<attr name='copyblock' livesite='false'>[1002599.1000851.1000867.1000961.copyblock]</attr>
+		<attr name='description'>[1002599.1000851.1000867.1000961.description]</attr>
+		<attr name='keyword'>[1002599.1000851.1000867.1000961.keyword]</attr>
+		<attr name='derived' livesite='false'>[1002599.1000851.1000867.1000961.derived]</attr>
+		<attr name='vtc' livesite='false'>[1002599.1000851.1000867.1000961.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Tacoma_RegCab.png</attr>
+			<attr name='sha'>0aa94e4ab5cf51341d0ceda1a7a1d3ce7c38dd48</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000962' >
+		<attr name='availablecopy' livesite='false'>[1002599.1000851.1000867.1000962.availablecopy]</attr>
+		<attr name='title' livesite='false'>[1002599.1000851.1000867.1000962.title]</attr>
+		<attr name='mpg'>[1002599.1000851.1000867.1000962.mpg]</attr>
+		<attr name='iconname'>[1002599.1000851.1000867.1000962.iconname]</attr>
+		<attr name='source'>[1002599.1000851.1000867.1000962.source]</attr>
+		<attr name='copyblock' livesite='false'>[1002599.1000851.1000867.1000962.copyblock]</attr>
+		<attr name='description'>[1002599.1000851.1000867.1000962.description]</attr>
+		<attr name='keyword'>[1002599.1000851.1000867.1000962.keyword]</attr>
+		<attr name='derived' livesite='false'>[1002599.1000851.1000867.1000962.derived]</attr>
+		<attr name='vtc' livesite='false'>[1002599.1000851.1000867.1000962.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Tacoma_RegCab.png</attr>
+			<attr name='sha'>0aa94e4ab5cf51341d0ceda1a7a1d3ce7c38dd48</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000971' >
+		<attr name='availablecopy' livesite='false'>[1002599.1000851.1000867.1000971.availablecopy]</attr>
+		<attr name='title' livesite='false'>[1002599.1000851.1000867.1000971.title]</attr>
+		<attr name='mpg'>[1002599.1000851.1000867.1000971.mpg]</attr>
+		<attr name='iconname'>[1002599.1000851.1000867.1000971.iconname]</attr>
+		<attr name='source'>[1002599.1000851.1000867.1000971.source]</attr>
+		<attr name='copyblock' livesite='false'>[1002599.1000851.1000867.1000971.copyblock]</attr>
+		<attr name='description'>[1002599.1000851.1000867.1000971.description]</attr>
+		<attr name='keyword'>[1002599.1000851.1000867.1000971.keyword]</attr>
+		<attr name='derived' livesite='false'>[1002599.1000851.1000867.1000971.derived]</attr>
+		<attr name='vtc' livesite='false'>[1002599.1000851.1000867.1000971.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Tacoma_RegCab.png</attr>
+			<attr name='sha'>0aa94e4ab5cf51341d0ceda1a7a1d3ce7c38dd48</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000972' >
+		<attr name='availablecopy' livesite='false'>[1002599.1000851.1000867.1000972.availablecopy]</attr>
+		<attr name='title' livesite='false'>[1002599.1000851.1000867.1000972.title]</attr>
+		<attr name='mpg'>[1002599.1000851.1000867.1000972.mpg]</attr>
+		<attr name='iconname'>[1002599.1000851.1000867.1000972.iconname]</attr>
+		<attr name='source'>[1002599.1000851.1000867.1000972.source]</attr>
+		<attr name='copyblock' livesite='false'>[1002599.1000851.1000867.1000972.copyblock]</attr>
+		<attr name='description'>[1002599.1000851.1000867.1000972.description]</attr>
+		<attr name='keyword'>[1002599.1000851.1000867.1000972.keyword]</attr>
+		<attr name='derived' livesite='false'>[1002599.1000851.1000867.1000972.derived]</attr>
+		<attr name='vtc' livesite='false'>[1002599.1000851.1000867.1000972.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Tacoma_RegCab.png</attr>
+			<attr name='sha'>0aa94e4ab5cf51341d0ceda1a7a1d3ce7c38dd48</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>Un-vtcing this feature. MY14 Tundra does not have a grade attribute.</attr>
+		<attr name='systemdate'>2014 April 25</attr>
+		<attr name='time'>11:53:38PDT</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>This was assigned to Tacoma as a grade incorrectly therefore it is un-vtc'd. Removed the feature from By Hierarchy tree for each model from the series.</attr>
+		<attr name='systemdate'>2014 April 25</attr>
+		<attr name='time'>12:59:49PDT</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>Note from 11:53:38PDT on April 25, 2014 incorrectly stated Tundra when it should state TACOMA</attr>
+		<attr name='systemdate'>2014 April 25</attr>
+		<attr name='time'>1:12:05PDT</attr>
+	</complextype>
+</group>
+
+</feature>

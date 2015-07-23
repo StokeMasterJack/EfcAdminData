@@ -1,0 +1,52 @@
+<feature id='1001379' type='grade' scope='1000851 1000854 1000911, 1002622 1000854 1000911' cardinality='mandatory' >
+	<attr name='availablecopy'></attr>
+	<attr name='code'>hybridXLE</attr>
+	<attr name='copyblock'></attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='hotspot'></attr>
+	<attr name='iconname'></attr>
+	<attr name='images'></attr>
+	<attr name='keyword'></attr>
+	<attr name='mpg'></attr>
+	<attr name='source' livesite='false'>[1001379.source]</attr>
+	<attr name='title' livesite='false'>[1001379.title]</attr>
+	<attr name='vtc' livesite='false'>[1001379.vtc]</attr>
+	<if id='1000851 1000854 1000911' >
+		<attr name='availablecopy' livesite='false'>[1001379.1000851.1000854.1000911.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001379.1000851.1000854.1000911.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001379.1000851.1000854.1000911.derived]</attr>
+		<attr name='description'>[1001379.1000851.1000854.1000911.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001379.1000851.1000854.1000911.hotspot]</attr>
+		<attr name='iconname'>[1001379.1000851.1000854.1000911.iconname]</attr>
+		<attr name='keyword'>[1001379.1000851.1000854.1000911.keyword]</attr>
+		<attr name='mpg'>[1001379.1000851.1000854.1000911.mpg]</attr>
+		<attr name='title' livesite='false'>[1001379.1000851.1000854.1000911.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Camry_HybridXLE.png</attr>
+			<attr name='sha'>02b1fddf5e0b1c7e84eb5853aa34fb919f9a9156</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000911' >
+		<attr name='availablecopy' livesite='false'>[1001379.1002622.1000854.1000911.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001379.1002622.1000854.1000911.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001379.1002622.1000854.1000911.derived]</attr>
+		<attr name='description'>[1001379.1002622.1000854.1000911.description]</attr>
+		<attr name='hotspot'>[1001379.1002622.1000854.1000911.hotspot]</attr>
+		<attr name='iconname'>[1001379.1002622.1000854.1000911.iconname]</attr>
+		<attr name='keyword'>[1001379.1002622.1000854.1000911.keyword]</attr>
+		<attr name='mpg'>[1001379.1002622.1000854.1000911.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>MY15_Camry_ext_Hybrid_XLE_01H2.png</attr>
+			<attr name='sha'>a8bda982e716975ccf9672de0fc12ac613c14cba</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

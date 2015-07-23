@@ -1,0 +1,154 @@
+<feature id='1001108' type='accessory' scope='1000851 1000867 1000977, 1002622 1000867 1000975, 1000851 1000856 1000937, 1002622 1000867 1003048, 1002622 1000867 1003046, 1002622 1000867 1000977, 1000851 1000867 1000975' cardinality='mandatory' >
+	<attr name='alacarte'></attr>
+	<attr name='code'>MU</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='fullimage'></attr>
+	<attr name='group' livesite='false'>[1001108.group]</attr>
+	<attr name='keyfeatures'></attr>
+	<attr name='marketingeffectivedate'></attr>
+	<attr name='msrp'></attr>
+	<attr name='option'></attr>
+	<attr name='optionsshown'></attr>
+	<attr name='package'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='secondaryfeatures'></attr>
+	<attr name='source'>[1001108.source]</attr>
+	<attr name='specialexteriorcolorflag'></attr>
+	<attr name='specialinteriorcolorflag'></attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'></attr>
+	<attr name='type'>[1001108.type]</attr>
+	<attr name='unavailableregions'></attr>
+	<attr name='videokey'></attr>
+	<attr name='viewpointkey'></attr>
+	<attr name='vtc'>[1001108.vtc]</attr>
+	<if id='1000851 1000856 1000937' disclaimers='1002414' >
+		<attr name='alacarte'>[1001108.1000851.1000856.1000937.alacarte]</attr>
+		<attr name='derived'>[1001108.1000851.1000856.1000937.derived]</attr>
+		<attr name='description'>[1001108.1000851.1000856.1000937.description]</attr>
+		<attr name='group'>[1001108.1000851.1000856.1000937.group]</attr>
+		<attr name='keyfeatures'>[1001108.1000851.1000856.1000937.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001108.1000851.1000856.1000937.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1001108.1000851.1000856.1000937.msrp]</attr>
+		<attr name='option'>[1001108.1000851.1000856.1000937.option]</attr>
+		<attr name='package'>[1001108.1000851.1000856.1000937.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001108.1000851.1000856.1000937.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001108.1000851.1000856.1000937.secondaryfeatures]</attr>
+		<attr name='source'>[1001108.1000851.1000856.1000937.source]</attr>
+		<attr name='specialexteriorcolorflag'>[1001108.1000851.1000856.1000937.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1001108.1000851.1000856.1000937.specialinteriorcolorflag]</attr>
+		<attr name='title'>[1001108.1000851.1000856.1000937.title]</attr>
+		<attr name='videokey'>[1001108.1000851.1000856.1000937.videokey]</attr>
+		<attr name='viewpointkey'>[1001108.1000851.1000856.1000937.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_MU' type='TEXT'>{1001108 conflicts(1001478)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_MU' type='TEXT'>{1001108 conflicts(1001045)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>TRD-Quickshifter.jpg</attr>
+			<attr name='sha'>8bd50a1e1b99fe57f82e8321618f82b353cbc0e2</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>TRD-Quickshifter.jpg</attr>
+			<attr name='sha'>7b9852f575c700f78b84b108679b2448145830b4</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000975' >
+		<attr name='alacarte'>[1001108.1000851.1000867.1000975.alacarte]</attr>
+		<attr name='derived'>[1001108.1000851.1000867.1000975.derived]</attr>
+		<attr name='description'>[1001108.1000851.1000867.1000975.description]</attr>
+		<attr name='group'>[1001108.1000851.1000867.1000975.group]</attr>
+		<attr name='msrp'>[1001108.1000851.1000867.1000975.msrp]</attr>
+		<attr name='source'>[1001108.1000851.1000867.1000975.source]</attr>
+		<attr name='title'>[1001108.1000851.1000867.1000975.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_MU' type='TEXT'>{1001108 conflicts(1001045)}</rule>
+	</if>
+
+	<if id='1000851 1000867 1000977' >
+		<attr name='alacarte'>[1001108.1000851.1000867.1000977.alacarte]</attr>
+		<attr name='derived'>[1001108.1000851.1000867.1000977.derived]</attr>
+		<attr name='description'>[1001108.1000851.1000867.1000977.description]</attr>
+		<attr name='group'>[1001108.1000851.1000867.1000977.group]</attr>
+		<attr name='msrp'>[1001108.1000851.1000867.1000977.msrp]</attr>
+		<attr name='source'>[1001108.1000851.1000867.1000977.source]</attr>
+		<attr name='title'>[1001108.1000851.1000867.1000977.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_MU' type='TEXT'>{1001108 conflicts(1001045)}</rule>
+	</if>
+
+	<if id='1002622 1000867 1000975' >
+		<attr name='alacarte'>[1001108.1002622.1000867.1000975.alacarte]</attr>
+		<attr name='derived'>[1001108.1002622.1000867.1000975.derived]</attr>
+		<attr name='description' livesite='false'>[1001108.1002622.1000867.1000975.description]</attr>
+		<attr name='group'>[1001108.1002622.1000867.1000975.group]</attr>
+		<attr name='keyfeatures'>[1001108.1002622.1000867.1000975.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001108.1002622.1000867.1000975.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1001108.1002622.1000867.1000975.msrp]</attr>
+		<attr name='option'>[1001108.1002622.1000867.1000975.option]</attr>
+		<attr name='package'>[1001108.1002622.1000867.1000975.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001108.1002622.1000867.1000975.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001108.1002622.1000867.1000975.secondaryfeatures]</attr>
+		<attr name='source'>[1001108.1002622.1000867.1000975.source]</attr>
+		<attr name='specialexteriorcolorflag'>[1001108.1002622.1000867.1000975.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1001108.1002622.1000867.1000975.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001108.1002622.1000867.1000975.title]</attr>
+		<attr name='videokey'>[1001108.1002622.1000867.1000975.videokey]</attr>
+		<attr name='viewpointkey'>[1001108.1002622.1000867.1000975.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_MU' type='TEXT'>{1001108 conflicts(1001045)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Tacoma_2015_TRDQuickshifter.jpg</attr>
+			<attr name='sha'>c76d892bbc7fc0c3056080a873cbf23b0306d3c6</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000867 1000977' >
+		<attr name='alacarte'>[1001108.1002622.1000867.1000977.alacarte]</attr>
+		<attr name='derived'>[1001108.1002622.1000867.1000977.derived]</attr>
+		<attr name='description' livesite='false'>[1001108.1002622.1000867.1000977.description]</attr>
+		<attr name='group'>[1001108.1002622.1000867.1000977.group]</attr>
+		<attr name='msrp'>[1001108.1002622.1000867.1000977.msrp]</attr>
+		<attr name='option'>[1001108.1002622.1000867.1000977.option]</attr>
+		<attr name='package'>[1001108.1002622.1000867.1000977.package]</attr>
+		<attr name='source'>[1001108.1002622.1000867.1000977.source]</attr>
+		<attr name='specialexteriorcolorflag'>[1001108.1002622.1000867.1000977.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1001108.1002622.1000867.1000977.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001108.1002622.1000867.1000977.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_MU' type='TEXT'>{1001108 conflicts(1001045)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Tacoma_2015_TRDQuickshifter.jpg</attr>
+			<attr name='sha'>c76d892bbc7fc0c3056080a873cbf23b0306d3c6</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000867 1003046' >
+		<attr name='alacarte' livesite='false'>[1001108.1002622.1000867.1003046.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001108.1002622.1000867.1003046.derived]</attr>
+		<attr name='description' livesite='false'>[1001108.1002622.1000867.1003046.description]</attr>
+		<attr name='group' livesite='false'>[1001108.1002622.1000867.1003046.group]</attr>
+		<attr name='msrp'>[1001108.1002622.1000867.1003046.msrp]</attr>
+		<attr name='package' livesite='false'>[1001108.1002622.1000867.1003046.package]</attr>
+		<attr name='source'>[1001108.1002622.1000867.1003046.source]</attr>
+		<attr name='title' livesite='false'>[1001108.1002622.1000867.1003046.title]</attr>
+	</if>
+
+	<if id='1002622 1000867 1003048' >
+		<attr name='alacarte' livesite='false'>[1001108.1002622.1000867.1003048.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001108.1002622.1000867.1003048.derived]</attr>
+		<attr name='description' livesite='false'>[1001108.1002622.1000867.1003048.description]</attr>
+		<attr name='group' livesite='false'>[1001108.1002622.1000867.1003048.group]</attr>
+		<attr name='msrp'>[1001108.1002622.1000867.1003048.msrp]</attr>
+		<attr name='package' livesite='false'>[1001108.1002622.1000867.1003048.package]</attr>
+		<attr name='source'>[1001108.1002622.1000867.1003048.source]</attr>
+		<attr name='title' livesite='false'>[1001108.1002622.1000867.1003048.title]</attr>
+	</if>
+
+</feature>

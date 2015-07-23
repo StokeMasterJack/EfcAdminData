@@ -1,0 +1,8 @@
+<feature id='1002066' type='disclaimer' cardinality='optional' >
+	<attr name='code'>performance_tires</attr>
+	<attr name='derived' livesite='false'>[1002066.derived]</attr>
+	<attr name='description' livesite='false'>[1002066.description]</attr>
+	<attr name='source' livesite='false'>[1002066.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1002066.vtc]</attr>
+</feature>

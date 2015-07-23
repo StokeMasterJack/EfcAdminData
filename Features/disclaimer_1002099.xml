@@ -1,0 +1,8 @@
+<feature id='1002099' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1002099.description]</attr>
+	<attr name='source' livesite='false'>[1002099.source]</attr>
+	<attr name='derived' livesite='false'>[1002099.derived]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1002099.vtc]</attr>
+	<attr name='code'>power_split_device</attr>
+</feature>

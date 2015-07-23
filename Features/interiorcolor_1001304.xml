@@ -1,0 +1,286 @@
+<feature id='1001304' type='interiorcolor' scope='1002622 1000857 1000953, 1002622 1000857 1000954, 1000851 1000857 1000954, 1000851 1000857 1000953, 1000851 1000861 1000880, 1002622 1000859 1000877, 1000851 1000859 1000878, 1002622 1000861 1000880, 1002622 1000859 1000878, 1000851 1000859 1000877, 1002622 1000854 1000911' cardinality='mandatory' >
+	<attr name='code'>LB10</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1001304.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001304.vtc]</attr>
+	<if id='1000851 1000857 1000953' >
+		<attr name='derived' livesite='false'>[1001304.1000851.1000857.1000953.derived]</attr>
+		<attr name='description'>[1001304.1000851.1000857.1000953.description]</attr>
+		<attr name='materialtypeid'>[1001304.1000851.1000857.1000953.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001304.1000851.1000857.1000953.source]</attr>
+		<attr name='title' livesite='false'>[1001304.1000851.1000857.1000953.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>highlander_int_XLE_Ash_v38jc.jpg</attr>
+			<attr name='sha'>86a79b9432fe338114faac3316ec5c5d2cd110a5</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>highlander_int_XLE_Ash_v38jc.jpg</attr>
+			<attr name='sha'>02fcd9e8e65561b961b0a39a85e1836dcd4c7ddd</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>highlander_int_XLE_Ash_v38jc.jpg</attr>
+			<attr name='sha'>33e7c69fd591e1ad44cf9a420fb6ef228ce0bb26</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000857 1000954' >
+		<attr name='derived' livesite='false'>[1001304.1000851.1000857.1000954.derived]</attr>
+		<attr name='description'>[1001304.1000851.1000857.1000954.description]</attr>
+		<attr name='materialtypeid'>[1001304.1000851.1000857.1000954.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001304.1000851.1000857.1000954.source]</attr>
+		<attr name='title' livesite='false'>[1001304.1000851.1000857.1000954.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>highlander_int_XLE_Ash_v38jc.jpg</attr>
+			<attr name='sha'>86a79b9432fe338114faac3316ec5c5d2cd110a5</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>highlander_int_XLE_Ash_v38jc.jpg</attr>
+			<attr name='sha'>02fcd9e8e65561b961b0a39a85e1836dcd4c7ddd</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>highlander_int_XLE_Ash_v38jc.jpg</attr>
+			<attr name='sha'>33e7c69fd591e1ad44cf9a420fb6ef228ce0bb26</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000859 1000877' >
+		<attr name='derived' livesite='false'>[1001304.1000851.1000859.1000877.derived]</attr>
+		<attr name='description'>[1001304.1000851.1000859.1000877.description]</attr>
+		<attr name='materialtypeid'>[1001304.1000851.1000859.1000877.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001304.1000851.1000859.1000877.source]</attr>
+		<attr name='title' livesite='false'>[1001304.1000851.1000859.1000877.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>Prius_int_cmp_v35jc_4_DarkGray.002.jpg</attr>
+			<attr name='sha'>1584a952c1a8ed09c21e5ede4b2ee29404039151</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>Prius_int_cmp_v35jc_4_DarkGray.002.jpg</attr>
+			<attr name='sha'>2378ccb05ffa30f2eb90b97476e1aedd3b366152</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>Prius_int_cmp_v35jc_4_DarkGray.002.jpg</attr>
+			<attr name='sha'>0ad9088619e2e08101144f4a3cd96dacb7350790</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000859 1000878' >
+		<attr name='derived' livesite='false'>[1001304.1000851.1000859.1000878.derived]</attr>
+		<attr name='description'>[1001304.1000851.1000859.1000878.description]</attr>
+		<attr name='materialtypeid'>[1001304.1000851.1000859.1000878.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001304.1000851.1000859.1000878.source]</attr>
+		<attr name='title' livesite='false'>[1001304.1000851.1000859.1000878.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>Prius_int_cmp_v35jc_5_DarkGray.002.jpg</attr>
+			<attr name='sha'>9c3c2236b32cf4f1be49fb698144f1064d81cb51</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>Prius_int_cmp_v35jc_5_DarkGray.002.jpg</attr>
+			<attr name='sha'>122df0b14ed2e7cfec9501c19bd3bf76513cc178</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>Prius_int_cmp_v35jc_5_DarkGray.002.jpg</attr>
+			<attr name='sha'>8cf5100f5efc09f788688b97d1fbb5583edeb67e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000861 1000880' >
+		<attr name='derived' livesite='false'>[1001304.1000851.1000861.1000880.derived]</attr>
+		<attr name='description'>[1001304.1000851.1000861.1000880.description]</attr>
+		<attr name='materialtypeid'>[1001304.1000851.1000861.1000880.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001304.1000851.1000861.1000880.source]</attr>
+		<attr name='title' livesite='false'>[1001304.1000851.1000861.1000880.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>priusphv_int_cmp_v11jc_Advanced_NO_COLOR.002.jpg</attr>
+			<attr name='sha'>a02ed42790383647a387b6acb4f10d2f9c25ea4e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>priusphv_int_cmp_v11jc_Advanced_NO_COLOR.002.jpg</attr>
+			<attr name='sha'>6e82341f6fd3a3a792647c7b1b339018ceb0b443</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>priusphv_int_cmp_v11jc_Advanced_NO_COLOR.002.jpg</attr>
+			<attr name='sha'>d858776726f237ae6670741c08324e285e88089f</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000911' >
+		<attr name='derived' livesite='false'>[1001304.1002622.1000854.1000911.derived]</attr>
+		<attr name='description'>[1001304.1002622.1000854.1000911.description]</attr>
+		<attr name='materialtypeid'>[1001304.1002622.1000854.1000911.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001304.1002622.1000854.1000911.source]</attr>
+		<attr name='title' livesite='false'>[1001304.1002622.1000854.1000911.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>camry_int_XLEV6_Ash_v167_hd_002.jpg</attr>
+			<attr name='sha'>fc16c49e2c493f341cb080dce63f58ea78aa94b9</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>camry_int_XLEV6_Ash_v167_hd_002.jpg</attr>
+			<attr name='sha'>dcad671a20b08360dd619b1c884530b88cd8207e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>camry_int_HybridXLE_Ash_v167_hd_002.jpg</attr>
+			<attr name='sha'>f731304e702827b40d00e2f875782700b51dfd8d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000953' >
+		<attr name='derived' livesite='false'>[1001304.1002622.1000857.1000953.derived]</attr>
+		<attr name='description'>[1001304.1002622.1000857.1000953.description]</attr>
+		<attr name='materialtypeid'>[1001304.1002622.1000857.1000953.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001304.1002622.1000857.1000953.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>highlander_int_XLE_Ash_v38jc.jpg</attr>
+			<attr name='sha'>86a79b9432fe338114faac3316ec5c5d2cd110a5</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>highlander_int_XLE_Ash_v38jc.jpg</attr>
+			<attr name='sha'>02fcd9e8e65561b961b0a39a85e1836dcd4c7ddd</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>highlander_int_XLE_Ash_v38jc.jpg</attr>
+			<attr name='sha'>33e7c69fd591e1ad44cf9a420fb6ef228ce0bb26</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000954' >
+		<attr name='derived' livesite='false'>[1001304.1002622.1000857.1000954.derived]</attr>
+		<attr name='description'>[1001304.1002622.1000857.1000954.description]</attr>
+		<attr name='materialtypeid'>[1001304.1002622.1000857.1000954.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001304.1002622.1000857.1000954.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>highlander_int_XLE_Ash_v38jc.jpg</attr>
+			<attr name='sha'>86a79b9432fe338114faac3316ec5c5d2cd110a5</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>highlander_int_XLE_Ash_v38jc.jpg</attr>
+			<attr name='sha'>02fcd9e8e65561b961b0a39a85e1836dcd4c7ddd</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>highlander_int_XLE_Ash_v38jc.jpg</attr>
+			<attr name='sha'>33e7c69fd591e1ad44cf9a420fb6ef228ce0bb26</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000859 1000877' >
+		<attr name='derived' livesite='false'>[1001304.1002622.1000859.1000877.derived]</attr>
+		<attr name='description'>[1001304.1002622.1000859.1000877.description]</attr>
+		<attr name='materialtypeid'>[1001304.1002622.1000859.1000877.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001304.1002622.1000859.1000877.source]</attr>
+		<attr name='title' livesite='false'>[1001304.1002622.1000859.1000877.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>Prius_int_cmp_v35jc_4_DarkGray.002.jpg</attr>
+			<attr name='sha'>1584a952c1a8ed09c21e5ede4b2ee29404039151</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>Prius_int_cmp_v35jc_4_DarkGray.002.jpg</attr>
+			<attr name='sha'>2378ccb05ffa30f2eb90b97476e1aedd3b366152</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>prius_int_4_Dark_Gray_v026_hd_002.jpg</attr>
+			<attr name='sha'>dc943f825a8249ed27206d143e1752d9b4677318</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000859 1000878' >
+		<attr name='derived' livesite='false'>[1001304.1002622.1000859.1000878.derived]</attr>
+		<attr name='description'>[1001304.1002622.1000859.1000878.description]</attr>
+		<attr name='materialtypeid'>[1001304.1002622.1000859.1000878.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001304.1002622.1000859.1000878.source]</attr>
+		<attr name='title' livesite='false'>[1001304.1002622.1000859.1000878.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>Prius_int_cmp_v35jc_5_DarkGray.002.jpg</attr>
+			<attr name='sha'>9c3c2236b32cf4f1be49fb698144f1064d81cb51</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>Prius_int_cmp_v35jc_5_DarkGray.002.jpg</attr>
+			<attr name='sha'>122df0b14ed2e7cfec9501c19bd3bf76513cc178</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>Prius_int_cmp_v35jc_5_DarkGray.002.jpg</attr>
+			<attr name='sha'>8cf5100f5efc09f788688b97d1fbb5583edeb67e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000861 1000880' >
+		<attr name='derived' livesite='false'>[1001304.1002622.1000861.1000880.derived]</attr>
+		<attr name='description'>[1001304.1002622.1000861.1000880.description]</attr>
+		<attr name='materialtypeid'>[1001304.1002622.1000861.1000880.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001304.1002622.1000861.1000880.source]</attr>
+		<attr name='title' livesite='false'>[1001304.1002622.1000861.1000880.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>priusphv_int_cmp_v11jc_Advanced_NO_COLOR.002.jpg</attr>
+			<attr name='sha'>a02ed42790383647a387b6acb4f10d2f9c25ea4e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>priusphv_int_cmp_v11jc_Advanced_NO_COLOR.002.jpg</attr>
+			<attr name='sha'>6e82341f6fd3a3a792647c7b1b339018ceb0b443</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>priusphv_int_cmp_v11jc_Advanced_NO_COLOR.002.jpg</attr>
+			<attr name='sha'>d858776726f237ae6670741c08324e285e88089f</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

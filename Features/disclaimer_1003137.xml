@@ -1,0 +1,12 @@
+<feature id='1003137' type='disclaimer' cardinality='optional' >
+	<attr name='derived'></attr>
+	<attr name='code'>2012_CamryHV_2</attr>
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1003137.source]</attr>
+	<attr name='description' livesite='false'>[1003137.description]</attr>
+	<attr name='vtc' livesite='false'>[1003137.vtc]</attr>
+	<if id='1002622' >
+		<attr name='description' livesite='false'>[1003137.1002622.description]</attr>
+	</if>
+
+</feature>

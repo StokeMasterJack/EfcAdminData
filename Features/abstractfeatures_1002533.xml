@@ -1,0 +1,11 @@
+<feature id='1002533' type='abstractfeatures' scope='1000851 1000868, 1000851, 1002622' cardinality='mandatory' >
+	<attr name='code'>Moonroof</attr>
+	<attr name='derived'>[1002533.derived]</attr>
+	<attr name='source'>[1002533.source]</attr>
+	<attr name='title'>[1002533.title]</attr>
+	<attr name='vtc'>[1002533.vtc]</attr>
+	<if id='1000851 1000857' >
+		<rule src='ADMIN' type='TEXT'>{1002533 requires((1000851*1000857*1000953),(1000851*1000857*1000954),(1000851*1000857*1000955),(1000851*1000857*1000956),(1000851*1000857*1000957),(1000851*1000857*1000958),(1000851*1000857*1000959),(1000851*1000857*1000960))}</rule>
+	</if>
+
+</feature>

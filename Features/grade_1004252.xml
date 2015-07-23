@@ -1,0 +1,57 @@
+<feature id='1004252' type='grade' scope='1002622 1000854 1000907, 1002622 1000854 1000908' cardinality='mandatory' >
+	<attr name='keyword'>[1004252.keyword]</attr>
+	<attr name='source'>[1004252.source]</attr>
+	<attr name='vtc' livesite='false'>[1004252.vtc]</attr>
+	<attr name='code'>XSE</attr>
+	<attr name='mpg'>[1004252.mpg]</attr>
+	<attr name='availablecopy'>[1004252.availablecopy]</attr>
+	<attr name='images'></attr>
+	<attr name='hotspot'>[1004252.hotspot]</attr>
+	<attr name='iconname'>[1004252.iconname]</attr>
+	<attr name='derived' livesite='false'>[1004252.derived]</attr>
+	<attr name='description'>[1004252.description]</attr>
+	<attr name='copyblock'>[1004252.copyblock]</attr>
+	<attr name='title' livesite='false'>[1004252.title]</attr>
+	<if id='1002622 1000854 1000907' >
+		<attr name='availablecopy' livesite='false'>[1004252.1002622.1000854.1000907.availablecopy]</attr>
+		<attr name='title' livesite='false'>[1004252.1002622.1000854.1000907.title]</attr>
+		<attr name='mpg'>[1004252.1002622.1000854.1000907.mpg]</attr>
+		<attr name='iconname'>[1004252.1002622.1000854.1000907.iconname]</attr>
+		<attr name='source' livesite='false'>[1004252.1002622.1000854.1000907.source]</attr>
+		<attr name='copyblock' livesite='false'>[1004252.1002622.1000854.1000907.copyblock]</attr>
+		<attr name='description'>[1004252.1002622.1000854.1000907.description]</attr>
+		<attr name='keyword'>[1004252.1002622.1000854.1000907.keyword]</attr>
+		<attr name='derived' livesite='false'>[1004252.1002622.1000854.1000907.derived]</attr>
+		<attr name='vtc' livesite='false'>[1004252.1002622.1000854.1000907.vtc]</attr>
+		<attr name='hotspot'>[1004252.1002622.1000854.1000907.hotspot]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>MY15_Camry_ext_XSE_03T3.png</attr>
+			<attr name='sha'>6d58077436f3bd85118866bd5c73db5f27aa9521</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000908' >
+		<attr name='availablecopy' livesite='false'>[1004252.1002622.1000854.1000908.availablecopy]</attr>
+		<attr name='title' livesite='false'>[1004252.1002622.1000854.1000908.title]</attr>
+		<attr name='mpg'>[1004252.1002622.1000854.1000908.mpg]</attr>
+		<attr name='source'>[1004252.1002622.1000854.1000908.source]</attr>
+		<attr name='iconname'>[1004252.1002622.1000854.1000908.iconname]</attr>
+		<attr name='copyblock' livesite='false'>[1004252.1002622.1000854.1000908.copyblock]</attr>
+		<attr name='description'>[1004252.1002622.1000854.1000908.description]</attr>
+		<attr name='keyword'>[1004252.1002622.1000854.1000908.keyword]</attr>
+		<attr name='derived' livesite='false'>[1004252.1002622.1000854.1000908.derived]</attr>
+		<attr name='vtc' livesite='false'>[1004252.1002622.1000854.1000908.vtc]</attr>
+		<attr name='hotspot'>[1004252.1002622.1000854.1000908.hotspot]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>MY15_Camry_ext_XSE_03T3.png</attr>
+			<attr name='sha'>6d58077436f3bd85118866bd5c73db5f27aa9521</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

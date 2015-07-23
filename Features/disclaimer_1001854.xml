@@ -1,0 +1,8 @@
+<feature id='1001854' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1001854.source]</attr>
+	<attr name='description' livesite='false'>[1001854.description]</attr>
+	<attr name='title'></attr>
+	<attr name='derived' livesite='false'>[1001854.derived]</attr>
+	<attr name='vtc' livesite='false'>[1001854.vtc]</attr>
+	<attr name='code'>four_speakers_reg_cab</attr>
+</feature>

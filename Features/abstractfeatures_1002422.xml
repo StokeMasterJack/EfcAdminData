@@ -1,0 +1,15 @@
+<feature id='1002422' type='abstractfeatures' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='code' livesite='false'>Foglights</attr>
+	<attr name='derived' livesite='false'>[1002422.derived]</attr>
+	<attr name='source' livesite='false'>[1002422.source]</attr>
+	<attr name='title' livesite='false'>[1002422.title]</attr>
+	<attr name='vtc' livesite='false'>[1002422.vtc]</attr>
+	<if id='1000851 1000853' >
+		<rule src='ADMIN' type='TEXT'>{1002422 requires((1000851*1000853*1000923),(1000851*1000853*1000924),(1000851*1000853*1000927),(1000851*1000853*1000928))}</rule>
+	</if>
+
+	<if id='1000851 1000855' >
+		<rule src='ADMIN' type='TEXT'>{1002422 requires((1000851*1000855*1000894),(1000851*1000855*1000895),(1000851*1000855*1000896),(1000851*1000855*1000897),(1000851*1000855*1000898),(1000851*1000855*1000899),(1000851*1000855*1000901),(1000851*1000855*1000902))}</rule>
+	</if>
+
+</feature>

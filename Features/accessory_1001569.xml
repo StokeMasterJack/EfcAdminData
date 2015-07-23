@@ -1,0 +1,102 @@
+<feature id='1001569' type='accessory' scope='1000851 1000868 1001023, 1000851 1000868 1001024, 1000851 1000868 1001025, 1000851 1000868 1001026, 1002622 1000868 1001023, 1002622 1000868 1001025, 1002622 1000868 1001024, 1002622 1000868 1001026, 1002622 1000868 1001002, 1002622 1000868 1001003, 1000851 1000868 1001004, 1000851 1000868 1001003, 1000851 1000868 1001002' cardinality='mandatory' >
+	<attr name='alacarte'>[1001569.alacarte]</attr>
+	<attr name='code'>47</attr>
+	<attr name='derived'>[1001569.derived]</attr>
+	<attr name='description'>[1001569.description]</attr>
+	<attr name='fullimage'></attr>
+	<attr name='group'>[1001569.group]</attr>
+	<attr name='keyfeatures'>[1001569.keyfeatures]</attr>
+	<attr name='marketingeffectivedate'>[1001569.marketingeffectivedate]</attr>
+	<attr name='msrp'></attr>
+	<attr name='option'>[1001569.option]</attr>
+	<attr name='package'>[1001569.package]</attr>
+	<attr name='pnglayeringinclusionkey'>[1001569.pnglayeringinclusionkey]</attr>
+	<attr name='secondaryfeatures'>[1001569.secondaryfeatures]</attr>
+	<attr name='source'>[1001569.source]</attr>
+	<attr name='specialexteriorcolorflag'>[1001569.specialexteriorcolorflag]</attr>
+	<attr name='specialinteriorcolorflag'>[1001569.specialinteriorcolorflag]</attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'>[1001569.title]</attr>
+	<attr name='type'>[1001569.type]</attr>
+	<attr name='videokey'>[1001569.videokey]</attr>
+	<attr name='viewpointkey'>[1001569.viewpointkey]</attr>
+	<attr name='vtc'>[1001569.vtc]</attr>
+	<if id='1000851 1000868 1001002' >
+		<attr name='msrp'>[1001569.1000851.1000868.1001002.msrp]</attr>
+		<attr name='source'>[1001569.1000851.1000868.1001002.source]</attr>
+		<attr name='title'>[1001569.1000851.1000868.1001002.title]</attr>
+	</if>
+
+	<if id='1000851 1000868 1001003' >
+		<attr name='msrp'>[1001569.1000851.1000868.1001003.msrp]</attr>
+		<attr name='source'>[1001569.1000851.1000868.1001003.source]</attr>
+		<attr name='title'>[1001569.1000851.1000868.1001003.title]</attr>
+	</if>
+
+	<if id='1000851 1000868 1001004' >
+		<attr name='msrp'>[1001569.1000851.1000868.1001004.msrp]</attr>
+		<attr name='source'>[1001569.1000851.1000868.1001004.source]</attr>
+		<attr name='title'>[1001569.1000851.1000868.1001004.title]</attr>
+	</if>
+
+	<if id='1000851 1000868 1001023' >
+		<attr name='msrp'>[1001569.1000851.1000868.1001023.msrp]</attr>
+		<attr name='source'>[1001569.1000851.1000868.1001023.source]</attr>
+		<attr name='title'>[1001569.1000851.1000868.1001023.title]</attr>
+	</if>
+
+	<if id='1000851 1000868 1001024' >
+		<attr name='msrp'>[1001569.1000851.1000868.1001024.msrp]</attr>
+		<attr name='source'>[1001569.1000851.1000868.1001024.source]</attr>
+		<attr name='title'>[1001569.1000851.1000868.1001024.title]</attr>
+	</if>
+
+	<if id='1000851 1000868 1001025' >
+		<attr name='msrp'>[1001569.1000851.1000868.1001025.msrp]</attr>
+		<attr name='source'>[1001569.1000851.1000868.1001025.source]</attr>
+		<attr name='title'>[1001569.1000851.1000868.1001025.title]</attr>
+	</if>
+
+	<if id='1000851 1000868 1001026' >
+		<attr name='msrp'>[1001569.1000851.1000868.1001026.msrp]</attr>
+		<attr name='source'>[1001569.1000851.1000868.1001026.source]</attr>
+		<attr name='title'>[1001569.1000851.1000868.1001026.title]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001002' >
+		<attr name='msrp'>[1001569.1002622.1000868.1001002.msrp]</attr>
+		<attr name='source'>[1001569.1002622.1000868.1001002.source]</attr>
+		<attr name='title'>[1001569.1002622.1000868.1001002.title]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001003' >
+		<attr name='msrp'>[1001569.1002622.1000868.1001003.msrp]</attr>
+		<attr name='source'>[1001569.1002622.1000868.1001003.source]</attr>
+		<attr name='title'>[1001569.1002622.1000868.1001003.title]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001023' >
+		<attr name='msrp'>[1001569.1002622.1000868.1001023.msrp]</attr>
+		<attr name='source'>[1001569.1002622.1000868.1001023.source]</attr>
+		<attr name='title'>[1001569.1002622.1000868.1001023.title]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001024' >
+		<attr name='msrp'>[1001569.1002622.1000868.1001024.msrp]</attr>
+		<attr name='source'>[1001569.1002622.1000868.1001024.source]</attr>
+		<attr name='title'>[1001569.1002622.1000868.1001024.title]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001025' >
+		<attr name='msrp'>[1001569.1002622.1000868.1001025.msrp]</attr>
+		<attr name='source'>[1001569.1002622.1000868.1001025.source]</attr>
+		<attr name='title'>[1001569.1002622.1000868.1001025.title]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001026' >
+		<attr name='msrp'>[1001569.1002622.1000868.1001026.msrp]</attr>
+		<attr name='source'>[1001569.1002622.1000868.1001026.source]</attr>
+		<attr name='title'>[1001569.1002622.1000868.1001026.title]</attr>
+	</if>
+
+</feature>

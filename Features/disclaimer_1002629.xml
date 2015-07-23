@@ -1,0 +1,15 @@
+<feature id='1002629' type='disclaimer' cardinality='optional' >
+	<attr name='code'>adv_voice_recognition</attr>
+	<attr name='derived' livesite='false'>[1002629.derived]</attr>
+	<attr name='description' livesite='false'>[1002629.description]</attr>
+	<attr name='source'></attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1002629.vtc]</attr>
+	<if id='1000851 1000868' >
+		<attr name='derived' livesite='false'>[1002629.1000851.1000868.derived]</attr>
+		<attr name='description' livesite='false'>[1002629.1000851.1000868.description]</attr>
+		<attr name='source' livesite='false'>[1002629.1000851.1000868.source]</attr>
+		<attr name='vtc' livesite='false'>[1002629.1000851.1000868.vtc]</attr>
+	</if>
+
+</feature>

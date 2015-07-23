@@ -1,0 +1,8 @@
+<feature id='1001718' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1001718.description]</attr>
+	<attr name='source' livesite='false'>[1001718.source]</attr>
+	<attr name='vtc' livesite='false'>[1001718.vtc]</attr>
+	<attr name='derived' livesite='false'>[1001718.derived]</attr>
+	<attr name='title'></attr>
+	<attr name='code'>cargo_na</attr>
+</feature>

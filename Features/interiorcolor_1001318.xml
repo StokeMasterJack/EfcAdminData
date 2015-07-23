@@ -1,0 +1,95 @@
+<feature id='1001318' type='interiorcolor' scope='1002622 1000854 1000907, 1000851 1000854 1000906, 1000851 1000854 1000908, 1002622 1000866 1000943' cardinality='mandatory' >
+	<attr name='code'>LC15</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1001318.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001318.vtc]</attr>
+	<if id='1000851 1000854 1000906' >
+		<attr name='description'>[1001318.1000851.1000854.1000906.description]</attr>
+		<attr name='materialtypeid'>[1001318.1000851.1000854.1000906.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001318.1000851.1000854.1000906.source]</attr>
+		<attr name='title' livesite='false'>[1001318.1000851.1000854.1000906.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>camry_my14_byt_jelly_SE_4cyl_leather_black_ash.jpg</attr>
+			<attr name='sha'>419e2c8916e44272010a353c65e4743a0a76119f</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>camry_my14_byt_jelly_SE_4cyl_leather_black_ash.jpg</attr>
+			<attr name='sha'>4e2710fd0a3686b73df5305e99dd6ae41b991d89</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>camry_my14_byt_jelly_SE_4cyl_leather_black_ash.jpg</attr>
+			<attr name='sha'>8dae9834bc1703d43575da32b22e4642416a6fae</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000854 1000908' >
+		<attr name='derived' livesite='false'>[1001318.1000851.1000854.1000908.derived]</attr>
+		<attr name='description'>[1001318.1000851.1000854.1000908.description]</attr>
+		<attr name='materialtypeid'>[1001318.1000851.1000854.1000908.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001318.1000851.1000854.1000908.source]</attr>
+		<attr name='title' livesite='false'>[1001318.1000851.1000854.1000908.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>camry_my14_byt_jelly_SE_4cyl_leather_black_ash.jpg</attr>
+			<attr name='sha'>419e2c8916e44272010a353c65e4743a0a76119f</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>camry_my14_byt_jelly_SE_4cyl_leather_black_ash.jpg</attr>
+			<attr name='sha'>4e2710fd0a3686b73df5305e99dd6ae41b991d89</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>camry_my14_byt_jelly_SE_4cyl_leather_black_ash.jpg</attr>
+			<attr name='sha'>8dae9834bc1703d43575da32b22e4642416a6fae</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000907' >
+		<attr name='derived' livesite='false'>[1001318.1002622.1000854.1000907.derived]</attr>
+		<attr name='description'>[1001318.1002622.1000854.1000907.description]</attr>
+		<attr name='materialtypeid'>[1001318.1002622.1000854.1000907.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001318.1002622.1000854.1000907.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>camry_int_XLEV6_Ash_v167_hd_002.jpg</attr>
+			<attr name='sha'>fc16c49e2c493f341cb080dce63f58ea78aa94b9</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>camry_int_XLEV6_Ash_v167_hd_002.jpg</attr>
+			<attr name='sha'>dcad671a20b08360dd619b1c884530b88cd8207e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>camry_int_XSEV6_Ash_v167_hd_002.jpg</attr>
+			<attr name='sha'>d4eef9ee8ae94523c99a590f37482536b247b502</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1000943' >
+		<attr name='derived' livesite='false'>[1001318.1002622.1000866.1000943.derived]</attr>
+		<attr name='description'>[1001318.1002622.1000866.1000943.description]</attr>
+		<attr name='materialtypeid'>[1001318.1002622.1000866.1000943.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001318.1002622.1000866.1000943.source]</attr>
+		<attr name='title'>[1001318.1002622.1000866.1000943.title]</attr>
+		<attr name='vtc' livesite='false'>[1001318.1002622.1000866.1000943.vtc]</attr>
+	</if>
+
+</feature>

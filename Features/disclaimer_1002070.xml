@@ -1,0 +1,8 @@
+<feature id='1002070' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1002070.source]</attr>
+	<attr name='description' livesite='false'>[1002070.description]</attr>
+	<attr name='code'>phv_remote_air_rav4ev</attr>
+	<attr name='vtc' livesite='false'>[1002070.vtc]</attr>
+	<attr name='title'></attr>
+	<attr name='derived' livesite='false'>[1002070.derived]</attr>
+</feature>

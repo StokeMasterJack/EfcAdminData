@@ -1,0 +1,78 @@
+<feature id='1003112' type='exteriorcolor' scope='1002622 1000860 1000871, 1002622 1000860 1000872, 1002622 1000860 1000873, 1002622 1000860 1000874' cardinality='mandatory' >
+	<attr name='carjellyimage'></attr>
+	<attr name='code'>08V7</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='hexvalue'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1003112.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc'></attr>
+	<if id='1002622 1000860 1000871' >
+		<attr name='derived' livesite='false'>[1003112.1002622.1000860.1000871.derived]</attr>
+		<attr name='description'>[1003112.1002622.1000860.1000871.description]</attr>
+		<attr name='hexvalue' livesite='false'>[1003112.1002622.1000860.1000871.hexvalue]</attr>
+		<attr name='materialtypeid'>[1003112.1002622.1000860.1000871.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1003112.1002622.1000860.1000871.title]</attr>
+		<attr name='vtc' livesite='false'>[1003112.1002622.1000860.1000871.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>prius_c_MY15_ext_one_08V7_v006_hd_001.png</attr>
+			<attr name='sha'>d1bf5cb59aabe11fa7ce9bc048a890742625a7f02f9d0855a39b0f707470bb396f7172b26aec9809c7476357fa3dab24ef45f4d0b25809344408dc6357f520ed</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000860 1000872' >
+		<attr name='derived' livesite='false'>[1003112.1002622.1000860.1000872.derived]</attr>
+		<attr name='description'>[1003112.1002622.1000860.1000872.description]</attr>
+		<attr name='hexvalue' livesite='false'>[1003112.1002622.1000860.1000872.hexvalue]</attr>
+		<attr name='materialtypeid'>[1003112.1002622.1000860.1000872.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1003112.1002622.1000860.1000872.title]</attr>
+		<attr name='vtc' livesite='false'>[1003112.1002622.1000860.1000872.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>prius_c_MY15_ext_two_08V7_v006_hd_001.png</attr>
+			<attr name='sha'>8ee29fbbe53a33ca2b5f855b7761fa7aa02b7162c3c080545a368acb1f01d6a12bad1e0e2c21a253da54ee90449b9116afebaae4e621d4450fda3fa86969309a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000860 1000873' >
+		<attr name='derived' livesite='false'>[1003112.1002622.1000860.1000873.derived]</attr>
+		<attr name='description'>[1003112.1002622.1000860.1000873.description]</attr>
+		<attr name='hexvalue' livesite='false'>[1003112.1002622.1000860.1000873.hexvalue]</attr>
+		<attr name='materialtypeid'>[1003112.1002622.1000860.1000873.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1003112.1002622.1000860.1000873.title]</attr>
+		<attr name='vtc' livesite='false'>[1003112.1002622.1000860.1000873.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>prius_c_MY15_ext_three_08V7_v006_hd_001.png</attr>
+			<attr name='sha'>f98007df5eb7a6d85d5fdda937d724d1d829dc477d4cf8b17c6d1fab501205c941012344c0b62b1272fb782348d9d1dc7e63449695c25eee44d91a305a91ec50</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000860 1000874' >
+		<attr name='derived' livesite='false'>[1003112.1002622.1000860.1000874.derived]</attr>
+		<attr name='description'>[1003112.1002622.1000860.1000874.description]</attr>
+		<attr name='hexvalue' livesite='false'>[1003112.1002622.1000860.1000874.hexvalue]</attr>
+		<attr name='materialtypeid'>[1003112.1002622.1000860.1000874.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1003112.1002622.1000860.1000874.title]</attr>
+		<attr name='vtc' livesite='false'>[1003112.1002622.1000860.1000874.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>prius_c_MY15_ext_four_08V7_v006_hd_001.png</attr>
+			<attr name='sha'>d38d25769bad72e6b04383410fe949aa61cae02aa4c6ea036224b934ad34c217accda6760deaf4109156b94a7fb774e4fc919ccd20206dab8caf8870892d8562</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

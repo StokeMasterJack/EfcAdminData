@@ -1,0 +1,8 @@
+<feature id='1002036' type='disclaimer' cardinality='optional' >
+	<attr name='derived' livesite='false'>[1002036.derived]</attr>
+	<attr name='vtc' livesite='false'>[1002036.vtc]</attr>
+	<attr name='source' livesite='false'>[1002036.source]</attr>
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1002036.description]</attr>
+	<attr name='code'>na_highlander</attr>
+</feature>

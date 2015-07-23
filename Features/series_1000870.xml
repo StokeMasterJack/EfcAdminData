@@ -1,0 +1,95 @@
+<feature id='1000870' type='series' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='attachment'></attr>
+	<attr name='background'></attr>
+	<attr name='code'>yaris</attr>
+	<attr name='comparemodel'></attr>
+	<attr name='defaultmodel'></attr>
+	<attr name='derived'>[1000870.derived]</attr>
+	<attr name='description'>[1000870.description]</attr>
+	<attr name='source'>[1000870.source]</attr>
+	<attr name='title' livesite='false'>[1000870.title]</attr>
+	<attr name='vtc'>[1000870.vtc]</attr>
+	<if id='1000851' disclaimers='1001767 1002417 1002368 1002411 1001717 1002415 1001867 1002414 1002412 1001602 1002221 1001643 1001793 1002396 1002226 1002775 1002394 1001646 1002633 1002325 1001952' >
+		<attr name='derived'>[1000870.1000851.derived]</attr>
+		<attr name='description'>[1000870.1000851.description]</attr>
+		<attr name='source'>[1000870.1000851.source]</attr>
+		<attr name='title'>[1000870.1000851.title]</attr>
+		<attr name='vtc'>[1000870.1000851.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>EFC Background _0000_Yaris.jpg</attr>
+			<attr name='sha'>51c66e061c150266c0180df4a79a64e7ecd9c2c6</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>StandardFeaturesYaris.xml</attr>
+			<attr name='sha'>55994a27704ef649de414858be1ecd426ed6d05d</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>YarisCompareModelTMSCPD20140530v2.json</attr>
+			<attr name='sha'>6497541271c774a0fc459bd9a5ddcc01c5cbae1c</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622' disclaimers='1001767 1002417 1002416 1002368 1002411 1001717 1002415 1001867 1002414 1002413 1003251 1002412 1001602 1001956 1001643 1002396 1002226 1002394 1002314 1001646 1002633 1002325 1002322 1001952' >
+		<attr name='defaultmodel'>[1000870.1002622.defaultmodel]</attr>
+		<attr name='derived' livesite='false'>[1000870.1002622.derived]</attr>
+		<attr name='description'>[1000870.1002622.description]</attr>
+		<attr name='source'>[1000870.1002622.source]</attr>
+		<attr name='vtc' livesite='false'>[1000870.1002622.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>EFC_Background_0000_Yaris.jpg</attr>
+			<attr name='sha'>51c66e061c150266c0180df4a79a64e7ecd9c2c6</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>StandardFeaturesYaris2015.xml</attr>
+			<attr name='sha'>2eaa0f7282254b57523a6d184f91bc4c7dc673e0</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>2015YarisCompareModel_TMS_CPD_20140825v1.json</attr>
+			<attr name='sha'>a9d53d17c08fe38264920688a7d95a264d44524f</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>mediumbackground</attr>
+			<attr name='name'>EFC-background_0000_Yaris_1024.jpg</attr>
+			<attr name='sha'>9ee9d9b85b2165b6d0c08efc52df862497e56a77</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>smallbackground</attr>
+			<attr name='name'>EFC-background_0000_Yaris_480.jpg</attr>
+			<attr name='sha'>e9ba481170f96dcf7d6ed324c5baad93e36ef3e3</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>largebackground</attr>
+			<attr name='name'>EFC-background_0000_Yaris_1500.jpg</attr>
+			<attr name='sha'>9bb07de0db79b63eb31e2191b7c54ad5a055065d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>tian_jin@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2014 August 12</attr>
+		<attr name='time'>2014 August 12</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>tian_jin@toyota.com</attr>
+		<attr name='note'>add note</attr>
+		<attr name='systemdate'>2014 August 12</attr>
+		<attr name='time'>2014 August 12</attr>
+	</complextype>
+</group>
+
+</feature>

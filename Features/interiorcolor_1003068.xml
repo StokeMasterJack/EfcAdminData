@@ -1,0 +1,63 @@
+<feature id='1003068' type='interiorcolor' scope='1002622 1000870 1000888, 1002622 1000870 1000889' cardinality='mandatory' >
+	<attr name='code'>FF24</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1003068.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1003068.vtc]</attr>
+	<if id='1002622 1000870 1000888' >
+		<attr name='derived' livesite='false'>[1003068.1002622.1000870.1000888.derived]</attr>
+		<attr name='description'>[1003068.1002622.1000870.1000888.description]</attr>
+		<attr name='materialtypeid'>[1003068.1002622.1000870.1000888.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003068.1002622.1000870.1000888.source]</attr>
+		<attr name='title' livesite='false'>[1003068.1002622.1000870.1000888.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>yaris_int_SE5_Dark_Gray_v024_hd.0002.jpg</attr>
+			<attr name='sha'>60ec45c07acf18ed1ab8d47cf7fad59f0810523b</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>yaris_int_SE5_Dark_Gray_v024_hd.0002.jpg</attr>
+			<attr name='sha'>6a0ba03df1f450b34a9aba035854edcba6451904</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>yaris_int_SE5_Dark_Gray_v024_hd.0002.jpg</attr>
+			<attr name='sha'>06da010d6cf95ebcbeb23e84e6f24770d7647a3d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000870 1000889' >
+		<attr name='derived' livesite='false'>[1003068.1002622.1000870.1000889.derived]</attr>
+		<attr name='description'>[1003068.1002622.1000870.1000889.description]</attr>
+		<attr name='materialtypeid'>[1003068.1002622.1000870.1000889.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003068.1002622.1000870.1000889.source]</attr>
+		<attr name='title' livesite='false'>[1003068.1002622.1000870.1000889.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>yaris_int_SE5_Dark_Gray_v024_hd.0002.jpg</attr>
+			<attr name='sha'>60ec45c07acf18ed1ab8d47cf7fad59f0810523b</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>yaris_int_SE5_Dark_Gray_v024_hd.0002.jpg</attr>
+			<attr name='sha'>6a0ba03df1f450b34a9aba035854edcba6451904</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>yaris_int_SE5_Dark_Gray_v024_hd.0002.jpg</attr>
+			<attr name='sha'>06da010d6cf95ebcbeb23e84e6f24770d7647a3d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

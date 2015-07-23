@@ -1,0 +1,42 @@
+<feature id='1001071' type='accessory' scope='1000851 1000866 1000946, 1000851 1000866 1000943' cardinality='mandatory' >
+	<attr name='alacarte'></attr>
+	<attr name='code'>CX</attr>
+	<attr name='derived' livesite='false'>[1001071.derived]</attr>
+	<attr name='description'></attr>
+	<attr name='fullimage'></attr>
+	<attr name='group'></attr>
+	<attr name='keyfeatures'></attr>
+	<attr name='marketingeffectivedate'></attr>
+	<attr name='msrp'></attr>
+	<attr name='option'></attr>
+	<attr name='package'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='secondaryfeatures'></attr>
+	<attr name='source' livesite='false'>[1001071.source]</attr>
+	<attr name='specialexteriorcolorflag'></attr>
+	<attr name='specialinteriorcolorflag'></attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'></attr>
+	<attr name='type' livesite='false'>[1001071.type]</attr>
+	<attr name='videokey'></attr>
+	<attr name='viewpointkey'></attr>
+	<attr name='vtc' livesite='false'>[1001071.vtc]</attr>
+	<if id='1000851 1000866 1000943' >
+		<attr name='description' livesite='false'>[1001071.1000851.1000866.1000943.description]</attr>
+		<attr name='msrp' livesite='false'>[1001071.1000851.1000866.1000943.msrp]</attr>
+		<attr name='package' livesite='false'>[1001071.1000851.1000866.1000943.package]</attr>
+		<attr name='source' livesite='false'>[1001071.1000851.1000866.1000943.source]</attr>
+		<attr name='title' livesite='false'>[1001071.1000851.1000866.1000943.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_CX' type='TEXT'>{1001071 requires(1001104)}</rule>
+	</if>
+
+	<if id='1000851 1000866 1000946' >
+		<attr name='description' livesite='false'>[1001071.1000851.1000866.1000946.description]</attr>
+		<attr name='msrp' livesite='false'>[1001071.1000851.1000866.1000946.msrp]</attr>
+		<attr name='package' livesite='false'>[1001071.1000851.1000866.1000946.package]</attr>
+		<attr name='source' livesite='false'>[1001071.1000851.1000866.1000946.source]</attr>
+		<attr name='title' livesite='false'>[1001071.1000851.1000866.1000946.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_CX' type='TEXT'>{1001071 requires(1001104)}</rule>
+	</if>
+
+</feature>

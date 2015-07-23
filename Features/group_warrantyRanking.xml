@@ -1,0 +1,8 @@
+<feature id='warrantyRanking' type='group' cardinality='optional' childtypes='warranty' vta='false' >
+	<if id='1000851' children='1002981' >
+	</if>
+
+	<if id='1002622' children='1002981' >
+	</if>
+
+</feature>

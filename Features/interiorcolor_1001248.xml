@@ -1,0 +1,38 @@
+<feature id='1001248' type='interiorcolor' scope='1000851 1000854 1000911' cardinality='mandatory' >
+	<attr name='msrp'></attr>
+	<attr name='code'>FC11</attr>
+	<attr name='vtc' livesite='false'>[1001248.vtc]</attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='title'></attr>
+	<attr name='derived'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='source' livesite='false'>[1001248.source]</attr>
+	<attr name='description'></attr>
+	<if id='1000851 1000854 1000911' >
+		<attr name='materialtypeid'>[1001248.1000851.1000854.1000911.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001248.1000851.1000854.1000911.title]</attr>
+		<attr name='source' livesite='false'>[1001248.1000851.1000854.1000911.source]</attr>
+		<attr name='description'>[1001248.1000851.1000854.1000911.description]</attr>
+		<attr name='derived' livesite='false'>[1001248.1000851.1000854.1000911.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>camry_my14_byt_jelly_Hybrid_XLE_fabric_lightgrey.jpg</attr>
+			<attr name='sha'>4856e3a3d6d8217893aaab1bf0044cabcc100ea0</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>camry_my14_byt_jelly_Hybrid_XLE_fabric_lightgrey.jpg</attr>
+			<attr name='sha'>79b832ac37778d5f575573b5e324b851d4bd69e9</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>camry_my14_byt_jelly_Hybrid_XLE_fabric_lightgrey.jpg</attr>
+			<attr name='sha'>4a5d6426741efe3b715f66445a08c26c6a30b013</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

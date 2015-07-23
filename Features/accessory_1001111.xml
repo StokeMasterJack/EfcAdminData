@@ -1,0 +1,44 @@
+<feature id='1001111' type='accessory' scope='1000851 1000866 1000945, 1000851 1000866 1000942' cardinality='mandatory' >
+	<attr name='alacarte'></attr>
+	<attr name='code'>NY</attr>
+	<attr name='derived' livesite='false'>[1001111.derived]</attr>
+	<attr name='description'></attr>
+	<attr name='fullimage'></attr>
+	<attr name='group'></attr>
+	<attr name='keyfeatures'></attr>
+	<attr name='marketingeffectivedate'></attr>
+	<attr name='msrp'></attr>
+	<attr name='option'></attr>
+	<attr name='package'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='secondaryfeatures'></attr>
+	<attr name='source' livesite='false'>[1001111.source]</attr>
+	<attr name='specialexteriorcolorflag'></attr>
+	<attr name='specialinteriorcolorflag'></attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'></attr>
+	<attr name='type' livesite='false'>[1001111.type]</attr>
+	<attr name='videokey'></attr>
+	<attr name='viewpointkey'></attr>
+	<attr name='vtc' livesite='false'>[1001111.vtc]</attr>
+	<if id='1000851 1000866 1000942' >
+		<attr name='description' livesite='false'>[1001111.1000851.1000866.1000942.description]</attr>
+		<attr name='msrp' livesite='false'>[1001111.1000851.1000866.1000942.msrp]</attr>
+		<attr name='package' livesite='false'>[1001111.1000851.1000866.1000942.package]</attr>
+		<attr name='source' livesite='false'>[1001111.1000851.1000866.1000942.source]</attr>
+		<attr name='title' livesite='false'>[1001111.1000851.1000866.1000942.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_NY' type='TEXT'>{1001111 conflicts(1001116)}</rule>
+		<rule src='ADMIN' type='TEXT'>{1001111 requires(1002577*1002563)}</rule>
+	</if>
+
+	<if id='1000851 1000866 1000945' >
+		<attr name='description' livesite='false'>[1001111.1000851.1000866.1000945.description]</attr>
+		<attr name='msrp' livesite='false'>[1001111.1000851.1000866.1000945.msrp]</attr>
+		<attr name='package' livesite='false'>[1001111.1000851.1000866.1000945.package]</attr>
+		<attr name='source' livesite='false'>[1001111.1000851.1000866.1000945.source]</attr>
+		<attr name='title' livesite='false'>[1001111.1000851.1000866.1000945.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_NY' type='TEXT'>{1001111 conflicts(1001116)}</rule>
+		<rule src='ADMIN' type='TEXT'>{1001111 requires(1002577*1002563)}</rule>
+	</if>
+
+</feature>

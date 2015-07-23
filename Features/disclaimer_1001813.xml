@@ -1,0 +1,8 @@
+<feature id='1001813' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001813.vtc]</attr>
+	<attr name='derived' livesite='false'>[1001813.derived]</attr>
+	<attr name='source' livesite='false'>[1001813.source]</attr>
+	<attr name='description' livesite='false'>[1001813.description]</attr>
+	<attr name='code'>ev_mode_plugin_r1</attr>
+</feature>

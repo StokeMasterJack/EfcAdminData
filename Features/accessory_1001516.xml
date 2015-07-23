@@ -1,0 +1,45 @@
+<feature id='1001516' type='accessory' scope='1000851 1000856 1000937' cardinality='mandatory' >
+	<attr name='alacarte'></attr>
+	<attr name='code'>4Q</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='fullimage'></attr>
+	<attr name='group'></attr>
+	<attr name='keyfeatures'></attr>
+	<attr name='marketingeffectivedate'></attr>
+	<attr name='msrp'></attr>
+	<attr name='option'></attr>
+	<attr name='package'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='secondaryfeatures'></attr>
+	<attr name='source'></attr>
+	<attr name='specialexteriorcolorflag'></attr>
+	<attr name='specialinteriorcolorflag'></attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'></attr>
+	<attr name='type' livesite='false'>[1001516.type]</attr>
+	<attr name='videokey'></attr>
+	<attr name='viewpointkey'></attr>
+	<attr name='vtc' livesite='false'>[1001516.vtc]</attr>
+	<if id='1000851 1000856 1000937' >
+		<attr name='alacarte' livesite='false'>[1001516.1000851.1000856.1000937.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001516.1000851.1000856.1000937.derived]</attr>
+		<attr name='description'>[1001516.1000851.1000856.1000937.description]</attr>
+		<attr name='group'>[1001516.1000851.1000856.1000937.group]</attr>
+		<attr name='keyfeatures'>[1001516.1000851.1000856.1000937.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001516.1000851.1000856.1000937.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001516.1000851.1000856.1000937.msrp]</attr>
+		<attr name='option' livesite='false'>[1001516.1000851.1000856.1000937.option]</attr>
+		<attr name='package' livesite='false'>[1001516.1000851.1000856.1000937.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001516.1000851.1000856.1000937.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001516.1000851.1000856.1000937.secondaryfeatures]</attr>
+		<attr name='source' livesite='false'>[1001516.1000851.1000856.1000937.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001516.1000851.1000856.1000937.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001516.1000851.1000856.1000937.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001516.1000851.1000856.1000937.title]</attr>
+		<attr name='videokey'>[1001516.1000851.1000856.1000937.videokey]</attr>
+		<attr name='viewpointkey'>[1001516.1000851.1000856.1000937.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_4Q' type='TEXT'>{1001516 conflicts(1001478)}</rule>
+	</if>
+
+</feature>

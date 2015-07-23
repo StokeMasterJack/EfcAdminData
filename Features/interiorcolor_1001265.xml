@@ -1,0 +1,38 @@
+<feature id='1001265' type='interiorcolor' scope='1000851 1000866 1000941' cardinality='mandatory' >
+	<attr name='description'></attr>
+	<attr name='derived'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1001265.source]</attr>
+	<attr name='code'>FE15</attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='vtc' livesite='false'>[1001265.vtc]</attr>
+	<if id='1000851 1000866 1000941' >
+		<attr name='materialtypeid'>[1001265.1000851.1000866.1000941.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001265.1000851.1000866.1000941.title]</attr>
+		<attr name='source' livesite='false'>[1001265.1000851.1000866.1000941.source]</attr>
+		<attr name='description'>[1001265.1000851.1000866.1000941.description]</attr>
+		<attr name='derived' livesite='false'>[1001265.1000851.1000866.1000941.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sienna_int_se_grey_v14cs_hd_002.jpg</attr>
+			<attr name='sha'>5bf18492099ad080aaf7fa0cc98e1810bf4965ad</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sienna_int_se_grey_v14cs_hd_002.jpg</attr>
+			<attr name='sha'>22b331dc6eebb360598d0161e2ec553806312fb5</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sienna_int_se_grey_v14cs_hd_002.jpg</attr>
+			<attr name='sha'>c8a380d5ad8f48b564c00d832e69c56c0f0bd0ff</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

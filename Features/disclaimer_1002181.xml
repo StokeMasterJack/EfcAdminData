@@ -1,0 +1,8 @@
+<feature id='1002181' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1002181.source]</attr>
+	<attr name='vtc' livesite='false'>[1002181.vtc]</attr>
+	<attr name='derived' livesite='false'>[1002181.derived]</attr>
+	<attr name='title'></attr>
+	<attr name='code'>req_third_row</attr>
+	<attr name='description' livesite='false'>[1002181.description]</attr>
+</feature>

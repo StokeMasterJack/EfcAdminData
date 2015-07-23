@@ -1,0 +1,8 @@
+<feature id='1002169' type='disclaimer' cardinality='optional' >
+	<attr name='code'>req_conv_pkg</attr>
+	<attr name='derived' livesite='false'>[1002169.derived]</attr>
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1002169.description]</attr>
+	<attr name='vtc' livesite='false'>[1002169.vtc]</attr>
+	<attr name='source' livesite='false'>[1002169.source]</attr>
+</feature>

@@ -1,0 +1,30 @@
+<feature id='1002579' type='interiorcolorfamily' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='code'>Tan</attr>
+	<attr name='derived' livesite='false'>[1002579.derived]</attr>
+	<attr name='source' livesite='false'>[1002579.source]</attr>
+	<attr name='title'>[1002579.title]</attr>
+	<attr name='vtc' livesite='false'>[1002579.vtc]</attr>
+	<rule src='ADMIN' type='TEXT'>{1002579 iffs(1001221,1001220,1001222,1001231,1001232,1001233,1001235,1001236,1001242,1001244,1001245,1001247,1001253,1001254,1001255,1001256,1001262,1003067,1001559,1001276,1001280,1001282,1001287,1001288,1001289,1001299,1001300,1003074,1001301,1001303,1001312,1001313,1003076,1001314,1001316,1003079,1001322,1001323,1001326,1001327,1001330,1001334,1001337,1001338,1001341,1001346)}</rule>
+	<if id='1002622' >
+		<attr name='title' livesite='false'>[1002579.1002622.title]</attr>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>tian_jin@toyota.com</attr>
+		<attr name='note'>Rules added. 2/17/14</attr>
+		<attr name='systemdate'>2014 February 17</attr>
+		<attr name='time'>2014 February 17</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>tian_jin@toyota.com</attr>
+		<attr name='note'>Rules added. 2/17/14</attr>
+		<attr name='systemdate'>2014 February 17</attr>
+		<attr name='time'>2014 February 17</attr>
+	</complextype>
+</group>
+
+</feature>

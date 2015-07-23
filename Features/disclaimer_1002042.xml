@@ -1,0 +1,8 @@
+<feature id='1002042' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1002042.source]</attr>
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1002042.description]</attr>
+	<attr name='derived' livesite='false'>[1002042.derived]</attr>
+	<attr name='code'>nav_JBL</attr>
+	<attr name='vtc' livesite='false'>[1002042.vtc]</attr>
+</feature>

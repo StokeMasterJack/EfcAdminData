@@ -1,0 +1,16 @@
+<feature id='1002190' type='disclaimer' cardinality='optional' >
+	<attr name='code'>safety_connect</attr>
+	<attr name='derived' livesite='false'>[1002190.derived]</attr>
+	<attr name='description' livesite='false'>[1002190.description]</attr>
+	<attr name='source' livesite='false'>[1002190.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1002190.vtc]</attr>
+	<if id='1000851 1000853' >
+		<attr name='description' livesite='false'>[1002190.1000851.1000853.description]</attr>
+	</if>
+
+	<if id='1000851 1000859' >
+		<attr name='description' livesite='false'>[1002190.1000851.1000859.description]</attr>
+	</if>
+
+</feature>

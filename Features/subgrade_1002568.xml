@@ -1,0 +1,116 @@
+<feature id='1002568' type='subgrade' scope='1002622 1000857 1000955, 1000851 1000855 1000893, 1002622 1000857 1000953, 1000851 1000855 1000892, 1002622 1000857 1000954, 1002622 1000857 1000959, 1000851 1000855 1000900, 1002622 1000855 1000891, 1002622 1000857 1000957, 1000851 1000855 1000896, 1002622 1000857 1000951, 1000851 1000857 1000949, 1002622 1000866 1000939, 1000851 1000857 1000948, 1002622 1000855 1000900, 1002622 1000857 1000948, 1002622 1000857 1000949, 1002622 1000866 1000944, 1002622 1000866 1000945, 1000851 1000857 1000957, 1002622 1000866 1000946, 1000851 1000855 1000891, 1000851 1000857 1000959, 1000851 1000857 1000954, 1000851 1000857 1000953, 1000851 1000857 1000955, 1002622 1000855 1000893, 1002622 1000855 1000892, 1000851 1000857 1000951, 1002622 1000866 1000940, 1002622 1000855 1000896, 1002622 1000866 1000941, 1002622 1000866 1000942, 1002622 1000866 1000943' cardinality='mandatory' >
+	<attr name='availablecopy'>[1002568.availablecopy]</attr>
+	<attr name='code'>Base</attr>
+	<attr name='derived'>[1002568.derived]</attr>
+	<attr name='description'>[1002568.description]</attr>
+	<attr name='source'>[1002568.source]</attr>
+	<attr name='title'>[1002568.title]</attr>
+	<attr name='vtc'>[1002568.vtc]</attr>
+	<if id='1000851 1000855 1000891' >
+		<attr name='source'>[1002568.1000851.1000855.1000891.source]</attr>
+		<attr name='title'>[1002568.1000851.1000855.1000891.title]</attr>
+		<attr name='vtc'>[1002568.1000851.1000855.1000891.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000855 1000892' >
+		<attr name='title'>[1002568.1000851.1000855.1000892.title]</attr>
+		<attr name='vtc'>[1002568.1000851.1000855.1000892.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000855 1000893' >
+		<attr name='availablecopy'>[1002568.1000851.1000855.1000893.availablecopy]</attr>
+		<attr name='title'>[1002568.1000851.1000855.1000893.title]</attr>
+		<attr name='vtc'>[1002568.1000851.1000855.1000893.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000855 1000896' >
+		<attr name='title'>[1002568.1000851.1000855.1000896.title]</attr>
+		<attr name='vtc'>[1002568.1000851.1000855.1000896.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000855 1000900' >
+		<attr name='title'>[1002568.1000851.1000855.1000900.title]</attr>
+		<attr name='vtc'>[1002568.1000851.1000855.1000900.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000857 1000953' >
+		<attr name='availablecopy'>[1002568.1000851.1000857.1000953.availablecopy]</attr>
+	</if>
+
+	<if id='1000851 1000857 1000954' >
+		<attr name='availablecopy'>[1002568.1000851.1000857.1000954.availablecopy]</attr>
+	</if>
+
+	<if id='1000851 1000857 1000955' >
+		<attr name='availablecopy'>[1002568.1000851.1000857.1000955.availablecopy]</attr>
+	</if>
+
+	<if id='1000851 1000857 1000956' >
+		<attr name='title'></attr>
+	</if>
+
+	<if id='1000851 1000857 1000957' >
+		<attr name='availablecopy'>[1002568.1000851.1000857.1000957.availablecopy]</attr>
+	</if>
+
+	<if id='1000851 1000857 1000958' >
+		<attr name='title'></attr>
+	</if>
+
+	<if id='1000851 1000857 1000959' >
+		<attr name='availablecopy'>[1002568.1000851.1000857.1000959.availablecopy]</attr>
+	</if>
+
+	<if id='1000851 1000857 1000960' >
+		<attr name='title'></attr>
+	</if>
+
+	<if id='1002622 1000857 1000953' >
+		<attr name='availablecopy'>[1002568.1002622.1000857.1000953.availablecopy]</attr>
+	</if>
+
+	<if id='1002622 1000857 1000954' >
+		<attr name='availablecopy'>[1002568.1002622.1000857.1000954.availablecopy]</attr>
+	</if>
+
+	<if id='1002622 1000857 1000955' >
+		<attr name='availablecopy'>[1002568.1002622.1000857.1000955.availablecopy]</attr>
+	</if>
+
+	<if id='1002622 1000857 1000957' >
+		<attr name='availablecopy'>[1002568.1002622.1000857.1000957.availablecopy]</attr>
+	</if>
+
+	<if id='1002622 1000857 1000959' >
+		<attr name='availablecopy'>[1002568.1002622.1000857.1000959.availablecopy]</attr>
+	</if>
+
+	<if id='1002622 1000866 1000940' >
+		<attr name='availablecopy' livesite='false'>[1002568.1002622.1000866.1000940.availablecopy]</attr>
+	</if>
+
+	<if id='1002622 1000866 1000941' >
+		<attr name='availablecopy' livesite='false'>[1002568.1002622.1000866.1000941.availablecopy]</attr>
+	</if>
+
+	<if id='1002622 1000866 1000942' >
+		<attr name='availablecopy' livesite='false'>[1002568.1002622.1000866.1000942.availablecopy]</attr>
+	</if>
+
+	<if id='1002622 1000866 1000943' >
+		<attr name='availablecopy' livesite='false'>[1002568.1002622.1000866.1000943.availablecopy]</attr>
+	</if>
+
+	<if id='1002622 1000866 1000944' >
+		<attr name='availablecopy' livesite='false'>[1002568.1002622.1000866.1000944.availablecopy]</attr>
+	</if>
+
+	<if id='1002622 1000866 1000945' >
+		<attr name='availablecopy' livesite='false'>[1002568.1002622.1000866.1000945.availablecopy]</attr>
+	</if>
+
+	<if id='1002622 1000866 1000946' >
+		<attr name='availablecopy' livesite='false'>[1002568.1002622.1000866.1000946.availablecopy]</attr>
+	</if>
+
+</feature>

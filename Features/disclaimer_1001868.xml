@@ -1,0 +1,16 @@
+<feature id='1001868' type='disclaimer' cardinality='optional' >
+	<attr name='code'>headphones</attr>
+	<attr name='derived' livesite='false'>[1001868.derived]</attr>
+	<attr name='description' livesite='false'>[1001868.description]</attr>
+	<attr name='source' livesite='false'>[1001868.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001868.vtc]</attr>
+	<if id='1002622 1000857' >
+		<attr name='description' livesite='false'>[1001868.1002622.1000857.description]</attr>
+	</if>
+
+	<if id='1002622 1000865' >
+		<attr name='description' livesite='false'>[1001868.1002622.1000865.description]</attr>
+	</if>
+
+</feature>

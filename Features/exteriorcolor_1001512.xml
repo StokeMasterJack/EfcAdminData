@@ -1,0 +1,24 @@
+<feature id='1001512' type='exteriorcolor' cardinality='optional' >
+	<attr name='code'>02LS</attr>
+	<attr name='title'></attr>
+	<attr name='description'></attr>
+	<attr name='carjellyimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='hexvalue'></attr>
+	<attr name='msrp'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='vtc'></attr>
+	<attr name='source'></attr>
+	<attr name='derived'></attr>
+	<if id='1000851 1000856 1000937' >
+		<attr name='title' livesite='false'>[1001512.1000851.1000856.1000937.title]</attr>
+		<attr name='source' livesite='false'>[1001512.1000851.1000856.1000937.source]</attr>
+	</if>
+
+	<if id='1000851 1000856 1000938' >
+		<attr name='title' livesite='false'>[1001512.1000851.1000856.1000938.title]</attr>
+		<attr name='source' livesite='false'>[1001512.1000851.1000856.1000938.source]</attr>
+	</if>
+
+</feature>

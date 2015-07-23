@@ -1,0 +1,55 @@
+<feature id='1004150' type='grade' cardinality='optional' >
+	<attr name='code'>limitedpremium</attr>
+	<attr name='title'>[1004150.title]</attr>
+	<attr name='description'>[1004150.description]</attr>
+	<attr name='images'></attr>
+	<attr name='copyblock'>[1004150.copyblock]</attr>
+	<attr name='keyword'>[1004150.keyword]</attr>
+	<attr name='mpg'>[1004150.mpg]</attr>
+	<attr name='availablecopy'>[1004150.availablecopy]</attr>
+	<attr name='iconname'>[1004150.iconname]</attr>
+	<attr name='hotspot'>[1004150.hotspot]</attr>
+	<attr name='vtc' livesite='false'>[1004150.vtc]</attr>
+	<attr name='source'>[1004150.source]</attr>
+	<attr name='derived' livesite='false'>[1004150.derived]</attr>
+	<if id='1002622 1000866 1004146' >
+		<attr name='title' livesite='false'>[1004150.1002622.1000866.1004146.title]</attr>
+		<attr name='availablecopy' livesite='false'>[1004150.1002622.1000866.1004146.availablecopy]</attr>
+		<attr name='mpg'>[1004150.1002622.1000866.1004146.mpg]</attr>
+		<attr name='iconname'>[1004150.1002622.1000866.1004146.iconname]</attr>
+		<attr name='source' livesite='false'>[1004150.1002622.1000866.1004146.source]</attr>
+		<attr name='copyblock' livesite='false'>[1004150.1002622.1000866.1004146.copyblock]</attr>
+		<attr name='description'>[1004150.1002622.1000866.1004146.description]</attr>
+		<attr name='keyword'>[1004150.1002622.1000866.1004146.keyword]</attr>
+		<attr name='vtc' livesite='false'>[1004150.1002622.1000866.1004146.vtc]</attr>
+		<attr name='hotspot'>[1004150.1002622.1000866.1004146.hotspot]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Sienna_MY15_ext_LTD_PRM_FWD_w_TECH_0070_v005_efc_jelly_002.png</attr>
+			<attr name='sha'>440c5d7ecda470d61e54cc423f4c8882f60059a7</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1004148' >
+		<attr name='title' livesite='false'>[1004150.1002622.1000866.1004148.title]</attr>
+		<attr name='availablecopy' livesite='false'>[1004150.1002622.1000866.1004148.availablecopy]</attr>
+		<attr name='mpg'>[1004150.1002622.1000866.1004148.mpg]</attr>
+		<attr name='source'>[1004150.1002622.1000866.1004148.source]</attr>
+		<attr name='iconname'>[1004150.1002622.1000866.1004148.iconname]</attr>
+		<attr name='copyblock' livesite='false'>[1004150.1002622.1000866.1004148.copyblock]</attr>
+		<attr name='description'>[1004150.1002622.1000866.1004148.description]</attr>
+		<attr name='keyword'>[1004150.1002622.1000866.1004148.keyword]</attr>
+		<attr name='vtc' livesite='false'>[1004150.1002622.1000866.1004148.vtc]</attr>
+		<attr name='hotspot'>[1004150.1002622.1000866.1004148.hotspot]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Sienna_MY15_ext_LTD_PRM_FWD_w_TECH_0070_v005_efc_jelly_002.png</attr>
+			<attr name='sha'>440c5d7ecda470d61e54cc423f4c8882f60059a7</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

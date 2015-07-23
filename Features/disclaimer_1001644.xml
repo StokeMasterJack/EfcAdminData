@@ -1,0 +1,8 @@
+<feature id='1001644' type='disclaimer' cardinality='optional' >
+	<attr name='code'>bluetooth_audio_streaming</attr>
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1001644.description]</attr>
+	<attr name='vtc' livesite='false'>[1001644.vtc]</attr>
+	<attr name='source' livesite='false'>[1001644.source]</attr>
+	<attr name='derived' livesite='false'>[1001644.derived]</attr>
+</feature>

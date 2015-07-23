@@ -1,0 +1,12 @@
+<feature id='1004038' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1004038.source]</attr>
+	<attr name='vtc' livesite='false'>[1004038.vtc]</attr>
+	<attr name='description' livesite='false'>[1004038.description]</attr>
+	<attr name='title'></attr>
+	<attr name='code'>est_mpge</attr>
+	<attr name='derived'></attr>
+	<if id='1002622 1000861' >
+		<attr name='description' livesite='false'>[1004038.1002622.1000861.description]</attr>
+	</if>
+
+</feature>

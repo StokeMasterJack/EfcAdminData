@@ -1,0 +1,164 @@
+<feature id='1001208' type='exteriorcolor' scope='1000851 1000870 1000886, 1000851 1000870 1000887, 1000851 1000870 1000884, 1000851 1000870 1000885, 1000851 1000870 1000890, 1000851 1000870 1000889, 1000851 1000870 1000888' cardinality='mandatory' >
+	<attr name='code'>08S7</attr>
+	<attr name='title'>[1001208.title]</attr>
+	<attr name='description'></attr>
+	<attr name='carjellyimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='hexvalue'>[1001208.hexvalue]</attr>
+	<attr name='msrp'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='vtc'>[1001208.vtc]</attr>
+	<attr name='source'>[1001208.source]</attr>
+	<attr name='derived'></attr>
+	<if id='1000851 1000870 1000886' >
+		<attr name='materialtypeid'>[1001208.1000851.1000870.1000886.materialtypeid]</attr>
+		<attr name='title'>[1001208.1000851.1000870.1000886.title]</attr>
+		<attr name='source'>[1001208.1000851.1000870.1000886.source]</attr>
+		<attr name='description'>[1001208.1000851.1000870.1000886.description]</attr>
+		<attr name='derived'>[1001208.1000851.1000870.1000886.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>yaris_ext_3DRLE_8S7_v55ee_hd_001.png</attr>
+			<attr name='sha'>d9695d799b65fd0c62f1be81ef21971a8978607f</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000870 1000887' >
+		<attr name='materialtypeid'>[1001208.1000851.1000870.1000887.materialtypeid]</attr>
+		<attr name='title'>[1001208.1000851.1000870.1000887.title]</attr>
+		<attr name='source'>[1001208.1000851.1000870.1000887.source]</attr>
+		<attr name='description'>[1001208.1000851.1000870.1000887.description]</attr>
+		<attr name='derived'>[1001208.1000851.1000870.1000887.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>yaris_ext_5DRL_8S7_v33th_hd_001.png</attr>
+			<attr name='sha'>6c69c4e04702980a67db9f24b967ed9616fcf7c1</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000870 1000890' >
+		<attr name='title'>[1001208.1002622.1000870.1000890.title]</attr>
+		<attr name='source'>[1001208.1002622.1000870.1000890.source]</attr>
+		<attr name='description'>[1001208.1002622.1000870.1000890.description]</attr>
+		<attr name='materialtypeid'>[1001208.1002622.1000870.1000890.materialtypeid]</attr>
+		<attr name='vtc' livesite='false'>[1001208.1002622.1000870.1000890.vtc]</attr>
+		<attr name='derived' livesite='false'>[1001208.1002622.1000870.1000890.derived]</attr>
+	</if>
+
+	<if id='1000851 1000870 1000884' >
+		<attr name='materialtypeid'>[1001208.1000851.1000870.1000884.materialtypeid]</attr>
+		<attr name='title'>[1001208.1000851.1000870.1000884.title]</attr>
+		<attr name='source'>[1001208.1000851.1000870.1000884.source]</attr>
+		<attr name='description'>[1001208.1000851.1000870.1000884.description]</attr>
+		<attr name='derived'>[1001208.1000851.1000870.1000884.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>yaris_ext_3DRL_8S7_v33th_hd_001.png</attr>
+			<attr name='sha'>0695ab07f916247b4b4add29df6dc9f8ab117d68</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000870 1000885' >
+		<attr name='materialtypeid'>[1001208.1000851.1000870.1000885.materialtypeid]</attr>
+		<attr name='title'>[1001208.1000851.1000870.1000885.title]</attr>
+		<attr name='source'>[1001208.1000851.1000870.1000885.source]</attr>
+		<attr name='description'>[1001208.1000851.1000870.1000885.description]</attr>
+		<attr name='derived'>[1001208.1000851.1000870.1000885.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>yaris_ext_3DRL_8S7_v33th_hd_001.png</attr>
+			<attr name='sha'>0695ab07f916247b4b4add29df6dc9f8ab117d68</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000870 1000888' >
+		<attr name='title'>[1001208.1002622.1000870.1000888.title]</attr>
+		<attr name='source'>[1001208.1002622.1000870.1000888.source]</attr>
+		<attr name='description'>[1001208.1002622.1000870.1000888.description]</attr>
+		<attr name='materialtypeid'>[1001208.1002622.1000870.1000888.materialtypeid]</attr>
+		<attr name='vtc' livesite='false'>[1001208.1002622.1000870.1000888.vtc]</attr>
+		<attr name='derived' livesite='false'>[1001208.1002622.1000870.1000888.derived]</attr>
+	</if>
+
+	<if id='1002622 1000870 1000889' >
+		<attr name='title'>[1001208.1002622.1000870.1000889.title]</attr>
+		<attr name='source'>[1001208.1002622.1000870.1000889.source]</attr>
+		<attr name='description'>[1001208.1002622.1000870.1000889.description]</attr>
+		<attr name='materialtypeid'>[1001208.1002622.1000870.1000889.materialtypeid]</attr>
+		<attr name='vtc' livesite='false'>[1001208.1002622.1000870.1000889.vtc]</attr>
+		<attr name='derived' livesite='false'>[1001208.1002622.1000870.1000889.derived]</attr>
+	</if>
+
+	<if id='1002622 1000870 1000887' >
+		<attr name='title'>[1001208.1002622.1000870.1000887.title]</attr>
+		<attr name='source'>[1001208.1002622.1000870.1000887.source]</attr>
+		<attr name='description'>[1001208.1002622.1000870.1000887.description]</attr>
+		<attr name='materialtypeid'>[1001208.1002622.1000870.1000887.materialtypeid]</attr>
+		<attr name='vtc' livesite='false'>[1001208.1002622.1000870.1000887.vtc]</attr>
+		<attr name='derived' livesite='false'>[1001208.1002622.1000870.1000887.derived]</attr>
+	</if>
+
+	<if id='1000851 1000870 1000890' >
+		<attr name='materialtypeid'>[1001208.1000851.1000870.1000890.materialtypeid]</attr>
+		<attr name='title'>[1001208.1000851.1000870.1000890.title]</attr>
+		<attr name='source'>[1001208.1000851.1000870.1000890.source]</attr>
+		<attr name='description'>[1001208.1000851.1000870.1000890.description]</attr>
+		<attr name='derived'>[1001208.1000851.1000870.1000890.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>yaris_ext_5DRLE_8S7_v55ee_hd_001.png</attr>
+			<attr name='sha'>424f4a9ddcd0e1160677b6b58cf51f6296b8252b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000870 1000889' >
+		<attr name='materialtypeid'>[1001208.1000851.1000870.1000889.materialtypeid]</attr>
+		<attr name='title'>[1001208.1000851.1000870.1000889.title]</attr>
+		<attr name='source'>[1001208.1000851.1000870.1000889.source]</attr>
+		<attr name='description'>[1001208.1000851.1000870.1000889.description]</attr>
+		<attr name='derived'>[1001208.1000851.1000870.1000889.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>yaris_ext_5DRSE_8S7_v33th_hd_001.png</attr>
+			<attr name='sha'>a4848741758a7174f451af9dd80d4ace273f86be</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000870 1000888' >
+		<attr name='materialtypeid'>[1001208.1000851.1000870.1000888.materialtypeid]</attr>
+		<attr name='title'>[1001208.1000851.1000870.1000888.title]</attr>
+		<attr name='source'>[1001208.1000851.1000870.1000888.source]</attr>
+		<attr name='description'>[1001208.1000851.1000870.1000888.description]</attr>
+		<attr name='derived'>[1001208.1000851.1000870.1000888.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>yaris_ext_5DRSE_8S7_v33th_hd_001.png</attr>
+			<attr name='sha'>a4848741758a7174f451af9dd80d4ace273f86be</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>leona_chan@toyota.com</attr>
+		<attr name='note'>087 Waveline Pearl Exterior does not show on DOD to be an available color, un-vtcing</attr>
+		<attr name='systemdate'>2014 August 23</attr>
+		<attr name='time'>3:33:45PDT</attr>
+	</complextype>
+</group>
+
+</feature>

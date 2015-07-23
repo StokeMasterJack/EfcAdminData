@@ -1,0 +1,8 @@
+<feature id='1002199' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1002199.source]</attr>
+	<attr name='derived' livesite='false'>[1002199.derived]</attr>
+	<attr name='code'>sedan_only</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1002199.vtc]</attr>
+	<attr name='description' livesite='false'>[1002199.description]</attr>
+</feature>

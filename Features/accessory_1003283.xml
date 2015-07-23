@@ -1,0 +1,36 @@
+<feature id='1003283' type='accessory' scope='1002622 1000866 1000941' cardinality='mandatory' >
+	<attr name='alacarte'></attr>
+	<attr name='code'>EW</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='fullimage'></attr>
+	<attr name='group'></attr>
+	<attr name='keyfeatures'></attr>
+	<attr name='marketingeffectivedate'></attr>
+	<attr name='msrp'></attr>
+	<attr name='option'></attr>
+	<attr name='package'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='secondaryfeatures'></attr>
+	<attr name='source' livesite='false'>[1003283.source]</attr>
+	<attr name='specialexteriorcolorflag'></attr>
+	<attr name='specialinteriorcolorflag'></attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'></attr>
+	<attr name='type' livesite='false'>[1003283.type]</attr>
+	<attr name='videokey'></attr>
+	<attr name='viewpointkey'></attr>
+	<attr name='vtc' livesite='false'>[1003283.vtc]</attr>
+	<if id='1002622 1000866 1000941' >
+		<attr name='alacarte' livesite='false'>[1003283.1002622.1000866.1000941.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1003283.1002622.1000866.1000941.derived]</attr>
+		<attr name='description' livesite='false'>[1003283.1002622.1000866.1000941.description]</attr>
+		<attr name='msrp' livesite='false'>[1003283.1002622.1000866.1000941.msrp]</attr>
+		<attr name='package' livesite='false'>[1003283.1002622.1000866.1000941.package]</attr>
+		<attr name='title' livesite='false'>[1003283.1002622.1000866.1000941.title]</attr>
+		<attr name='vtc' livesite='false'>[1003283.1002622.1000866.1000941.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_EW' type='TEXT'>{1003283 conflicts(1001107)}</rule>
+		<rule src='ADMIN' type='TEXT'>{1003283 requires(1002521)}</rule>
+	</if>
+
+</feature>

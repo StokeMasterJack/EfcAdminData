@@ -1,0 +1,77 @@
+<feature id='1000857' type='series' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='attachment'></attr>
+	<attr name='background'></attr>
+	<attr name='code'>highlander</attr>
+	<attr name='comparemodel'></attr>
+	<attr name='defaultmodel'></attr>
+	<attr name='derived'>[1000857.derived]</attr>
+	<attr name='description'>[1000857.description]</attr>
+	<attr name='source'>[1000857.source]</attr>
+	<attr name='title'>[1000857.title]</attr>
+	<attr name='vtc'>[1000857.vtc]</attr>
+	<if id='1000851' disclaimers='1002417 1002411 1001754 1002101 1001717 1002415 1001672 1001750 1002414 1002412 1002696 1002221 1001985 1002396 1002190 1002226 1002225 1002394 1002325 1002632 1001768 1002287 1001767 1002186 1001864 1002368 1001887 1001889 1002628 1001867 1002248 1002629 1001868 1002044 1001602 1001643 1001681 1001812 1002383 1002314 1001646 1001624 1001952' >
+		<attr name='defaultmodel'>[1000857.1000851.defaultmodel]</attr>
+		<attr name='derived'>[1000857.1000851.derived]</attr>
+		<attr name='description'>[1000857.1000851.description]</attr>
+		<attr name='source'>[1000857.1000851.source]</attr>
+		<attr name='title'>[1000857.1000851.title]</attr>
+		<attr name='vtc'>[1000857.1000851.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>EFC Background _0011_Highlander.jpg</attr>
+			<attr name='sha'>69d2664c62764be0467d16816dcd0fc986454514</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>StandardFeaturesHighlander.xml</attr>
+			<attr name='sha'>fb4551ae6ba2e9acb51be5cc65912b99ac742f05</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>2014HighlanderCompareModel_TMS_CPD_20140528v2.json</attr>
+			<attr name='sha'>212e0ecf639be57e82ff3829c1a70230742818b8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622' disclaimers='1002417 1002416 1002411 1001754 1002101 1001717 1002415 1002414 1001672 1001750 1002413 1002412 1002221 1001985 1002396 1002190 1002226 1002225 1002394 1002633 1002325 1002632 1002322 1001768 1002287 1001767 1002186 1001864 1002368 1001887 1001889 1002628 1001867 1002248 1003251 1002629 1001868 1002044 1001602 1001812 1001643 1001681 1002314 1002383 1001646 1001624 1001952' >
+		<attr name='defaultmodel'>[1000857.1002622.defaultmodel]</attr>
+		<attr name='derived'>[1000857.1002622.derived]</attr>
+		<attr name='description'>[1000857.1002622.description]</attr>
+		<attr name='source'>[1000857.1002622.source]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>Highlander_Background.jpg</attr>
+			<attr name='sha'>69d2664c62764be0467d16816dcd0fc986454514</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>Highlander_2015_Standard_Features.xml</attr>
+			<attr name='sha'>c62bf1b6a796de44f1c38eefeeabade62fc7c440</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>MY15HighlanderCompareModel_CPD_20140807v2.json</attr>
+			<attr name='sha'>ee1e0fdffa4d77db900601abd4625c91e49c7e8c</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>mediumbackground</attr>
+			<attr name='name'>EFC-background_0011_Highlander_1024.jpg</attr>
+			<attr name='sha'>f4f5b8d32d79a8add5b1163e59c9dd6b8e2003a0</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>smallbackground</attr>
+			<attr name='name'>EFC-background_0011_Highlander_480.jpg</attr>
+			<attr name='sha'>8d177934f9404cd91d0c3d2967cd4ac7a5ca8079</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>largebackground</attr>
+			<attr name='name'>EFC-background_0011_Highlander_1500.jpg</attr>
+			<attr name='sha'>5f49cb52320b6c08d3f3c8a9189e7c9259f8eedf</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

@@ -1,0 +1,8 @@
+<feature id='1002227' type='disclaimer' cardinality='optional' >
+	<attr name='code'>smartkey</attr>
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1002227.description]</attr>
+	<attr name='vtc' livesite='false'>[1002227.vtc]</attr>
+	<attr name='source' livesite='false'>[1002227.source]</attr>
+	<attr name='derived' livesite='false'>[1002227.derived]</attr>
+</feature>

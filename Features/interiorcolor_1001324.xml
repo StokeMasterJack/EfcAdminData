@@ -1,0 +1,64 @@
+<feature id='1001324' type='interiorcolor' scope='1002622 1000853 1000925, 1000851 1000853 1000925' cardinality='mandatory' >
+	<attr name='code'>LD17</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1001324.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001324.vtc]</attr>
+	<if id='1000851 1000853 1000925' >
+		<attr name='derived' livesite='false'>[1001324.1000851.1000853.1000925.derived]</attr>
+		<attr name='description'>[1001324.1000851.1000853.1000925.description]</attr>
+		<attr name='materialtypeid'>[1001324.1000851.1000853.1000925.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001324.1000851.1000853.1000925.source]</attr>
+		<attr name='title' livesite='false'>[1001324.1000851.1000853.1000925.title]</attr>
+		<rule src='ADMIN' type='requires'>1002428</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>avalon_int_XLE_Grey_v10ko_hd_fs_002.jpg</attr>
+			<attr name='sha'>3d92ff3a6fd7fa85456e5b36a600ba03e7d946bf</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>avalon_int_XLE_Grey_v10ko_hd_fs_002.jpg</attr>
+			<attr name='sha'>5e16466a9d06ddea19d8e9a64a4b128c112fb0f7</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>avalon_int_XLE_Grey_v10ko_hd_fs_002.jpg</attr>
+			<attr name='sha'>9b3fcf4916521c69750176b65e9f795e32540a2a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1000925' >
+		<attr name='derived' livesite='false'>[1001324.1002622.1000853.1000925.derived]</attr>
+		<attr name='description'>[1001324.1002622.1000853.1000925.description]</attr>
+		<attr name='materialtypeid'>[1001324.1002622.1000853.1000925.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001324.1002622.1000853.1000925.source]</attr>
+		<attr name='title' livesite='false'>[1001324.1002622.1000853.1000925.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>_int_XLE_LightGray_v068_hd_002.jpg</attr>
+			<attr name='sha'>e201dbc7d108bf2b0ee0f63835c9981a6861167c</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>Avalon_int_XLE_LightGray_v068_hd_002.jpg</attr>
+			<attr name='sha'>dfe4570a8995ba390950b7074317689009f55d46</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>Avalon_int_XLE_LightGray_v068_hd_002.jpg</attr>
+			<attr name='sha'>8001ff9ff3b3abe7aadab446851a7a083c99b6f2</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

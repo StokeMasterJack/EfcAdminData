@@ -1,0 +1,1003 @@
+<feature id='1001197' type='exteriorcolor' scope='1002622 1000866 1004146, 1002622 1000857 1000955, 1002622 1000866 1004147, 1002622 1000857 1000956, 1002622 1000857 1000953, 1002622 1000866 1004145, 1002622 1000857 1000954, 1002622 1000857 1000959, 1002622 1000857 1000957, 1002622 1000857 1000958, 1002622 1000857 1000951, 1002622 1000857 1000952, 1002622 1000857 1000950, 1000851 1000857 1000949, 1000851 1000857 1000948, 1002622 1000853 1000924, 1002622 1000853 1000925, 1002622 1000853 1000926, 1002622 1000853 1000927, 1002622 1000853 1000928, 1002622 1000857 1000948, 1002622 1000857 1000949, 1002622 1000853 1000922, 1002622 1000853 1000923, 1000851 1000854 1000911, 1000851 1000854 1000910, 1002622 1000866 1004148, 1002622 1000854 1000904, 1002622 1000854 1000907, 1000851 1000854 1000909, 1002622 1000854 1000908, 1002622 1000854 1000905, 1002622 1000854 1000906, 1002622 1000866 1000939, 1000851 1000854 1000905, 1000851 1000857 1000960, 1002622 1000854 1000909, 1000851 1000854 1000904, 1000851 1000854 1000903, 1002622 1000854 1002849, 1002622 1000857 1000960, 1002622 1000854 1000910, 1002622 1000854 1000911, 1002622 1000866 1000944, 1000851 1000857 1000958, 1002622 1000866 1000945, 1000851 1000857 1000957, 1002622 1000866 1000946, 1000851 1000857 1000959, 1000851 1000857 1000954, 1000851 1000857 1000953, 1000851 1000853 1000923, 1000851 1000857 1000956, 1000851 1000853 1000922, 1000851 1000857 1000955, 1000851 1000853 1000925, 1000851 1000857 1000950, 1000851 1000853 1000924, 1000851 1000857 1000952, 1000851 1000853 1000927, 1000851 1000853 1000926, 1000851 1000857 1000951, 1002622 1000866 1000940, 1000851 1000853 1000928, 1002622 1000866 1000942, 1002622 1000866 1000943' cardinality='mandatory' >
+	<attr name='carjellyimage'></attr>
+	<attr name='code'>05B2</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='hexvalue'>[1001197.hexvalue]</attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source'>[1001197.source]</attr>
+	<attr name='title'>[1001197.title]</attr>
+	<attr name='vtc'>[1001197.vtc]</attr>
+	<if id='1000851 1000853 1000922' >
+		<attr name='derived'>[1001197.1000851.1000853.1000922.derived]</attr>
+		<attr name='description'>[1001197.1000851.1000853.1000922.description]</attr>
+		<attr name='materialtypeid'>[1001197.1000851.1000853.1000922.materialtypeid]</attr>
+		<attr name='source'>[1001197.1000851.1000853.1000922.source]</attr>
+		<attr name='title'>[1001197.1000851.1000853.1000922.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>avalon_ext_Hyb_XLE_PRM_5B2_v02ko_hd_001.png</attr>
+			<attr name='sha'>7b151aaeb5b215b42f1d850eb5898c550d9422a0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000853 1000923' >
+		<attr name='derived'>[1001197.1000851.1000853.1000923.derived]</attr>
+		<attr name='description'>[1001197.1000851.1000853.1000923.description]</attr>
+		<attr name='materialtypeid'>[1001197.1000851.1000853.1000923.materialtypeid]</attr>
+		<attr name='source'>[1001197.1000851.1000853.1000923.source]</attr>
+		<attr name='title'>[1001197.1000851.1000853.1000923.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>avalon_ext_Hyb_XLE_Touring_5B2_v02ko_hd_001.png</attr>
+			<attr name='sha'>7e51224f6aa1a43b82ee9219b3bc03a2852e62cd</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000853 1000924' >
+		<attr name='derived'>[1001197.1000851.1000853.1000924.derived]</attr>
+		<attr name='description'>[1001197.1000851.1000853.1000924.description]</attr>
+		<attr name='materialtypeid'>[1001197.1000851.1000853.1000924.materialtypeid]</attr>
+		<attr name='source'>[1001197.1000851.1000853.1000924.source]</attr>
+		<attr name='title'>[1001197.1000851.1000853.1000924.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>avalon_ext_Hyb_LTD_5B2_v02ko_hd_001.png</attr>
+			<attr name='sha'>55e78eb5811f33e7aa51c22443c797eee6a8ee78</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000853 1000925' >
+		<attr name='derived'>[1001197.1000851.1000853.1000925.derived]</attr>
+		<attr name='description'>[1001197.1000851.1000853.1000925.description]</attr>
+		<attr name='materialtypeid'>[1001197.1000851.1000853.1000925.materialtypeid]</attr>
+		<attr name='source'>[1001197.1000851.1000853.1000925.source]</attr>
+		<attr name='title' livesite='false'>[1001197.1000851.1000853.1000925.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>avalon_ext_XLE_5B2_v02ko_hd_001.png</attr>
+			<attr name='sha'>ea2fe574f6a436d6857b4e4ca13bd4e6c9a93130</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000853 1000926' >
+		<attr name='derived'>[1001197.1000851.1000853.1000926.derived]</attr>
+		<attr name='description'>[1001197.1000851.1000853.1000926.description]</attr>
+		<attr name='materialtypeid'>[1001197.1000851.1000853.1000926.materialtypeid]</attr>
+		<attr name='source'>[1001197.1000851.1000853.1000926.source]</attr>
+		<attr name='title'>[1001197.1000851.1000853.1000926.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>avalon_ext_XLE_PRM_5B2_v02ko_hd_001.png</attr>
+			<attr name='sha'>6cd215b4a7de972a35a3ff551f0086e868931f1a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000853 1000927' >
+		<attr name='derived'>[1001197.1000851.1000853.1000927.derived]</attr>
+		<attr name='description'>[1001197.1000851.1000853.1000927.description]</attr>
+		<attr name='materialtypeid'>[1001197.1000851.1000853.1000927.materialtypeid]</attr>
+		<attr name='source'>[1001197.1000851.1000853.1000927.source]</attr>
+		<attr name='title'>[1001197.1000851.1000853.1000927.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>avalon_ext_XLE_Touring_5B2_v02ko_hd_001.png</attr>
+			<attr name='sha'>6b8db37da43de081b1ec9371a53e5aa7b9317a4a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000853 1000928' >
+		<attr name='derived'>[1001197.1000851.1000853.1000928.derived]</attr>
+		<attr name='description'>[1001197.1000851.1000853.1000928.description]</attr>
+		<attr name='materialtypeid'>[1001197.1000851.1000853.1000928.materialtypeid]</attr>
+		<attr name='source'>[1001197.1000851.1000853.1000928.source]</attr>
+		<attr name='title'>[1001197.1000851.1000853.1000928.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>avalon_ext_LTD_5B2_v02ko_hd_001.png</attr>
+			<attr name='sha'>2643885973a70814486fe6bfe98cafb3568351b7</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000854 1000903' >
+		<attr name='derived'>[1001197.1000851.1000854.1000903.derived]</attr>
+		<attr name='description'>[1001197.1000851.1000854.1000903.description]</attr>
+		<attr name='materialtypeid'>[1001197.1000851.1000854.1000903.materialtypeid]</attr>
+		<attr name='source'>[1001197.1000851.1000854.1000903.source]</attr>
+		<attr name='title'>[1001197.1000851.1000854.1000903.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>camry_ext_L_5B2_v01ko_hd_001.png</attr>
+			<attr name='sha'>68ed7812da35c48cbb5eb6b032379db020f623cf</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000854 1000904' >
+		<attr name='derived'>[1001197.1000851.1000854.1000904.derived]</attr>
+		<attr name='description'>[1001197.1000851.1000854.1000904.description]</attr>
+		<attr name='materialtypeid'>[1001197.1000851.1000854.1000904.materialtypeid]</attr>
+		<attr name='source'>[1001197.1000851.1000854.1000904.source]</attr>
+		<attr name='title'>[1001197.1000851.1000854.1000904.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>camry_ext_LE_no_opt_5B2_v10es_si_byt_001.png</attr>
+			<attr name='sha'>062ca42ad2d2d4bc0b69c4fc6c87f2deced973e9</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000854 1000905' >
+		<attr name='derived'>[1001197.1000851.1000854.1000905.derived]</attr>
+		<attr name='description'>[1001197.1000851.1000854.1000905.description]</attr>
+		<attr name='materialtypeid'>[1001197.1000851.1000854.1000905.materialtypeid]</attr>
+		<attr name='source'>[1001197.1000851.1000854.1000905.source]</attr>
+		<attr name='title'>[1001197.1000851.1000854.1000905.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>camry_ext_XLE_no_opt_5B2_v10es_si_byt_001.png</attr>
+			<attr name='sha'>a0529bb46cb9b7703fd6abebb21cf42df283fa9b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000854 1000909' >
+		<attr name='derived'>[1001197.1000851.1000854.1000909.derived]</attr>
+		<attr name='description'>[1001197.1000851.1000854.1000909.description]</attr>
+		<attr name='materialtypeid'>[1001197.1000851.1000854.1000909.materialtypeid]</attr>
+		<attr name='source'>[1001197.1000851.1000854.1000909.source]</attr>
+		<attr name='title'>[1001197.1000851.1000854.1000909.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>camry_ext_XLE_V6_5B2_v10es_si_byt_001.png</attr>
+			<attr name='sha'>c55e0c69149cc21c94a9fa520b65ebd0fcaeb5bd</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000854 1000910' >
+		<attr name='derived'>[1001197.1000851.1000854.1000910.derived]</attr>
+		<attr name='description'>[1001197.1000851.1000854.1000910.description]</attr>
+		<attr name='materialtypeid'>[1001197.1000851.1000854.1000910.materialtypeid]</attr>
+		<attr name='source'>[1001197.1000851.1000854.1000910.source]</attr>
+		<attr name='title'>[1001197.1000851.1000854.1000910.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>camry_ext_Hyb_LE_5B2_v01ko_si_byt_001.png</attr>
+			<attr name='sha'>f15809d809af9c601df28667bef3537ee42a3169</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000854 1000911' >
+		<attr name='derived'>[1001197.1000851.1000854.1000911.derived]</attr>
+		<attr name='description'>[1001197.1000851.1000854.1000911.description]</attr>
+		<attr name='materialtypeid'>[1001197.1000851.1000854.1000911.materialtypeid]</attr>
+		<attr name='source'>[1001197.1000851.1000854.1000911.source]</attr>
+		<attr name='title'>[1001197.1000851.1000854.1000911.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>camry_ext_Hyb_XLE_5B2_v01ko_si_byt_001.png</attr>
+			<attr name='sha'>f9bd85b7d6248642d5b5739b882e370956827d57</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000857 1000948' >
+		<attr name='derived'>[1001197.1000851.1000857.1000948.derived]</attr>
+		<attr name='description'>[1001197.1000851.1000857.1000948.description]</attr>
+		<attr name='materialtypeid'>[1001197.1000851.1000857.1000948.materialtypeid]</attr>
+		<attr name='source'>[1001197.1000851.1000857.1000948.source]</attr>
+		<attr name='title'>[1001197.1000851.1000857.1000948.title]</attr>
+		<rule src='NVS' type='TEXT'>{1001197 conflicts(1001237)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Highlander_ext_LE_5B2_v03ma_si_byt_001.png</attr>
+			<attr name='sha'>cc3c3d35abae0cacf9012c47e6a24ba5c23381b0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000857 1000949' >
+		<attr name='derived'>[1001197.1000851.1000857.1000949.derived]</attr>
+		<attr name='description'>[1001197.1000851.1000857.1000949.description]</attr>
+		<attr name='materialtypeid'>[1001197.1000851.1000857.1000949.materialtypeid]</attr>
+		<attr name='source'>[1001197.1000851.1000857.1000949.source]</attr>
+		<attr name='title'>[1001197.1000851.1000857.1000949.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Highlander_ext_LE_5B2_v03ma_si_byt_001.png</attr>
+			<attr name='sha'>cc3c3d35abae0cacf9012c47e6a24ba5c23381b0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000857 1000950' >
+		<attr name='derived'>[1001197.1000851.1000857.1000950.derived]</attr>
+		<attr name='description'>[1001197.1000851.1000857.1000950.description]</attr>
+		<attr name='materialtypeid'>[1001197.1000851.1000857.1000950.materialtypeid]</attr>
+		<attr name='source'>[1001197.1000851.1000857.1000950.source]</attr>
+		<attr name='title'>[1001197.1000851.1000857.1000950.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Highlander_ext_LE Plus_5B2_v03ma_si_byt_001.png</attr>
+			<attr name='sha'>1cf7bcae82318e9f1af72ca89851784ae8e1d5ee</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000857 1000951' >
+		<attr name='derived'>[1001197.1000851.1000857.1000951.derived]</attr>
+		<attr name='description'>[1001197.1000851.1000857.1000951.description]</attr>
+		<attr name='materialtypeid'>[1001197.1000851.1000857.1000951.materialtypeid]</attr>
+		<attr name='source'>[1001197.1000851.1000857.1000951.source]</attr>
+		<attr name='title'>[1001197.1000851.1000857.1000951.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Highlander_ext_LE_5B2_v03ma_si_byt_001.png</attr>
+			<attr name='sha'>cc3c3d35abae0cacf9012c47e6a24ba5c23381b0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000857 1000952' >
+		<attr name='derived'>[1001197.1000851.1000857.1000952.derived]</attr>
+		<attr name='description'>[1001197.1000851.1000857.1000952.description]</attr>
+		<attr name='materialtypeid'>[1001197.1000851.1000857.1000952.materialtypeid]</attr>
+		<attr name='source'>[1001197.1000851.1000857.1000952.source]</attr>
+		<attr name='title'>[1001197.1000851.1000857.1000952.title]</attr>
+		<rule src='NVS' type='TEXT'>{1001197 conflicts(1001235)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Highlander_ext_LE Plus_5B2_v03ma_si_byt_001.png</attr>
+			<attr name='sha'>1cf7bcae82318e9f1af72ca89851784ae8e1d5ee</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000857 1000953' >
+		<attr name='derived'>[1001197.1000851.1000857.1000953.derived]</attr>
+		<attr name='description'>[1001197.1000851.1000857.1000953.description]</attr>
+		<attr name='materialtypeid'>[1001197.1000851.1000857.1000953.materialtypeid]</attr>
+		<attr name='source'>[1001197.1000851.1000857.1000953.source]</attr>
+		<attr name='title'>[1001197.1000851.1000857.1000953.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Highlander_ext_XLE_5B2_v03ma_si_byt_001.png</attr>
+			<attr name='sha'>bed1a6838a93be2bfcdd2b731b5aaf5f30f71a04</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000857 1000954' >
+		<attr name='derived'>[1001197.1000851.1000857.1000954.derived]</attr>
+		<attr name='description'>[1001197.1000851.1000857.1000954.description]</attr>
+		<attr name='materialtypeid'>[1001197.1000851.1000857.1000954.materialtypeid]</attr>
+		<attr name='source'>[1001197.1000851.1000857.1000954.source]</attr>
+		<attr name='title'>[1001197.1000851.1000857.1000954.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Highlander_ext_XLE_5B2_v03ma_si_byt_001.png</attr>
+			<attr name='sha'>bed1a6838a93be2bfcdd2b731b5aaf5f30f71a04</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000857 1000955' >
+		<attr name='derived'>[1001197.1000851.1000857.1000955.derived]</attr>
+		<attr name='description'>[1001197.1000851.1000857.1000955.description]</attr>
+		<attr name='materialtypeid'>[1001197.1000851.1000857.1000955.materialtypeid]</attr>
+		<attr name='source'>[1001197.1000851.1000857.1000955.source]</attr>
+		<attr name='title'>[1001197.1000851.1000857.1000955.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Highlander_ext_Limited_5B2_v03ma_si_byt_001.png</attr>
+			<attr name='sha'>ef71500230f27b52c3f72498fc4e5867cf863e77</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000857 1000956' >
+		<attr name='derived'>[1001197.1000851.1000857.1000956.derived]</attr>
+		<attr name='description'>[1001197.1000851.1000857.1000956.description]</attr>
+		<attr name='materialtypeid'>[1001197.1000851.1000857.1000956.materialtypeid]</attr>
+		<attr name='source'>[1001197.1000851.1000857.1000956.source]</attr>
+		<attr name='title'>[1001197.1000851.1000857.1000956.title]</attr>
+		<rule src='NVS' type='TEXT'>{1001197 conflicts(1001290)}</rule>
+	</if>
+
+	<if id='1000851 1000857 1000957' >
+		<attr name='derived'>[1001197.1000851.1000857.1000957.derived]</attr>
+		<attr name='description'>[1001197.1000851.1000857.1000957.description]</attr>
+		<attr name='materialtypeid'>[1001197.1000851.1000857.1000957.materialtypeid]</attr>
+		<attr name='source'>[1001197.1000851.1000857.1000957.source]</attr>
+		<attr name='title'>[1001197.1000851.1000857.1000957.title]</attr>
+	</if>
+
+	<if id='1000851 1000857 1000958' >
+		<attr name='derived'>[1001197.1000851.1000857.1000958.derived]</attr>
+		<attr name='description'>[1001197.1000851.1000857.1000958.description]</attr>
+		<attr name='materialtypeid'>[1001197.1000851.1000857.1000958.materialtypeid]</attr>
+		<attr name='source'>[1001197.1000851.1000857.1000958.source]</attr>
+		<attr name='title'>[1001197.1000851.1000857.1000958.title]</attr>
+		<rule src='NVS' type='TEXT'>{1001197 conflicts(1001290)}</rule>
+	</if>
+
+	<if id='1000851 1000857 1000959' >
+		<attr name='derived'>[1001197.1000851.1000857.1000959.derived]</attr>
+		<attr name='description'>[1001197.1000851.1000857.1000959.description]</attr>
+		<attr name='materialtypeid'>[1001197.1000851.1000857.1000959.materialtypeid]</attr>
+		<attr name='source'>[1001197.1000851.1000857.1000959.source]</attr>
+		<attr name='title'>[1001197.1000851.1000857.1000959.title]</attr>
+		<rule src='NVS' type='TEXT'>{1001197 conflicts(1001290)}</rule>
+	</if>
+
+	<if id='1000851 1000857 1000960' >
+		<attr name='derived'>[1001197.1000851.1000857.1000960.derived]</attr>
+		<attr name='description'>[1001197.1000851.1000857.1000960.description]</attr>
+		<attr name='materialtypeid'>[1001197.1000851.1000857.1000960.materialtypeid]</attr>
+		<attr name='source'>[1001197.1000851.1000857.1000960.source]</attr>
+		<attr name='title'>[1001197.1000851.1000857.1000960.title]</attr>
+		<rule src='NVS' type='TEXT'>{1001197 conflicts(1001290)}</rule>
+	</if>
+
+	<if id='1002622 1000853 1000922' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000853.1000922.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000853.1000922.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000853.1000922.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001197.1002622.1000853.1000922.source]</attr>
+		<attr name='title' livesite='false'>[1001197.1002622.1000853.1000922.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1003282)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>avalon_ext_Hyb_XLE_PRM_5B2_v02ko_hd_001.png</attr>
+			<attr name='sha'>7b151aaeb5b215b42f1d850eb5898c550d9422a0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1000923' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000853.1000923.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000853.1000923.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000853.1000923.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000853.1000923.source]</attr>
+		<attr name='title' livesite='false'>[1001197.1002622.1000853.1000923.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>avalon_ext_Hyb_XLE_Touring_5B2_v02ko_hd_001.png</attr>
+			<attr name='sha'>7e51224f6aa1a43b82ee9219b3bc03a2852e62cd</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1000924' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000853.1000924.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000853.1000924.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000853.1000924.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000853.1000924.source]</attr>
+		<attr name='title' livesite='false'>[1001197.1002622.1000853.1000924.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>avalon_ext_Hyb_LTD_5B2_v02ko_hd_001.png</attr>
+			<attr name='sha'>55e78eb5811f33e7aa51c22443c797eee6a8ee78</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1000925' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000853.1000925.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000853.1000925.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000853.1000925.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001197.1002622.1000853.1000925.source]</attr>
+		<attr name='title' livesite='false'>[1001197.1002622.1000853.1000925.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1003282)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>avalon_ext_XLE_5B2_v02ko_hd_001.png</attr>
+			<attr name='sha'>ea2fe574f6a436d6857b4e4ca13bd4e6c9a93130</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1000926' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000853.1000926.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000853.1000926.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000853.1000926.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001197.1002622.1000853.1000926.source]</attr>
+		<attr name='title' livesite='false'>[1001197.1002622.1000853.1000926.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>avalon_ext_XLE_PRM_5B2_v02ko_hd_001.png</attr>
+			<attr name='sha'>6cd215b4a7de972a35a3ff551f0086e868931f1a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1000927' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000853.1000927.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000853.1000927.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000853.1000927.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000853.1000927.source]</attr>
+		<attr name='title' livesite='false'>[1001197.1002622.1000853.1000927.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>avalon_ext_XLE_Touring_5B2_v02ko_hd_001.png</attr>
+			<attr name='sha'>6b8db37da43de081b1ec9371a53e5aa7b9317a4a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1000928' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000853.1000928.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000853.1000928.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000853.1000928.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000853.1000928.source]</attr>
+		<attr name='title' livesite='false'>[1001197.1002622.1000853.1000928.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>avalon_ext_LTD_5B2_v02ko_hd_001.png</attr>
+			<attr name='sha'>2643885973a70814486fe6bfe98cafb3568351b7</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000904' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000854.1000904.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000854.1000904.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000854.1000904.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000854.1000904.source]</attr>
+		<attr name='title' livesite='false'>[1001197.1002622.1000854.1000904.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1001237)}</rule>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1001223)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Camry_ext_LE_05B2_v017_hd_001.png</attr>
+			<attr name='sha'>8c2e7a5e8405c39b54f4a8b91843c55f635b5533</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000905' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000854.1000905.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000854.1000905.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000854.1000905.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000854.1000905.source]</attr>
+		<attr name='title' livesite='false'>[1001197.1002622.1000854.1000905.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1001290)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Camry_ext_XLE_05B2_v017_si_byt.0001.png</attr>
+			<attr name='sha'>8a5fab1bc189b26797feb0d2deb8314f31053e44</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000906' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000854.1000906.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000854.1000906.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000854.1000906.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000854.1000906.source]</attr>
+		<attr name='title' livesite='false'>[1001197.1002622.1000854.1000906.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Camry_ext_SE_05B2_v017_hd_001.png</attr>
+			<attr name='sha'>a96c3915710665209b25c5c30fa4a060a156217c</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000907' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000854.1000907.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000854.1000907.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000854.1000907.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000854.1000907.source]</attr>
+		<attr name='title' livesite='false'>[1001197.1002622.1000854.1000907.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Camry_ext_XSE_05B2_v017_si_byt.0001.png</attr>
+			<attr name='sha'>62d948e045bcebd1d23b767421aa2db0569a083c</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000908' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000854.1000908.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000854.1000908.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000854.1000908.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000854.1000908.source]</attr>
+		<attr name='title' livesite='false'>[1001197.1002622.1000854.1000908.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Camry_ext_XSE_V6_05B2_v017_hd_001.png</attr>
+			<attr name='sha'>0390eab6248bc8c32fcd39e5d6f28f86c3cbca63</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000909' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000854.1000909.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000854.1000909.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000854.1000909.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000854.1000909.source]</attr>
+		<attr name='title' livesite='false'>[1001197.1002622.1000854.1000909.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1001290)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Camry_ext_XLE_V6_05B2_v017_hd_001.png</attr>
+			<attr name='sha'>985580212ec36e2580277706f7a0091c39819e9e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000910' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000854.1000910.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000854.1000910.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000854.1000910.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000854.1000910.source]</attr>
+		<attr name='title' livesite='false'>[1001197.1002622.1000854.1000910.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Camry_ext_HYB_LE_05B2_v017_hd_001.png</attr>
+			<attr name='sha'>61bb8f4995d3ebca1a8fd2b6defd3c261f08170e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000911' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000854.1000911.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000854.1000911.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000854.1000911.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001197.1002622.1000854.1000911.source]</attr>
+		<attr name='title' livesite='false'>[1001197.1002622.1000854.1000911.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1001304)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Camry_ext_HYB_XLE_05B2_v017_hd_001.png</attr>
+			<attr name='sha'>2eab800ccbf252e44c3933a5280b5c3dca094af8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1002849' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000854.1002849.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000854.1002849.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000854.1002849.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001197.1002622.1000854.1002849.source]</attr>
+		<attr name='title' livesite='false'>[1001197.1002622.1000854.1002849.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1003069)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Camry_ext_HYB_SE_05B2_v017_hd_001.png</attr>
+			<attr name='sha'>45ce534e581daf4ae6ea82998b07ca83e95c4851</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000948' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000857.1000948.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000857.1000948.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000857.1000948.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000857.1000948.source]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1001237)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Highlander_ext_LE_05B2_v002_hd.0001.png</attr>
+			<attr name='sha'>0cd2cbf20f766a5c0bcd028d7fad21a5caf35e01</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000949' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000857.1000949.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000857.1000949.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000857.1000949.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000857.1000949.source]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1001237)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Highlander_ext_LE_05B2_v002_hd.0001.png</attr>
+			<attr name='sha'>0cd2cbf20f766a5c0bcd028d7fad21a5caf35e01</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000950' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000857.1000950.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000857.1000950.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000857.1000950.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000857.1000950.source]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1001223)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Highlander_ext_LE-Plus_05B2_v002_hd.0001.png</attr>
+			<attr name='sha'>445266da3f7d490b3e7dff7dae29be6deac6d63a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000951' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000857.1000951.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000857.1000951.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000857.1000951.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000857.1000951.source]</attr>
+		<attr name='title'>[1001197.1002622.1000857.1000951.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1001237)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Highlander_ext_LE_05B2_v002_hd.0001.png</attr>
+			<attr name='sha'>0cd2cbf20f766a5c0bcd028d7fad21a5caf35e01</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000952' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000857.1000952.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000857.1000952.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000857.1000952.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000857.1000952.source]</attr>
+		<attr name='title'>[1001197.1002622.1000857.1000952.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1001223)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Highlander_ext_LE-Plus_05B2_v002_hd.0001.png</attr>
+			<attr name='sha'>445266da3f7d490b3e7dff7dae29be6deac6d63a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000953' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000857.1000953.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000857.1000953.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000857.1000953.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000857.1000953.source]</attr>
+		<attr name='title'>[1001197.1002622.1000857.1000953.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1001304)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Highlander_ext_XLE_05B2_v002_hd.0001.png</attr>
+			<attr name='sha'>edc2e9ed4b27c1e7cca754a05211e5b366167279</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000954' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000857.1000954.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000857.1000954.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000857.1000954.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000857.1000954.source]</attr>
+		<attr name='title'>[1001197.1002622.1000857.1000954.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Highlander_ext_XLE_05B2_v002_hd.0001.png</attr>
+			<attr name='sha'>edc2e9ed4b27c1e7cca754a05211e5b366167279</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000955' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000857.1000955.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000857.1000955.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000857.1000955.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000857.1000955.source]</attr>
+		<attr name='title'>[1001197.1002622.1000857.1000955.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1001290)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Highlander_ext_Limited_05B2_v002_hd.0001.png</attr>
+			<attr name='sha'>e22c3101574f9b46afb1aa82d458400fe3665eb1</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000956' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000857.1000956.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000857.1000956.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000857.1000956.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000857.1000956.source]</attr>
+		<attr name='title'>[1001197.1002622.1000857.1000956.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1001290)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Highlander_ext_Limited_05B2_v002_hd.0001.png</attr>
+			<attr name='sha'>e22c3101574f9b46afb1aa82d458400fe3665eb1</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000957' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000857.1000957.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000857.1000957.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000857.1000957.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000857.1000957.source]</attr>
+		<attr name='title'>[1001197.1002622.1000857.1000957.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1001290)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Highlander_ext_Limited_05B2_v002_hd.0001.png</attr>
+			<attr name='sha'>e22c3101574f9b46afb1aa82d458400fe3665eb1</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000958' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000857.1000958.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000857.1000958.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000857.1000958.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000857.1000958.source]</attr>
+		<attr name='title'>[1001197.1002622.1000857.1000958.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1001290)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Highlander_ext_Limited_05B2_v002_hd.0001.png</attr>
+			<attr name='sha'>e22c3101574f9b46afb1aa82d458400fe3665eb1</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000959' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000857.1000959.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000857.1000959.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000857.1000959.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000857.1000959.source]</attr>
+		<attr name='title'>[1001197.1002622.1000857.1000959.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1001290)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Highlander_ext_Hybrid-Limited_05B2_v002_hd.0001.png</attr>
+			<attr name='sha'>d9756b045c244726c6ee16ed54e63d191bd6e72e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000960' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000857.1000960.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000857.1000960.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000857.1000960.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000857.1000960.source]</attr>
+		<attr name='title'>[1001197.1002622.1000857.1000960.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1001290)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Highlander_ext_Hybrid-Limited_05B2_v002_hd.0001.png</attr>
+			<attr name='sha'>d9756b045c244726c6ee16ed54e63d191bd6e72e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1000939' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000866.1000939.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000866.1000939.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000866.1000939.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000866.1000939.source]</attr>
+		<attr name='title' livesite='false'>[1001197.1002622.1000866.1000939.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1001227)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Sienna_MY15_ext_L_05B2_v005_hd_001.png</attr>
+			<attr name='sha'>2f26350ad95063760849df1b01d2db0238a200ed</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1000940' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000866.1000940.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000866.1000940.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000866.1000940.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000866.1000940.source]</attr>
+		<attr name='title' livesite='false'>[1001197.1002622.1000866.1000940.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1001250)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Sienna_MY15_ext_LE_FWD_05B2_v005_hd_001.png</attr>
+			<attr name='sha'>71badeed9f8a924c2b0963ae1ab8c1ec23915fa6</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1000942' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000866.1000942.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000866.1000942.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000866.1000942.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000866.1000942.source]</attr>
+		<attr name='title' livesite='false'>[1001197.1002622.1000866.1000942.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1003077)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Sienna_MY15_ext_XLE_PRM_FWD_05B2_v005_hd_001.png</attr>
+			<attr name='sha'>d64b469070fcbf21a55f331e51095657dc8c78a1</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1000943' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000866.1000943.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000866.1000943.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000866.1000943.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000866.1000943.source]</attr>
+		<attr name='title' livesite='false'>[1001197.1002622.1000866.1000943.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1003075)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Sienna_MY15_ext_LTD_PRM_FWD_w_TECH_05B2_v005_hd_001.png</attr>
+			<attr name='sha'>8f07ba912dc81ea74b748ee2da063d9f455bd1fe</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1000944' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000866.1000944.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000866.1000944.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000866.1000944.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000866.1000944.source]</attr>
+		<attr name='title' livesite='false'>[1001197.1002622.1000866.1000944.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1001250)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Sienna_MY15_ext_LE_FWD_05B2_v005_hd_001.png</attr>
+			<attr name='sha'>71badeed9f8a924c2b0963ae1ab8c1ec23915fa6</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1000945' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000866.1000945.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000866.1000945.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000866.1000945.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000866.1000945.source]</attr>
+		<attr name='title' livesite='false'>[1001197.1002622.1000866.1000945.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1003077)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Sienna_MY15_ext_XLE_PRM_FWD_05B2_v005_hd_001.png</attr>
+			<attr name='sha'>d64b469070fcbf21a55f331e51095657dc8c78a1</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1000946' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000866.1000946.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000866.1000946.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000866.1000946.materialtypeid]</attr>
+		<attr name='source'>[1001197.1002622.1000866.1000946.source]</attr>
+		<attr name='title' livesite='false'>[1001197.1002622.1000866.1000946.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1003075)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Sienna_MY15_ext_LTD_PRM_FWD_w_TECH_05B2_v005_hd_001.png</attr>
+			<attr name='sha'>8f07ba912dc81ea74b748ee2da063d9f455bd1fe</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1004145' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000866.1004145.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000866.1004145.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000866.1004145.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001197.1002622.1000866.1004145.source]</attr>
+		<attr name='title' livesite='false'>[1001197.1002622.1000866.1004145.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1003077)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Sienna_MY15_ext_XLE_PRM_FWD_05B2_v005_hd_001.png</attr>
+			<attr name='sha'>d64b469070fcbf21a55f331e51095657dc8c78a1</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1004146' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000866.1004146.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000866.1004146.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000866.1004146.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001197.1002622.1000866.1004146.source]</attr>
+		<attr name='title' livesite='false'>[1001197.1002622.1000866.1004146.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1003075)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Sienna_MY15_ext_LTD_PRM_FWD_w_TECH_05B2_v005_hd_001.png</attr>
+			<attr name='sha'>8f07ba912dc81ea74b748ee2da063d9f455bd1fe</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1004147' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000866.1004147.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000866.1004147.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000866.1004147.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001197.1002622.1000866.1004147.source]</attr>
+		<attr name='title' livesite='false'>[1001197.1002622.1000866.1004147.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1003077)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Sienna_MY15_ext_XLE_PRM_FWD_05B2_v005_hd_001.png</attr>
+			<attr name='sha'>d64b469070fcbf21a55f331e51095657dc8c78a1</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1004148' >
+		<attr name='derived' livesite='false'>[1001197.1002622.1000866.1004148.derived]</attr>
+		<attr name='description'>[1001197.1002622.1000866.1004148.description]</attr>
+		<attr name='materialtypeid'>[1001197.1002622.1000866.1004148.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001197.1002622.1000866.1004148.source]</attr>
+		<attr name='title' livesite='false'>[1001197.1002622.1000866.1004148.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_05B2' type='TEXT'>{1001197 conflicts(1003075)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Sienna_MY15_ext_LTD_PRM_FWD_w_TECH_05B2_v005_hd_001.png</attr>
+			<attr name='sha'>8f07ba912dc81ea74b748ee2da063d9f455bd1fe</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

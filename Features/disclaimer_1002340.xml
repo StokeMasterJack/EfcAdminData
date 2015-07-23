@@ -1,0 +1,8 @@
+<feature id='1002340' type='disclaimer' cardinality='optional' >
+	<attr name='derived' livesite='false'>[1002340.derived]</attr>
+	<attr name='vtc' livesite='false'>[1002340.vtc]</attr>
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1002340.source]</attr>
+	<attr name='description' livesite='false'>[1002340.description]</attr>
+	<attr name='code'>tun_towpkg_tow_increase2000</attr>
+</feature>

@@ -1,0 +1,8 @@
+<feature id='1001918' type='disclaimer' cardinality='optional' >
+	<attr name='vtc' livesite='false'>[1001918.vtc]</attr>
+	<attr name='description' livesite='false'>[1001918.description]</attr>
+	<attr name='title'></attr>
+	<attr name='derived' livesite='false'>[1001918.derived]</attr>
+	<attr name='source' livesite='false'>[1001918.source]</attr>
+	<attr name='code'>iihs_11_avalon</attr>
+</feature>

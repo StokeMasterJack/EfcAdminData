@@ -1,0 +1,8 @@
+<feature id='1002371' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1002371.source]</attr>
+	<attr name='code'>usnews_ctruck10</attr>
+	<attr name='derived' livesite='false'>[1002371.derived]</attr>
+	<attr name='vtc' livesite='false'>[1002371.vtc]</attr>
+	<attr name='description' livesite='false'>[1002371.description]</attr>
+</feature>

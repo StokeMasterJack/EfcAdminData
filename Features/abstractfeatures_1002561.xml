@@ -1,0 +1,7 @@
+<feature id='1002561' type='abstractfeatures' scope='1000851' cardinality='mandatory' >
+	<attr name='code' livesite='false'>Bluetooth</attr>
+	<attr name='derived' livesite='false'>[1002561.derived]</attr>
+	<attr name='source' livesite='false'>[1002561.source]</attr>
+	<attr name='title' livesite='false'>[1002561.title]</attr>
+	<attr name='vtc' livesite='false'>[1002561.vtc]</attr>
+</feature>

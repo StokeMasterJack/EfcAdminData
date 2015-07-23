@@ -1,0 +1,8 @@
+<feature id='1001664' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1001664.description]</attr>
+	<attr name='code'>brand_manufacturer_estimate</attr>
+	<attr name='vtc' livesite='false'>[1001664.vtc]</attr>
+	<attr name='source' livesite='false'>[1001664.source]</attr>
+	<attr name='title'></attr>
+	<attr name='derived' livesite='false'>[1001664.derived]</attr>
+</feature>

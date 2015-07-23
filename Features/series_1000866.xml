@@ -1,0 +1,96 @@
+<feature id='1000866' type='series' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='attachment'></attr>
+	<attr name='background'></attr>
+	<attr name='code'>sienna</attr>
+	<attr name='comparemodel'></attr>
+	<attr name='defaultmodel'></attr>
+	<attr name='derived'>[1000866.derived]</attr>
+	<attr name='description'>[1000866.description]</attr>
+	<attr name='source'>[1000866.source]</attr>
+	<attr name='title'>[1000866.title]</attr>
+	<attr name='vtc'>[1000866.vtc]</attr>
+	<if id='1000851' disclaimers='1002417 1001730 1001756 1002411 1001754 1002101 1001717 1002415 1001672 1002414 1002412 1001616 1002221 1001793 1002226 1002801 1002225 1002394 1002191 1002325 1001768 1002287 1001767 1002186 1001864 1002368 1001887 1001867 1002041 1001869 1001868 1002044 1001602 1001956 1001643 1001681 1002383 1002001 1001646 1001624 1001952' >
+		<attr name='defaultmodel'>[1000866.1000851.defaultmodel]</attr>
+		<attr name='derived'>[1000866.1000851.derived]</attr>
+		<attr name='description'>[1000866.1000851.description]</attr>
+		<attr name='source'>[1000866.1000851.source]</attr>
+		<attr name='title'>[1000866.1000851.title]</attr>
+		<attr name='vtc'>[1000866.1000851.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>EFC Background _0006_Sienna.jpg</attr>
+			<attr name='sha'>34c61e461fd39fabce780b8c2214f8e2d4b6f445</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>StandardFeaturesSienna.xml</attr>
+			<attr name='sha'>da03c7df08cfe99ca344082460545d59aaa5efbc</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>SiennaCompareModel050714.json</attr>
+			<attr name='sha'>141780d32827524a1dac53b6de1850766cb71974</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622' disclaimers='1002417 1002416 1001756 1002411 1001754 1002101 1001717 1002415 1002414 1001672 1002413 1002412 1002221 1002058 1002190 1002226 1002225 1002394 1002325 1002633 1002632 1001768 1002287 1001767 1002186 1001864 1002368 1001887 1002628 1001867 1003251 1001869 1002629 1002044 1001868 1001602 1001643 1001681 1002383 1002001 1001646 1001624 1001952' >
+		<attr name='defaultmodel'>[1000866.1002622.defaultmodel]</attr>
+		<attr name='derived'>[1000866.1002622.derived]</attr>
+		<attr name='description'>[1000866.1002622.description]</attr>
+		<attr name='source'>[1000866.1002622.source]</attr>
+		<attr name='vtc' livesite='false'>[1000866.1002622.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>EFC_Background_0006_Sienna.jpg</attr>
+			<attr name='sha'>34c61e461fd39fabce780b8c2214f8e2d4b6f445</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>mediumbackground</attr>
+			<attr name='name'>EFC-background_0006_Sienna_1024.jpg</attr>
+			<attr name='sha'>f3ac4f4e25214d0716617673a262c17409525828</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>smallbackground</attr>
+			<attr name='name'>EFC-background_0006_Sienna_480.jpg</attr>
+			<attr name='sha'>677e1c290dbb8c7e15a44a63fddef4075d31c63e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>largebackground</attr>
+			<attr name='name'>EFC-background_0006_Sienna_1500.jpg</attr>
+			<attr name='sha'>5ce35643149afeec7baa2206ca4e850afec7bd55</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>StandardFeaturesSienna2015.xml</attr>
+			<attr name='sha'>16081c026d94d2dfc6b49c14eb7f407290d6dd54</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>2015SiennaCompareModel_TMS_CPD_20141006v1.json</attr>
+			<attr name='sha'>e19ca846f2f9d03b7c29a43e9732e82db13c5eb9</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>leona_chan@toyota.com</attr>
+		<attr name='note'>Sienna FY15 inventory generation</attr>
+		<attr name='systemdate'>2014 October 6</attr>
+		<attr name='time'>2014 October 6</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>leona_chan@toyota.com</attr>
+		<attr name='note'>2014/10/02 - Sienna FY15 Launch</attr>
+		<attr name='systemdate'>2014 October 2</attr>
+		<attr name='time'>2014 October 2</attr>
+	</complextype>
+</group>
+
+</feature>

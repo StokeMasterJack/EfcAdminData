@@ -1,0 +1,22 @@
+<feature id='1003251' type='disclaimer' cardinality='optional' >
+	<attr name='code'>epa_2015</attr>
+	<attr name='derived' livesite='false'>[1003251.derived]</attr>
+	<attr name='description' livesite='false'>[1003251.description]</attr>
+	<attr name='source' livesite='false'>[1003251.source]</attr>
+	<attr name='title'>[1003251.title]</attr>
+	<attr name='vtc' livesite='false'>[1003251.vtc]</attr>
+	<if id='1002622 1000859' >
+		<attr name='derived'>[1003251.1002622.1000859.derived]</attr>
+		<attr name='description' livesite='false'>[1003251.1002622.1000859.description]</attr>
+		<attr name='vtc'>[1003251.1002622.1000859.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000860' >
+		<attr name='description' livesite='false'>[1003251.1002622.1000860.description]</attr>
+	</if>
+
+	<if id='1002622 1000862' >
+		<attr name='description' livesite='false'>[1003251.1002622.1000862.description]</attr>
+	</if>
+
+</feature>

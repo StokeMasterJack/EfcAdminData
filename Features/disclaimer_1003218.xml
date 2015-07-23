@@ -1,0 +1,12 @@
+<feature id='1003218' type='disclaimer' cardinality='optional' >
+	<attr name='code'>2013RAV4_3</attr>
+	<attr name='source' livesite='false'>[1003218.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1003218.vtc]</attr>
+	<attr name='derived'></attr>
+	<attr name='description' livesite='false'>[1003218.description]</attr>
+	<if id='1002622' >
+		<attr name='description' livesite='false'>[1003218.1002622.description]</attr>
+	</if>
+
+</feature>

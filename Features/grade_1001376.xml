@@ -1,0 +1,121 @@
+<feature id='1001376' type='grade' scope='1002622 1000866 1004144, 1002622 1000854 1000906, 1000851 1000854 1000906, 1000851 1000854 1000908, 1000851 1000866 1000941, 1002622 1000866 1000941' cardinality='mandatory' >
+	<attr name='availablecopy'></attr>
+	<attr name='code'>SE</attr>
+	<attr name='copyblock'></attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='hotspot'></attr>
+	<attr name='iconname'></attr>
+	<attr name='images'></attr>
+	<attr name='keyword'></attr>
+	<attr name='mpg'></attr>
+	<attr name='source' livesite='false'>[1001376.source]</attr>
+	<attr name='title' livesite='false'>[1001376.title]</attr>
+	<attr name='vtc' livesite='false'>[1001376.vtc]</attr>
+	<if id='1000851 1000854 1000906' >
+		<attr name='availablecopy' livesite='false'>[1001376.1000851.1000854.1000906.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001376.1000851.1000854.1000906.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001376.1000851.1000854.1000906.derived]</attr>
+		<attr name='description'>[1001376.1000851.1000854.1000906.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001376.1000851.1000854.1000906.hotspot]</attr>
+		<attr name='iconname'>[1001376.1000851.1000854.1000906.iconname]</attr>
+		<attr name='keyword'>[1001376.1000851.1000854.1000906.keyword]</attr>
+		<attr name='mpg'>[1001376.1000851.1000854.1000906.mpg]</attr>
+		<attr name='title' livesite='false'>[1001376.1000851.1000854.1000906.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Camry_SE.png</attr>
+			<attr name='sha'>8d71aaf7d16c2419e18f5cbd5b2a0853d4483e32</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000854 1000908' >
+		<attr name='availablecopy'>[1001376.1000851.1000854.1000908.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001376.1000851.1000854.1000908.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001376.1000851.1000854.1000908.derived]</attr>
+		<attr name='description'>[1001376.1000851.1000854.1000908.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001376.1000851.1000854.1000908.hotspot]</attr>
+		<attr name='iconname'>[1001376.1000851.1000854.1000908.iconname]</attr>
+		<attr name='keyword'>[1001376.1000851.1000854.1000908.keyword]</attr>
+		<attr name='mpg'>[1001376.1000851.1000854.1000908.mpg]</attr>
+		<attr name='title' livesite='false'>[1001376.1000851.1000854.1000908.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Camry_SE.png</attr>
+			<attr name='sha'>8d71aaf7d16c2419e18f5cbd5b2a0853d4483e32</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000866 1000941' >
+		<attr name='availablecopy' livesite='false'>[1001376.1000851.1000866.1000941.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001376.1000851.1000866.1000941.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001376.1000851.1000866.1000941.derived]</attr>
+		<attr name='description'>[1001376.1000851.1000866.1000941.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001376.1000851.1000866.1000941.hotspot]</attr>
+		<attr name='iconname'>[1001376.1000851.1000866.1000941.iconname]</attr>
+		<attr name='keyword'>[1001376.1000851.1000866.1000941.keyword]</attr>
+		<attr name='mpg'>[1001376.1000851.1000866.1000941.mpg]</attr>
+		<attr name='title' livesite='false'>[1001376.1000851.1000866.1000941.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Sienna_SE.png</attr>
+			<attr name='sha'>b693e72fa03649a57eb8d167d1bf98d9801f702c</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000906' >
+		<attr name='availablecopy' livesite='false'>[1001376.1002622.1000854.1000906.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001376.1002622.1000854.1000906.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001376.1002622.1000854.1000906.derived]</attr>
+		<attr name='description'>[1001376.1002622.1000854.1000906.description]</attr>
+		<attr name='hotspot'>[1001376.1002622.1000854.1000906.hotspot]</attr>
+		<attr name='iconname'>[1001376.1002622.1000854.1000906.iconname]</attr>
+		<attr name='keyword'>[1001376.1002622.1000854.1000906.keyword]</attr>
+		<attr name='mpg'>[1001376.1002622.1000854.1000906.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>MY15_Camry_ext_SE_01H1.png</attr>
+			<attr name='sha'>2c7cb15b3738187b9860b16fc9cf8150a62b6fcd</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1000941' >
+		<attr name='availablecopy' livesite='false'>[1001376.1002622.1000866.1000941.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001376.1002622.1000866.1000941.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001376.1002622.1000866.1000941.derived]</attr>
+		<attr name='description'>[1001376.1002622.1000866.1000941.description]</attr>
+		<attr name='hotspot'>[1001376.1002622.1000866.1000941.hotspot]</attr>
+		<attr name='iconname'>[1001376.1002622.1000866.1000941.iconname]</attr>
+		<attr name='keyword'>[1001376.1002622.1000866.1000941.keyword]</attr>
+		<attr name='mpg'>[1001376.1002622.1000866.1000941.mpg]</attr>
+		<attr name='title' livesite='false'>[1001376.1002622.1000866.1000941.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Sienna_MY15_ext_SE_PRM_0218_v005_efc_jelly_002.png</attr>
+			<attr name='sha'>024aa215ee69ac2ff33b16b380f8d4105385044d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1004144' >
+		<attr name='availablecopy'>[1001376.1002622.1000866.1004144.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001376.1002622.1000866.1004144.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001376.1002622.1000866.1004144.derived]</attr>
+		<attr name='description'>[1001376.1002622.1000866.1004144.description]</attr>
+		<attr name='hotspot'>[1001376.1002622.1000866.1004144.hotspot]</attr>
+		<attr name='iconname'>[1001376.1002622.1000866.1004144.iconname]</attr>
+		<attr name='keyword'>[1001376.1002622.1000866.1004144.keyword]</attr>
+		<attr name='mpg'>[1001376.1002622.1000866.1004144.mpg]</attr>
+		<attr name='title' livesite='false'>[1001376.1002622.1000866.1004144.title]</attr>
+	</if>
+
+</feature>

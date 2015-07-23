@@ -1,0 +1,8 @@
+<feature id='1002737' type='disclaimer' cardinality='optional' >
+	<attr name='code'>lka_radio_tv</attr>
+	<attr name='derived' livesite='false'>[1002737.derived]</attr>
+	<attr name='vtc' livesite='false'>[1002737.vtc]</attr>
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1002737.source]</attr>
+	<attr name='description' livesite='false'>[1002737.description]</attr>
+</feature>

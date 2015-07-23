@@ -1,0 +1,103 @@
+<feature id='1001576' type='grade' scope='1000851 1000852 1001028, 1002622 1000852 1001031, 1000851 1000852 1001031, 1002622 1000852 1001028' cardinality='mandatory' >
+	<attr name='availablecopy'>[1001576.availablecopy]</attr>
+	<attr name='code'>SR5premium</attr>
+	<attr name='copyblock'>[1001576.copyblock]</attr>
+	<attr name='derived'>[1001576.derived]</attr>
+	<attr name='description'>[1001576.description]</attr>
+	<attr name='hotspot'></attr>
+	<attr name='iconname'></attr>
+	<attr name='images'></attr>
+	<attr name='keyword'>[1001576.keyword]</attr>
+	<attr name='mpg'>[1001576.mpg]</attr>
+	<attr name='source'>[1001576.source]</attr>
+	<attr name='title'>[1001576.title]</attr>
+	<attr name='vtc'>[1001576.vtc]</attr>
+	<if id='1000851 1000852 1001028' >
+		<attr name='availablecopy' livesite='false'>[1001576.1000851.1000852.1001028.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001576.1000851.1000852.1001028.copyblock]</attr>
+		<attr name='description'>[1001576.1000851.1000852.1001028.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001576.1000851.1000852.1001028.hotspot]</attr>
+		<attr name='iconname'>[1001576.1000851.1000852.1001028.iconname]</attr>
+		<attr name='keyword'>[1001576.1000851.1000852.1001028.keyword]</attr>
+		<attr name='mpg'>[1001576.1000851.1000852.1001028.mpg]</attr>
+		<attr name='source'>[1001576.1000851.1000852.1001028.source]</attr>
+		<attr name='title'>[1001576.1000851.1000852.1001028.title]</attr>
+		<attr name='vtc'>[1001576.1000851.1000852.1001028.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_4runner_SR5_Prem.png</attr>
+			<attr name='sha'>042face552a2147e0935f8fa3ad74a71c5a8cc5e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000852 1001031' >
+		<attr name='availablecopy' livesite='false'>[1001576.1000851.1000852.1001031.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001576.1000851.1000852.1001031.copyblock]</attr>
+		<attr name='description'>[1001576.1000851.1000852.1001031.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001576.1000851.1000852.1001031.hotspot]</attr>
+		<attr name='iconname'>[1001576.1000851.1000852.1001031.iconname]</attr>
+		<attr name='keyword'>[1001576.1000851.1000852.1001031.keyword]</attr>
+		<attr name='mpg'>[1001576.1000851.1000852.1001031.mpg]</attr>
+		<attr name='source'>[1001576.1000851.1000852.1001031.source]</attr>
+		<attr name='title'>[1001576.1000851.1000852.1001031.title]</attr>
+		<attr name='vtc'>[1001576.1000851.1000852.1001031.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_4runner_SR5_Prem.png</attr>
+			<attr name='sha'>042face552a2147e0935f8fa3ad74a71c5a8cc5e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000852 1001028' >
+		<attr name='availablecopy' livesite='false'>[1001576.1002622.1000852.1001028.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001576.1002622.1000852.1001028.copyblock]</attr>
+		<attr name='description'>[1001576.1002622.1000852.1001028.description]</attr>
+		<attr name='hotspot'>[1001576.1002622.1000852.1001028.hotspot]</attr>
+		<attr name='iconname'>[1001576.1002622.1000852.1001028.iconname]</attr>
+		<attr name='keyword'>[1001576.1002622.1000852.1001028.keyword]</attr>
+		<attr name='mpg'>[1001576.1002622.1000852.1001028.mpg]</attr>
+		<attr name='source'>[1001576.1002622.1000852.1001028.source]</attr>
+		<attr name='title'>[1001576.1002622.1000852.1001028.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>4Runner_ext_SR5_Premium_08S6.png</attr>
+			<attr name='sha'>5325c610c32e9a3ff8a9fb4ad4b3adc4045948d5</attr>
+		</complextype>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>4Runner_ext_SR5_Premium_08S6.png</attr>
+			<attr name='sha'>24e769872da4ac5fd9c8fb9dce0946637d85268c</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000852 1001031' >
+		<attr name='availablecopy' livesite='false'>[1001576.1002622.1000852.1001031.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001576.1002622.1000852.1001031.copyblock]</attr>
+		<attr name='description'>[1001576.1002622.1000852.1001031.description]</attr>
+		<attr name='hotspot'>[1001576.1002622.1000852.1001031.hotspot]</attr>
+		<attr name='iconname'>[1001576.1002622.1000852.1001031.iconname]</attr>
+		<attr name='keyword'>[1001576.1002622.1000852.1001031.keyword]</attr>
+		<attr name='mpg'>[1001576.1002622.1000852.1001031.mpg]</attr>
+		<attr name='source'>[1001576.1002622.1000852.1001031.source]</attr>
+		<attr name='title'>[1001576.1002622.1000852.1001031.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>4Runner_ext_SR5_Premium_08S6.png</attr>
+			<attr name='sha'>5325c610c32e9a3ff8a9fb4ad4b3adc4045948d5</attr>
+		</complextype>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>4Runner_ext_SR5_Premium_08S6.png</attr>
+			<attr name='sha'>24e769872da4ac5fd9c8fb9dce0946637d85268c</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

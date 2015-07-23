@@ -1,0 +1,11 @@
+<feature id='1002558' type='abstractfeatures' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='code' livesite='false'>Remotekeylessentry</attr>
+	<attr name='derived' livesite='false'>[1002558.derived]</attr>
+	<attr name='source' livesite='false'>[1002558.source]</attr>
+	<attr name='title' livesite='false'>[1002558.title]</attr>
+	<attr name='vtc' livesite='false'>[1002558.vtc]</attr>
+	<if id='1000851 1000870' >
+		<rule src='ADMIN' type='TEXT'>{1002558 requires((1000851*1000870*1000886),(1000851*1000870*1000888),(1000851*1000870*1000889),(1000851*1000870*1000890))}</rule>
+	</if>
+
+</feature>

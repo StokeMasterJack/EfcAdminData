@@ -1,0 +1,8 @@
+<feature id='1002235' type='disclaimer' cardinality='optional' >
+	<attr name='code'>sport_pkg_seq</attr>
+	<attr name='description' livesite='false'>[1002235.description]</attr>
+	<attr name='vtc' livesite='false'>[1002235.vtc]</attr>
+	<attr name='derived' livesite='false'>[1002235.derived]</attr>
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1002235.source]</attr>
+</feature>

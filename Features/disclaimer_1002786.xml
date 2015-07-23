@@ -1,0 +1,8 @@
+<feature id='1002786' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1002786.description]</attr>
+	<attr name='vtc' livesite='false'>[1002786.vtc]</attr>
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1002786.source]</attr>
+	<attr name='derived' livesite='false'>[1002786.derived]</attr>
+	<attr name='code'>toyota_care_phv_roadside_assistance</attr>
+</feature>

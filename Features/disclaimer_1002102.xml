@@ -1,0 +1,8 @@
+<feature id='1002102' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1002102.description]</attr>
+	<attr name='vtc' livesite='false'>[1002102.vtc]</attr>
+	<attr name='derived' livesite='false'>[1002102.derived]</attr>
+	<attr name='code'>pre_collision_cond</attr>
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1002102.source]</attr>
+</feature>

@@ -1,0 +1,8 @@
+<feature id='1001638' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1001638.description]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001638.vtc]</attr>
+	<attr name='source' livesite='false'>[1001638.source]</attr>
+	<attr name='derived' livesite='false'>[1001638.derived]</attr>
+	<attr name='code'>backup_cam</attr>
+</feature>

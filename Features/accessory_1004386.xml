@@ -1,0 +1,395 @@
+<feature id='1004386' type='accessory' scope='1002622 1000853 1000924, 1002622 1000853 1000925, 1002622 1000853 1000926, 1002622 1000853 1000927, 1002622 1000853 1003045, 1002622 1000853 1000928, 1002622 1000853 1000922, 1002622 1000853 1000923, 1002622 1000862 1003044, 1002622 1000860 1000871, 1002622 1000862 1000883, 1002622 1000860 1000872, 1002622 1000860 1000873, 1002622 1000860 1000874, 1002622 1000862 1000881, 1002622 1000862 1000882' cardinality='mandatory' >
+	<attr name='alacarte' livesite='false'>[1004386.alacarte]</attr>
+	<attr name='code'>DIO20</attr>
+	<attr name='derived' livesite='false'>[1004386.derived]</attr>
+	<attr name='description'>[1004386.description]</attr>
+	<attr name='fullimage'></attr>
+	<attr name='group' livesite='false'>[1004386.group]</attr>
+	<attr name='keyfeatures'>[1004386.keyfeatures]</attr>
+	<attr name='marketingeffectivedate'>[1004386.marketingeffectivedate]</attr>
+	<attr name='msrp'></attr>
+	<attr name='option' livesite='false'>[1004386.option]</attr>
+	<attr name='package' livesite='false'>[1004386.package]</attr>
+	<attr name='pnglayeringinclusionkey'>[1004386.pnglayeringinclusionkey]</attr>
+	<attr name='secondaryfeatures'>[1004386.secondaryfeatures]</attr>
+	<attr name='source'>[1004386.source]</attr>
+	<attr name='specialexteriorcolorflag' livesite='false'>[1004386.specialexteriorcolorflag]</attr>
+	<attr name='specialinteriorcolorflag' livesite='false'>[1004386.specialinteriorcolorflag]</attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'>[1004386.title]</attr>
+	<attr name='type' livesite='false'>[1004386.type]</attr>
+	<attr name='videokey'>[1004386.videokey]</attr>
+	<attr name='viewpointkey'>[1004386.viewpointkey]</attr>
+	<attr name='vtc' livesite='false'>[1004386.vtc]</attr>
+	<if id='1002622 1000853 1000922' >
+		<attr name='alacarte' livesite='false'>[1004386.1002622.1000853.1000922.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1004386.1002622.1000853.1000922.derived]</attr>
+		<attr name='description' livesite='false'>[1004386.1002622.1000853.1000922.description]</attr>
+		<attr name='group' livesite='false'>[1004386.1002622.1000853.1000922.group]</attr>
+		<attr name='keyfeatures'>[1004386.1002622.1000853.1000922.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1004386.1002622.1000853.1000922.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1004386.1002622.1000853.1000922.msrp]</attr>
+		<attr name='package' livesite='false'>[1004386.1002622.1000853.1000922.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1004386.1002622.1000853.1000922.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1004386.1002622.1000853.1000922.secondaryfeatures]</attr>
+		<attr name='source' livesite='false'>[1004386.1002622.1000853.1000922.source]</attr>
+		<attr name='title' livesite='false'>[1004386.1002622.1000853.1000922.title]</attr>
+		<attr name='type' livesite='false'>[1004386.1002622.1000853.1000922.type]</attr>
+		<attr name='videokey'>[1004386.1002622.1000853.1000922.videokey]</attr>
+		<attr name='viewpointkey'>[1004386.1002622.1000853.1000922.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1004386.1002622.1000853.1000922.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Avalon_2015_KeyFinder_D.jpg</attr>
+			<attr name='sha'>c79ee8f95df3179026d2a74467a38be4e0471e8e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1000923' >
+		<attr name='alacarte' livesite='false'>[1004386.1002622.1000853.1000923.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1004386.1002622.1000853.1000923.derived]</attr>
+		<attr name='description' livesite='false'>[1004386.1002622.1000853.1000923.description]</attr>
+		<attr name='group' livesite='false'>[1004386.1002622.1000853.1000923.group]</attr>
+		<attr name='keyfeatures'>[1004386.1002622.1000853.1000923.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1004386.1002622.1000853.1000923.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1004386.1002622.1000853.1000923.msrp]</attr>
+		<attr name='package' livesite='false'>[1004386.1002622.1000853.1000923.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1004386.1002622.1000853.1000923.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1004386.1002622.1000853.1000923.secondaryfeatures]</attr>
+		<attr name='source'>[1004386.1002622.1000853.1000923.source]</attr>
+		<attr name='title' livesite='false'>[1004386.1002622.1000853.1000923.title]</attr>
+		<attr name='type' livesite='false'>[1004386.1002622.1000853.1000923.type]</attr>
+		<attr name='videokey'>[1004386.1002622.1000853.1000923.videokey]</attr>
+		<attr name='viewpointkey'>[1004386.1002622.1000853.1000923.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1004386.1002622.1000853.1000923.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Avalon_2015_KeyFinder_D.jpg</attr>
+			<attr name='sha'>c79ee8f95df3179026d2a74467a38be4e0471e8e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1000924' >
+		<attr name='alacarte' livesite='false'>[1004386.1002622.1000853.1000924.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1004386.1002622.1000853.1000924.derived]</attr>
+		<attr name='description' livesite='false'>[1004386.1002622.1000853.1000924.description]</attr>
+		<attr name='group' livesite='false'>[1004386.1002622.1000853.1000924.group]</attr>
+		<attr name='keyfeatures'>[1004386.1002622.1000853.1000924.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1004386.1002622.1000853.1000924.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1004386.1002622.1000853.1000924.msrp]</attr>
+		<attr name='package' livesite='false'>[1004386.1002622.1000853.1000924.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1004386.1002622.1000853.1000924.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1004386.1002622.1000853.1000924.secondaryfeatures]</attr>
+		<attr name='source'>[1004386.1002622.1000853.1000924.source]</attr>
+		<attr name='title' livesite='false'>[1004386.1002622.1000853.1000924.title]</attr>
+		<attr name='type' livesite='false'>[1004386.1002622.1000853.1000924.type]</attr>
+		<attr name='videokey'>[1004386.1002622.1000853.1000924.videokey]</attr>
+		<attr name='viewpointkey'>[1004386.1002622.1000853.1000924.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1004386.1002622.1000853.1000924.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Avalon_2015_KeyFinder_D.jpg</attr>
+			<attr name='sha'>c79ee8f95df3179026d2a74467a38be4e0471e8e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1000925' >
+		<attr name='alacarte' livesite='false'>[1004386.1002622.1000853.1000925.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1004386.1002622.1000853.1000925.derived]</attr>
+		<attr name='description' livesite='false'>[1004386.1002622.1000853.1000925.description]</attr>
+		<attr name='group' livesite='false'>[1004386.1002622.1000853.1000925.group]</attr>
+		<attr name='keyfeatures'>[1004386.1002622.1000853.1000925.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1004386.1002622.1000853.1000925.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1004386.1002622.1000853.1000925.msrp]</attr>
+		<attr name='package' livesite='false'>[1004386.1002622.1000853.1000925.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1004386.1002622.1000853.1000925.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1004386.1002622.1000853.1000925.secondaryfeatures]</attr>
+		<attr name='source'>[1004386.1002622.1000853.1000925.source]</attr>
+		<attr name='title' livesite='false'>[1004386.1002622.1000853.1000925.title]</attr>
+		<attr name='type' livesite='false'>[1004386.1002622.1000853.1000925.type]</attr>
+		<attr name='videokey'>[1004386.1002622.1000853.1000925.videokey]</attr>
+		<attr name='viewpointkey'>[1004386.1002622.1000853.1000925.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1004386.1002622.1000853.1000925.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Avalon_2015_KeyFinder_D.jpg</attr>
+			<attr name='sha'>c79ee8f95df3179026d2a74467a38be4e0471e8e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1000926' >
+		<attr name='alacarte' livesite='false'>[1004386.1002622.1000853.1000926.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1004386.1002622.1000853.1000926.derived]</attr>
+		<attr name='description' livesite='false'>[1004386.1002622.1000853.1000926.description]</attr>
+		<attr name='group' livesite='false'>[1004386.1002622.1000853.1000926.group]</attr>
+		<attr name='keyfeatures'>[1004386.1002622.1000853.1000926.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1004386.1002622.1000853.1000926.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1004386.1002622.1000853.1000926.msrp]</attr>
+		<attr name='package' livesite='false'>[1004386.1002622.1000853.1000926.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1004386.1002622.1000853.1000926.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1004386.1002622.1000853.1000926.secondaryfeatures]</attr>
+		<attr name='source'>[1004386.1002622.1000853.1000926.source]</attr>
+		<attr name='title' livesite='false'>[1004386.1002622.1000853.1000926.title]</attr>
+		<attr name='type' livesite='false'>[1004386.1002622.1000853.1000926.type]</attr>
+		<attr name='videokey'>[1004386.1002622.1000853.1000926.videokey]</attr>
+		<attr name='viewpointkey'>[1004386.1002622.1000853.1000926.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1004386.1002622.1000853.1000926.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Avalon_2015_KeyFinder_D.jpg</attr>
+			<attr name='sha'>c79ee8f95df3179026d2a74467a38be4e0471e8e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1000927' >
+		<attr name='alacarte' livesite='false'>[1004386.1002622.1000853.1000927.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1004386.1002622.1000853.1000927.derived]</attr>
+		<attr name='description' livesite='false'>[1004386.1002622.1000853.1000927.description]</attr>
+		<attr name='group' livesite='false'>[1004386.1002622.1000853.1000927.group]</attr>
+		<attr name='keyfeatures'>[1004386.1002622.1000853.1000927.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1004386.1002622.1000853.1000927.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1004386.1002622.1000853.1000927.msrp]</attr>
+		<attr name='package' livesite='false'>[1004386.1002622.1000853.1000927.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1004386.1002622.1000853.1000927.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1004386.1002622.1000853.1000927.secondaryfeatures]</attr>
+		<attr name='source'>[1004386.1002622.1000853.1000927.source]</attr>
+		<attr name='title' livesite='false'>[1004386.1002622.1000853.1000927.title]</attr>
+		<attr name='type' livesite='false'>[1004386.1002622.1000853.1000927.type]</attr>
+		<attr name='videokey'>[1004386.1002622.1000853.1000927.videokey]</attr>
+		<attr name='viewpointkey'>[1004386.1002622.1000853.1000927.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1004386.1002622.1000853.1000927.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Avalon_2015_KeyFinder_D.jpg</attr>
+			<attr name='sha'>c79ee8f95df3179026d2a74467a38be4e0471e8e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1000928' >
+		<attr name='alacarte' livesite='false'>[1004386.1002622.1000853.1000928.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1004386.1002622.1000853.1000928.derived]</attr>
+		<attr name='description' livesite='false'>[1004386.1002622.1000853.1000928.description]</attr>
+		<attr name='group' livesite='false'>[1004386.1002622.1000853.1000928.group]</attr>
+		<attr name='keyfeatures'>[1004386.1002622.1000853.1000928.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1004386.1002622.1000853.1000928.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1004386.1002622.1000853.1000928.msrp]</attr>
+		<attr name='package' livesite='false'>[1004386.1002622.1000853.1000928.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1004386.1002622.1000853.1000928.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1004386.1002622.1000853.1000928.secondaryfeatures]</attr>
+		<attr name='source'>[1004386.1002622.1000853.1000928.source]</attr>
+		<attr name='title' livesite='false'>[1004386.1002622.1000853.1000928.title]</attr>
+		<attr name='type' livesite='false'>[1004386.1002622.1000853.1000928.type]</attr>
+		<attr name='videokey'>[1004386.1002622.1000853.1000928.videokey]</attr>
+		<attr name='viewpointkey'>[1004386.1002622.1000853.1000928.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1004386.1002622.1000853.1000928.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Avalon_2015_KeyFinder_D.jpg</attr>
+			<attr name='sha'>c79ee8f95df3179026d2a74467a38be4e0471e8e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1003045' >
+		<attr name='alacarte' livesite='false'>[1004386.1002622.1000853.1003045.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1004386.1002622.1000853.1003045.derived]</attr>
+		<attr name='description' livesite='false'>[1004386.1002622.1000853.1003045.description]</attr>
+		<attr name='group' livesite='false'>[1004386.1002622.1000853.1003045.group]</attr>
+		<attr name='keyfeatures'>[1004386.1002622.1000853.1003045.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1004386.1002622.1000853.1003045.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1004386.1002622.1000853.1003045.msrp]</attr>
+		<attr name='package' livesite='false'>[1004386.1002622.1000853.1003045.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1004386.1002622.1000853.1003045.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1004386.1002622.1000853.1003045.secondaryfeatures]</attr>
+		<attr name='source'>[1004386.1002622.1000853.1003045.source]</attr>
+		<attr name='title' livesite='false'>[1004386.1002622.1000853.1003045.title]</attr>
+		<attr name='type' livesite='false'>[1004386.1002622.1000853.1003045.type]</attr>
+		<attr name='videokey'>[1004386.1002622.1000853.1003045.videokey]</attr>
+		<attr name='viewpointkey'>[1004386.1002622.1000853.1003045.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1004386.1002622.1000853.1003045.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Avalon_2015_KeyFinder_D.jpg</attr>
+			<attr name='sha'>c79ee8f95df3179026d2a74467a38be4e0471e8e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000860 1000871' >
+		<attr name='alacarte' livesite='false'>[1004386.1002622.1000860.1000871.alacarte]</attr>
+		<attr name='description' livesite='false'>[1004386.1002622.1000860.1000871.description]</attr>
+		<attr name='group' livesite='false'>[1004386.1002622.1000860.1000871.group]</attr>
+		<attr name='keyfeatures'>[1004386.1002622.1000860.1000871.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1004386.1002622.1000860.1000871.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1004386.1002622.1000860.1000871.msrp]</attr>
+		<attr name='pnglayeringinclusionkey'>[1004386.1002622.1000860.1000871.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1004386.1002622.1000860.1000871.secondaryfeatures]</attr>
+		<attr name='source'>[1004386.1002622.1000860.1000871.source]</attr>
+		<attr name='title' livesite='false'>[1004386.1002622.1000860.1000871.title]</attr>
+		<attr name='type' livesite='false'>[1004386.1002622.1000860.1000871.type]</attr>
+		<attr name='videokey'>[1004386.1002622.1000860.1000871.videokey]</attr>
+		<attr name='viewpointkey'>[1004386.1002622.1000860.1000871.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Avalon_2015_KeyFinder_D.jpg</attr>
+			<attr name='sha'>3f6e707659068a5afea9b0cb43d3dd71fbf18a1324d4025f2991cb00d20b2e5bd5469b7d227c07ee0b3cdf849d697a22ad21386856943a58a7af7b1390c9d3f5</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000860 1000872' >
+		<attr name='alacarte' livesite='false'>[1004386.1002622.1000860.1000872.alacarte]</attr>
+		<attr name='description' livesite='false'>[1004386.1002622.1000860.1000872.description]</attr>
+		<attr name='group' livesite='false'>[1004386.1002622.1000860.1000872.group]</attr>
+		<attr name='keyfeatures'>[1004386.1002622.1000860.1000872.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1004386.1002622.1000860.1000872.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1004386.1002622.1000860.1000872.msrp]</attr>
+		<attr name='pnglayeringinclusionkey'>[1004386.1002622.1000860.1000872.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1004386.1002622.1000860.1000872.secondaryfeatures]</attr>
+		<attr name='source'>[1004386.1002622.1000860.1000872.source]</attr>
+		<attr name='title' livesite='false'>[1004386.1002622.1000860.1000872.title]</attr>
+		<attr name='type' livesite='false'>[1004386.1002622.1000860.1000872.type]</attr>
+		<attr name='videokey'>[1004386.1002622.1000860.1000872.videokey]</attr>
+		<attr name='viewpointkey'>[1004386.1002622.1000860.1000872.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Avalon_2015_KeyFinder_D.jpg</attr>
+			<attr name='sha'>3f6e707659068a5afea9b0cb43d3dd71fbf18a1324d4025f2991cb00d20b2e5bd5469b7d227c07ee0b3cdf849d697a22ad21386856943a58a7af7b1390c9d3f5</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000860 1000873' >
+		<attr name='alacarte' livesite='false'>[1004386.1002622.1000860.1000873.alacarte]</attr>
+		<attr name='description' livesite='false'>[1004386.1002622.1000860.1000873.description]</attr>
+		<attr name='group' livesite='false'>[1004386.1002622.1000860.1000873.group]</attr>
+		<attr name='keyfeatures'>[1004386.1002622.1000860.1000873.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1004386.1002622.1000860.1000873.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1004386.1002622.1000860.1000873.msrp]</attr>
+		<attr name='pnglayeringinclusionkey'>[1004386.1002622.1000860.1000873.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1004386.1002622.1000860.1000873.secondaryfeatures]</attr>
+		<attr name='source'>[1004386.1002622.1000860.1000873.source]</attr>
+		<attr name='title' livesite='false'>[1004386.1002622.1000860.1000873.title]</attr>
+		<attr name='type' livesite='false'>[1004386.1002622.1000860.1000873.type]</attr>
+		<attr name='videokey'>[1004386.1002622.1000860.1000873.videokey]</attr>
+		<attr name='viewpointkey'>[1004386.1002622.1000860.1000873.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Avalon_2015_KeyFinder_D.jpg</attr>
+			<attr name='sha'>3f6e707659068a5afea9b0cb43d3dd71fbf18a1324d4025f2991cb00d20b2e5bd5469b7d227c07ee0b3cdf849d697a22ad21386856943a58a7af7b1390c9d3f5</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000860 1000874' >
+		<attr name='alacarte' livesite='false'>[1004386.1002622.1000860.1000874.alacarte]</attr>
+		<attr name='description' livesite='false'>[1004386.1002622.1000860.1000874.description]</attr>
+		<attr name='group' livesite='false'>[1004386.1002622.1000860.1000874.group]</attr>
+		<attr name='keyfeatures'>[1004386.1002622.1000860.1000874.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1004386.1002622.1000860.1000874.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1004386.1002622.1000860.1000874.msrp]</attr>
+		<attr name='pnglayeringinclusionkey'>[1004386.1002622.1000860.1000874.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1004386.1002622.1000860.1000874.secondaryfeatures]</attr>
+		<attr name='source'>[1004386.1002622.1000860.1000874.source]</attr>
+		<attr name='title' livesite='false'>[1004386.1002622.1000860.1000874.title]</attr>
+		<attr name='type' livesite='false'>[1004386.1002622.1000860.1000874.type]</attr>
+		<attr name='videokey'>[1004386.1002622.1000860.1000874.videokey]</attr>
+		<attr name='viewpointkey'>[1004386.1002622.1000860.1000874.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Avalon_2015_KeyFinder_D.jpg</attr>
+			<attr name='sha'>3f6e707659068a5afea9b0cb43d3dd71fbf18a1324d4025f2991cb00d20b2e5bd5469b7d227c07ee0b3cdf849d697a22ad21386856943a58a7af7b1390c9d3f5</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000862 1000881' >
+		<attr name='alacarte' livesite='false'>[1004386.1002622.1000862.1000881.alacarte]</attr>
+		<attr name='description' livesite='false'>[1004386.1002622.1000862.1000881.description]</attr>
+		<attr name='group' livesite='false'>[1004386.1002622.1000862.1000881.group]</attr>
+		<attr name='keyfeatures'>[1004386.1002622.1000862.1000881.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1004386.1002622.1000862.1000881.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1004386.1002622.1000862.1000881.msrp]</attr>
+		<attr name='pnglayeringinclusionkey'>[1004386.1002622.1000862.1000881.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1004386.1002622.1000862.1000881.secondaryfeatures]</attr>
+		<attr name='source'>[1004386.1002622.1000862.1000881.source]</attr>
+		<attr name='title' livesite='false'>[1004386.1002622.1000862.1000881.title]</attr>
+		<attr name='type' livesite='false'>[1004386.1002622.1000862.1000881.type]</attr>
+		<attr name='videokey'>[1004386.1002622.1000862.1000881.videokey]</attr>
+		<attr name='viewpointkey'>[1004386.1002622.1000862.1000881.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Key-Finder.jpg</attr>
+			<attr name='sha'>55fec81246234ff2650ab3e0d27586ad86b28c8e56a93c09c68247a94ad6918fabdf94c661fb4c73897e04ca2c80a9b36d14b8e71e32cf9dfd1f82e5c774c4a7</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000862 1000882' >
+		<attr name='alacarte' livesite='false'>[1004386.1002622.1000862.1000882.alacarte]</attr>
+		<attr name='description' livesite='false'>[1004386.1002622.1000862.1000882.description]</attr>
+		<attr name='group' livesite='false'>[1004386.1002622.1000862.1000882.group]</attr>
+		<attr name='msrp' livesite='false'>[1004386.1002622.1000862.1000882.msrp]</attr>
+		<attr name='title' livesite='false'>[1004386.1002622.1000862.1000882.title]</attr>
+		<attr name='type' livesite='false'>[1004386.1002622.1000862.1000882.type]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Key-Finder.jpg</attr>
+			<attr name='sha'>55fec81246234ff2650ab3e0d27586ad86b28c8e56a93c09c68247a94ad6918fabdf94c661fb4c73897e04ca2c80a9b36d14b8e71e32cf9dfd1f82e5c774c4a7</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000862 1000883' >
+		<attr name='alacarte' livesite='false'>[1004386.1002622.1000862.1000883.alacarte]</attr>
+		<attr name='description' livesite='false'>[1004386.1002622.1000862.1000883.description]</attr>
+		<attr name='group' livesite='false'>[1004386.1002622.1000862.1000883.group]</attr>
+		<attr name='msrp' livesite='false'>[1004386.1002622.1000862.1000883.msrp]</attr>
+		<attr name='title' livesite='false'>[1004386.1002622.1000862.1000883.title]</attr>
+		<attr name='type' livesite='false'>[1004386.1002622.1000862.1000883.type]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Key-Finder.jpg</attr>
+			<attr name='sha'>55fec81246234ff2650ab3e0d27586ad86b28c8e56a93c09c68247a94ad6918fabdf94c661fb4c73897e04ca2c80a9b36d14b8e71e32cf9dfd1f82e5c774c4a7</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000862 1003044' >
+		<attr name='alacarte' livesite='false'>[1004386.1002622.1000862.1003044.alacarte]</attr>
+		<attr name='description' livesite='false'>[1004386.1002622.1000862.1003044.description]</attr>
+		<attr name='group' livesite='false'>[1004386.1002622.1000862.1003044.group]</attr>
+		<attr name='msrp' livesite='false'>[1004386.1002622.1000862.1003044.msrp]</attr>
+		<attr name='title' livesite='false'>[1004386.1002622.1000862.1003044.title]</attr>
+		<attr name='type' livesite='false'>[1004386.1002622.1000862.1003044.type]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Key-Finder.jpg</attr>
+			<attr name='sha'>55fec81246234ff2650ab3e0d27586ad86b28c8e56a93c09c68247a94ad6918fabdf94c661fb4c73897e04ca2c80a9b36d14b8e71e32cf9dfd1f82e5c774c4a7</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

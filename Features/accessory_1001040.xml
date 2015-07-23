@@ -1,0 +1,138 @@
+<feature id='1001040' type='accessory' scope='1002622 1000863 1000929, 1000851 1000863 1000929, 1002622 1000863 1000930, 1000851 1000863 1000930' cardinality='mandatory' >
+	<attr name='alacarte'></attr>
+	<attr name='code'>3V</attr>
+	<attr name='derived' livesite='false'>[1001040.derived]</attr>
+	<attr name='description'></attr>
+	<attr name='fullimage'></attr>
+	<attr name='group' livesite='false'>[1001040.group]</attr>
+	<attr name='keyfeatures'></attr>
+	<attr name='marketingeffectivedate'></attr>
+	<attr name='msrp'></attr>
+	<attr name='option'></attr>
+	<attr name='package'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='secondaryfeatures'></attr>
+	<attr name='source' livesite='false'>[1001040.source]</attr>
+	<attr name='specialexteriorcolorflag'></attr>
+	<attr name='specialinteriorcolorflag'></attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'></attr>
+	<attr name='type' livesite='false'>[1001040.type]</attr>
+	<attr name='videokey'></attr>
+	<attr name='viewpointkey'></attr>
+	<attr name='vtc' livesite='false'>[1001040.vtc]</attr>
+	<if id='1000851 1000863 1000929' >
+		<attr name='alacarte' livesite='false'>[1001040.1000851.1000863.1000929.alacarte]</attr>
+		<attr name='description'>[1001040.1000851.1000863.1000929.description]</attr>
+		<attr name='group'>[1001040.1000851.1000863.1000929.group]</attr>
+		<attr name='keyfeatures'>[1001040.1000851.1000863.1000929.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001040.1000851.1000863.1000929.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001040.1000851.1000863.1000929.msrp]</attr>
+		<attr name='option' livesite='false'>[1001040.1000851.1000863.1000929.option]</attr>
+		<attr name='package' livesite='false'>[1001040.1000851.1000863.1000929.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001040.1000851.1000863.1000929.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001040.1000851.1000863.1000929.secondaryfeatures]</attr>
+		<attr name='source' livesite='false'>[1001040.1000851.1000863.1000929.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001040.1000851.1000863.1000929.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001040.1000851.1000863.1000929.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001040.1000851.1000863.1000929.title]</attr>
+		<attr name='videokey'>[1001040.1000851.1000863.1000929.videokey]</attr>
+		<attr name='viewpointkey'>[1001040.1000851.1000863.1000929.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1001040.1000851.1000863.1000929.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_3V' type='TEXT'>{1001040 conflicts(1001129)}</rule>
+	</if>
+
+	<if id='1000851 1000863 1000930' >
+		<attr name='alacarte' livesite='false'>[1001040.1000851.1000863.1000930.alacarte]</attr>
+		<attr name='description'>[1001040.1000851.1000863.1000930.description]</attr>
+		<attr name='group'>[1001040.1000851.1000863.1000930.group]</attr>
+		<attr name='keyfeatures'>[1001040.1000851.1000863.1000930.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001040.1000851.1000863.1000930.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001040.1000851.1000863.1000930.msrp]</attr>
+		<attr name='option' livesite='false'>[1001040.1000851.1000863.1000930.option]</attr>
+		<attr name='package' livesite='false'>[1001040.1000851.1000863.1000930.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001040.1000851.1000863.1000930.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001040.1000851.1000863.1000930.secondaryfeatures]</attr>
+		<attr name='source' livesite='false'>[1001040.1000851.1000863.1000930.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001040.1000851.1000863.1000930.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001040.1000851.1000863.1000930.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001040.1000851.1000863.1000930.title]</attr>
+		<attr name='videokey'>[1001040.1000851.1000863.1000930.videokey]</attr>
+		<attr name='viewpointkey'>[1001040.1000851.1000863.1000930.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1001040.1000851.1000863.1000930.vtc]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_3V' type='TEXT'>{1001040 conflicts(1001129)}</rule>
+	</if>
+
+	<if id='1002622 1000863 1000929' >
+		<attr name='alacarte' livesite='false'>[1001040.1002622.1000863.1000929.alacarte]</attr>
+		<attr name='description' livesite='false'>[1001040.1002622.1000863.1000929.description]</attr>
+		<attr name='group' livesite='false'>[1001040.1002622.1000863.1000929.group]</attr>
+		<attr name='keyfeatures'>[1001040.1002622.1000863.1000929.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001040.1002622.1000863.1000929.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001040.1002622.1000863.1000929.msrp]</attr>
+		<attr name='option' livesite='false'>[1001040.1002622.1000863.1000929.option]</attr>
+		<attr name='package' livesite='false'>[1001040.1002622.1000863.1000929.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001040.1002622.1000863.1000929.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001040.1002622.1000863.1000929.secondaryfeatures]</attr>
+		<attr name='source' livesite='false'>[1001040.1002622.1000863.1000929.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001040.1002622.1000863.1000929.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001040.1002622.1000863.1000929.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001040.1002622.1000863.1000929.title]</attr>
+		<attr name='videokey'>[1001040.1002622.1000863.1000929.videokey]</attr>
+		<attr name='viewpointkey'>[1001040.1002622.1000863.1000929.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_3V' type='TEXT'>{1001040 conflicts(1001129)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>RAV4_2015_RoofRackCrossBars_D.jpg</attr>
+			<attr name='sha'>4f84e1588087aa534422a6b5d94c72a5fed3ca56</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000863 1000930' >
+		<attr name='alacarte' livesite='false'>[1001040.1002622.1000863.1000930.alacarte]</attr>
+		<attr name='description' livesite='false'>[1001040.1002622.1000863.1000930.description]</attr>
+		<attr name='group' livesite='false'>[1001040.1002622.1000863.1000930.group]</attr>
+		<attr name='keyfeatures'>[1001040.1002622.1000863.1000930.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001040.1002622.1000863.1000930.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001040.1002622.1000863.1000930.msrp]</attr>
+		<attr name='option' livesite='false'>[1001040.1002622.1000863.1000930.option]</attr>
+		<attr name='package' livesite='false'>[1001040.1002622.1000863.1000930.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001040.1002622.1000863.1000930.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001040.1002622.1000863.1000930.secondaryfeatures]</attr>
+		<attr name='source' livesite='false'>[1001040.1002622.1000863.1000930.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001040.1002622.1000863.1000930.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001040.1002622.1000863.1000930.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001040.1002622.1000863.1000930.title]</attr>
+		<attr name='videokey'>[1001040.1002622.1000863.1000930.videokey]</attr>
+		<attr name='viewpointkey'>[1001040.1002622.1000863.1000930.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_3V' type='TEXT'>{1001040 conflicts(1001129)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>RAV4_2015_RoofRackCrossBars_D.jpg</attr>
+			<attr name='sha'>4f84e1588087aa534422a6b5d94c72a5fed3ca56</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>Un-vtc until confirmation from CAD regarding assets. Current TCOM this item is not vtc.d</attr>
+		<attr name='systemdate'>2014 May 11</attr>
+		<attr name='time'>2014 May 11</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>Un-vtc until confirmation from CAD regarding assets. Current TCOM this item is not vtc.d</attr>
+		<attr name='systemdate'>2014 May 11</attr>
+		<attr name='time'>2014 May 11</attr>
+	</complextype>
+</group>
+
+</feature>

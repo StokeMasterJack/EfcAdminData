@@ -1,0 +1,5 @@
+<feature id='interiorcolorfamilyRanking' type='group' cardinality='optional' childtypes='interiorcolorfamily' children='1002579 1002580 1002581 1002582' vta='false' >
+	<if id='1002622' children='1002581 1002580 1002582 1002579' >
+	</if>
+
+</feature>

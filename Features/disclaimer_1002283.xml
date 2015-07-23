@@ -1,0 +1,16 @@
+<feature id='1002283' type='disclaimer' cardinality='optional' >
+	<attr name='code'>tire_pressure</attr>
+	<attr name='derived' livesite='false'>[1002283.derived]</attr>
+	<attr name='description' livesite='false'>[1002283.description]</attr>
+	<attr name='source' livesite='false'>[1002283.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1002283.vtc]</attr>
+	<if id='1002622 1000859' >
+		<attr name='description' livesite='false'>[1002283.1002622.1000859.description]</attr>
+	</if>
+
+	<if id='1002622 1000862' >
+		<attr name='description' livesite='false'>[1002283.1002622.1000862.description]</attr>
+	</if>
+
+</feature>

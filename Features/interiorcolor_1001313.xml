@@ -1,0 +1,240 @@
+<feature id='1001313' type='interiorcolor' scope='1000851 1000852 1001028, 1000851 1000852 1001027, 1002622 1000852 1001031, 1000851 1000866 1000945, 1000851 1000852 1001033, 1000851 1000866 1000942, 1000851 1000852 1001030, 1000851 1000852 1001031, 1002622 1000852 1001028, 1000851 1000852 1001034, 1002622 1000866 1000943' cardinality='mandatory' >
+	<attr name='code'>LB42</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1001313.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001313.vtc]</attr>
+	<if id='1000851 1000852 1001027' >
+		<attr name='derived' livesite='false'>[1001313.1000851.1000852.1001027.derived]</attr>
+		<attr name='description'>[1001313.1000851.1000852.1001027.description]</attr>
+		<attr name='materialtypeid'>[1001313.1000851.1000852.1001027.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001313.1000851.1000852.1001027.source]</attr>
+		<attr name='title' livesite='false'>[1001313.1000851.1000852.1001027.title]</attr>
+		<attr name='vtc' livesite='false'>[1001313.1000851.1000852.1001027.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000852 1001028' >
+		<attr name='derived' livesite='false'>[1001313.1000851.1000852.1001028.derived]</attr>
+		<attr name='description'>[1001313.1000851.1000852.1001028.description]</attr>
+		<attr name='materialtypeid'>[1001313.1000851.1000852.1001028.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001313.1000851.1000852.1001028.source]</attr>
+		<attr name='title' livesite='false'>[1001313.1000851.1000852.1001028.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>my14_4runner_SR5_Softex_SandBeige.2.jpg</attr>
+			<attr name='sha'>a637598b58eab6bfe81329a5a586ea4f15888546</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>my14_4runner_SR5_Softex_SandBeige.2.jpg</attr>
+			<attr name='sha'>72bec8cb839236571639eecfd9dcabeba0741bb2</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>my14_4runner_SR5_Softex_SandBeige.2.jpg</attr>
+			<attr name='sha'>a76d3f47ccd3a5794ba545cb5aac752d38c0c80c</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000852 1001030' >
+		<attr name='derived' livesite='false'>[1001313.1000851.1000852.1001030.derived]</attr>
+		<attr name='description'>[1001313.1000851.1000852.1001030.description]</attr>
+		<attr name='materialtypeid'>[1001313.1000851.1000852.1001030.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001313.1000851.1000852.1001030.source]</attr>
+		<attr name='title' livesite='false'>[1001313.1000851.1000852.1001030.title]</attr>
+		<attr name='vtc' livesite='false'>[1001313.1000851.1000852.1001030.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000852 1001031' >
+		<attr name='derived' livesite='false'>[1001313.1000851.1000852.1001031.derived]</attr>
+		<attr name='description'>[1001313.1000851.1000852.1001031.description]</attr>
+		<attr name='materialtypeid'>[1001313.1000851.1000852.1001031.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001313.1000851.1000852.1001031.source]</attr>
+		<attr name='title' livesite='false'>[1001313.1000851.1000852.1001031.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>my14_4runner_SR5_Softex_SandBeige.2.jpg</attr>
+			<attr name='sha'>a637598b58eab6bfe81329a5a586ea4f15888546</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>my14_4runner_SR5_Softex_SandBeige.2.jpg</attr>
+			<attr name='sha'>72bec8cb839236571639eecfd9dcabeba0741bb2</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>my14_4runner_SR5_Softex_SandBeige.2.jpg</attr>
+			<attr name='sha'>a76d3f47ccd3a5794ba545cb5aac752d38c0c80c</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000852 1001033' >
+		<attr name='derived' livesite='false'>[1001313.1000851.1000852.1001033.derived]</attr>
+		<attr name='description'>[1001313.1000851.1000852.1001033.description]</attr>
+		<attr name='materialtypeid'>[1001313.1000851.1000852.1001033.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001313.1000851.1000852.1001033.source]</attr>
+		<attr name='title' livesite='false'>[1001313.1000851.1000852.1001033.title]</attr>
+		<attr name='vtc' livesite='false'>[1001313.1000851.1000852.1001033.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000852 1001034' >
+		<attr name='derived' livesite='false'>[1001313.1000851.1000852.1001034.derived]</attr>
+		<attr name='description'>[1001313.1000851.1000852.1001034.description]</attr>
+		<attr name='materialtypeid'>[1001313.1000851.1000852.1001034.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001313.1000851.1000852.1001034.source]</attr>
+		<attr name='title' livesite='false'>[1001313.1000851.1000852.1001034.title]</attr>
+		<attr name='vtc' livesite='false'>[1001313.1000851.1000852.1001034.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000866 1000942' >
+		<attr name='source' livesite='false'>[1001313.1000851.1000866.1000942.source]</attr>
+		<attr name='title' livesite='false'>[1001313.1000851.1000866.1000942.title]</attr>
+	</if>
+
+	<if id='1000851 1000866 1000945' >
+		<attr name='derived' livesite='false'>[1001313.1000851.1000866.1000945.derived]</attr>
+		<attr name='description'>[1001313.1000851.1000866.1000945.description]</attr>
+		<attr name='materialtypeid'>[1001313.1000851.1000866.1000945.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001313.1000851.1000866.1000945.source]</attr>
+		<attr name='title' livesite='false'>[1001313.1000851.1000866.1000945.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sienna_int_xle_bisque_v14cs_hd_002.jpg</attr>
+			<attr name='sha'>a41cbf1cc4c1710eb165c42ea0bd10d2ba7219d6</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sienna_int_xle_bisque_v14cs_hd_002.jpg</attr>
+			<attr name='sha'>26a7140803bf89a119ffd5c028039ed4e96f9334</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sienna_int_xle_bisque_v14cs_hd_002.jpg</attr>
+			<attr name='sha'>716a8cd3b1ca5505a468eaa136da837a0f01d57f</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000852 1001028' >
+		<attr name='derived' livesite='false'>[1001313.1002622.1000852.1001028.derived]</attr>
+		<attr name='description'>[1001313.1002622.1000852.1001028.description]</attr>
+		<attr name='materialtypeid'>[1001313.1002622.1000852.1001028.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001313.1002622.1000852.1001028.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>my14_4runner_SR5_Softex_SandBeige.2.jpg</attr>
+			<attr name='sha'>a637598b58eab6bfe81329a5a586ea4f15888546</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>my14_4runner_SR5_Softex_SandBeige.2.jpg</attr>
+			<attr name='sha'>72bec8cb839236571639eecfd9dcabeba0741bb2</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>my14_4runner_SR5_Softex_SandBeige.2.jpg</attr>
+			<attr name='sha'>a76d3f47ccd3a5794ba545cb5aac752d38c0c80c</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000852 1001031' >
+		<attr name='derived' livesite='false'>[1001313.1002622.1000852.1001031.derived]</attr>
+		<attr name='description'>[1001313.1002622.1000852.1001031.description]</attr>
+		<attr name='materialtypeid'>[1001313.1002622.1000852.1001031.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001313.1002622.1000852.1001031.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>my14_4runner_SR5_Softex_SandBeige.2.jpg</attr>
+			<attr name='sha'>a637598b58eab6bfe81329a5a586ea4f15888546</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>my14_4runner_SR5_Softex_SandBeige.2.jpg</attr>
+			<attr name='sha'>72bec8cb839236571639eecfd9dcabeba0741bb2</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>my14_4runner_SR5_Softex_SandBeige.2.jpg</attr>
+			<attr name='sha'>a76d3f47ccd3a5794ba545cb5aac752d38c0c80c</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1000943' >
+		<attr name='derived' livesite='false'>[1001313.1002622.1000866.1000943.derived]</attr>
+		<attr name='description'>[1001313.1002622.1000866.1000943.description]</attr>
+		<attr name='materialtypeid'>[1001313.1002622.1000866.1000943.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001313.1002622.1000866.1000943.source]</attr>
+		<attr name='title'>[1001313.1002622.1000866.1000943.title]</attr>
+		<attr name='vtc' livesite='false'>[1001313.1002622.1000866.1000943.vtc]</attr>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>LB42 is not an available color on 8672</attr>
+		<attr name='systemdate'>2014 April 18</attr>
+		<attr name='time'>2014 April 18</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>LB42 is not an available color on 8672</attr>
+		<attr name='systemdate'>2014 April 18</attr>
+		<attr name='time'>2014 April 18</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>LB42 is not available per DOD. Not vtc'd in the current Admin Tool and not o Production.</attr>
+		<attr name='systemdate'>2014 February 23</attr>
+		<attr name='time'>2014 February 23</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>LB42 is not available per DOD. Not vtc'd in the current Admin Tool and not o Production.</attr>
+		<attr name='systemdate'>2014 February 23</attr>
+		<attr name='time'>2014 February 23</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>LB42 is not an available interior color on 8670</attr>
+		<attr name='systemdate'>2014 April 18</attr>
+		<attr name='time'>2014 April 18</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>LB42 is not an available interior color on 8670</attr>
+		<attr name='systemdate'>2014 April 18</attr>
+		<attr name='time'>2014 April 18</attr>
+	</complextype>
+</group>
+
+</feature>

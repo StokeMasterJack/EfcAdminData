@@ -1,0 +1,8 @@
+<feature id='1002788' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1002788.source]</attr>
+	<attr name='derived' livesite='false'>[1002788.derived]</attr>
+	<attr name='code'>trd_performance_brake</attr>
+	<attr name='description' livesite='false'>[1002788.description]</attr>
+	<attr name='vtc' livesite='false'>[1002788.vtc]</attr>
+</feature>

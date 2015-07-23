@@ -1,0 +1,34 @@
+<feature id='1001113' type='accessory' scope='1000851 1000866 1000939' cardinality='mandatory' >
+	<attr name='alacarte'></attr>
+	<attr name='code'>P5</attr>
+	<attr name='derived' livesite='false'>[1001113.derived]</attr>
+	<attr name='description'></attr>
+	<attr name='fullimage'></attr>
+	<attr name='group'></attr>
+	<attr name='keyfeatures'></attr>
+	<attr name='marketingeffectivedate'></attr>
+	<attr name='msrp'></attr>
+	<attr name='option'></attr>
+	<attr name='package'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='secondaryfeatures'></attr>
+	<attr name='source' livesite='false'>[1001113.source]</attr>
+	<attr name='specialexteriorcolorflag'></attr>
+	<attr name='specialinteriorcolorflag'></attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'></attr>
+	<attr name='type' livesite='false'>[1001113.type]</attr>
+	<attr name='videokey'></attr>
+	<attr name='viewpointkey'></attr>
+	<attr name='vtc' livesite='false'>[1001113.vtc]</attr>
+	<if id='1000851 1000866 1000939' >
+		<attr name='alacarte' livesite='false'>[1001113.1000851.1000866.1000939.alacarte]</attr>
+		<attr name='description' livesite='false'>[1001113.1000851.1000866.1000939.description]</attr>
+		<attr name='group' livesite='false'>[1001113.1000851.1000866.1000939.group]</attr>
+		<attr name='msrp' livesite='false'>[1001113.1000851.1000866.1000939.msrp]</attr>
+		<attr name='source' livesite='false'>[1001113.1000851.1000866.1000939.source]</attr>
+		<attr name='title' livesite='false'>[1001113.1000851.1000866.1000939.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_P5' type='TEXT'>{1001113 conflicts(1001114)}</rule>
+	</if>
+
+</feature>

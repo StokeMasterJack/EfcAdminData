@@ -1,0 +1,77 @@
+<feature id='1000867' type='series' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='attachment'></attr>
+	<attr name='background'></attr>
+	<attr name='code'>tacoma</attr>
+	<attr name='comparemodel'></attr>
+	<attr name='defaultmodel'></attr>
+	<attr name='derived'>[1000867.derived]</attr>
+	<attr name='description'>[1000867.description]</attr>
+	<attr name='source'>[1000867.source]</attr>
+	<attr name='title' livesite='false'>[1000867.title]</attr>
+	<attr name='vtc'>[1000867.vtc]</attr>
+	<if id='1000851' disclaimers='1002417 1002411 1002415 1002414 1002412 1002221 1002059 1002226 1002394 1002327 1002325 1001638 1001768 1002287 1001767 1001865 1002368 1001887 1002628 1001867 1002629 1001869 1002044 1001602 1001605 1001643 1001681 1001646 1002283 1002811 1001952' >
+		<attr name='derived'>[1000867.1000851.derived]</attr>
+		<attr name='description'>[1000867.1000851.description]</attr>
+		<attr name='source'>[1000867.1000851.source]</attr>
+		<attr name='title'>[1000867.1000851.title]</attr>
+		<attr name='vtc'>[1000867.1000851.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>EFC Background _0007_Tacoma.jpg</attr>
+			<attr name='sha'>95525ff6a40a4cb7825c14450a0b4b6845a9e696</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>StandardFeaturesTacoma.xml</attr>
+			<attr name='sha'>ba42b81be7ad23147ce4790d5323be61e0c7f728</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>TacomaCompareModel050214.json</attr>
+			<attr name='sha'>539550aabd515eb16390373a8250ebbefa82d60f</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622' disclaimers='1002417 1002416 1002411 1002415 1002414 1001750 1002413 1002412 1002696 1002221 1002059 1002226 1002394 1002327 1002325 1002633 1002322 1001768 1001767 1002287 1001864 1001848 1002368 1001887 1002628 1001867 1002629 1001869 1002044 1001602 1001605 1001643 1001681 1002314 1001646 1002283 1001952' >
+		<attr name='defaultmodel'>[1000867.1002622.defaultmodel]</attr>
+		<attr name='derived' livesite='false'>[1000867.1002622.derived]</attr>
+		<attr name='description'>[1000867.1002622.description]</attr>
+		<attr name='source'>[1000867.1002622.source]</attr>
+		<attr name='vtc' livesite='false'>[1000867.1002622.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>EFC_Background_0007_Tacoma.jpg</attr>
+			<attr name='sha'>95525ff6a40a4cb7825c14450a0b4b6845a9e696</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>StandardFeaturesTacoma2015.xml</attr>
+			<attr name='sha'>9f1392b87d346ee9c330fe31b74b916c0b017587</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>2015TacomaCompareModel_CPD_TMS_20140714v1.json</attr>
+			<attr name='sha'>10e2f0f0f1cd40af42bae6810e0dd9e9d30dddfe</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>mediumbackground</attr>
+			<attr name='name'>EFC-background_0007_Tacoma_1024.jpg</attr>
+			<attr name='sha'>f92fa6ac9671141d8b642f77908065459bd2459a</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>smallbackground</attr>
+			<attr name='name'>EFC-background_0007_Tacoma_480.jpg</attr>
+			<attr name='sha'>00c1ace6228b9ef141c6c3db4137112870989cf0</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>largebackground</attr>
+			<attr name='name'>EFC-background_0007_Tacoma_1500.jpg</attr>
+			<attr name='sha'>d71fa73516e0d10f12478227cd6a3a6c4b4dcecf</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

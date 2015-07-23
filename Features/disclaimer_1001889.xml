@@ -1,0 +1,8 @@
+<feature id='1001889' type='disclaimer' cardinality='optional' >
+	<attr name='code'>hybrid_caution</attr>
+	<attr name='derived' livesite='false'>[1001889.derived]</attr>
+	<attr name='description' livesite='false'>[1001889.description]</attr>
+	<attr name='source' livesite='false'>[1001889.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001889.vtc]</attr>
+</feature>

@@ -1,0 +1,82 @@
+<feature id='1003057' type='exteriorcolor' scope='1002622 1000862 1003044, 1002622 1000862 1000883, 1002622 1000862 1000881, 1002622 1000862 1000882' cardinality='mandatory' >
+	<attr name='carjellyimage'></attr>
+	<attr name='code'>04W4</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='hexvalue'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1003057.source]</attr>
+	<attr name='title' livesite='false'>[1003057.title]</attr>
+	<attr name='vtc' livesite='false'>[1003057.vtc]</attr>
+	<if id='1002622 1000862 1000881' >
+		<attr name='derived' livesite='false'>[1003057.1002622.1000862.1000881.derived]</attr>
+		<attr name='description'>[1003057.1002622.1000862.1000881.description]</attr>
+		<attr name='hexvalue' livesite='false'>[1003057.1002622.1000862.1000881.hexvalue]</attr>
+		<attr name='materialtypeid'>[1003057.1002622.1000862.1000881.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003057.1002622.1000862.1000881.source]</attr>
+		<attr name='title' livesite='false'>[1003057.1002622.1000862.1000881.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04W4' type='TEXT'>{1003057 conflicts(1003062)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>prius_v_MY15_ext_TWO_XCOL_04W4_v006_si_byt_001.png</attr>
+			<attr name='sha'>a460781bb0504e30cd0b303632f8607066124ea962a4c2f20b36553fa784101488493cc1a4dd2df08dd694275ab4b6ba63982f4dbd032e021ba43962b16d2e64</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000862 1000882' >
+		<attr name='derived' livesite='false'>[1003057.1002622.1000862.1000882.derived]</attr>
+		<attr name='description'>[1003057.1002622.1000862.1000882.description]</attr>
+		<attr name='hexvalue' livesite='false'>[1003057.1002622.1000862.1000882.hexvalue]</attr>
+		<attr name='materialtypeid'>[1003057.1002622.1000862.1000882.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003057.1002622.1000862.1000882.source]</attr>
+		<attr name='title' livesite='false'>[1003057.1002622.1000862.1000882.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04W4' type='TEXT'>{1003057 conflicts(1003062)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>prius_v_MY15_ext_THREE_XCOL_04W4_v006_si_byt_001.png</attr>
+			<attr name='sha'>05bb0844cbe608033ae87970f7978cc8c5c9e99893978cc45e67e177e86ea5987e88d41be15e1d553e4cc55beffbb1ad6ca23f2c689fe5c60037c1c768411f7b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000862 1000883' >
+		<attr name='derived' livesite='false'>[1003057.1002622.1000862.1000883.derived]</attr>
+		<attr name='description'>[1003057.1002622.1000862.1000883.description]</attr>
+		<attr name='hexvalue' livesite='false'>[1003057.1002622.1000862.1000883.hexvalue]</attr>
+		<attr name='materialtypeid'>[1003057.1002622.1000862.1000883.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003057.1002622.1000862.1000883.source]</attr>
+		<attr name='title' livesite='false'>[1003057.1002622.1000862.1000883.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04W4' type='TEXT'>{1003057 conflicts(1003073)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>prius_v_MY15_ext_FIVE_XCOL_04W4_v006_si_byt_001.png</attr>
+			<attr name='sha'>0156e02c4d504ecdb981c98cb3a07e9b3b725800939cbfb344c52bbf4487e8dedf64eb78b6e48a617123932b7e071b665cc50ce5bce2f28a839127a7641515fe</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000862 1003044' >
+		<attr name='derived' livesite='false'>[1003057.1002622.1000862.1003044.derived]</attr>
+		<attr name='description'>[1003057.1002622.1000862.1003044.description]</attr>
+		<attr name='hexvalue' livesite='false'>[1003057.1002622.1000862.1003044.hexvalue]</attr>
+		<attr name='materialtypeid'>[1003057.1002622.1000862.1003044.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003057.1002622.1000862.1003044.source]</attr>
+		<attr name='title' livesite='false'>[1003057.1002622.1000862.1003044.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04W4' type='TEXT'>{1003057 conflicts(1003073)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>prius_v_MY15_ext_FOUR_XCOL_04W4_v006_si_byt_001.png</attr>
+			<attr name='sha'>7f26ad821656107df122cde6317c49faadd723ef26450b2a8dfa5e3a62f4188aefca9713542edb4aa9dd26c47c9eadf20fc612cf97f5b071202291265cbaead1</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

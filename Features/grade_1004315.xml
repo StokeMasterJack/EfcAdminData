@@ -1,0 +1,35 @@
+<feature id='1004315' type='grade' scope='1002622 1000853 1003045' cardinality='mandatory' >
+	<attr name='availablecopy'>[1004315.availablecopy]</attr>
+	<attr name='code'>XLEtouringsport</attr>
+	<attr name='copyblock'>[1004315.copyblock]</attr>
+	<attr name='derived' livesite='false'>[1004315.derived]</attr>
+	<attr name='description'>[1004315.description]</attr>
+	<attr name='hotspot'>[1004315.hotspot]</attr>
+	<attr name='iconname'>[1004315.iconname]</attr>
+	<attr name='images'></attr>
+	<attr name='keyword'>[1004315.keyword]</attr>
+	<attr name='mpg'>[1004315.mpg]</attr>
+	<attr name='source'>[1004315.source]</attr>
+	<attr name='title'>[1004315.title]</attr>
+	<attr name='vtc' livesite='false'>[1004315.vtc]</attr>
+	<if id='1002622 1000853 1003045' >
+		<attr name='availablecopy'>[1004315.1002622.1000853.1003045.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1004315.1002622.1000853.1003045.copyblock]</attr>
+		<attr name='description'>[1004315.1002622.1000853.1003045.description]</attr>
+		<attr name='hotspot'>[1004315.1002622.1000853.1003045.hotspot]</attr>
+		<attr name='iconname'>[1004315.1002622.1000853.1003045.iconname]</attr>
+		<attr name='keyword'>[1004315.1002622.1000853.1003045.keyword]</attr>
+		<attr name='mpg'>[1004315.1002622.1000853.1003045.mpg]</attr>
+		<attr name='source' livesite='false'>[1004315.1002622.1000853.1003045.source]</attr>
+		<attr name='title' livesite='false'>[1004315.1002622.1000853.1003045.title]</attr>
+		<attr name='vtc' livesite='false'>[1004315.1002622.1000853.1003045.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>avalon_ext_XLE_Touring_SE_218_v026_efc_jelly_profile_002.png</attr>
+			<attr name='sha'>d20c3f014f12615cb11c8be846312a3985b456a3</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

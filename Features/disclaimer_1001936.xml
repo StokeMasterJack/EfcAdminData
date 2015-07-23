@@ -1,0 +1,8 @@
+<feature id='1001936' type='disclaimer' cardinality='optional' >
+	<attr name='derived' livesite='false'>[1001936.derived]</attr>
+	<attr name='code'>iihs_12_yaris</attr>
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1001936.source]</attr>
+	<attr name='description' livesite='false'>[1001936.description]</attr>
+	<attr name='vtc' livesite='false'>[1001936.vtc]</attr>
+</feature>

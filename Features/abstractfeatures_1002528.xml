@@ -1,0 +1,7 @@
+<feature id='1002528' type='abstractfeatures' cardinality='optional' >
+	<attr name='code'>S</attr>
+	<attr name='title' livesite='false'>[1002528.title]</attr>
+	<attr name='vtc' livesite='false'>[1002528.vtc]</attr>
+	<attr name='source' livesite='false'>[1002528.source]</attr>
+	<attr name='derived' livesite='false'>[1002528.derived]</attr>
+</feature>

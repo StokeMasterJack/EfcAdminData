@@ -1,0 +1,36 @@
+<feature id='1004253' type='grade' scope='1002622 1000854 1002849' cardinality='mandatory' >
+	<attr name='code'>hybridSE</attr>
+	<attr name='images'></attr>
+	<attr name='derived' livesite='false'>[1004253.derived]</attr>
+	<attr name='keyword'>[1004253.keyword]</attr>
+	<attr name='mpg'>[1004253.mpg]</attr>
+	<attr name='source'>[1004253.source]</attr>
+	<attr name='availablecopy'>[1004253.availablecopy]</attr>
+	<attr name='copyblock'>[1004253.copyblock]</attr>
+	<attr name='iconname'>[1004253.iconname]</attr>
+	<attr name='description'>[1004253.description]</attr>
+	<attr name='title' livesite='false'>[1004253.title]</attr>
+	<attr name='hotspot'>[1004253.hotspot]</attr>
+	<attr name='vtc' livesite='false'>[1004253.vtc]</attr>
+	<if id='1002622 1000854 1002849' >
+		<attr name='title' livesite='false'>[1004253.1002622.1000854.1002849.title]</attr>
+		<attr name='availablecopy' livesite='false'>[1004253.1002622.1000854.1002849.availablecopy]</attr>
+		<attr name='mpg'>[1004253.1002622.1000854.1002849.mpg]</attr>
+		<attr name='iconname'>[1004253.1002622.1000854.1002849.iconname]</attr>
+		<attr name='source' livesite='false'>[1004253.1002622.1000854.1002849.source]</attr>
+		<attr name='copyblock' livesite='false'>[1004253.1002622.1000854.1002849.copyblock]</attr>
+		<attr name='description'>[1004253.1002622.1000854.1002849.description]</attr>
+		<attr name='keyword'>[1004253.1002622.1000854.1002849.keyword]</attr>
+		<attr name='derived' livesite='false'>[1004253.1002622.1000854.1002849.derived]</attr>
+		<attr name='vtc' livesite='false'>[1004253.1002622.1000854.1002849.vtc]</attr>
+		<attr name='hotspot'>[1004253.1002622.1000854.1002849.hotspot]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>MY15_Camry_ext_Hybrid_SE_01J9.png</attr>
+			<attr name='sha'>720e8ee8e8421617bfeed04e5c2bfdefaecf2813</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

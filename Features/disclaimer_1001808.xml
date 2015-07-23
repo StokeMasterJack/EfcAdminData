@@ -1,0 +1,8 @@
+<feature id='1001808' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001808.vtc]</attr>
+	<attr name='code'>ev_location_services</attr>
+	<attr name='description' livesite='false'>[1001808.description]</attr>
+	<attr name='source' livesite='false'>[1001808.source]</attr>
+	<attr name='derived' livesite='false'>[1001808.derived]</attr>
+</feature>

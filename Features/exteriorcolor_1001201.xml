@@ -1,0 +1,186 @@
+<feature id='1001201' type='exteriorcolor' scope='1000851 1000855 1000895, 1000851 1000855 1000894, 1000851 1000855 1000893, 1000851 1000855 1000901, 1000851 1000855 1000900, 1000851 1000855 1000902, 1002622 1000855 1000902, 1002622 1000855 1000893, 1002622 1000855 1000900, 1002622 1000855 1000895, 1002622 1000855 1000894, 1002622 1000855 1000901' cardinality='mandatory' >
+	<attr name='carjellyimage'></attr>
+	<attr name='code'>06W3</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='hexvalue' livesite='false'>[1001201.hexvalue]</attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1001201.source]</attr>
+	<attr name='title' livesite='false'>[1001201.title]</attr>
+	<attr name='vtc' livesite='false'>[1001201.vtc]</attr>
+	<if id='1000851 1000855 1000893' >
+		<attr name='derived' livesite='false'>[1001201.1000851.1000855.1000893.derived]</attr>
+		<attr name='description'>[1001201.1000851.1000855.1000893.description]</attr>
+		<attr name='materialtypeid'>[1001201.1000851.1000855.1000893.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001201.1000851.1000855.1000893.source]</attr>
+		<attr name='title' livesite='false'>[1001201.1000851.1000855.1000893.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Corolla_ext_LE_6W3_v01ma_hd_001.png</attr>
+			<attr name='sha'>60a9a90f99b14254329b544ab160b8af1eec4cc0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000894' >
+		<attr name='derived' livesite='false'>[1001201.1000851.1000855.1000894.derived]</attr>
+		<attr name='source' livesite='false'>[1001201.1000851.1000855.1000894.source]</attr>
+		<attr name='title' livesite='false'>[1001201.1000851.1000855.1000894.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Corolla_ext_LE_6W3_v01ma_hd_001.png</attr>
+			<attr name='sha'>60a9a90f99b14254329b544ab160b8af1eec4cc0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000895' >
+		<attr name='derived' livesite='false'>[1001201.1000851.1000855.1000895.derived]</attr>
+		<attr name='source' livesite='false'>[1001201.1000851.1000855.1000895.source]</attr>
+		<attr name='title' livesite='false'>[1001201.1000851.1000855.1000895.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Corolla_ext_LE_6W3_v01ma_hd_001.png</attr>
+			<attr name='sha'>60a9a90f99b14254329b544ab160b8af1eec4cc0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000900' >
+		<attr name='derived' livesite='false'>[1001201.1000851.1000855.1000900.derived]</attr>
+		<attr name='description'>[1001201.1000851.1000855.1000900.description]</attr>
+		<attr name='materialtypeid'>[1001201.1000851.1000855.1000900.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001201.1000851.1000855.1000900.source]</attr>
+		<attr name='title' livesite='false'>[1001201.1000851.1000855.1000900.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Corolla_ext_ECO_6W3_v01ma_hd_001.png</attr>
+			<attr name='sha'>3d1ef8d59e2de0e0148b32e8c0b87755ad3cc45b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000901' >
+		<attr name='derived' livesite='false'>[1001201.1000851.1000855.1000901.derived]</attr>
+		<attr name='source' livesite='false'>[1001201.1000851.1000855.1000901.source]</attr>
+		<attr name='title' livesite='false'>[1001201.1000851.1000855.1000901.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Corolla_ext_ECO_6W3_v01ma_hd_001.png</attr>
+			<attr name='sha'>3d1ef8d59e2de0e0148b32e8c0b87755ad3cc45b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000902' >
+		<attr name='derived' livesite='false'>[1001201.1000851.1000855.1000902.derived]</attr>
+		<attr name='source' livesite='false'>[1001201.1000851.1000855.1000902.source]</attr>
+		<attr name='title' livesite='false'>[1001201.1000851.1000855.1000902.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Corolla_ext_ECO_6W3_v01ma_hd_001.png</attr>
+			<attr name='sha'>3d1ef8d59e2de0e0148b32e8c0b87755ad3cc45b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000893' >
+		<attr name='derived' livesite='false'>[1001201.1002622.1000855.1000893.derived]</attr>
+		<attr name='description'>[1001201.1002622.1000855.1000893.description]</attr>
+		<attr name='materialtypeid'>[1001201.1002622.1000855.1000893.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001201.1002622.1000855.1000893.source]</attr>
+		<attr name='title' livesite='false'>[1001201.1002622.1000855.1000893.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Corolla_ext_LE_06W3_v029_hd_001.png</attr>
+			<attr name='sha'>afbb3331b13efbb0429f9684629e1b3e8ad9c258</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000894' >
+		<attr name='derived' livesite='false'>[1001201.1002622.1000855.1000894.derived]</attr>
+		<attr name='description'>[1001201.1002622.1000855.1000894.description]</attr>
+		<attr name='materialtypeid'>[1001201.1002622.1000855.1000894.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001201.1002622.1000855.1000894.source]</attr>
+		<attr name='title' livesite='false'>[1001201.1002622.1000855.1000894.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Corolla_ext_LE_06W3_v029_hd_001.png</attr>
+			<attr name='sha'>afbb3331b13efbb0429f9684629e1b3e8ad9c258</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000895' >
+		<attr name='derived' livesite='false'>[1001201.1002622.1000855.1000895.derived]</attr>
+		<attr name='description'>[1001201.1002622.1000855.1000895.description]</attr>
+		<attr name='materialtypeid'>[1001201.1002622.1000855.1000895.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001201.1002622.1000855.1000895.source]</attr>
+		<attr name='title' livesite='false'>[1001201.1002622.1000855.1000895.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Corolla_ext_LE_06W3_v029_hd_001.png</attr>
+			<attr name='sha'>afbb3331b13efbb0429f9684629e1b3e8ad9c258</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000900' >
+		<attr name='derived' livesite='false'>[1001201.1002622.1000855.1000900.derived]</attr>
+		<attr name='description'>[1001201.1002622.1000855.1000900.description]</attr>
+		<attr name='materialtypeid'>[1001201.1002622.1000855.1000900.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001201.1002622.1000855.1000900.source]</attr>
+		<attr name='title' livesite='false'>[1001201.1002622.1000855.1000900.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Corolla_ext_ECO_6W3_v01ma_hd_001.png</attr>
+			<attr name='sha'>3d1ef8d59e2de0e0148b32e8c0b87755ad3cc45b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000901' >
+		<attr name='derived' livesite='false'>[1001201.1002622.1000855.1000901.derived]</attr>
+		<attr name='description'>[1001201.1002622.1000855.1000901.description]</attr>
+		<attr name='materialtypeid'>[1001201.1002622.1000855.1000901.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001201.1002622.1000855.1000901.source]</attr>
+		<attr name='title' livesite='false'>[1001201.1002622.1000855.1000901.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Corolla_ext_ECO_6W3_v01ma_hd_001.png</attr>
+			<attr name='sha'>3d1ef8d59e2de0e0148b32e8c0b87755ad3cc45b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000902' >
+		<attr name='derived' livesite='false'>[1001201.1002622.1000855.1000902.derived]</attr>
+		<attr name='description'>[1001201.1002622.1000855.1000902.description]</attr>
+		<attr name='materialtypeid'>[1001201.1002622.1000855.1000902.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001201.1002622.1000855.1000902.source]</attr>
+		<attr name='title' livesite='false'>[1001201.1002622.1000855.1000902.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Corolla_ext_ECO_6W3_v01ma_hd_001.png</attr>
+			<attr name='sha'>3d1ef8d59e2de0e0148b32e8c0b87755ad3cc45b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

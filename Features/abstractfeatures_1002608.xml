@@ -1,0 +1,11 @@
+<feature id='1002608' type='abstractfeatures' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='code'>Premium</attr>
+	<attr name='derived' livesite='false'>[1002608.derived]</attr>
+	<attr name='source' livesite='false'>[1002608.source]</attr>
+	<attr name='title' livesite='false'>[1002608.title]</attr>
+	<attr name='vtc' livesite='false'>[1002608.vtc]</attr>
+	<if id='1000851 1000852' >
+		<rule src='ADMIN' type='TEXT'>{1002608 requires((1000851*1000852*1001028),(1000851*1000852*1001031),(1000851*1000852*1001034))}</rule>
+	</if>
+
+</feature>

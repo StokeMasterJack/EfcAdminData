@@ -1,0 +1,8 @@
+<feature id='1002313' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='derived' livesite='false'>[1002313.derived]</attr>
+	<attr name='source' livesite='false'>[1002313.source]</attr>
+	<attr name='vtc' livesite='false'>[1002313.vtc]</attr>
+	<attr name='code'>toy_bra_3</attr>
+	<attr name='description' livesite='false'>[1002313.description]</attr>
+</feature>

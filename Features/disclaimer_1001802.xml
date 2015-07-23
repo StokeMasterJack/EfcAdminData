@@ -1,0 +1,12 @@
+<feature id='1001802' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1001802.description]</attr>
+	<attr name='source' livesite='false'>[1001802.source]</attr>
+	<attr name='derived' livesite='false'>[1001802.derived]</attr>
+	<attr name='vtc' livesite='false'>[1001802.vtc]</attr>
+	<attr name='code'>epa_siennawap</attr>
+	<attr name='title'></attr>
+	<if id='1002622' >
+		<attr name='description' livesite='false'>[1001802.1002622.description]</attr>
+	</if>
+
+</feature>

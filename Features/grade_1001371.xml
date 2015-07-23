@@ -1,0 +1,19 @@
+<feature id='1001371' type='grade' cardinality='optional' >
+	<attr name='images'></attr>
+	<attr name='description'>[1001371.description]</attr>
+	<attr name='source' livesite='false'>[1001371.source]</attr>
+	<attr name='copyblock'>[1001371.copyblock]</attr>
+	<attr name='iconname'></attr>
+	<attr name='availablecopy'>[1001371.availablecopy]</attr>
+	<attr name='keyword'>[1001371.keyword]</attr>
+	<attr name='vtc' livesite='false'>[1001371.vtc]</attr>
+	<attr name='title' livesite='false'>[1001371.title]</attr>
+	<attr name='derived' livesite='false'>[1001371.derived]</attr>
+	<attr name='hotspot'></attr>
+	<attr name='mpg'>[1001371.mpg]</attr>
+	<attr name='code'>Spremium</attr>
+	<if id='1000851 1000855 1000899' >
+		<attr name='title' livesite='false'>[1001371.1000851.1000855.1000899.title]</attr>
+	</if>
+
+</feature>

@@ -1,0 +1,53 @@
+<feature id='1001357' type='grade' scope='1000851 1000862 1000881, 1002622 1000862 1000881' cardinality='mandatory' >
+	<attr name='availablecopy'></attr>
+	<attr name='code'>priusvtwo</attr>
+	<attr name='copyblock'></attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='hotspot'></attr>
+	<attr name='iconname'></attr>
+	<attr name='images'></attr>
+	<attr name='keyword'></attr>
+	<attr name='mpg'></attr>
+	<attr name='source' livesite='false'>[1001357.source]</attr>
+	<attr name='title' livesite='false'>[1001357.title]</attr>
+	<attr name='vtc' livesite='false'>[1001357.vtc]</attr>
+	<if id='1000851 1000862 1000881' disclaimers='1001889' >
+		<attr name='availablecopy'>[1001357.1000851.1000862.1000881.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001357.1000851.1000862.1000881.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001357.1000851.1000862.1000881.derived]</attr>
+		<attr name='description'>[1001357.1000851.1000862.1000881.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001357.1000851.1000862.1000881.hotspot]</attr>
+		<attr name='iconname'>[1001357.1000851.1000862.1000881.iconname]</attr>
+		<attr name='keyword'>[1001357.1000851.1000862.1000881.keyword]</attr>
+		<attr name='mpg'>[1001357.1000851.1000862.1000881.mpg]</attr>
+		<attr name='title' livesite='false'>[1001357.1000851.1000862.1000881.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_Prius_V_Two.png</attr>
+			<attr name='sha'>8930fb26288a255855ecf6d48d5d50f4c591754f</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000862 1000881' >
+		<attr name='availablecopy'>[1001357.1002622.1000862.1000881.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001357.1002622.1000862.1000881.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001357.1002622.1000862.1000881.derived]</attr>
+		<attr name='description'>[1001357.1002622.1000862.1000881.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001357.1002622.1000862.1000881.hotspot]</attr>
+		<attr name='iconname'>[1001357.1002622.1000862.1000881.iconname]</attr>
+		<attr name='keyword'>[1001357.1002622.1000862.1000881.keyword]</attr>
+		<attr name='mpg'>[1001357.1002622.1000862.1000881.mpg]</attr>
+		<attr name='title' livesite='false'>[1001357.1002622.1000862.1000881.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>prius_v_MY15_ext_TWO_XCOL_03P0_v006_efc_002.png</attr>
+			<attr name='sha'>d9fcf46b95a8d8ff17563eb5c80baaaccad8127b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

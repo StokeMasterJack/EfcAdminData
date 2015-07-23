@@ -1,0 +1,111 @@
+<feature id='1001297' type='interiorcolor' scope='1000851 1000852 1001029, 1002622 1000852 1001032, 1000851 1000852 1001032, 1002622 1000852 1001029' cardinality='mandatory' >
+	<attr name='title'></attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='source' livesite='false'>[1001297.source]</attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='code'>LA24</attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='vtc' livesite='false'>[1001297.vtc]</attr>
+	<attr name='offswatchimage'></attr>
+	<if id='1000851 1000852 1001029' >
+		<attr name='materialtypeid'>[1001297.1000851.1000852.1001029.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001297.1000851.1000852.1001029.title]</attr>
+		<attr name='source' livesite='false'>[1001297.1000851.1000852.1001029.source]</attr>
+		<attr name='description'>[1001297.1000851.1000852.1001029.description]</attr>
+		<attr name='derived' livesite='false'>[1001297.1000851.1000852.1001029.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>my14_4_runner_int_Limited_Leather_Redwood.2.jpg</attr>
+			<attr name='sha'>f558fe99a0660dca953bee9a194874ffa5ec7e29</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>my14_4_runner_int_Limited_Leather_Redwood.2.jpg</attr>
+			<attr name='sha'>fc1e678c479eee02dc51329e90c06fed12d84f35</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>my14_4_runner_int_Limited_Leather_Redwood.2.jpg</attr>
+			<attr name='sha'>45af8f9b897847dfc7168ac0ce3bffb83582d565</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000852 1001032' >
+		<attr name='materialtypeid'>[1001297.1000851.1000852.1001032.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001297.1000851.1000852.1001032.title]</attr>
+		<attr name='source' livesite='false'>[1001297.1000851.1000852.1001032.source]</attr>
+		<attr name='description'>[1001297.1000851.1000852.1001032.description]</attr>
+		<attr name='derived' livesite='false'>[1001297.1000851.1000852.1001032.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>my14_4_runner_int_Limited_Leather_Redwood.2.jpg</attr>
+			<attr name='sha'>f558fe99a0660dca953bee9a194874ffa5ec7e29</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>my14_4_runner_int_Limited_Leather_Redwood.2.jpg</attr>
+			<attr name='sha'>fc1e678c479eee02dc51329e90c06fed12d84f35</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>my14_4_runner_int_Limited_Leather_Redwood.2.jpg</attr>
+			<attr name='sha'>45af8f9b897847dfc7168ac0ce3bffb83582d565</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000852 1001029' >
+		<attr name='materialtypeid'>[1001297.1002622.1000852.1001029.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001297.1002622.1000852.1001029.title]</attr>
+		<attr name='description'>[1001297.1002622.1000852.1001029.description]</attr>
+		<attr name='derived' livesite='false'>[1001297.1002622.1000852.1001029.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>my14_4_runner_int_Limited_Leather_Redwood.2.jpg</attr>
+			<attr name='sha'>f558fe99a0660dca953bee9a194874ffa5ec7e29</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>my14_4_runner_int_Limited_Leather_Redwood.2.jpg</attr>
+			<attr name='sha'>fc1e678c479eee02dc51329e90c06fed12d84f35</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>my14_4_runner_int_Limited_Leather_Redwood.2.jpg</attr>
+			<attr name='sha'>45af8f9b897847dfc7168ac0ce3bffb83582d565</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000852 1001032' >
+		<attr name='materialtypeid'>[1001297.1002622.1000852.1001032.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001297.1002622.1000852.1001032.title]</attr>
+		<attr name='description'>[1001297.1002622.1000852.1001032.description]</attr>
+		<attr name='derived' livesite='false'>[1001297.1002622.1000852.1001032.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>my14_4_runner_int_Limited_Leather_Redwood.2.jpg</attr>
+			<attr name='sha'>f558fe99a0660dca953bee9a194874ffa5ec7e29</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>my14_4_runner_int_Limited_Leather_Redwood.2.jpg</attr>
+			<attr name='sha'>fc1e678c479eee02dc51329e90c06fed12d84f35</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>my14_4_runner_int_Limited_Leather_Redwood.2.jpg</attr>
+			<attr name='sha'>45af8f9b897847dfc7168ac0ce3bffb83582d565</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

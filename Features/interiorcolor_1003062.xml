@@ -1,0 +1,63 @@
+<feature id='1003062' type='interiorcolor' scope='1002622 1000862 1000881, 1002622 1000862 1000882' cardinality='mandatory' >
+	<attr name='code'>FD19</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1003062.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1003062.vtc]</attr>
+	<if id='1002622 1000862 1000881' >
+		<attr name='derived' livesite='false'>[1003062.1002622.1000862.1000881.derived]</attr>
+		<attr name='description'>[1003062.1002622.1000862.1000881.description]</attr>
+		<attr name='materialtypeid'>[1003062.1002622.1000862.1000881.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003062.1002622.1000862.1000881.source]</attr>
+		<attr name='title' livesite='false'>[1003062.1002622.1000862.1000881.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>priusv_int_3_Ash_v017_hd_002.jpg</attr>
+			<attr name='sha'>847655389b08ea6b96c5b5aa6a836210ced3a6182a83208070753a7b0b2342d0bd4086c0a1a23af89cd5c3116b50e3361e20f4511d02d92c9843dc30a908f561</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>priusv_int_3_Ash_v017_hd_002.jpg</attr>
+			<attr name='sha'>8592631254b69255c089cbf7f47eca643840d061232e84e5e6b4f2b66fe671a564b315d6bf8134bd71e5ac77785297cab0c32f7c53a1a67446468a66dee3192e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>priusv_int_3_Ash_v017_hd_002.jpg</attr>
+			<attr name='sha'>8f86cf0c012db95f1e4ec396ffde8a51e559942bcf6c8d8acb9fc41c4695481bdf8dfa4c02de05c35b380e69021d958e9bf1c656b5ae990e198a8cbb1dfe3221</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000862 1000882' >
+		<attr name='derived' livesite='false'>[1003062.1002622.1000862.1000882.derived]</attr>
+		<attr name='description'>[1003062.1002622.1000862.1000882.description]</attr>
+		<attr name='materialtypeid'>[1003062.1002622.1000862.1000882.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003062.1002622.1000862.1000882.source]</attr>
+		<attr name='title' livesite='false'>[1003062.1002622.1000862.1000882.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>priusv_int_3_Ash_v017_hd_002.jpg</attr>
+			<attr name='sha'>847655389b08ea6b96c5b5aa6a836210ced3a6182a83208070753a7b0b2342d0bd4086c0a1a23af89cd5c3116b50e3361e20f4511d02d92c9843dc30a908f561</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>priusv_int_3_Ash_v017_hd_002.jpg</attr>
+			<attr name='sha'>8592631254b69255c089cbf7f47eca643840d061232e84e5e6b4f2b66fe671a564b315d6bf8134bd71e5ac77785297cab0c32f7c53a1a67446468a66dee3192e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>priusv_int_3_Ash_v017_hd_002.jpg</attr>
+			<attr name='sha'>8f86cf0c012db95f1e4ec396ffde8a51e559942bcf6c8d8acb9fc41c4695481bdf8dfa4c02de05c35b380e69021d958e9bf1c656b5ae990e198a8cbb1dfe3221</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

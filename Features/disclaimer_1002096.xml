@@ -1,0 +1,8 @@
+<feature id='1002096' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='code'>power_package</attr>
+	<attr name='description' livesite='false'>[1002096.description]</attr>
+	<attr name='source' livesite='false'>[1002096.source]</attr>
+	<attr name='vtc' livesite='false'>[1002096.vtc]</attr>
+	<attr name='derived' livesite='false'>[1002096.derived]</attr>
+</feature>

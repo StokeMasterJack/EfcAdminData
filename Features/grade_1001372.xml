@@ -1,0 +1,69 @@
+<feature id='1001372' type='grade' cardinality='optional' >
+	<attr name='images'></attr>
+	<attr name='mpg'>[1001372.mpg]</attr>
+	<attr name='iconname'>[1001372.iconname]</attr>
+	<attr name='title' livesite='false'>[1001372.title]</attr>
+	<attr name='description'>[1001372.description]</attr>
+	<attr name='copyblock'>[1001372.copyblock]</attr>
+	<attr name='code'>LEeco</attr>
+	<attr name='hotspot'></attr>
+	<attr name='derived' livesite='false'>[1001372.derived]</attr>
+	<attr name='availablecopy'>[1001372.availablecopy]</attr>
+	<attr name='keyword'>[1001372.keyword]</attr>
+	<attr name='vtc' livesite='false'>[1001372.vtc]</attr>
+	<attr name='source' livesite='false'>[1001372.source]</attr>
+	<if id='1000851 1000855 1000900' >
+		<attr name='availablecopy'>[1001372.1000851.1000855.1000900.availablecopy]</attr>
+		<attr name='title' livesite='false'>[1001372.1000851.1000855.1000900.title]</attr>
+		<attr name='mpg'>[1001372.1000851.1000855.1000900.mpg]</attr>
+		<attr name='iconname'>[1001372.1000851.1000855.1000900.iconname]</attr>
+		<attr name='copyblock' livesite='false'>[1001372.1000851.1000855.1000900.copyblock]</attr>
+		<attr name='description'>[1001372.1000851.1000855.1000900.description]</attr>
+		<attr name='keyword' livesite='false'>[1001372.1000851.1000855.1000900.keyword]</attr>
+		<attr name='vtc' livesite='false'>[1001372.1000851.1000855.1000900.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Corolla_LEEco.png</attr>
+			<attr name='sha'>48937eee843bc583f4f80f3e53fcf3c274008c2d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000901' >
+		<attr name='availablecopy'>[1001372.1000851.1000855.1000901.availablecopy]</attr>
+		<attr name='title' livesite='false'>[1001372.1000851.1000855.1000901.title]</attr>
+		<attr name='mpg'>[1001372.1000851.1000855.1000901.mpg]</attr>
+		<attr name='iconname'>[1001372.1000851.1000855.1000901.iconname]</attr>
+		<attr name='copyblock' livesite='false'>[1001372.1000851.1000855.1000901.copyblock]</attr>
+		<attr name='description'>[1001372.1000851.1000855.1000901.description]</attr>
+		<attr name='keyword' livesite='false'>[1001372.1000851.1000855.1000901.keyword]</attr>
+		<attr name='vtc' livesite='false'>[1001372.1000851.1000855.1000901.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Corolla_LEEco.png</attr>
+			<attr name='sha'>48937eee843bc583f4f80f3e53fcf3c274008c2d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000902' >
+		<attr name='availablecopy'>[1001372.1000851.1000855.1000902.availablecopy]</attr>
+		<attr name='title' livesite='false'>[1001372.1000851.1000855.1000902.title]</attr>
+		<attr name='mpg'>[1001372.1000851.1000855.1000902.mpg]</attr>
+		<attr name='iconname'>[1001372.1000851.1000855.1000902.iconname]</attr>
+		<attr name='copyblock' livesite='false'>[1001372.1000851.1000855.1000902.copyblock]</attr>
+		<attr name='description'>[1001372.1000851.1000855.1000902.description]</attr>
+		<attr name='keyword' livesite='false'>[1001372.1000851.1000855.1000902.keyword]</attr>
+		<attr name='vtc' livesite='false'>[1001372.1000851.1000855.1000902.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Corolla_LEEco.png</attr>
+			<attr name='sha'>48937eee843bc583f4f80f3e53fcf3c274008c2d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

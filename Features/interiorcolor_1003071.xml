@@ -1,0 +1,127 @@
+<feature id='1003071' type='interiorcolor' scope='1002622 1000870 1000888, 1002622 1000870 1000889, 1002622 1000870 1000887, 1002622 1000870 1000884, 1002622 1000870 1000885' cardinality='mandatory' >
+	<attr name='code'>FQ00</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1003071.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1003071.vtc]</attr>
+	<if id='1002622 1000870 1000884' >
+		<attr name='derived' livesite='false'>[1003071.1002622.1000870.1000884.derived]</attr>
+		<attr name='description'>[1003071.1002622.1000870.1000884.description]</attr>
+		<attr name='materialtypeid'>[1003071.1002622.1000870.1000884.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003071.1002622.1000870.1000884.source]</attr>
+		<attr name='title' livesite='false'>[1003071.1002622.1000870.1000884.title]</attr>
+		<attr name='vtc' livesite='false'>[1003071.1002622.1000870.1000884.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>yaris_int_L3_Ash_v024_hd.0002.jpg</attr>
+			<attr name='sha'>1b18de1d8031d95b8bdd8195fd0850f815a4d9f4</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>yaris_int_L3_Ash_v024_hd.0002.jpg</attr>
+			<attr name='sha'>9242f4f81b339aaf3f77eb83128f11dbe7ed0610</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>yaris_int_L3_Ash_v024_hd.0002.jpg</attr>
+			<attr name='sha'>234fa5557e5411dc00f2a8f57e8b52b6353c9266</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000870 1000885' >
+		<attr name='derived' livesite='false'>[1003071.1002622.1000870.1000885.derived]</attr>
+		<attr name='description'>[1003071.1002622.1000870.1000885.description]</attr>
+		<attr name='materialtypeid'>[1003071.1002622.1000870.1000885.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003071.1002622.1000870.1000885.source]</attr>
+		<attr name='title' livesite='false'>[1003071.1002622.1000870.1000885.title]</attr>
+		<attr name='vtc' livesite='false'>[1003071.1002622.1000870.1000885.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>yaris_int_L3_Ash_v024_hd.0002.jpg</attr>
+			<attr name='sha'>1b18de1d8031d95b8bdd8195fd0850f815a4d9f4</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>yaris_int_L3_Ash_v024_hd.0002.jpg</attr>
+			<attr name='sha'>9242f4f81b339aaf3f77eb83128f11dbe7ed0610</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>yaris_int_L3_Ash_v024_hd.0002.jpg</attr>
+			<attr name='sha'>234fa5557e5411dc00f2a8f57e8b52b6353c9266</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000870 1000887' >
+		<attr name='derived' livesite='false'>[1003071.1002622.1000870.1000887.derived]</attr>
+		<attr name='description'>[1003071.1002622.1000870.1000887.description]</attr>
+		<attr name='materialtypeid'>[1003071.1002622.1000870.1000887.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003071.1002622.1000870.1000887.source]</attr>
+		<attr name='title' livesite='false'>[1003071.1002622.1000870.1000887.title]</attr>
+		<attr name='vtc' livesite='false'>[1003071.1002622.1000870.1000887.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>yaris_int_L5_Ash_v024_hd.0002.jpg</attr>
+			<attr name='sha'>3fa60f5f220a1b3674beb8c3b3a9e9eddda9a1f7</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>yaris_int_L5_Ash_v024_hd.0002.jpg</attr>
+			<attr name='sha'>4d4de6fa4511614693b97b4ccdc681b171a2edba</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>yaris_int_L5_Ash_v024_hd.0002.jpg</attr>
+			<attr name='sha'>a2e22bb5b2c257377e97aad5a3308dd173b0939d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000870 1000888' >
+		<attr name='derived' livesite='false'>[1003071.1002622.1000870.1000888.derived]</attr>
+		<attr name='description'>[1003071.1002622.1000870.1000888.description]</attr>
+		<attr name='materialtypeid'>[1003071.1002622.1000870.1000888.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003071.1002622.1000870.1000888.source]</attr>
+		<attr name='title' livesite='false'>[1003071.1002622.1000870.1000888.title]</attr>
+		<attr name='vtc' livesite='false'>[1003071.1002622.1000870.1000888.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000870 1000889' >
+		<attr name='derived' livesite='false'>[1003071.1002622.1000870.1000889.derived]</attr>
+		<attr name='description'>[1003071.1002622.1000870.1000889.description]</attr>
+		<attr name='materialtypeid'>[1003071.1002622.1000870.1000889.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003071.1002622.1000870.1000889.source]</attr>
+		<attr name='title' livesite='false'>[1003071.1002622.1000870.1000889.title]</attr>
+		<attr name='vtc' livesite='false'>[1003071.1002622.1000870.1000889.vtc]</attr>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>leona_chan@toyota.com</attr>
+		<attr name='note'>FQ00 not on SE per DOD file</attr>
+		<attr name='systemdate'>2014 August 23</attr>
+		<attr name='time'>2014 August 23</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>leona_chan@toyota.com</attr>
+		<attr name='note'>FQ00 not on SE per DOD file</attr>
+		<attr name='systemdate'>2014 August 23</attr>
+		<attr name='time'>2014 August 23</attr>
+	</complextype>
+</group>
+
+</feature>

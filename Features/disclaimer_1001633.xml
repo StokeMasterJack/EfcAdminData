@@ -1,0 +1,8 @@
+<feature id='1001633' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1001633.description]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001633.vtc]</attr>
+	<attr name='code'>avalon_ichoice_11</attr>
+	<attr name='derived' livesite='false'>[1001633.derived]</attr>
+	<attr name='source' livesite='false'>[1001633.source]</attr>
+</feature>

@@ -1,0 +1,8 @@
+<feature id='1002160' type='disclaimer' cardinality='optional' >
+	<attr name='derived' livesite='false'>[1002160.derived]</attr>
+	<attr name='description' livesite='false'>[1002160.description]</attr>
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1002160.source]</attr>
+	<attr name='code'>rear_defroster</attr>
+	<attr name='vtc' livesite='false'>[1002160.vtc]</attr>
+</feature>

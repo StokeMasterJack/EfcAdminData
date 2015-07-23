@@ -1,0 +1,8 @@
+<feature id='1001600' type='disclaimer' cardinality='optional' >
+	<attr name='code'>access_doublecab_only</attr>
+	<attr name='vtc' livesite='false'>[1001600.vtc]</attr>
+	<attr name='derived' livesite='false'>[1001600.derived]</attr>
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1001600.description]</attr>
+	<attr name='source' livesite='false'>[1001600.source]</attr>
+</feature>

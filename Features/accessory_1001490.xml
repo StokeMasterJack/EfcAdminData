@@ -1,0 +1,44 @@
+<feature id='1001490' type='accessory' scope='1000851 1000855 1000899, 1002622 1000855 1000899' cardinality='mandatory' >
+	<attr name='alacarte' livesite='false'>[1001490.alacarte]</attr>
+	<attr name='code'>SO</attr>
+	<attr name='derived' livesite='false'>[1001490.derived]</attr>
+	<attr name='description'>[1001490.description]</attr>
+	<attr name='fullimage'></attr>
+	<attr name='group'>[1001490.group]</attr>
+	<attr name='keyfeatures'>[1001490.keyfeatures]</attr>
+	<attr name='marketingeffectivedate'>[1001490.marketingeffectivedate]</attr>
+	<attr name='msrp'></attr>
+	<attr name='option' livesite='false'>[1001490.option]</attr>
+	<attr name='package' livesite='false'>[1001490.package]</attr>
+	<attr name='pnglayeringinclusionkey'>[1001490.pnglayeringinclusionkey]</attr>
+	<attr name='secondaryfeatures'>[1001490.secondaryfeatures]</attr>
+	<attr name='source'>[1001490.source]</attr>
+	<attr name='specialexteriorcolorflag' livesite='false'>[1001490.specialexteriorcolorflag]</attr>
+	<attr name='specialinteriorcolorflag' livesite='false'>[1001490.specialinteriorcolorflag]</attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'>[1001490.title]</attr>
+	<attr name='type' livesite='false'>[1001490.type]</attr>
+	<attr name='videokey'>[1001490.videokey]</attr>
+	<attr name='viewpointkey'>[1001490.viewpointkey]</attr>
+	<attr name='vtc' livesite='false'>[1001490.vtc]</attr>
+	<if id='1000851 1000855 1000899' >
+		<attr name='derived' livesite='false'>[1001490.1000851.1000855.1000899.derived]</attr>
+		<attr name='description' livesite='false'>[1001490.1000851.1000855.1000899.description]</attr>
+		<attr name='msrp' livesite='false'>[1001490.1000851.1000855.1000899.msrp]</attr>
+		<attr name='option' livesite='false'>[1001490.1000851.1000855.1000899.option]</attr>
+		<attr name='package' livesite='false'>[1001490.1000851.1000855.1000899.package]</attr>
+		<attr name='source' livesite='false'>[1001490.1000851.1000855.1000899.source]</attr>
+		<attr name='title' livesite='false'>[1001490.1000851.1000855.1000899.title]</attr>
+		<attr name='vtc' livesite='false'>[1001490.1000851.1000855.1000899.vtc]</attr>
+		<rule src='NVS' tag='COLORCOMBOACC_TAG_ACY_SO' type='TEXT'>{1001490 requires((1001175*1001296),(1001170*1001296),(1001164*1001296),(1001169*1001296),(1001216*1001296),(1001186*1001296))}</rule>
+	</if>
+
+	<if id='1002622 1000855 1000899' >
+		<attr name='derived' livesite='false'>[1001490.1002622.1000855.1000899.derived]</attr>
+		<attr name='msrp' livesite='false'>[1001490.1002622.1000855.1000899.msrp]</attr>
+		<attr name='package' livesite='false'>[1001490.1002622.1000855.1000899.package]</attr>
+		<attr name='source' livesite='false'>[1001490.1002622.1000855.1000899.source]</attr>
+		<attr name='title' livesite='false'>[1001490.1002622.1000855.1000899.title]</attr>
+	</if>
+
+</feature>

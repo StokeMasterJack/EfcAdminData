@@ -1,0 +1,59 @@
+<feature id='1001181' type='exteriorcolor' scope='1000851 1000856 1000937, 1000851 1000856 1000936, 1000851 1000856 1000938' cardinality='mandatory' >
+	<attr name='carjellyimage'></attr>
+	<attr name='code'>02LF</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='hexvalue' livesite='false'>[1001181.hexvalue]</attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1001181.source]</attr>
+	<attr name='title' livesite='false'>[1001181.title]</attr>
+	<attr name='vtc' livesite='false'>[1001181.vtc]</attr>
+	<if id='1000851 1000856 1000936' >
+		<attr name='derived' livesite='false'>[1001181.1000851.1000856.1000936.derived]</attr>
+		<attr name='description'>[1001181.1000851.1000856.1000936.description]</attr>
+		<attr name='materialtypeid'>[1001181.1000851.1000856.1000936.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001181.1000851.1000856.1000936.source]</attr>
+		<attr name='title' livesite='false'>[1001181.1000851.1000856.1000936.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>FJC_ext_base_4W2_v22eh_hd_001.jpg</attr>
+			<attr name='sha'>16e6a8ecc2c8d1f4ed1b66c5536611c8c61bd517</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000856 1000937' >
+		<attr name='derived' livesite='false'>[1001181.1000851.1000856.1000937.derived]</attr>
+		<attr name='description'>[1001181.1000851.1000856.1000937.description]</attr>
+		<attr name='materialtypeid'>[1001181.1000851.1000856.1000937.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001181.1000851.1000856.1000937.source]</attr>
+		<attr name='title' livesite='false'>[1001181.1000851.1000856.1000937.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>FJC_ext_base_4W2_v22eh_hd_001.jpg</attr>
+			<attr name='sha'>16e6a8ecc2c8d1f4ed1b66c5536611c8c61bd517</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000856 1000938' >
+		<attr name='derived' livesite='false'>[1001181.1000851.1000856.1000938.derived]</attr>
+		<attr name='description'>[1001181.1000851.1000856.1000938.description]</attr>
+		<attr name='materialtypeid'>[1001181.1000851.1000856.1000938.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001181.1000851.1000856.1000938.source]</attr>
+		<attr name='title' livesite='false'>[1001181.1000851.1000856.1000938.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>FJC_ext_base_4W2_v22eh_hd_001.jpg</attr>
+			<attr name='sha'>16e6a8ecc2c8d1f4ed1b66c5536611c8c61bd517</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

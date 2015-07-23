@@ -1,0 +1,8 @@
+<feature id='1002018' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1002018.description]</attr>
+	<attr name='derived' livesite='false'>[1002018.derived]</attr>
+	<attr name='vtc' livesite='false'>[1002018.vtc]</attr>
+	<attr name='title'></attr>
+	<attr name='code'>moonroof</attr>
+	<attr name='source' livesite='false'>[1002018.source]</attr>
+</feature>

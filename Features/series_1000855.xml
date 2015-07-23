@@ -1,0 +1,186 @@
+<feature id='1000855' type='series' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='attachment'></attr>
+	<attr name='background'></attr>
+	<attr name='code'>corolla</attr>
+	<attr name='comparemodel'></attr>
+	<attr name='defaultmodel'></attr>
+	<attr name='derived'>[1000855.derived]</attr>
+	<attr name='description'>[1000855.description]</attr>
+	<attr name='source'>[1000855.source]</attr>
+	<attr name='title'>[1000855.title]</attr>
+	<attr name='vtc'>[1000855.vtc]</attr>
+	<if id='1000851' disclaimers='1002417 1002411 1001717 1002415 1002414 1002412 1002696 1002221 1002396 1002226 1002394 1002225 1002325 1002654 1001768 1001767 1002368 1002628 1001867 1002629 1002044 1001602 1001643 1001681 1001646 1001952' >
+		<attr name='defaultmodel'>[1000855.1000851.defaultmodel]</attr>
+		<attr name='derived'>[1000855.1000851.derived]</attr>
+		<attr name='description' livesite='false'>[1000855.1000851.description]</attr>
+		<attr name='source'>[1000855.1000851.source]</attr>
+		<attr name='title' livesite='false'>[1000855.1000851.title]</attr>
+		<attr name='vtc'>[1000855.1000851.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>EFC Background _0001_Corolla.jpg</attr>
+			<attr name='sha'>4a0e2e9a4a8c7a24d20c03fd314b4503d4c01e74</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>StandardFeaturesCorolla.xml</attr>
+			<attr name='sha'>902dfb3d01460b8f55db6e4f5541680293cf7b38</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>CorollaCompareModel_TMS_CPD_20140715v1.json</attr>
+			<attr name='sha'>8e71899ab74b10bf8be46e50752208b315de2eb0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622' disclaimers='1002417 1002416 1002411 1001717 1002415 1002414 1002413 1002412 1002221 1002396 1002226 1002225 1002394 1002325 1002633 1002322 1001768 1001767 1002368 1002628 1001867 1002629 1003251 1002044 1001955 1001602 1001681 1001643 1002314 1001646 1001952' >
+		<attr name='defaultmodel'>[1000855.1002622.defaultmodel]</attr>
+		<attr name='derived'>[1000855.1002622.derived]</attr>
+		<attr name='description'>[1000855.1002622.description]</attr>
+		<attr name='source'>[1000855.1002622.source]</attr>
+		<attr name='vtc'>[1000855.1002622.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>EFC_Background_0001_Corolla.jpg</attr>
+			<attr name='sha'>4a0e2e9a4a8c7a24d20c03fd314b4503d4c01e74</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>StandardFeaturesCorolla2015.xml</attr>
+			<attr name='sha'>683dabc7fd97e4ffe1c9dec7297bb0e2abbf0830</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>2015CorollaCompareModel_TMS_CPD_20140827v1.json</attr>
+			<attr name='sha'>177579602f21811496e79574f7ecb00cadb3c2fd</attr>
+		</complextype>
+		<complextype name='IMAGE' type='undefined'>
+			<attr name='attrref'>mediumbackground</attr>
+			<attr name='name'>EFC-background_0001_Corolla_1024.jpg</attr>
+			<attr name='sha'>3e9a0b5b07df2d322e57417a7b80adebe0c94932</attr>
+		</complextype>
+		<complextype name='IMAGE' type='undefined'>
+			<attr name='attrref'>smallbackground</attr>
+			<attr name='name'>EFC-background_0001_Corolla_480.jpg</attr>
+			<attr name='sha'>94c26a6e434c23666a39b67dfe78f894c24022ea</attr>
+		</complextype>
+		<complextype name='IMAGE' type='undefined'>
+			<attr name='attrref'>largebackground</attr>
+			<attr name='name'>EFC-background_0001_Corolla_1500.jpg</attr>
+			<attr name='sha'>5840b535c6f06438814af1f4d867d53dcd0c9adc</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>tian_jin@toyota.com</attr>
+		<attr name='note'>fixed 1856 association to 2014 corolla</attr>
+		<attr name='systemdate'>2014 February 21</attr>
+		<attr name='time'>2014 February 21</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>tian_jin@toyota.com</attr>
+		<attr name='note'>removed LEPlus grade from 2014 corolla 1854</attr>
+		<attr name='systemdate'>2014 February 21</attr>
+		<attr name='time'>2014 February 21</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>tian_jin@toyota.com</attr>
+		<attr name='note'>fixed 1856 association to 2014 corolla</attr>
+		<attr name='systemdate'>2014 February 21</attr>
+		<attr name='time'>2014 February 21</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>tian_jin@toyota.com</attr>
+		<attr name='note'>removed LEPlus grade from 2014 corolla 1854</attr>
+		<attr name='systemdate'>2014 February 21</attr>
+		<attr name='time'>2014 February 21</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>tian_jin@toyota.com</attr>
+		<attr name='note'>fixed 1856 association to 2014 corolla</attr>
+		<attr name='systemdate'>2014 February 21</attr>
+		<attr name='time'>2014 February 21</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>tian_jin@toyota.com</attr>
+		<attr name='note'>fixed 1856 association to 2014 corolla</attr>
+		<attr name='systemdate'>2014 February 21</attr>
+		<attr name='time'>2014 February 21</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>tian_jin@toyota.com</attr>
+		<attr name='note'>fixed 1856 association to 2014 corolla</attr>
+		<attr name='systemdate'>2014 February 21</attr>
+		<attr name='time'>2014 February 21</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>tian_jin@toyota.com</attr>
+		<attr name='note'>fixed 1856 association to 2014 corolla</attr>
+		<attr name='systemdate'>2014 February 21</attr>
+		<attr name='time'>2014 February 21</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>tian_jin@toyota.com</attr>
+		<attr name='note'>removed LEPlus grade from 2014 corolla 1854</attr>
+		<attr name='systemdate'>2014 February 21</attr>
+		<attr name='time'>2014 February 21</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>tian_jin@toyota.com</attr>
+		<attr name='note'>removed LEPlus grade from 2014 corolla 1854</attr>
+		<attr name='systemdate'>2014 February 21</attr>
+		<attr name='time'>2014 February 21</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>tian_jin@toyota.com</attr>
+		<attr name='note'>removed LEPlus grade from 2014 corolla 1854</attr>
+		<attr name='systemdate'>2014 February 21</attr>
+		<attr name='time'>2014 February 21</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>tian_jin@toyota.com</attr>
+		<attr name='note'>removed LEPlus grade from 2014 corolla 1854</attr>
+		<attr name='systemdate'>2014 February 21</attr>
+		<attr name='time'>2014 February 21</attr>
+	</complextype>
+</group>
+
+</feature>

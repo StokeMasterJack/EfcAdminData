@@ -1,0 +1,12 @@
+<feature id='1002145' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1002145.description]</attr>
+	<attr name='source' livesite='false'>[1002145.source]</attr>
+	<attr name='code'>rav4_epa_11</attr>
+	<attr name='vtc' livesite='false'>[1002145.vtc]</attr>
+	<attr name='derived' livesite='false'>[1002145.derived]</attr>
+	<if id='1000851' >
+		<attr name='description' livesite='false'>[1002145.1000851.description]</attr>
+	</if>
+
+</feature>

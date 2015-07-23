@@ -1,0 +1,8 @@
+<feature id='1002334' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1002334.source]</attr>
+	<attr name='derived' livesite='false'>[1002334.derived]</attr>
+	<attr name='description' livesite='false'>[1002334.description]</attr>
+	<attr name='vtc' livesite='false'>[1002334.vtc]</attr>
+	<attr name='title'></attr>
+	<attr name='code'>tun_maxpkg_payload_increase75</attr>
+</feature>

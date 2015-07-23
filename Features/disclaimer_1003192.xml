@@ -1,0 +1,12 @@
+<feature id='1003192' type='disclaimer' cardinality='optional' >
+	<attr name='vtc' livesite='false'>[1003192.vtc]</attr>
+	<attr name='code'>2012HighlanderHV_4</attr>
+	<attr name='description' livesite='false'>[1003192.description]</attr>
+	<attr name='title'></attr>
+	<attr name='derived'></attr>
+	<attr name='source' livesite='false'>[1003192.source]</attr>
+	<if id='1002622' >
+		<attr name='description' livesite='false'>[1003192.1002622.description]</attr>
+	</if>
+
+</feature>

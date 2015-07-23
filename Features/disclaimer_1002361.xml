@@ -1,0 +1,8 @@
+<feature id='1002361' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1002361.source]</attr>
+	<attr name='derived' livesite='false'>[1002361.derived]</attr>
+	<attr name='vtc' livesite='false'>[1002361.vtc]</attr>
+	<attr name='description' livesite='false'>[1002361.description]</attr>
+	<attr name='title'></attr>
+	<attr name='code'>tundra_jdpower2_12</attr>
+</feature>

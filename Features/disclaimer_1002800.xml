@@ -1,0 +1,8 @@
+<feature id='1002800' type='disclaimer' cardinality='optional' >
+	<attr name='code'>vpns</attr>
+	<attr name='derived' livesite='false'>[1002800.derived]</attr>
+	<attr name='description' livesite='false'>[1002800.description]</attr>
+	<attr name='source' livesite='false'>[1002800.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1002800.vtc]</attr>
+</feature>

@@ -1,0 +1,51 @@
+<feature id='1001354' type='grade' scope='1000851 1000859 1000878, 1002622 1000859 1000878' cardinality='mandatory' >
+	<attr name='images'></attr>
+	<attr name='copyblock'></attr>
+	<attr name='source' livesite='false'>[1001354.source]</attr>
+	<attr name='title' livesite='false'>[1001354.title]</attr>
+	<attr name='description'></attr>
+	<attr name='availablecopy'></attr>
+	<attr name='hotspot'></attr>
+	<attr name='keyword'></attr>
+	<attr name='mpg'></attr>
+	<attr name='vtc' livesite='false'>[1001354.vtc]</attr>
+	<attr name='code'>priusfive</attr>
+	<attr name='iconname'></attr>
+	<attr name='derived'></attr>
+	<if id='1000851 1000859 1000878' disclaimers='1001889 1001754 1001998 1002044' >
+		<attr name='availablecopy' livesite='false'>[1001354.1000851.1000859.1000878.availablecopy]</attr>
+		<attr name='mpg'>[1001354.1000851.1000859.1000878.mpg]</attr>
+		<attr name='iconname'>[1001354.1000851.1000859.1000878.iconname]</attr>
+		<attr name='copyblock' livesite='false'>[1001354.1000851.1000859.1000878.copyblock]</attr>
+		<attr name='description'>[1001354.1000851.1000859.1000878.description]</attr>
+		<attr name='keyword'>[1001354.1000851.1000859.1000878.keyword]</attr>
+		<attr name='derived' livesite='false'>[1001354.1000851.1000859.1000878.derived]</attr>
+		<attr name='hotspot' livesite='false'>[1001354.1000851.1000859.1000878.hotspot]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_Prius_Five.png</attr>
+			<attr name='sha'>5b14e7ebefb1aaaa7115f8b8a9ece235d7949e03</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000859 1000878' >
+		<attr name='availablecopy' livesite='false'>[1001354.1002622.1000859.1000878.availablecopy]</attr>
+		<attr name='mpg'>[1001354.1002622.1000859.1000878.mpg]</attr>
+		<attr name='iconname'>[1001354.1002622.1000859.1000878.iconname]</attr>
+		<attr name='copyblock' livesite='false'>[1001354.1002622.1000859.1000878.copyblock]</attr>
+		<attr name='description'>[1001354.1002622.1000859.1000878.description]</attr>
+		<attr name='keyword'>[1001354.1002622.1000859.1000878.keyword]</attr>
+		<attr name='derived' livesite='false'>[1001354.1002622.1000859.1000878.derived]</attr>
+		<attr name='hotspot'>[1001354.1002622.1000859.1000878.hotspot]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Prius_ext_LB_Five_0070.png</attr>
+			<attr name='sha'>838fb228278dc4585cd37a3433b21b01e0ab623e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

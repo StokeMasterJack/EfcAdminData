@@ -1,0 +1,168 @@
+<feature id='1003058' type='exteriorcolor' scope='1002622 1000868 1003050, 1002622 1000868 1003052, 1002622 1000868 1003051, 1002622 1000867 1003047, 1002622 1000868 1003053, 1002622 1000867 1003048, 1002622 1000852 1003054, 1002622 1000867 1003049, 1002622 1000867 1003046' cardinality='mandatory' >
+	<attr name='carjellyimage'></attr>
+	<attr name='code'>04X0</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='hexvalue'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1003058.source]</attr>
+	<attr name='title' livesite='false'>[1003058.title]</attr>
+	<attr name='vtc' livesite='false'>[1003058.vtc]</attr>
+	<if id='1002622 1000852 1003054' >
+		<attr name='derived' livesite='false'>[1003058.1002622.1000852.1003054.derived]</attr>
+		<attr name='description'>[1003058.1002622.1000852.1003054.description]</attr>
+		<attr name='hexvalue' livesite='false'>[1003058.1002622.1000852.1003054.hexvalue]</attr>
+		<attr name='materialtypeid'>[1003058.1002622.1000852.1003054.materialtypeid]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>4Runner_my15_ext_TRDPro_04X0_v008_si_byt_1_001.png</attr>
+			<attr name='sha'>2961cdda0a3fe4535fa605b9332feb1a7ba0aabc</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000867 1003046' >
+		<attr name='derived' livesite='false'>[1003058.1002622.1000867.1003046.derived]</attr>
+		<attr name='description'>[1003058.1002622.1000867.1003046.description]</attr>
+		<attr name='hexvalue' livesite='false'>[1003058.1002622.1000867.1003046.hexvalue]</attr>
+		<attr name='materialtypeid'>[1003058.1002622.1000867.1003046.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003058.1002622.1000867.1003046.source]</attr>
+		<attr name='title' livesite='false'>[1003058.1002622.1000867.1003046.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Tacoma_ext_TRDPro_4X0_v008_si_byt_1_001.png</attr>
+			<attr name='sha'>19c33606f75e90a140b4f32638b174400b1ce539</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000867 1003047' >
+		<attr name='derived' livesite='false'>[1003058.1002622.1000867.1003047.derived]</attr>
+		<attr name='description'>[1003058.1002622.1000867.1003047.description]</attr>
+		<attr name='hexvalue' livesite='false'>[1003058.1002622.1000867.1003047.hexvalue]</attr>
+		<attr name='materialtypeid'>[1003058.1002622.1000867.1003047.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003058.1002622.1000867.1003047.source]</attr>
+		<attr name='title' livesite='false'>[1003058.1002622.1000867.1003047.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Tacoma_ext_TRDPro_4X0_v008_si_byt_1_001.png</attr>
+			<attr name='sha'>19c33606f75e90a140b4f32638b174400b1ce539</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000867 1003048' >
+		<attr name='derived' livesite='false'>[1003058.1002622.1000867.1003048.derived]</attr>
+		<attr name='description'>[1003058.1002622.1000867.1003048.description]</attr>
+		<attr name='hexvalue' livesite='false'>[1003058.1002622.1000867.1003048.hexvalue]</attr>
+		<attr name='materialtypeid'>[1003058.1002622.1000867.1003048.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003058.1002622.1000867.1003048.source]</attr>
+		<attr name='title' livesite='false'>[1003058.1002622.1000867.1003048.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Tacoma_my15_ext_TRDPro_04X0_v003_si_byt_001.png</attr>
+			<attr name='sha'>a2d6a1d959dfee055c769fa97579579bc3ea5ad8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000867 1003049' >
+		<attr name='derived' livesite='false'>[1003058.1002622.1000867.1003049.derived]</attr>
+		<attr name='description'>[1003058.1002622.1000867.1003049.description]</attr>
+		<attr name='hexvalue' livesite='false'>[1003058.1002622.1000867.1003049.hexvalue]</attr>
+		<attr name='materialtypeid'>[1003058.1002622.1000867.1003049.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003058.1002622.1000867.1003049.source]</attr>
+		<attr name='title' livesite='false'>[1003058.1002622.1000867.1003049.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Tacoma_my15_ext_TRDPro_04X0_v003_si_byt_001.png</attr>
+			<attr name='sha'>a2d6a1d959dfee055c769fa97579579bc3ea5ad8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000868 1003050' >
+		<attr name='derived' livesite='false'>[1003058.1002622.1000868.1003050.derived]</attr>
+		<attr name='description'>[1003058.1002622.1000868.1003050.description]</attr>
+		<attr name='hexvalue' livesite='false'>[1003058.1002622.1000868.1003050.hexvalue]</attr>
+		<attr name='materialtypeid'>[1003058.1002622.1000868.1003050.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003058.1002622.1000868.1003050.source]</attr>
+		<attr name='title' livesite='false'>[1003058.1002622.1000868.1003050.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04X0' type='TEXT'>{1003058 conflicts(1001249)}</rule>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04X0' type='TEXT'>{1003058 conflicts(1001251)}</rule>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04X0' type='TEXT'>{1003058 conflicts(1001255)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Tundra_ext_TRDPro_04X0_v007_si_byt_001.png.png</attr>
+			<attr name='sha'>7995faa06beab0a1abb4c17cd97229ca01ef7c33</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000868 1003051' >
+		<attr name='derived' livesite='false'>[1003058.1002622.1000868.1003051.derived]</attr>
+		<attr name='description'>[1003058.1002622.1000868.1003051.description]</attr>
+		<attr name='hexvalue' livesite='false'>[1003058.1002622.1000868.1003051.hexvalue]</attr>
+		<attr name='materialtypeid'>[1003058.1002622.1000868.1003051.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003058.1002622.1000868.1003051.source]</attr>
+		<attr name='title' livesite='false'>[1003058.1002622.1000868.1003051.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04X0' type='TEXT'>{1003058 conflicts(1001249)}</rule>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04X0' type='TEXT'>{1003058 conflicts(1001251)}</rule>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04X0' type='TEXT'>{1003058 conflicts(1001255)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Tundra_ext_TRDPro_04X0_v007_si_byt_001.png.png</attr>
+			<attr name='sha'>7995faa06beab0a1abb4c17cd97229ca01ef7c33</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000868 1003052' >
+		<attr name='derived' livesite='false'>[1003058.1002622.1000868.1003052.derived]</attr>
+		<attr name='description'>[1003058.1002622.1000868.1003052.description]</attr>
+		<attr name='hexvalue' livesite='false'>[1003058.1002622.1000868.1003052.hexvalue]</attr>
+		<attr name='materialtypeid'>[1003058.1002622.1000868.1003052.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003058.1002622.1000868.1003052.source]</attr>
+		<attr name='title' livesite='false'>[1003058.1002622.1000868.1003052.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04X0' type='TEXT'>{1003058 conflicts(1001249)}</rule>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04X0' type='TEXT'>{1003058 conflicts(1001251)}</rule>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04X0' type='TEXT'>{1003058 conflicts(1001255)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Tundra_my15_ext_TRDPro_04X0_v005_si_byt_001.png</attr>
+			<attr name='sha'>ee2ea570c238434878aff9d817236e3e46537a74</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000868 1003053' >
+		<attr name='derived' livesite='false'>[1003058.1002622.1000868.1003053.derived]</attr>
+		<attr name='description'>[1003058.1002622.1000868.1003053.description]</attr>
+		<attr name='hexvalue' livesite='false'>[1003058.1002622.1000868.1003053.hexvalue]</attr>
+		<attr name='materialtypeid'>[1003058.1002622.1000868.1003053.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003058.1002622.1000868.1003053.source]</attr>
+		<attr name='title' livesite='false'>[1003058.1002622.1000868.1003053.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04X0' type='TEXT'>{1003058 conflicts(1001249)}</rule>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04X0' type='TEXT'>{1003058 conflicts(1001251)}</rule>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_04X0' type='TEXT'>{1003058 conflicts(1001255)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Tundra_my15_ext_TRDPro_04X0_v005_si_byt_001.png</attr>
+			<attr name='sha'>ee2ea570c238434878aff9d817236e3e46537a74</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

@@ -1,0 +1,47 @@
+<feature id='1001474' type='exteriorcolor' scope='1000851 1000870 1000886, 1000851 1000870 1000887, 1000851 1000870 1000884, 1000851 1000870 1000885, 1000851 1000870 1000890' cardinality='mandatory' >
+	<attr name='source'></attr>
+	<attr name='msrp'></attr>
+	<attr name='hexvalue'></attr>
+	<attr name='carjellyimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='code'>09AF</attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='vtc'></attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='title'></attr>
+	<if id='1000851 1000870 1000884' >
+		<attr name='materialtypeid'>[1001474.1000851.1000870.1000884.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001474.1000851.1000870.1000884.title]</attr>
+		<attr name='source' livesite='false'>[1001474.1000851.1000870.1000884.source]</attr>
+		<attr name='description'>[1001474.1000851.1000870.1000884.description]</attr>
+		<attr name='derived' livesite='false'>[1001474.1000851.1000870.1000884.derived]</attr>
+		<attr name='hexvalue'>[1001474.1000851.1000870.1000884.hexvalue]</attr>
+		<attr name='vtc' livesite='false'>[1001474.1000851.1000870.1000884.vtc]</attr>
+	</if>
+
+	<if id='1000851 1000870 1000885' >
+		<attr name='title' livesite='false'>[1001474.1000851.1000870.1000885.title]</attr>
+		<attr name='source' livesite='false'>[1001474.1000851.1000870.1000885.source]</attr>
+	</if>
+
+	<if id='1000851 1000870 1000886' >
+		<attr name='title' livesite='false'>[1001474.1000851.1000870.1000886.title]</attr>
+		<attr name='source' livesite='false'>[1001474.1000851.1000870.1000886.source]</attr>
+		<rule src='NVS' type='TEXT'>{1001474 conflicts(1001271)}</rule>
+	</if>
+
+	<if id='1000851 1000870 1000887' >
+		<attr name='title' livesite='false'>[1001474.1000851.1000870.1000887.title]</attr>
+		<attr name='source' livesite='false'>[1001474.1000851.1000870.1000887.source]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_09AF' type='TEXT'>{1001474 conflicts(1001271)}</rule>
+	</if>
+
+	<if id='1000851 1000870 1000890' >
+		<attr name='title' livesite='false'>[1001474.1000851.1000870.1000890.title]</attr>
+		<attr name='source' livesite='false'>[1001474.1000851.1000870.1000890.source]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_09AF' type='TEXT'>{1001474 conflicts(1001271)}</rule>
+	</if>
+
+</feature>

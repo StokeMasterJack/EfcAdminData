@@ -1,0 +1,165 @@
+<feature id='1001260' type='interiorcolor' scope='1000851 1000855 1000899, 1000851 1000855 1000898, 1000851 1000855 1000897, 1000851 1000855 1000896, 1002622 1000855 1000897, 1002622 1000855 1000896, 1002622 1000855 1000898' cardinality='mandatory' >
+	<attr name='code'>FD42</attr>
+	<attr name='title'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='msrp'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='vtc' livesite='false'>[1001260.vtc]</attr>
+	<attr name='source' livesite='false'>[1001260.source]</attr>
+	<attr name='derived'></attr>
+	<if id='1000851 1000855 1000896' >
+		<attr name='materialtypeid'>[1001260.1000851.1000855.1000896.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001260.1000851.1000855.1000896.title]</attr>
+		<attr name='source' livesite='false'>[1001260.1000851.1000855.1000896.source]</attr>
+		<attr name='description'>[1001260.1000851.1000855.1000896.description]</attr>
+		<attr name='derived' livesite='false'>[1001260.1000851.1000855.1000896.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>Corolla_int_S_Amber_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>6129535ce8afbfcd6fd960e1e401e21d7d97bf31</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>Corolla_int_S_Amber_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>270e43ea3b65918e0dd46d7066112fdc0ed37edb</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>Corolla_int_S_Amber_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>843080b1a5d92556e6e19c5aa186b6e55bb2ef29</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000897' >
+		<attr name='title' livesite='false'>[1001260.1000851.1000855.1000897.title]</attr>
+		<attr name='source' livesite='false'>[1001260.1000851.1000855.1000897.source]</attr>
+		<attr name='derived' livesite='false'>[1001260.1000851.1000855.1000897.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>Corolla_int_S_Amber_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>6129535ce8afbfcd6fd960e1e401e21d7d97bf31</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>Corolla_int_S_Amber_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>270e43ea3b65918e0dd46d7066112fdc0ed37edb</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>Corolla_int_S_Amber_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>843080b1a5d92556e6e19c5aa186b6e55bb2ef29</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000898' >
+		<attr name='title' livesite='false'>[1001260.1000851.1000855.1000898.title]</attr>
+		<attr name='source' livesite='false'>[1001260.1000851.1000855.1000898.source]</attr>
+		<attr name='derived' livesite='false'>[1001260.1000851.1000855.1000898.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>Corolla_int_S_Amber_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>6129535ce8afbfcd6fd960e1e401e21d7d97bf31</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>Corolla_int_S_Amber_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>270e43ea3b65918e0dd46d7066112fdc0ed37edb</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>Corolla_int_S_Amber_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>843080b1a5d92556e6e19c5aa186b6e55bb2ef29</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000855 1000899' >
+		<attr name='materialtypeid'>[1001260.1000851.1000855.1000899.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001260.1000851.1000855.1000899.title]</attr>
+		<attr name='source' livesite='false'>[1001260.1000851.1000855.1000899.source]</attr>
+		<attr name='description'>[1001260.1000851.1000855.1000899.description]</attr>
+		<attr name='derived' livesite='false'>[1001260.1000851.1000855.1000899.derived]</attr>
+		<attr name='vtc' livesite='false'>[1001260.1000851.1000855.1000899.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000855 1000896' >
+		<attr name='title' livesite='false'>[1001260.1002622.1000855.1000896.title]</attr>
+		<attr name='description'>[1001260.1002622.1000855.1000896.description]</attr>
+		<attr name='materialtypeid'>[1001260.1002622.1000855.1000896.materialtypeid]</attr>
+		<attr name='derived' livesite='false'>[1001260.1002622.1000855.1000896.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>Corolla_int_S_Amber_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>6129535ce8afbfcd6fd960e1e401e21d7d97bf31</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>Corolla_int_S_Amber_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>270e43ea3b65918e0dd46d7066112fdc0ed37edb</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>Corolla_int_S_Amber_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>843080b1a5d92556e6e19c5aa186b6e55bb2ef29</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000897' >
+		<attr name='title' livesite='false'>[1001260.1002622.1000855.1000897.title]</attr>
+		<attr name='description'>[1001260.1002622.1000855.1000897.description]</attr>
+		<attr name='materialtypeid'>[1001260.1002622.1000855.1000897.materialtypeid]</attr>
+		<attr name='derived' livesite='false'>[1001260.1002622.1000855.1000897.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>Corolla_int_S_Amber_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>6129535ce8afbfcd6fd960e1e401e21d7d97bf31</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>Corolla_int_S_Amber_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>270e43ea3b65918e0dd46d7066112fdc0ed37edb</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>Corolla_int_S_Amber_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>843080b1a5d92556e6e19c5aa186b6e55bb2ef29</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000898' >
+		<attr name='title' livesite='false'>[1001260.1002622.1000855.1000898.title]</attr>
+		<attr name='description'>[1001260.1002622.1000855.1000898.description]</attr>
+		<attr name='materialtypeid'>[1001260.1002622.1000855.1000898.materialtypeid]</attr>
+		<attr name='derived' livesite='false'>[1001260.1002622.1000855.1000898.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>Corolla_int_S_Amber_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>6129535ce8afbfcd6fd960e1e401e21d7d97bf31</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>Corolla_int_S_Amber_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>270e43ea3b65918e0dd46d7066112fdc0ed37edb</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>Corolla_int_S_Amber_v48jb_hd_fs_002.jpg</attr>
+			<attr name='sha'>843080b1a5d92556e6e19c5aa186b6e55bb2ef29</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

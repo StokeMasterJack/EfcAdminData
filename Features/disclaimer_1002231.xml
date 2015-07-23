@@ -1,0 +1,8 @@
+<feature id='1002231' type='disclaimer' cardinality='optional' >
+	<attr name='derived' livesite='false'>[1002231.derived]</attr>
+	<attr name='source' livesite='false'>[1002231.source]</attr>
+	<attr name='description' livesite='false'>[1002231.description]</attr>
+	<attr name='code'>sport_appear_pkg</attr>
+	<attr name='vtc' livesite='false'>[1002231.vtc]</attr>
+	<attr name='title'></attr>
+</feature>

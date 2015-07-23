@@ -1,0 +1,90 @@
+<feature id='1000913' type='model' scope='1000851 1000869' cardinality='mandatory' >
+	<attr name='piothreshold'></attr>
+	<attr name='transmission'></attr>
+	<attr name='destinationfee'></attr>
+	<attr name='modeldisplayname'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='title'></attr>
+	<attr name='enginedescription'></attr>
+	<attr name='description'></attr>
+	<attr name='fiothreshold'></attr>
+	<attr name='trimlevel'></attr>
+	<attr name='seating'></attr>
+	<attr name='highwaympg'></attr>
+	<attr name='msrp'></attr>
+	<attr name='transmissionflag'></attr>
+	<attr name='iconimage'></attr>
+	<attr name='accessorythreshold'></attr>
+	<attr name='modeltrim'></attr>
+	<attr name='horsepower'></attr>
+	<attr name='enginehotspot'></attr>
+	<attr name='derived'></attr>
+	<attr name='mpge'></attr>
+	<attr name='transmissionhotspot'></attr>
+	<attr name='code'>2812</attr>
+	<attr name='cylinders'></attr>
+	<attr name='source'>[1000913.source]</attr>
+	<attr name='subgradehotspot'></attr>
+	<attr name='inventoryrules'></attr>
+	<attr name='colorthreshold'></attr>
+	<attr name='combinedmpg'></attr>
+	<attr name='effectivedate'></attr>
+	<attr name='citympg'></attr>
+	<attr name='imageid'></attr>
+	<attr name='anchorimage'></attr>
+	<attr name='bodystyle'></attr>
+	<attr name='gradehotspot'></attr>
+	<attr name='comparepackage'></attr>
+	<attr name='modelthreshold'></attr>
+	<attr name='vtc'>[1000913.vtc]</attr>
+	<attr name='linkurl'></attr>
+	<if id='1000851 1000869' >
+		<attr name='modelthreshold'>[1000913.1000851.1000869.modelthreshold]</attr>
+		<attr name='modeltrim'>[1000913.1000851.1000869.modeltrim]</attr>
+		<attr name='subgradehotspot'>[1000913.1000851.1000869.subgradehotspot]</attr>
+		<attr name='pnglayeringinclusionkey'>[1000913.1000851.1000869.pnglayeringinclusionkey]</attr>
+		<attr name='title'>[1000913.1000851.1000869.title]</attr>
+		<attr name='inventoryrules'>[1000913.1000851.1000869.inventoryrules]</attr>
+		<attr name='msrp'>[1000913.1000851.1000869.msrp]</attr>
+		<attr name='trimlevel'>[1000913.1000851.1000869.trimlevel]</attr>
+		<attr name='description'>[1000913.1000851.1000869.description]</attr>
+		<attr name='derived'>[1000913.1000851.1000869.derived]</attr>
+		<attr name='highwaympg'>[1000913.1000851.1000869.highwaympg]</attr>
+		<attr name='gradehotspot'>[1000913.1000851.1000869.gradehotspot]</attr>
+		<attr name='combinedmpg'>[1000913.1000851.1000869.combinedmpg]</attr>
+		<attr name='effectivedate'>[1000913.1000851.1000869.effectivedate]</attr>
+		<attr name='accessorythreshold'>[1000913.1000851.1000869.accessorythreshold]</attr>
+		<attr name='mpge'>[1000913.1000851.1000869.mpge]</attr>
+		<attr name='cylinders'>[1000913.1000851.1000869.cylinders]</attr>
+		<attr name='transmissionhotspot'>[1000913.1000851.1000869.transmissionhotspot]</attr>
+		<attr name='enginedescription'>[1000913.1000851.1000869.enginedescription]</attr>
+		<attr name='colorthreshold'>[1000913.1000851.1000869.colorthreshold]</attr>
+		<attr name='linkurl'>[1000913.1000851.1000869.linkurl]</attr>
+		<attr name='piothreshold'>[1000913.1000851.1000869.piothreshold]</attr>
+		<attr name='modeldisplayname'>[1000913.1000851.1000869.modeldisplayname]</attr>
+		<attr name='transmission'>[1000913.1000851.1000869.transmission]</attr>
+		<attr name='transmissionflag'>[1000913.1000851.1000869.transmissionflag]</attr>
+		<attr name='enginehotspot'>[1000913.1000851.1000869.enginehotspot]</attr>
+		<attr name='source'>[1000913.1000851.1000869.source]</attr>
+		<attr name='destinationfee'>[1000913.1000851.1000869.destinationfee]</attr>
+		<attr name='seating'>[1000913.1000851.1000869.seating]</attr>
+		<attr name='citympg'>[1000913.1000851.1000869.citympg]</attr>
+		<attr name='fiothreshold'>[1000913.1000851.1000869.fiothreshold]</attr>
+		<attr name='bodystyle'>[1000913.1000851.1000869.bodystyle]</attr>
+		<attr name='horsepower'>[1000913.1000851.1000869.horsepower]</attr>
+		<rule src='ADMIN' type='TEXT'>{1000913 requires(1002621)}</rule>
+		<attachments>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparepackage</attr>
+			<attr name='name'>VenzaComparePackage2812.json</attr>
+			<attr name='sha'>5035e4404293a2b315d43701b8ca7ef04456837e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>anchorimage</attr>
+			<attr name='name'>US-VZ13-488-A.png</attr>
+			<attr name='sha'>02853b3418eb25c64cf489512695badb212aaaa2</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

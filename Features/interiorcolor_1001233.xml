@@ -1,0 +1,63 @@
+<feature id='1001233' type='interiorcolor' scope='1000851 1000862 1000882, 1000851 1000862 1000881' cardinality='mandatory' >
+	<attr name='interiorseatimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='description'></attr>
+	<attr name='vtc' livesite='false'>[1001233.vtc]</attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='code'>FA47</attr>
+	<attr name='source' livesite='false'>[1001233.source]</attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='title'></attr>
+	<attr name='derived'></attr>
+	<attr name='msrp'></attr>
+	<if id='1000851 1000862 1000881' >
+		<attr name='materialtypeid'>[1001233.1000851.1000862.1000881.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001233.1000851.1000862.1000881.title]</attr>
+		<attr name='source' livesite='false'>[1001233.1000851.1000862.1000881.source]</attr>
+		<attr name='description'>[1001233.1000851.1000862.1000881.description]</attr>
+		<attr name='derived' livesite='false'>[1001233.1000851.1000862.1000881.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>prv_int_comp_v20eh_2_Bisque.002.jpg</attr>
+			<attr name='sha'>3b8561d6d2a86904167214979a732277cf5fe761</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>prv_int_comp_v20eh_2_Bisque.002.jpg</attr>
+			<attr name='sha'>7b63755a21e01fecc71365a5e30aee8fcce17e89</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>prv_int_comp_v20eh_2_Bisque.002.jpg</attr>
+			<attr name='sha'>c2973690e9e2a6aac1f5cabad2aef1fe4a4a0dfb</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000862 1000882' >
+		<attr name='materialtypeid'>[1001233.1000851.1000862.1000882.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001233.1000851.1000862.1000882.title]</attr>
+		<attr name='source' livesite='false'>[1001233.1000851.1000862.1000882.source]</attr>
+		<attr name='description'>[1001233.1000851.1000862.1000882.description]</attr>
+		<attr name='derived' livesite='false'>[1001233.1000851.1000862.1000882.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>prv_int_comp_v20eh_3_Bisque.002.jpg</attr>
+			<attr name='sha'>3b8561d6d2a86904167214979a732277cf5fe761</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>prv_int_comp_v20eh_3_Bisque.002.jpg</attr>
+			<attr name='sha'>7b63755a21e01fecc71365a5e30aee8fcce17e89</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>prv_int_comp_v20eh_3_Bisque.002.jpg</attr>
+			<attr name='sha'>c2973690e9e2a6aac1f5cabad2aef1fe4a4a0dfb</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

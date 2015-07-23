@@ -1,0 +1,12 @@
+<feature id='1002417' type='disclaimer' cardinality='optional' >
+	<attr name='code'>ebro_disclaimer_2</attr>
+	<attr name='derived' livesite='false'>[1002417.derived]</attr>
+	<attr name='description' livesite='false'>[1002417.description]</attr>
+	<attr name='source' livesite='false'>[1002417.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1002417.vtc]</attr>
+	<if id='1000851 1000855' >
+		<attr name='title' livesite='false'>[1002417.1000851.1000855.title]</attr>
+	</if>
+
+</feature>

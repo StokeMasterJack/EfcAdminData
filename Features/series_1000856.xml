@@ -1,0 +1,79 @@
+<feature id='1000856' type='series' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='attachment'></attr>
+	<attr name='background'></attr>
+	<attr name='code'>fjcruiser</attr>
+	<attr name='comparemodel'></attr>
+	<attr name='defaultmodel'></attr>
+	<attr name='derived' livesite='false'>[1000856.derived]</attr>
+	<attr name='description'>[1000856.description]</attr>
+	<attr name='source'>[1000856.source]</attr>
+	<attr name='title'>[1000856.title]</attr>
+	<attr name='vtc' livesite='false'>[1000856.vtc]</attr>
+	<if id='1000851' disclaimers='1001839 1002417 1001730 1002411 1001717 1002415 1002414 1002412 1002221 1001793 1002226 1002394 1002325 1001767 1001846 1001847 1002289 1002368 1001742 1001869 1001843 1001602 1001681 1001643 1001646 1002664 1001952' >
+		<attr name='defaultmodel'>[1000856.1000851.defaultmodel]</attr>
+		<attr name='derived'>[1000856.1000851.derived]</attr>
+		<attr name='description' livesite='false'>[1000856.1000851.description]</attr>
+		<attr name='source'>[1000856.1000851.source]</attr>
+		<attr name='title' livesite='false'>[1000856.1000851.title]</attr>
+		<attr name='vtc' livesite='false'>[1000856.1000851.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>EFC Background _0013_FJ.jpg</attr>
+			<attr name='sha'>532adda88296040279da53859b05fa757cd05f49</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>StandardFeaturesFJCruiser.xml</attr>
+			<attr name='sha'>837e5e55992dce0ab2435f4be6947e6a52f9412f</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>FJCruiserCompareModel_TMS_CPD_20140710v1.json</attr>
+			<attr name='sha'>f5a58cc4b6ebb572fe92bdd4f4521394f2e75460</attr>
+		</complextype>
+		<complextype name='IMAGE' type='undefined'>
+			<attr name='attrref'>mediumbackground</attr>
+			<attr name='name'>EFC-background_0013_FJ_1024.jpg</attr>
+			<attr name='sha'>f34eb18feaaa17b472db333993e699bbbefc1ec8</attr>
+		</complextype>
+		<complextype name='IMAGE' type='undefined'>
+			<attr name='attrref'>smallbackground</attr>
+			<attr name='name'>EFC-background_0013_FJ_480.jpg</attr>
+			<attr name='sha'>3426c574fb27f34692c0826628ea15dfacd8b64a</attr>
+		</complextype>
+		<complextype name='IMAGE' type='undefined'>
+			<attr name='attrref'>largebackground</attr>
+			<attr name='name'>EFC-background_0013_FJ_1500.jpg</attr>
+			<attr name='sha'>5101a875e9de62b8e1a1dc796ded1b189bbc9143</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622' >
+		<attr name='defaultmodel'>[1000856.1002622.defaultmodel]</attr>
+		<attr name='description'>[1000856.1002622.description]</attr>
+		<attr name='source'>[1000856.1002622.source]</attr>
+		<attr name='title'>[1000856.1002622.title]</attr>
+		<attr name='vtc' livesite='false'>[1000856.1002622.vtc]</attr>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>Adding note to commit ad check for dead features</attr>
+		<attr name='systemdate'>2014 February 21</attr>
+		<attr name='time'>2014 February 21</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>Adding note to commit ad check for dead features</attr>
+		<attr name='systemdate'>2014 February 21</attr>
+		<attr name='time'>2014 February 21</attr>
+	</complextype>
+</group>
+
+</feature>

@@ -1,0 +1,7 @@
+<feature id='1002819' type='abstractfeatures' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='code'>Manual</attr>
+	<attr name='derived' livesite='false'>[1002819.derived]</attr>
+	<attr name='source' livesite='false'>[1002819.source]</attr>
+	<attr name='title' livesite='false'>[1002819.title]</attr>
+	<attr name='vtc' livesite='false'>[1002819.vtc]</attr>
+</feature>

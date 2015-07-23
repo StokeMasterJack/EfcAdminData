@@ -1,0 +1,69 @@
+<feature id='1003070' type='interiorcolor' scope='1002622 1000854 1002849, 1002622 1000860 1000871, 1002622 1000860 1000872' cardinality='mandatory' >
+	<attr name='code'>FH20</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1003070.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1003070.vtc]</attr>
+	<if id='1002622 1000854 1002849' >
+		<attr name='derived' livesite='false'>[1003070.1002622.1000854.1002849.derived]</attr>
+		<attr name='description'>[1003070.1002622.1000854.1002849.description]</attr>
+		<attr name='materialtypeid'>[1003070.1002622.1000854.1002849.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003070.1002622.1000854.1002849.source]</attr>
+		<attr name='title' livesite='false'>[1003070.1002622.1000854.1002849.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>camry_int_HybridSE_Black_v170_hd_002.jpg</attr>
+			<attr name='sha'>d42ac7e9523bf58bcc9b67f64f75e94c95b7d3b3</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>camry_int_XLEV6_Black_v167_hd_002.jpg</attr>
+			<attr name='sha'>ee6a217ae5a240f58d45bd0d7cf6bf68aed1b910</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>camry_int_XLEV6_Black_v167_hd_002.jpg</attr>
+			<attr name='sha'>86ba9960724fe99447b4a7d2b6cf94dddf455f44</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000860 1000871' >
+		<attr name='derived' livesite='false'>[1003070.1002622.1000860.1000871.derived]</attr>
+		<attr name='description'>[1003070.1002622.1000860.1000871.description]</attr>
+		<attr name='materialtypeid'>[1003070.1002622.1000860.1000871.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003070.1002622.1000860.1000871.source]</attr>
+		<attr name='title' livesite='false'>[1003070.1002622.1000860.1000871.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>PriusC_int_One_Gray_v048_hd_002.jpg</attr>
+			<attr name='sha'>1f9c783dc7dd6a1597cd5c8535acd40a20a89a10d11cbcc179c5199a96612a3e14d082fd17ca4cdfe05a1697a961dabaf3174fe96b8f071b122ce59612255af8</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>PriusC_int_One_Gray_v048_hd_002.jpg</attr>
+			<attr name='sha'>c51dfa5576edbfd38fe343ebe8827a8457360588f746f44d008de71a8ba404dd43e47bb554db52fec8d7612209736f277ec935a8674bcf1e0496a0b40e9650d7</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>PriusC_int_One_Gray_v048_hd_002.jpg</attr>
+			<attr name='sha'>bfbc3faac446d5c01a8ed05ab66293e91618520475b9adf8077463bdb63395122d3e72f5f8bfb82a0ec4c75f24bcfa127dc289e5030539e906587cfa713a680e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000860 1000872' >
+		<attr name='source' livesite='false'>[1003070.1002622.1000860.1000872.source]</attr>
+		<attr name='title' livesite='false'>[1003070.1002622.1000860.1000872.title]</attr>
+		<attr name='vtc' livesite='false'>[1003070.1002622.1000860.1000872.vtc]</attr>
+	</if>
+
+</feature>

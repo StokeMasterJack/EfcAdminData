@@ -1,0 +1,58 @@
+<feature id='1001529' type='accessory' scope='1000851 1000857 1000958, 1000851 1000857 1000957, 1000851 1000857 1000953, 1000851 1000857 1000956, 1000851 1000857 1000955, 1000851 1000857 1000951' cardinality='mandatory' >
+	<attr name='alacarte'></attr>
+	<attr name='code'>I1</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='fullimage'></attr>
+	<attr name='group'></attr>
+	<attr name='keyfeatures'></attr>
+	<attr name='marketingeffectivedate'></attr>
+	<attr name='msrp'></attr>
+	<attr name='option'></attr>
+	<attr name='package'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='secondaryfeatures'></attr>
+	<attr name='source'></attr>
+	<attr name='specialexteriorcolorflag'></attr>
+	<attr name='specialinteriorcolorflag'></attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'></attr>
+	<attr name='type' livesite='false'>[1001529.type]</attr>
+	<attr name='videokey'></attr>
+	<attr name='viewpointkey'></attr>
+	<attr name='vtc' livesite='false'>[1001529.vtc]</attr>
+	<if id='1000851 1000857 1000951' >
+		<attr name='source' livesite='false'>[1001529.1000851.1000857.1000951.source]</attr>
+		<attr name='title' livesite='false'>[1001529.1000851.1000857.1000951.title]</attr>
+	</if>
+
+	<if id='1000851 1000857 1000953' >
+		<attr name='source' livesite='false'>[1001529.1000851.1000857.1000953.source]</attr>
+		<attr name='title' livesite='false'>[1001529.1000851.1000857.1000953.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_I1' type='TEXT'>{1001529 conflicts(1001524)}</rule>
+	</if>
+
+	<if id='1000851 1000857 1000955' >
+		<attr name='source' livesite='false'>[1001529.1000851.1000857.1000955.source]</attr>
+		<attr name='title' livesite='false'>[1001529.1000851.1000857.1000955.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_I1' type='TEXT'>{1001529 conflicts(1001524)}</rule>
+	</if>
+
+	<if id='1000851 1000857 1000956' >
+		<attr name='source' livesite='false'>[1001529.1000851.1000857.1000956.source]</attr>
+		<attr name='title' livesite='false'>[1001529.1000851.1000857.1000956.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_I1' type='TEXT'>{1001529 conflicts(1001524)}</rule>
+	</if>
+
+	<if id='1000851 1000857 1000957' >
+		<attr name='source' livesite='false'>[1001529.1000851.1000857.1000957.source]</attr>
+		<attr name='title' livesite='false'>[1001529.1000851.1000857.1000957.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_I1' type='TEXT'>{1001529 conflicts(1001524)}</rule>
+	</if>
+
+	<if id='1000851 1000857 1000958' >
+		<attr name='source' livesite='false'>[1001529.1000851.1000857.1000958.source]</attr>
+		<attr name='title' livesite='false'>[1001529.1000851.1000857.1000958.title]</attr>
+	</if>
+
+</feature>

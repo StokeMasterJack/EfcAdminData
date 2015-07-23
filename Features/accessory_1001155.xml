@@ -1,0 +1,1574 @@
+<feature id='1001155' type='accessory' scope='1002622 1000866 1004146, 1002622 1000857 1000955, 1002622 1000866 1004147, 1002622 1000866 1004144, 1002622 1000857 1000953, 1002622 1000866 1004145, 1002622 1000857 1000954, 1002622 1000857 1000959, 1002622 1000857 1000957, 1000851 1000865 1000987, 1000851 1000865 1000988, 1000851 1000865 1000985, 1000851 1000865 1000983, 1000851 1000865 1000984, 1000851 1000866 1000939, 1000851 1000865 1000982, 1000851 1000869 1000913, 1000851 1000869 1000912, 1000851 1000869 1000915, 1000851 1000869 1000914, 1000851 1000869 1000916, 1000851 1000869 1000917, 1000851 1000869 1000918, 1000851 1000858 1000947, 1000851 1000869 1000919, 1002622 1000866 1004148, 1000851 1000869 1000921, 1000851 1000869 1000920, 1002622 1000869 1000921, 1000851 1000852 1001032, 1000851 1000852 1001033, 1000851 1000852 1001030, 1000851 1000852 1001031, 1000851 1000852 1001034, 1000851 1000858, 1000851 1000852 1001029, 1000851 1000852 1001028, 1000851 1000852 1001027, 1002622 1000858 1000947, 1002622 1000865 1000987, 1002622 1000865 1000988, 1002622 1000865 1000985, 1000851 1000857 1000960, 1002622 1000865 1000983, 1002622 1000865 1000984, 1002622 1000865 1000982, 1002622 1000869 1000912, 1002622 1000869 1000914, 1000851 1000865, 1002622 1000869 1000917, 1002622 1000869 1000916, 1000851 1000857 1000957, 1002622 1000869 1000919, 1002622 1000869 1000918, 1000851 1000857 1000959, 1000851 1000857 1000954, 1000851 1000866 1000946, 1000851 1000857 1000953, 1000851 1000866 1000945, 1000851 1000857 1000956, 1000851 1000866 1000944, 1000851 1000857 1000955, 1000851 1000866 1000943, 1000851 1000866 1000942, 1000851 1000866 1000941, 1000851 1000866 1000940' cardinality='mandatory' >
+	<attr name='alacarte'></attr>
+	<attr name='code'>WH</attr>
+	<attr name='derived'>[1001155.derived]</attr>
+	<attr name='description'></attr>
+	<attr name='fullimage'></attr>
+	<attr name='group' livesite='false'>[1001155.group]</attr>
+	<attr name='keyfeatures'></attr>
+	<attr name='marketingeffectivedate'></attr>
+	<attr name='msrp'></attr>
+	<attr name='option'></attr>
+	<attr name='package'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='secondaryfeatures'></attr>
+	<attr name='source'>[1001155.source]</attr>
+	<attr name='specialexteriorcolorflag'></attr>
+	<attr name='specialinteriorcolorflag'></attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'></attr>
+	<attr name='type'>[1001155.type]</attr>
+	<attr name='videokey'></attr>
+	<attr name='viewpointkey'></attr>
+	<attr name='vtc'>[1001155.vtc]</attr>
+	<if id='1000851 1000858' >
+		<attr name='alacarte'>[1001155.1000851.1000858.alacarte]</attr>
+		<attr name='description'>[1001155.1000851.1000858.description]</attr>
+		<attr name='group'>[1001155.1000851.1000858.group]</attr>
+		<attr name='title'>[1001155.1000851.1000858.title]</attr>
+	</if>
+
+	<if id='1000851 1000865' >
+		<attr name='alacarte'>[1001155.1000851.1000865.alacarte]</attr>
+		<attr name='description'>[1001155.1000851.1000865.description]</attr>
+		<attr name='group'>[1001155.1000851.1000865.group]</attr>
+		<attr name='title'>[1001155.1000851.1000865.title]</attr>
+	</if>
+
+	<if id='1000851 1000852 1001027' >
+		<attr name='alacarte'>[1001155.1000851.1000852.1001027.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000852.1001027.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000852.1001027.description]</attr>
+		<attr name='group'>[1001155.1000851.1000852.1001027.group]</attr>
+		<attr name='keyfeatures'>[1001155.1000851.1000852.1001027.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001155.1000851.1000852.1001027.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1001155.1000851.1000852.1001027.msrp]</attr>
+		<attr name='option'>[1001155.1000851.1000852.1001027.option]</attr>
+		<attr name='package'>[1001155.1000851.1000852.1001027.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001155.1000851.1000852.1001027.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001155.1000851.1000852.1001027.secondaryfeatures]</attr>
+		<attr name='source'>[1001155.1000851.1000852.1001027.source]</attr>
+		<attr name='specialexteriorcolorflag'>[1001155.1000851.1000852.1001027.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1001155.1000851.1000852.1001027.specialinteriorcolorflag]</attr>
+		<attr name='title'>[1001155.1000851.1000852.1001027.title]</attr>
+		<attr name='videokey'>[1001155.1000851.1000852.1001027.videokey]</attr>
+		<attr name='viewpointkey'>[1001155.1000851.1000852.1001027.viewpointkey]</attr>
+		<attr name='vtc'>[1001155.1000851.1000852.1001027.vtc]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001048)}</rule>
+	</if>
+
+	<if id='1000851 1000852 1001028' >
+		<attr name='alacarte'>[1001155.1000851.1000852.1001028.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000852.1001028.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000852.1001028.description]</attr>
+		<attr name='group'>[1001155.1000851.1000852.1001028.group]</attr>
+		<attr name='keyfeatures'>[1001155.1000851.1000852.1001028.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001155.1000851.1000852.1001028.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1001155.1000851.1000852.1001028.msrp]</attr>
+		<attr name='option'>[1001155.1000851.1000852.1001028.option]</attr>
+		<attr name='package'>[1001155.1000851.1000852.1001028.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001155.1000851.1000852.1001028.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001155.1000851.1000852.1001028.secondaryfeatures]</attr>
+		<attr name='source'>[1001155.1000851.1000852.1001028.source]</attr>
+		<attr name='specialexteriorcolorflag'>[1001155.1000851.1000852.1001028.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1001155.1000851.1000852.1001028.specialinteriorcolorflag]</attr>
+		<attr name='title'>[1001155.1000851.1000852.1001028.title]</attr>
+		<attr name='videokey'>[1001155.1000851.1000852.1001028.videokey]</attr>
+		<attr name='viewpointkey'>[1001155.1000851.1000852.1001028.viewpointkey]</attr>
+		<attr name='vtc'>[1001155.1000851.1000852.1001028.vtc]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001048)}</rule>
+	</if>
+
+	<if id='1000851 1000852 1001029' >
+		<attr name='alacarte'>[1001155.1000851.1000852.1001029.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000852.1001029.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000852.1001029.description]</attr>
+		<attr name='group'>[1001155.1000851.1000852.1001029.group]</attr>
+		<attr name='keyfeatures'>[1001155.1000851.1000852.1001029.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001155.1000851.1000852.1001029.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1001155.1000851.1000852.1001029.msrp]</attr>
+		<attr name='option'>[1001155.1000851.1000852.1001029.option]</attr>
+		<attr name='package'>[1001155.1000851.1000852.1001029.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001155.1000851.1000852.1001029.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001155.1000851.1000852.1001029.secondaryfeatures]</attr>
+		<attr name='source'>[1001155.1000851.1000852.1001029.source]</attr>
+		<attr name='specialexteriorcolorflag'>[1001155.1000851.1000852.1001029.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1001155.1000851.1000852.1001029.specialinteriorcolorflag]</attr>
+		<attr name='title'>[1001155.1000851.1000852.1001029.title]</attr>
+		<attr name='videokey'>[1001155.1000851.1000852.1001029.videokey]</attr>
+		<attr name='viewpointkey'>[1001155.1000851.1000852.1001029.viewpointkey]</attr>
+		<attr name='vtc'>[1001155.1000851.1000852.1001029.vtc]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001048)}</rule>
+	</if>
+
+	<if id='1000851 1000852 1001030' >
+		<attr name='alacarte'>[1001155.1000851.1000852.1001030.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000852.1001030.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000852.1001030.description]</attr>
+		<attr name='group'>[1001155.1000851.1000852.1001030.group]</attr>
+		<attr name='keyfeatures'>[1001155.1000851.1000852.1001030.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001155.1000851.1000852.1001030.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1001155.1000851.1000852.1001030.msrp]</attr>
+		<attr name='option'>[1001155.1000851.1000852.1001030.option]</attr>
+		<attr name='package'>[1001155.1000851.1000852.1001030.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001155.1000851.1000852.1001030.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001155.1000851.1000852.1001030.secondaryfeatures]</attr>
+		<attr name='source'>[1001155.1000851.1000852.1001030.source]</attr>
+		<attr name='specialexteriorcolorflag'>[1001155.1000851.1000852.1001030.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1001155.1000851.1000852.1001030.specialinteriorcolorflag]</attr>
+		<attr name='title'>[1001155.1000851.1000852.1001030.title]</attr>
+		<attr name='videokey'>[1001155.1000851.1000852.1001030.videokey]</attr>
+		<attr name='viewpointkey'>[1001155.1000851.1000852.1001030.viewpointkey]</attr>
+		<attr name='vtc'>[1001155.1000851.1000852.1001030.vtc]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001048)}</rule>
+	</if>
+
+	<if id='1000851 1000852 1001031' >
+		<attr name='msrp'>[1001155.1000851.1000852.1001031.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000852.1001031.source]</attr>
+		<attr name='title'>[1001155.1000851.1000852.1001031.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001048)}</rule>
+	</if>
+
+	<if id='1000851 1000852 1001032' >
+		<attr name='alacarte'>[1001155.1000851.1000852.1001032.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000852.1001032.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000852.1001032.description]</attr>
+		<attr name='group'>[1001155.1000851.1000852.1001032.group]</attr>
+		<attr name='keyfeatures'>[1001155.1000851.1000852.1001032.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001155.1000851.1000852.1001032.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1001155.1000851.1000852.1001032.msrp]</attr>
+		<attr name='option'>[1001155.1000851.1000852.1001032.option]</attr>
+		<attr name='package'>[1001155.1000851.1000852.1001032.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001155.1000851.1000852.1001032.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001155.1000851.1000852.1001032.secondaryfeatures]</attr>
+		<attr name='source'>[1001155.1000851.1000852.1001032.source]</attr>
+		<attr name='specialexteriorcolorflag'>[1001155.1000851.1000852.1001032.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1001155.1000851.1000852.1001032.specialinteriorcolorflag]</attr>
+		<attr name='title'>[1001155.1000851.1000852.1001032.title]</attr>
+		<attr name='videokey'>[1001155.1000851.1000852.1001032.videokey]</attr>
+		<attr name='viewpointkey'>[1001155.1000851.1000852.1001032.viewpointkey]</attr>
+		<attr name='vtc'>[1001155.1000851.1000852.1001032.vtc]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001048)}</rule>
+	</if>
+
+	<if id='1000851 1000852 1001033' >
+		<attr name='alacarte'>[1001155.1000851.1000852.1001033.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000852.1001033.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000852.1001033.description]</attr>
+		<attr name='group'>[1001155.1000851.1000852.1001033.group]</attr>
+		<attr name='keyfeatures'>[1001155.1000851.1000852.1001033.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001155.1000851.1000852.1001033.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1001155.1000851.1000852.1001033.msrp]</attr>
+		<attr name='option'>[1001155.1000851.1000852.1001033.option]</attr>
+		<attr name='package'>[1001155.1000851.1000852.1001033.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001155.1000851.1000852.1001033.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001155.1000851.1000852.1001033.secondaryfeatures]</attr>
+		<attr name='source'>[1001155.1000851.1000852.1001033.source]</attr>
+		<attr name='specialexteriorcolorflag'>[1001155.1000851.1000852.1001033.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1001155.1000851.1000852.1001033.specialinteriorcolorflag]</attr>
+		<attr name='title'>[1001155.1000851.1000852.1001033.title]</attr>
+		<attr name='videokey'>[1001155.1000851.1000852.1001033.videokey]</attr>
+		<attr name='viewpointkey'>[1001155.1000851.1000852.1001033.viewpointkey]</attr>
+		<attr name='vtc'>[1001155.1000851.1000852.1001033.vtc]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001048)}</rule>
+	</if>
+
+	<if id='1000851 1000852 1001034' >
+		<attr name='alacarte'>[1001155.1000851.1000852.1001034.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000852.1001034.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000852.1001034.description]</attr>
+		<attr name='group'>[1001155.1000851.1000852.1001034.group]</attr>
+		<attr name='keyfeatures'>[1001155.1000851.1000852.1001034.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001155.1000851.1000852.1001034.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1001155.1000851.1000852.1001034.msrp]</attr>
+		<attr name='option'>[1001155.1000851.1000852.1001034.option]</attr>
+		<attr name='package'>[1001155.1000851.1000852.1001034.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001155.1000851.1000852.1001034.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001155.1000851.1000852.1001034.secondaryfeatures]</attr>
+		<attr name='source'>[1001155.1000851.1000852.1001034.source]</attr>
+		<attr name='specialexteriorcolorflag'>[1001155.1000851.1000852.1001034.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1001155.1000851.1000852.1001034.specialinteriorcolorflag]</attr>
+		<attr name='title'>[1001155.1000851.1000852.1001034.title]</attr>
+		<attr name='videokey'>[1001155.1000851.1000852.1001034.videokey]</attr>
+		<attr name='viewpointkey'>[1001155.1000851.1000852.1001034.viewpointkey]</attr>
+		<attr name='vtc'>[1001155.1000851.1000852.1001034.vtc]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001048)}</rule>
+	</if>
+
+	<if id='1000851 1000857 1000953' >
+		<attr name='alacarte'>[1001155.1000851.1000857.1000953.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000857.1000953.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000857.1000953.description]</attr>
+		<attr name='group'>[1001155.1000851.1000857.1000953.group]</attr>
+		<attr name='msrp'>[1001155.1000851.1000857.1000953.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000857.1000953.source]</attr>
+		<attr name='title'>[1001155.1000851.1000857.1000953.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001090)}</rule>
+	</if>
+
+	<if id='1000851 1000857 1000954' >
+		<attr name='alacarte'>[1001155.1000851.1000857.1000954.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000857.1000954.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000857.1000954.description]</attr>
+		<attr name='group'>[1001155.1000851.1000857.1000954.group]</attr>
+		<attr name='msrp'>[1001155.1000851.1000857.1000954.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000857.1000954.source]</attr>
+		<attr name='title'>[1001155.1000851.1000857.1000954.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001090)}</rule>
+	</if>
+
+	<if id='1000851 1000857 1000955' >
+		<attr name='alacarte'>[1001155.1000851.1000857.1000955.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000857.1000955.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000857.1000955.description]</attr>
+		<attr name='group'>[1001155.1000851.1000857.1000955.group]</attr>
+		<attr name='msrp'>[1001155.1000851.1000857.1000955.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000857.1000955.source]</attr>
+		<attr name='title'>[1001155.1000851.1000857.1000955.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001090)}</rule>
+	</if>
+
+	<if id='1000851 1000857 1000956' >
+		<attr name='msrp'>[1001155.1000851.1000857.1000956.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000857.1000956.source]</attr>
+		<attr name='title'>[1001155.1000851.1000857.1000956.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001090)}</rule>
+	</if>
+
+	<if id='1000851 1000857 1000957' >
+		<attr name='alacarte'>[1001155.1000851.1000857.1000957.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000857.1000957.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000857.1000957.description]</attr>
+		<attr name='group'>[1001155.1000851.1000857.1000957.group]</attr>
+		<attr name='msrp'>[1001155.1000851.1000857.1000957.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000857.1000957.source]</attr>
+		<attr name='title'>[1001155.1000851.1000857.1000957.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001090)}</rule>
+	</if>
+
+	<if id='1000851 1000857 1000959' >
+		<attr name='alacarte'>[1001155.1000851.1000857.1000959.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000857.1000959.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000857.1000959.description]</attr>
+		<attr name='group'>[1001155.1000851.1000857.1000959.group]</attr>
+		<attr name='msrp'>[1001155.1000851.1000857.1000959.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000857.1000959.source]</attr>
+		<attr name='title'>[1001155.1000851.1000857.1000959.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001090)}</rule>
+	</if>
+
+	<if id='1000851 1000857 1000960' >
+		<attr name='msrp'>[1001155.1000851.1000857.1000960.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000857.1000960.source]</attr>
+		<attr name='title'>[1001155.1000851.1000857.1000960.title]</attr>
+	</if>
+
+	<if id='1000851 1000858 1000947' >
+		<attr name='derived'>[1001155.1000851.1000858.1000947.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000858.1000947.description]</attr>
+		<attr name='msrp'>[1001155.1000851.1000858.1000947.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000858.1000947.source]</attr>
+		<attr name='title'>[1001155.1000851.1000858.1000947.title]</attr>
+	</if>
+
+	<if id='1000851 1000865 1000980' >
+		<attr name='derived'>[1001155.1000851.1000865.1000980.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000865.1000980.description]</attr>
+	</if>
+
+	<if id='1000851 1000865 1000981' >
+		<attr name='derived'>[1001155.1000851.1000865.1000981.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000865.1000981.description]</attr>
+	</if>
+
+	<if id='1000851 1000865 1000982' >
+		<attr name='derived'>[1001155.1000851.1000865.1000982.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000865.1000982.description]</attr>
+		<attr name='msrp'>[1001155.1000851.1000865.1000982.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000865.1000982.source]</attr>
+		<attr name='title'>[1001155.1000851.1000865.1000982.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001090)}</rule>
+	</if>
+
+	<if id='1000851 1000865 1000983' >
+		<attr name='derived'>[1001155.1000851.1000865.1000983.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000865.1000983.description]</attr>
+		<attr name='msrp'>[1001155.1000851.1000865.1000983.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000865.1000983.source]</attr>
+		<attr name='title'>[1001155.1000851.1000865.1000983.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001090)}</rule>
+	</if>
+
+	<if id='1000851 1000865 1000984' >
+		<attr name='derived'>[1001155.1000851.1000865.1000984.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000865.1000984.description]</attr>
+		<attr name='msrp'>[1001155.1000851.1000865.1000984.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000865.1000984.source]</attr>
+		<attr name='title'>[1001155.1000851.1000865.1000984.title]</attr>
+	</if>
+
+	<if id='1000851 1000865 1000985' >
+		<attr name='derived'>[1001155.1000851.1000865.1000985.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000865.1000985.description]</attr>
+		<attr name='msrp'>[1001155.1000851.1000865.1000985.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000865.1000985.source]</attr>
+		<attr name='title'>[1001155.1000851.1000865.1000985.title]</attr>
+	</if>
+
+	<if id='1000851 1000865 1000986' >
+		<attr name='derived'>[1001155.1000851.1000865.1000986.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000865.1000986.description]</attr>
+	</if>
+
+	<if id='1000851 1000865 1000987' >
+		<attr name='derived'>[1001155.1000851.1000865.1000987.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000865.1000987.description]</attr>
+		<attr name='msrp'>[1001155.1000851.1000865.1000987.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000865.1000987.source]</attr>
+		<attr name='title'>[1001155.1000851.1000865.1000987.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001090)}</rule>
+	</if>
+
+	<if id='1000851 1000865 1000988' >
+		<attr name='derived'>[1001155.1000851.1000865.1000988.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000865.1000988.description]</attr>
+		<attr name='msrp'>[1001155.1000851.1000865.1000988.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000865.1000988.source]</attr>
+		<attr name='title'>[1001155.1000851.1000865.1000988.title]</attr>
+	</if>
+
+	<if id='1000851 1000866 1000939' >
+		<attr name='alacarte'>[1001155.1000851.1000866.1000939.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000866.1000939.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000866.1000939.description]</attr>
+		<attr name='group'>[1001155.1000851.1000866.1000939.group]</attr>
+		<attr name='title'>[1001155.1000851.1000866.1000939.title]</attr>
+	</if>
+
+	<if id='1000851 1000866 1000940' >
+		<attr name='alacarte'>[1001155.1000851.1000866.1000940.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000866.1000940.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000866.1000940.description]</attr>
+		<attr name='group'>[1001155.1000851.1000866.1000940.group]</attr>
+		<attr name='title'>[1001155.1000851.1000866.1000940.title]</attr>
+	</if>
+
+	<if id='1000851 1000866 1000941' >
+		<attr name='alacarte'>[1001155.1000851.1000866.1000941.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000866.1000941.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000866.1000941.description]</attr>
+		<attr name='group'>[1001155.1000851.1000866.1000941.group]</attr>
+		<attr name='msrp'>[1001155.1000851.1000866.1000941.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000866.1000941.source]</attr>
+		<attr name='title'>[1001155.1000851.1000866.1000941.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_WH' type='TEXT'>{1001155 conflicts(1001048)}</rule>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001118)}</rule>
+	</if>
+
+	<if id='1000851 1000866 1000942' >
+		<attr name='alacarte'>[1001155.1000851.1000866.1000942.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000866.1000942.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000866.1000942.description]</attr>
+		<attr name='group'>[1001155.1000851.1000866.1000942.group]</attr>
+		<attr name='msrp'>[1001155.1000851.1000866.1000942.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000866.1000942.source]</attr>
+		<attr name='title'>[1001155.1000851.1000866.1000942.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_WH' type='TEXT'>{1001155 conflicts(1001048)}</rule>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires((1001090),(1001116))}</rule>
+	</if>
+
+	<if id='1000851 1000866 1000943' >
+		<attr name='alacarte'>[1001155.1000851.1000866.1000943.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000866.1000943.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000866.1000943.description]</attr>
+		<attr name='group'>[1001155.1000851.1000866.1000943.group]</attr>
+		<attr name='msrp'>[1001155.1000851.1000866.1000943.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000866.1000943.source]</attr>
+		<attr name='title'>[1001155.1000851.1000866.1000943.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_WH' type='TEXT'>{1001155 conflicts(1001048)}</rule>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001119)}</rule>
+	</if>
+
+	<if id='1000851 1000866 1000944' >
+		<attr name='alacarte'>[1001155.1000851.1000866.1000944.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000866.1000944.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000866.1000944.description]</attr>
+		<attr name='group'>[1001155.1000851.1000866.1000944.group]</attr>
+		<attr name='title'>[1001155.1000851.1000866.1000944.title]</attr>
+	</if>
+
+	<if id='1000851 1000866 1000945' >
+		<attr name='alacarte'>[1001155.1000851.1000866.1000945.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000866.1000945.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000866.1000945.description]</attr>
+		<attr name='group'>[1001155.1000851.1000866.1000945.group]</attr>
+		<attr name='msrp'>[1001155.1000851.1000866.1000945.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000866.1000945.source]</attr>
+		<attr name='title'>[1001155.1000851.1000866.1000945.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_WH' type='TEXT'>{1001155 conflicts(1001048)}</rule>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires((1001090),(1001116))}</rule>
+	</if>
+
+	<if id='1000851 1000866 1000946' >
+		<attr name='alacarte'>[1001155.1000851.1000866.1000946.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000866.1000946.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000866.1000946.description]</attr>
+		<attr name='group'>[1001155.1000851.1000866.1000946.group]</attr>
+		<attr name='msrp'>[1001155.1000851.1000866.1000946.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000866.1000946.source]</attr>
+		<attr name='title'>[1001155.1000851.1000866.1000946.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_WH' type='TEXT'>{1001155 conflicts(1001048)}</rule>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001119)}</rule>
+	</if>
+
+	<if id='1000851 1000869 1000912' >
+		<attr name='alacarte'>[1001155.1000851.1000869.1000912.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000869.1000912.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000869.1000912.description]</attr>
+		<attr name='group'>[1001155.1000851.1000869.1000912.group]</attr>
+		<attr name='msrp'>[1001155.1000851.1000869.1000912.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000869.1000912.source]</attr>
+		<attr name='title'>[1001155.1000851.1000869.1000912.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001048)}</rule>
+	</if>
+
+	<if id='1000851 1000869 1000913' >
+		<attr name='alacarte'>[1001155.1000851.1000869.1000913.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000869.1000913.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000869.1000913.description]</attr>
+		<attr name='group'>[1001155.1000851.1000869.1000913.group]</attr>
+		<attr name='msrp'>[1001155.1000851.1000869.1000913.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000869.1000913.source]</attr>
+		<attr name='title'>[1001155.1000851.1000869.1000913.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001048)}</rule>
+	</if>
+
+	<if id='1000851 1000869 1000914' >
+		<attr name='alacarte'>[1001155.1000851.1000869.1000914.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000869.1000914.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000869.1000914.description]</attr>
+		<attr name='group'>[1001155.1000851.1000869.1000914.group]</attr>
+		<attr name='msrp'>[1001155.1000851.1000869.1000914.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000869.1000914.source]</attr>
+		<attr name='title'>[1001155.1000851.1000869.1000914.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001048)}</rule>
+	</if>
+
+	<if id='1000851 1000869 1000915' >
+		<attr name='alacarte'>[1001155.1000851.1000869.1000915.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000869.1000915.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000869.1000915.description]</attr>
+		<attr name='group'>[1001155.1000851.1000869.1000915.group]</attr>
+		<attr name='msrp'>[1001155.1000851.1000869.1000915.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000869.1000915.source]</attr>
+		<attr name='title'>[1001155.1000851.1000869.1000915.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001048)}</rule>
+	</if>
+
+	<if id='1000851 1000869 1000916' >
+		<attr name='alacarte'>[1001155.1000851.1000869.1000916.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000869.1000916.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000869.1000916.description]</attr>
+		<attr name='group'>[1001155.1000851.1000869.1000916.group]</attr>
+		<attr name='msrp'>[1001155.1000851.1000869.1000916.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000869.1000916.source]</attr>
+		<attr name='title'>[1001155.1000851.1000869.1000916.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001048)}</rule>
+	</if>
+
+	<if id='1000851 1000869 1000917' >
+		<attr name='alacarte'>[1001155.1000851.1000869.1000917.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000869.1000917.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000869.1000917.description]</attr>
+		<attr name='group'>[1001155.1000851.1000869.1000917.group]</attr>
+		<attr name='msrp'>[1001155.1000851.1000869.1000917.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000869.1000917.source]</attr>
+		<attr name='title'>[1001155.1000851.1000869.1000917.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001048)}</rule>
+	</if>
+
+	<if id='1000851 1000869 1000918' >
+		<attr name='alacarte'>[1001155.1000851.1000869.1000918.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000869.1000918.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000869.1000918.description]</attr>
+		<attr name='group'>[1001155.1000851.1000869.1000918.group]</attr>
+		<attr name='msrp'>[1001155.1000851.1000869.1000918.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000869.1000918.source]</attr>
+		<attr name='title'>[1001155.1000851.1000869.1000918.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001048)}</rule>
+	</if>
+
+	<if id='1000851 1000869 1000919' >
+		<attr name='alacarte'>[1001155.1000851.1000869.1000919.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000869.1000919.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000869.1000919.description]</attr>
+		<attr name='group'>[1001155.1000851.1000869.1000919.group]</attr>
+		<attr name='msrp'>[1001155.1000851.1000869.1000919.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000869.1000919.source]</attr>
+		<attr name='title'>[1001155.1000851.1000869.1000919.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001048)}</rule>
+	</if>
+
+	<if id='1000851 1000869 1000920' >
+		<attr name='alacarte'>[1001155.1000851.1000869.1000920.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000869.1000920.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000869.1000920.description]</attr>
+		<attr name='group'>[1001155.1000851.1000869.1000920.group]</attr>
+		<attr name='msrp'>[1001155.1000851.1000869.1000920.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000869.1000920.source]</attr>
+		<attr name='title'>[1001155.1000851.1000869.1000920.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001048)}</rule>
+	</if>
+
+	<if id='1000851 1000869 1000921' >
+		<attr name='alacarte'>[1001155.1000851.1000869.1000921.alacarte]</attr>
+		<attr name='derived'>[1001155.1000851.1000869.1000921.derived]</attr>
+		<attr name='description'>[1001155.1000851.1000869.1000921.description]</attr>
+		<attr name='group'>[1001155.1000851.1000869.1000921.group]</attr>
+		<attr name='msrp'>[1001155.1000851.1000869.1000921.msrp]</attr>
+		<attr name='source'>[1001155.1000851.1000869.1000921.source]</attr>
+		<attr name='title'>[1001155.1000851.1000869.1000921.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001048)}</rule>
+	</if>
+
+	<if id='1002622 1000857 1000953' >
+		<attr name='alacarte'>[1001155.1002622.1000857.1000953.alacarte]</attr>
+		<attr name='derived'>[1001155.1002622.1000857.1000953.derived]</attr>
+		<attr name='description' livesite='false'>[1001155.1002622.1000857.1000953.description]</attr>
+		<attr name='group'>[1001155.1002622.1000857.1000953.group]</attr>
+		<attr name='keyfeatures'>[1001155.1002622.1000857.1000953.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001155.1002622.1000857.1000953.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001155.1002622.1000857.1000953.msrp]</attr>
+		<attr name='option' livesite='false'>[1001155.1002622.1000857.1000953.option]</attr>
+		<attr name='package'>[1001155.1002622.1000857.1000953.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001155.1002622.1000857.1000953.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001155.1002622.1000857.1000953.secondaryfeatures]</attr>
+		<attr name='source'>[1001155.1002622.1000857.1000953.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001155.1002622.1000857.1000953.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001155.1002622.1000857.1000953.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001155.1002622.1000857.1000953.title]</attr>
+		<attr name='videokey'>[1001155.1002622.1000857.1000953.videokey]</attr>
+		<attr name='viewpointkey'>[1001155.1002622.1000857.1000953.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001090)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Highlander_2015_WirelessHeadphones_D.jpg</attr>
+			<attr name='sha'>45eed78c90344edddd436cea1982afdd9f5085c8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000954' >
+		<attr name='alacarte'>[1001155.1002622.1000857.1000954.alacarte]</attr>
+		<attr name='derived'>[1001155.1002622.1000857.1000954.derived]</attr>
+		<attr name='description' livesite='false'>[1001155.1002622.1000857.1000954.description]</attr>
+		<attr name='group'>[1001155.1002622.1000857.1000954.group]</attr>
+		<attr name='msrp' livesite='false'>[1001155.1002622.1000857.1000954.msrp]</attr>
+		<attr name='option' livesite='false'>[1001155.1002622.1000857.1000954.option]</attr>
+		<attr name='package'>[1001155.1002622.1000857.1000954.package]</attr>
+		<attr name='source'>[1001155.1002622.1000857.1000954.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001155.1002622.1000857.1000954.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001155.1002622.1000857.1000954.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001155.1002622.1000857.1000954.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001090)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Highlander_2015_WirelessHeadphones_D.jpg</attr>
+			<attr name='sha'>45eed78c90344edddd436cea1982afdd9f5085c8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000955' >
+		<attr name='alacarte'>[1001155.1002622.1000857.1000955.alacarte]</attr>
+		<attr name='derived'>[1001155.1002622.1000857.1000955.derived]</attr>
+		<attr name='description' livesite='false'>[1001155.1002622.1000857.1000955.description]</attr>
+		<attr name='group'>[1001155.1002622.1000857.1000955.group]</attr>
+		<attr name='msrp' livesite='false'>[1001155.1002622.1000857.1000955.msrp]</attr>
+		<attr name='option' livesite='false'>[1001155.1002622.1000857.1000955.option]</attr>
+		<attr name='package'>[1001155.1002622.1000857.1000955.package]</attr>
+		<attr name='source'>[1001155.1002622.1000857.1000955.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001155.1002622.1000857.1000955.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001155.1002622.1000857.1000955.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001155.1002622.1000857.1000955.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001090)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Highlander_2015_WirelessHeadphones_D.jpg</attr>
+			<attr name='sha'>45eed78c90344edddd436cea1982afdd9f5085c8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000956' >
+		<attr name='alacarte' livesite='false'>[1001155.1002622.1000857.1000956.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001155.1002622.1000857.1000956.derived]</attr>
+		<attr name='description' livesite='false'>[1001155.1002622.1000857.1000956.description]</attr>
+		<attr name='group' livesite='false'>[1001155.1002622.1000857.1000956.group]</attr>
+		<attr name='msrp' livesite='false'>[1001155.1002622.1000857.1000956.msrp]</attr>
+		<attr name='option' livesite='false'>[1001155.1002622.1000857.1000956.option]</attr>
+		<attr name='package' livesite='false'>[1001155.1002622.1000857.1000956.package]</attr>
+		<attr name='source' livesite='false'>[1001155.1002622.1000857.1000956.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001155.1002622.1000857.1000956.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001155.1002622.1000857.1000956.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001155.1002622.1000857.1000956.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Highlander_2015_WirelessHeadphones_D.jpg</attr>
+			<attr name='sha'>45eed78c90344edddd436cea1982afdd9f5085c8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000957' >
+		<attr name='alacarte'>[1001155.1002622.1000857.1000957.alacarte]</attr>
+		<attr name='derived'>[1001155.1002622.1000857.1000957.derived]</attr>
+		<attr name='description' livesite='false'>[1001155.1002622.1000857.1000957.description]</attr>
+		<attr name='group'>[1001155.1002622.1000857.1000957.group]</attr>
+		<attr name='msrp' livesite='false'>[1001155.1002622.1000857.1000957.msrp]</attr>
+		<attr name='option' livesite='false'>[1001155.1002622.1000857.1000957.option]</attr>
+		<attr name='package'>[1001155.1002622.1000857.1000957.package]</attr>
+		<attr name='source'>[1001155.1002622.1000857.1000957.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001155.1002622.1000857.1000957.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001155.1002622.1000857.1000957.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001155.1002622.1000857.1000957.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001090)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Highlander_2015_WirelessHeadphones_D.jpg</attr>
+			<attr name='sha'>45eed78c90344edddd436cea1982afdd9f5085c8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000958' >
+		<attr name='alacarte' livesite='false'>[1001155.1002622.1000857.1000958.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001155.1002622.1000857.1000958.derived]</attr>
+		<attr name='description' livesite='false'>[1001155.1002622.1000857.1000958.description]</attr>
+		<attr name='group' livesite='false'>[1001155.1002622.1000857.1000958.group]</attr>
+		<attr name='msrp' livesite='false'>[1001155.1002622.1000857.1000958.msrp]</attr>
+		<attr name='option' livesite='false'>[1001155.1002622.1000857.1000958.option]</attr>
+		<attr name='package' livesite='false'>[1001155.1002622.1000857.1000958.package]</attr>
+		<attr name='source' livesite='false'>[1001155.1002622.1000857.1000958.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001155.1002622.1000857.1000958.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001155.1002622.1000857.1000958.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001155.1002622.1000857.1000958.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Highlander_2015_WirelessHeadphones_D.jpg</attr>
+			<attr name='sha'>45eed78c90344edddd436cea1982afdd9f5085c8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000959' >
+		<attr name='alacarte'>[1001155.1002622.1000857.1000959.alacarte]</attr>
+		<attr name='derived'>[1001155.1002622.1000857.1000959.derived]</attr>
+		<attr name='description' livesite='false'>[1001155.1002622.1000857.1000959.description]</attr>
+		<attr name='group'>[1001155.1002622.1000857.1000959.group]</attr>
+		<attr name='msrp' livesite='false'>[1001155.1002622.1000857.1000959.msrp]</attr>
+		<attr name='option' livesite='false'>[1001155.1002622.1000857.1000959.option]</attr>
+		<attr name='package'>[1001155.1002622.1000857.1000959.package]</attr>
+		<attr name='source'>[1001155.1002622.1000857.1000959.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001155.1002622.1000857.1000959.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001155.1002622.1000857.1000959.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001155.1002622.1000857.1000959.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001090)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Highlander_2015_WirelessHeadphones_D.jpg</attr>
+			<attr name='sha'>45eed78c90344edddd436cea1982afdd9f5085c8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000960' >
+		<attr name='alacarte' livesite='false'>[1001155.1002622.1000857.1000960.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001155.1002622.1000857.1000960.derived]</attr>
+		<attr name='description' livesite='false'>[1001155.1002622.1000857.1000960.description]</attr>
+		<attr name='group' livesite='false'>[1001155.1002622.1000857.1000960.group]</attr>
+		<attr name='msrp' livesite='false'>[1001155.1002622.1000857.1000960.msrp]</attr>
+		<attr name='option' livesite='false'>[1001155.1002622.1000857.1000960.option]</attr>
+		<attr name='package' livesite='false'>[1001155.1002622.1000857.1000960.package]</attr>
+		<attr name='source' livesite='false'>[1001155.1002622.1000857.1000960.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001155.1002622.1000857.1000960.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001155.1002622.1000857.1000960.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001155.1002622.1000857.1000960.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Highlander_2015_WirelessHeadphones_D.jpg</attr>
+			<attr name='sha'>45eed78c90344edddd436cea1982afdd9f5085c8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000858 1000947' >
+		<attr name='alacarte' livesite='false'>[1001155.1002622.1000858.1000947.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001155.1002622.1000858.1000947.derived]</attr>
+		<attr name='description' livesite='false'>[1001155.1002622.1000858.1000947.description]</attr>
+		<attr name='group' livesite='false'>[1001155.1002622.1000858.1000947.group]</attr>
+		<attr name='keyfeatures'>[1001155.1002622.1000858.1000947.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001155.1002622.1000858.1000947.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001155.1002622.1000858.1000947.msrp]</attr>
+		<attr name='option' livesite='false'>[1001155.1002622.1000858.1000947.option]</attr>
+		<attr name='package' livesite='false'>[1001155.1002622.1000858.1000947.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001155.1002622.1000858.1000947.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001155.1002622.1000858.1000947.secondaryfeatures]</attr>
+		<attr name='source'>[1001155.1002622.1000858.1000947.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001155.1002622.1000858.1000947.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001155.1002622.1000858.1000947.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001155.1002622.1000858.1000947.title]</attr>
+		<attr name='videokey'>[1001155.1002622.1000858.1000947.videokey]</attr>
+		<attr name='viewpointkey'>[1001155.1002622.1000858.1000947.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>LandCruiser_2015_Headphones_D.jpg</attr>
+			<attr name='sha'>6614e78f30308e3a2e44ea7915b039faeda03dfa</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000865 1000982' >
+		<attr name='alacarte' livesite='false'>[1001155.1002622.1000865.1000982.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001155.1002622.1000865.1000982.derived]</attr>
+		<attr name='description' livesite='false'>[1001155.1002622.1000865.1000982.description]</attr>
+		<attr name='group' livesite='false'>[1001155.1002622.1000865.1000982.group]</attr>
+		<attr name='keyfeatures'>[1001155.1002622.1000865.1000982.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001155.1002622.1000865.1000982.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001155.1002622.1000865.1000982.msrp]</attr>
+		<attr name='option' livesite='false'>[1001155.1002622.1000865.1000982.option]</attr>
+		<attr name='package' livesite='false'>[1001155.1002622.1000865.1000982.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001155.1002622.1000865.1000982.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001155.1002622.1000865.1000982.secondaryfeatures]</attr>
+		<attr name='source'>[1001155.1002622.1000865.1000982.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001155.1002622.1000865.1000982.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001155.1002622.1000865.1000982.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001155.1002622.1000865.1000982.title]</attr>
+		<attr name='videokey'>[1001155.1002622.1000865.1000982.videokey]</attr>
+		<attr name='viewpointkey'>[1001155.1002622.1000865.1000982.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001090)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>LandCruiser_2015_Headphones_D.jpg</attr>
+			<attr name='sha'>6614e78f30308e3a2e44ea7915b039faeda03dfa</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000865 1000983' >
+		<attr name='alacarte' livesite='false'>[1001155.1002622.1000865.1000983.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001155.1002622.1000865.1000983.derived]</attr>
+		<attr name='description' livesite='false'>[1001155.1002622.1000865.1000983.description]</attr>
+		<attr name='group' livesite='false'>[1001155.1002622.1000865.1000983.group]</attr>
+		<attr name='msrp' livesite='false'>[1001155.1002622.1000865.1000983.msrp]</attr>
+		<attr name='option' livesite='false'>[1001155.1002622.1000865.1000983.option]</attr>
+		<attr name='package' livesite='false'>[1001155.1002622.1000865.1000983.package]</attr>
+		<attr name='source'>[1001155.1002622.1000865.1000983.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001155.1002622.1000865.1000983.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001155.1002622.1000865.1000983.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001155.1002622.1000865.1000983.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001090)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>LandCruiser_2015_Headphones_D.jpg</attr>
+			<attr name='sha'>6614e78f30308e3a2e44ea7915b039faeda03dfa</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000865 1000984' >
+		<attr name='alacarte' livesite='false'>[1001155.1002622.1000865.1000984.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001155.1002622.1000865.1000984.derived]</attr>
+		<attr name='description' livesite='false'>[1001155.1002622.1000865.1000984.description]</attr>
+		<attr name='group' livesite='false'>[1001155.1002622.1000865.1000984.group]</attr>
+		<attr name='msrp' livesite='false'>[1001155.1002622.1000865.1000984.msrp]</attr>
+		<attr name='option' livesite='false'>[1001155.1002622.1000865.1000984.option]</attr>
+		<attr name='package' livesite='false'>[1001155.1002622.1000865.1000984.package]</attr>
+		<attr name='source'>[1001155.1002622.1000865.1000984.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001155.1002622.1000865.1000984.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001155.1002622.1000865.1000984.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001155.1002622.1000865.1000984.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>LandCruiser_2015_Headphones_D.jpg</attr>
+			<attr name='sha'>6614e78f30308e3a2e44ea7915b039faeda03dfa</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000865 1000985' >
+		<attr name='alacarte' livesite='false'>[1001155.1002622.1000865.1000985.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001155.1002622.1000865.1000985.derived]</attr>
+		<attr name='description' livesite='false'>[1001155.1002622.1000865.1000985.description]</attr>
+		<attr name='group' livesite='false'>[1001155.1002622.1000865.1000985.group]</attr>
+		<attr name='msrp' livesite='false'>[1001155.1002622.1000865.1000985.msrp]</attr>
+		<attr name='option' livesite='false'>[1001155.1002622.1000865.1000985.option]</attr>
+		<attr name='package' livesite='false'>[1001155.1002622.1000865.1000985.package]</attr>
+		<attr name='source'>[1001155.1002622.1000865.1000985.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001155.1002622.1000865.1000985.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001155.1002622.1000865.1000985.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001155.1002622.1000865.1000985.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>LandCruiser_2015_Headphones_D.jpg</attr>
+			<attr name='sha'>6614e78f30308e3a2e44ea7915b039faeda03dfa</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000865 1000986' >
+		<attr name='alacarte' livesite='false'>[1001155.1002622.1000865.1000986.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001155.1002622.1000865.1000986.derived]</attr>
+		<attr name='description' livesite='false'>[1001155.1002622.1000865.1000986.description]</attr>
+		<attr name='group' livesite='false'>[1001155.1002622.1000865.1000986.group]</attr>
+		<attr name='msrp' livesite='false'>[1001155.1002622.1000865.1000986.msrp]</attr>
+		<attr name='option' livesite='false'>[1001155.1002622.1000865.1000986.option]</attr>
+		<attr name='package' livesite='false'>[1001155.1002622.1000865.1000986.package]</attr>
+		<attr name='source' livesite='false'>[1001155.1002622.1000865.1000986.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001155.1002622.1000865.1000986.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001155.1002622.1000865.1000986.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001155.1002622.1000865.1000986.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>LandCruiser_2015_Headphones_D.jpg</attr>
+			<attr name='sha'>6614e78f30308e3a2e44ea7915b039faeda03dfa</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000865 1000987' >
+		<attr name='alacarte' livesite='false'>[1001155.1002622.1000865.1000987.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001155.1002622.1000865.1000987.derived]</attr>
+		<attr name='description' livesite='false'>[1001155.1002622.1000865.1000987.description]</attr>
+		<attr name='group' livesite='false'>[1001155.1002622.1000865.1000987.group]</attr>
+		<attr name='keyfeatures'>[1001155.1002622.1000865.1000987.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001155.1002622.1000865.1000987.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001155.1002622.1000865.1000987.msrp]</attr>
+		<attr name='option' livesite='false'>[1001155.1002622.1000865.1000987.option]</attr>
+		<attr name='package' livesite='false'>[1001155.1002622.1000865.1000987.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001155.1002622.1000865.1000987.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001155.1002622.1000865.1000987.secondaryfeatures]</attr>
+		<attr name='source'>[1001155.1002622.1000865.1000987.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001155.1002622.1000865.1000987.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001155.1002622.1000865.1000987.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001155.1002622.1000865.1000987.title]</attr>
+		<attr name='videokey'>[1001155.1002622.1000865.1000987.videokey]</attr>
+		<attr name='viewpointkey'>[1001155.1002622.1000865.1000987.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001090)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>LandCruiser_2015_Headphones_D.jpg</attr>
+			<attr name='sha'>6614e78f30308e3a2e44ea7915b039faeda03dfa</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000865 1000988' >
+		<attr name='alacarte' livesite='false'>[1001155.1002622.1000865.1000988.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001155.1002622.1000865.1000988.derived]</attr>
+		<attr name='description' livesite='false'>[1001155.1002622.1000865.1000988.description]</attr>
+		<attr name='group' livesite='false'>[1001155.1002622.1000865.1000988.group]</attr>
+		<attr name='msrp' livesite='false'>[1001155.1002622.1000865.1000988.msrp]</attr>
+		<attr name='option' livesite='false'>[1001155.1002622.1000865.1000988.option]</attr>
+		<attr name='package' livesite='false'>[1001155.1002622.1000865.1000988.package]</attr>
+		<attr name='source'>[1001155.1002622.1000865.1000988.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001155.1002622.1000865.1000988.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001155.1002622.1000865.1000988.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001155.1002622.1000865.1000988.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>LandCruiser_2015_Headphones_D.jpg</attr>
+			<attr name='sha'>6614e78f30308e3a2e44ea7915b039faeda03dfa</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1004144' >
+		<attr name='alacarte' livesite='false'>[1001155.1002622.1000866.1004144.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001155.1002622.1000866.1004144.derived]</attr>
+		<attr name='description' livesite='false'>[1001155.1002622.1000866.1004144.description]</attr>
+		<attr name='group' livesite='false'>[1001155.1002622.1000866.1004144.group]</attr>
+		<attr name='keyfeatures'>[1001155.1002622.1000866.1004144.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001155.1002622.1000866.1004144.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001155.1002622.1000866.1004144.msrp]</attr>
+		<attr name='option' livesite='false'>[1001155.1002622.1000866.1004144.option]</attr>
+		<attr name='package' livesite='false'>[1001155.1002622.1000866.1004144.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001155.1002622.1000866.1004144.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001155.1002622.1000866.1004144.secondaryfeatures]</attr>
+		<attr name='source' livesite='false'>[1001155.1002622.1000866.1004144.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001155.1002622.1000866.1004144.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001155.1002622.1000866.1004144.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001155.1002622.1000866.1004144.title]</attr>
+		<attr name='videokey'>[1001155.1002622.1000866.1004144.videokey]</attr>
+		<attr name='viewpointkey'>[1001155.1002622.1000866.1004144.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1001155.1002622.1000866.1004144.vtc]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001136)}</rule>
+	</if>
+
+	<if id='1002622 1000866 1004145' >
+		<attr name='alacarte' livesite='false'>[1001155.1002622.1000866.1004145.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001155.1002622.1000866.1004145.derived]</attr>
+		<attr name='description' livesite='false'>[1001155.1002622.1000866.1004145.description]</attr>
+		<attr name='group' livesite='false'>[1001155.1002622.1000866.1004145.group]</attr>
+		<attr name='keyfeatures'>[1001155.1002622.1000866.1004145.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001155.1002622.1000866.1004145.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001155.1002622.1000866.1004145.msrp]</attr>
+		<attr name='option' livesite='false'>[1001155.1002622.1000866.1004145.option]</attr>
+		<attr name='package' livesite='false'>[1001155.1002622.1000866.1004145.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001155.1002622.1000866.1004145.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001155.1002622.1000866.1004145.secondaryfeatures]</attr>
+		<attr name='source' livesite='false'>[1001155.1002622.1000866.1004145.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001155.1002622.1000866.1004145.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001155.1002622.1000866.1004145.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001155.1002622.1000866.1004145.title]</attr>
+		<attr name='videokey'>[1001155.1002622.1000866.1004145.videokey]</attr>
+		<attr name='viewpointkey'>[1001155.1002622.1000866.1004145.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1001155.1002622.1000866.1004145.vtc]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001503)}</rule>
+	</if>
+
+	<if id='1002622 1000866 1004146' >
+		<attr name='alacarte' livesite='false'>[1001155.1002622.1000866.1004146.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001155.1002622.1000866.1004146.derived]</attr>
+		<attr name='description' livesite='false'>[1001155.1002622.1000866.1004146.description]</attr>
+		<attr name='group' livesite='false'>[1001155.1002622.1000866.1004146.group]</attr>
+		<attr name='keyfeatures'>[1001155.1002622.1000866.1004146.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001155.1002622.1000866.1004146.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001155.1002622.1000866.1004146.msrp]</attr>
+		<attr name='option' livesite='false'>[1001155.1002622.1000866.1004146.option]</attr>
+		<attr name='package' livesite='false'>[1001155.1002622.1000866.1004146.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001155.1002622.1000866.1004146.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001155.1002622.1000866.1004146.secondaryfeatures]</attr>
+		<attr name='source' livesite='false'>[1001155.1002622.1000866.1004146.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001155.1002622.1000866.1004146.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001155.1002622.1000866.1004146.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001155.1002622.1000866.1004146.title]</attr>
+		<attr name='videokey'>[1001155.1002622.1000866.1004146.videokey]</attr>
+		<attr name='viewpointkey'>[1001155.1002622.1000866.1004146.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1001155.1002622.1000866.1004146.vtc]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001105)}</rule>
+	</if>
+
+	<if id='1002622 1000866 1004147' >
+		<attr name='alacarte' livesite='false'>[1001155.1002622.1000866.1004147.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001155.1002622.1000866.1004147.derived]</attr>
+		<attr name='description' livesite='false'>[1001155.1002622.1000866.1004147.description]</attr>
+		<attr name='group' livesite='false'>[1001155.1002622.1000866.1004147.group]</attr>
+		<attr name='keyfeatures'>[1001155.1002622.1000866.1004147.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001155.1002622.1000866.1004147.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001155.1002622.1000866.1004147.msrp]</attr>
+		<attr name='option' livesite='false'>[1001155.1002622.1000866.1004147.option]</attr>
+		<attr name='package' livesite='false'>[1001155.1002622.1000866.1004147.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001155.1002622.1000866.1004147.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001155.1002622.1000866.1004147.secondaryfeatures]</attr>
+		<attr name='source' livesite='false'>[1001155.1002622.1000866.1004147.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001155.1002622.1000866.1004147.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001155.1002622.1000866.1004147.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001155.1002622.1000866.1004147.title]</attr>
+		<attr name='videokey'>[1001155.1002622.1000866.1004147.videokey]</attr>
+		<attr name='viewpointkey'>[1001155.1002622.1000866.1004147.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1001155.1002622.1000866.1004147.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000866 1004148' >
+		<attr name='alacarte' livesite='false'>[1001155.1002622.1000866.1004148.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001155.1002622.1000866.1004148.derived]</attr>
+		<attr name='description' livesite='false'>[1001155.1002622.1000866.1004148.description]</attr>
+		<attr name='group' livesite='false'>[1001155.1002622.1000866.1004148.group]</attr>
+		<attr name='keyfeatures'>[1001155.1002622.1000866.1004148.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001155.1002622.1000866.1004148.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001155.1002622.1000866.1004148.msrp]</attr>
+		<attr name='option' livesite='false'>[1001155.1002622.1000866.1004148.option]</attr>
+		<attr name='package' livesite='false'>[1001155.1002622.1000866.1004148.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001155.1002622.1000866.1004148.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001155.1002622.1000866.1004148.secondaryfeatures]</attr>
+		<attr name='source' livesite='false'>[1001155.1002622.1000866.1004148.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001155.1002622.1000866.1004148.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001155.1002622.1000866.1004148.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001155.1002622.1000866.1004148.title]</attr>
+		<attr name='videokey'>[1001155.1002622.1000866.1004148.videokey]</attr>
+		<attr name='viewpointkey'>[1001155.1002622.1000866.1004148.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1001155.1002622.1000866.1004148.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000869 1000912' >
+		<attr name='alacarte'>[1001155.1002622.1000869.1000912.alacarte]</attr>
+		<attr name='derived'>[1001155.1002622.1000869.1000912.derived]</attr>
+		<attr name='description' livesite='false'>[1001155.1002622.1000869.1000912.description]</attr>
+		<attr name='group' livesite='false'>[1001155.1002622.1000869.1000912.group]</attr>
+		<attr name='keyfeatures'>[1001155.1002622.1000869.1000912.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001155.1002622.1000869.1000912.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001155.1002622.1000869.1000912.msrp]</attr>
+		<attr name='option' livesite='false'>[1001155.1002622.1000869.1000912.option]</attr>
+		<attr name='package'>[1001155.1002622.1000869.1000912.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001155.1002622.1000869.1000912.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001155.1002622.1000869.1000912.secondaryfeatures]</attr>
+		<attr name='source'>[1001155.1002622.1000869.1000912.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001155.1002622.1000869.1000912.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001155.1002622.1000869.1000912.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001155.1002622.1000869.1000912.title]</attr>
+		<attr name='videokey'>[1001155.1002622.1000869.1000912.videokey]</attr>
+		<attr name='viewpointkey'>[1001155.1002622.1000869.1000912.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1001155.1002622.1000869.1000912.vtc]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001048)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>VENZA_2015_WirelessHeadphones_D.jpg</attr>
+			<attr name='sha'>7f97a53b031b0c1b0740202fabfc30ecdd9ba94e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000869 1000914' >
+		<attr name='alacarte'>[1001155.1002622.1000869.1000914.alacarte]</attr>
+		<attr name='derived'>[1001155.1002622.1000869.1000914.derived]</attr>
+		<attr name='description' livesite='false'>[1001155.1002622.1000869.1000914.description]</attr>
+		<attr name='group' livesite='false'>[1001155.1002622.1000869.1000914.group]</attr>
+		<attr name='keyfeatures'>[1001155.1002622.1000869.1000914.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001155.1002622.1000869.1000914.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001155.1002622.1000869.1000914.msrp]</attr>
+		<attr name='option' livesite='false'>[1001155.1002622.1000869.1000914.option]</attr>
+		<attr name='package'>[1001155.1002622.1000869.1000914.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001155.1002622.1000869.1000914.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001155.1002622.1000869.1000914.secondaryfeatures]</attr>
+		<attr name='source'>[1001155.1002622.1000869.1000914.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001155.1002622.1000869.1000914.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001155.1002622.1000869.1000914.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001155.1002622.1000869.1000914.title]</attr>
+		<attr name='videokey'>[1001155.1002622.1000869.1000914.videokey]</attr>
+		<attr name='viewpointkey'>[1001155.1002622.1000869.1000914.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1001155.1002622.1000869.1000914.vtc]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001048)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>VENZA_2015_WirelessHeadphones_D.jpg</attr>
+			<attr name='sha'>7f97a53b031b0c1b0740202fabfc30ecdd9ba94e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000869 1000916' >
+		<attr name='alacarte'>[1001155.1002622.1000869.1000916.alacarte]</attr>
+		<attr name='derived'>[1001155.1002622.1000869.1000916.derived]</attr>
+		<attr name='description' livesite='false'>[1001155.1002622.1000869.1000916.description]</attr>
+		<attr name='group' livesite='false'>[1001155.1002622.1000869.1000916.group]</attr>
+		<attr name='keyfeatures'>[1001155.1002622.1000869.1000916.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001155.1002622.1000869.1000916.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001155.1002622.1000869.1000916.msrp]</attr>
+		<attr name='option' livesite='false'>[1001155.1002622.1000869.1000916.option]</attr>
+		<attr name='package'>[1001155.1002622.1000869.1000916.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001155.1002622.1000869.1000916.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001155.1002622.1000869.1000916.secondaryfeatures]</attr>
+		<attr name='source'>[1001155.1002622.1000869.1000916.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001155.1002622.1000869.1000916.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001155.1002622.1000869.1000916.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001155.1002622.1000869.1000916.title]</attr>
+		<attr name='videokey'>[1001155.1002622.1000869.1000916.videokey]</attr>
+		<attr name='viewpointkey'>[1001155.1002622.1000869.1000916.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1001155.1002622.1000869.1000916.vtc]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001048)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>VENZA_2015_WirelessHeadphones_D.jpg</attr>
+			<attr name='sha'>7f97a53b031b0c1b0740202fabfc30ecdd9ba94e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000869 1000917' >
+		<attr name='alacarte'>[1001155.1002622.1000869.1000917.alacarte]</attr>
+		<attr name='derived'>[1001155.1002622.1000869.1000917.derived]</attr>
+		<attr name='description' livesite='false'>[1001155.1002622.1000869.1000917.description]</attr>
+		<attr name='group' livesite='false'>[1001155.1002622.1000869.1000917.group]</attr>
+		<attr name='keyfeatures'>[1001155.1002622.1000869.1000917.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001155.1002622.1000869.1000917.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001155.1002622.1000869.1000917.msrp]</attr>
+		<attr name='option' livesite='false'>[1001155.1002622.1000869.1000917.option]</attr>
+		<attr name='package'>[1001155.1002622.1000869.1000917.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001155.1002622.1000869.1000917.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001155.1002622.1000869.1000917.secondaryfeatures]</attr>
+		<attr name='source'>[1001155.1002622.1000869.1000917.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001155.1002622.1000869.1000917.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001155.1002622.1000869.1000917.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001155.1002622.1000869.1000917.title]</attr>
+		<attr name='videokey'>[1001155.1002622.1000869.1000917.videokey]</attr>
+		<attr name='viewpointkey'>[1001155.1002622.1000869.1000917.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1001155.1002622.1000869.1000917.vtc]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001048)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>VENZA_2015_WirelessHeadphones_D.jpg</attr>
+			<attr name='sha'>7f97a53b031b0c1b0740202fabfc30ecdd9ba94e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000869 1000918' >
+		<attr name='alacarte'>[1001155.1002622.1000869.1000918.alacarte]</attr>
+		<attr name='derived'>[1001155.1002622.1000869.1000918.derived]</attr>
+		<attr name='description' livesite='false'>[1001155.1002622.1000869.1000918.description]</attr>
+		<attr name='group' livesite='false'>[1001155.1002622.1000869.1000918.group]</attr>
+		<attr name='keyfeatures'>[1001155.1002622.1000869.1000918.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001155.1002622.1000869.1000918.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001155.1002622.1000869.1000918.msrp]</attr>
+		<attr name='option' livesite='false'>[1001155.1002622.1000869.1000918.option]</attr>
+		<attr name='package'>[1001155.1002622.1000869.1000918.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001155.1002622.1000869.1000918.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001155.1002622.1000869.1000918.secondaryfeatures]</attr>
+		<attr name='source'>[1001155.1002622.1000869.1000918.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001155.1002622.1000869.1000918.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001155.1002622.1000869.1000918.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001155.1002622.1000869.1000918.title]</attr>
+		<attr name='videokey'>[1001155.1002622.1000869.1000918.videokey]</attr>
+		<attr name='viewpointkey'>[1001155.1002622.1000869.1000918.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1001155.1002622.1000869.1000918.vtc]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001048)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>VENZA_2015_WirelessHeadphones_D.jpg</attr>
+			<attr name='sha'>7f97a53b031b0c1b0740202fabfc30ecdd9ba94e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000869 1000919' >
+		<attr name='alacarte'>[1001155.1002622.1000869.1000919.alacarte]</attr>
+		<attr name='derived'>[1001155.1002622.1000869.1000919.derived]</attr>
+		<attr name='description' livesite='false'>[1001155.1002622.1000869.1000919.description]</attr>
+		<attr name='group' livesite='false'>[1001155.1002622.1000869.1000919.group]</attr>
+		<attr name='keyfeatures'>[1001155.1002622.1000869.1000919.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001155.1002622.1000869.1000919.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001155.1002622.1000869.1000919.msrp]</attr>
+		<attr name='option' livesite='false'>[1001155.1002622.1000869.1000919.option]</attr>
+		<attr name='package'>[1001155.1002622.1000869.1000919.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001155.1002622.1000869.1000919.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001155.1002622.1000869.1000919.secondaryfeatures]</attr>
+		<attr name='source'>[1001155.1002622.1000869.1000919.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001155.1002622.1000869.1000919.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001155.1002622.1000869.1000919.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001155.1002622.1000869.1000919.title]</attr>
+		<attr name='videokey'>[1001155.1002622.1000869.1000919.videokey]</attr>
+		<attr name='viewpointkey'>[1001155.1002622.1000869.1000919.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1001155.1002622.1000869.1000919.vtc]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001048)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>VENZA_2015_WirelessHeadphones_D.jpg</attr>
+			<attr name='sha'>7f97a53b031b0c1b0740202fabfc30ecdd9ba94e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000869 1000921' >
+		<attr name='alacarte'>[1001155.1002622.1000869.1000921.alacarte]</attr>
+		<attr name='derived'>[1001155.1002622.1000869.1000921.derived]</attr>
+		<attr name='description' livesite='false'>[1001155.1002622.1000869.1000921.description]</attr>
+		<attr name='group' livesite='false'>[1001155.1002622.1000869.1000921.group]</attr>
+		<attr name='keyfeatures'>[1001155.1002622.1000869.1000921.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001155.1002622.1000869.1000921.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001155.1002622.1000869.1000921.msrp]</attr>
+		<attr name='option' livesite='false'>[1001155.1002622.1000869.1000921.option]</attr>
+		<attr name='package'>[1001155.1002622.1000869.1000921.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001155.1002622.1000869.1000921.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001155.1002622.1000869.1000921.secondaryfeatures]</attr>
+		<attr name='source'>[1001155.1002622.1000869.1000921.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001155.1002622.1000869.1000921.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001155.1002622.1000869.1000921.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001155.1002622.1000869.1000921.title]</attr>
+		<attr name='videokey'>[1001155.1002622.1000869.1000921.videokey]</attr>
+		<attr name='viewpointkey'>[1001155.1002622.1000869.1000921.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1001155.1002622.1000869.1000921.vtc]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_WH' type='TEXT'>{1001155 requires(1001048)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>VENZA_2015_WirelessHeadphones_D.jpg</attr>
+			<attr name='sha'>7f97a53b031b0c1b0740202fabfc30ecdd9ba94e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not on the CAD accessory matrix, no assets on hand, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not on the CAD accessory matrix, no assets on hand, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not on the CAD accessory matrix, no assets on hand, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not in Legacy BYT Admin Tool for 8642 and 8646, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not on the CAD accessory matrix, no assets on hand, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not on the CAD accessory matrix, no assets on hand, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not on the CAD accessory matrix, no assets on hand, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not in Legacy BYT Admin Tool for 8642 and 8646, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not on the CAD accessory matrix, no assets on hand, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not in Legacy BYT Admin Tool for 8642 and 8646, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not on the CAD accessory matrix, no assets on hand, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not on the CAD accessory matrix, no assets on hand, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not on the CAD accessory matrix, no assets on hand, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not on the CAD accessory matrix, no assets on hand, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not on the CAD accessory matrix, no assets on hand, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not in Legacy BYT Admin Tool for 8642 and 8646, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not in Legacy BYT Admin Tool for 8642 and 8646, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not on the CAD accessory matrix, no assets on hand, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not on the CAD accessory matrix, no assets on hand, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not in Legacy BYT Admin Tool for 8642 and 8646, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not in Legacy BYT Admin Tool for 8642 and 8646, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not in Legacy BYT Admin Tool for 8642 and 8646, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not on the CAD accessory matrix, no assets on hand, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not on the CAD accessory matrix, no assets on hand, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not on the CAD accessory matrix, no assets on hand, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not on the CAD accessory matrix, no assets on hand, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not in Legacy BYT Admin Tool for 8642 and 8646, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not in Legacy BYT Admin Tool for 8642 and 8646, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not in Legacy BYT Admin Tool for 8642 and 8646, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not on the CAD accessory matrix, no assets on hand, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not on the CAD accessory matrix, no assets on hand, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not in Legacy BYT Admin Tool for 8642 and 8646, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not in Legacy BYT Admin Tool for 8642 and 8646, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not in Legacy BYT Admin Tool for 8642 and 8646, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not in Legacy BYT Admin Tool for 8642 and 8646, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not in Legacy BYT Admin Tool for 8642 and 8646, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not in Legacy BYT Admin Tool for 8642 and 8646, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not in Legacy BYT Admin Tool for 8642 and 8646, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not in Legacy BYT Admin Tool for 8642 and 8646, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>WH is not in Legacy BYT Admin Tool for 8642 and 8646, unvtcing.</attr>
+		<attr name='systemdate'>2014 June 19</attr>
+		<attr name='time'>2014 June 19</attr>
+	</complextype>
+</group>
+
+</feature>

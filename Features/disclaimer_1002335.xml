@@ -1,0 +1,8 @@
+<feature id='1002335' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='derived' livesite='false'>[1002335.derived]</attr>
+	<attr name='vtc' livesite='false'>[1002335.vtc]</attr>
+	<attr name='description' livesite='false'>[1002335.description]</attr>
+	<attr name='code'>tun_towpkg_payload_decrease75</attr>
+	<attr name='source' livesite='false'>[1002335.source]</attr>
+</feature>

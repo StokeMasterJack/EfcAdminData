@@ -1,0 +1,16 @@
+<feature id='1001603' type='disclaimer' cardinality='optional' >
+	<attr name='derived' livesite='false'>[1001603.derived]</attr>
+	<attr name='vtc' livesite='false'>[1001603.vtc]</attr>
+	<attr name='code'>airbag_quantities</attr>
+	<attr name='description' livesite='false'>[1001603.description]</attr>
+	<attr name='source' livesite='false'>[1001603.source]</attr>
+	<attr name='title'></attr>
+	<if id='1000851' >
+		<attr name='description' livesite='false'>[1001603.1000851.description]</attr>
+	</if>
+
+	<if id='1002622' >
+		<attr name='description' livesite='false'>[1001603.1002622.description]</attr>
+	</if>
+
+</feature>

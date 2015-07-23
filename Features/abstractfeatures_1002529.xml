@@ -1,0 +1,7 @@
+<feature id='1002529' type='abstractfeatures' cardinality='optional' >
+	<attr name='code'>ECO</attr>
+	<attr name='title' livesite='false'>[1002529.title]</attr>
+	<attr name='vtc' livesite='false'>[1002529.vtc]</attr>
+	<attr name='source' livesite='false'>[1002529.source]</attr>
+	<attr name='derived' livesite='false'>[1002529.derived]</attr>
+</feature>

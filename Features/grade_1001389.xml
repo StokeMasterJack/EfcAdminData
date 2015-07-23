@@ -1,0 +1,87 @@
+<feature id='1001389' type='grade' cardinality='optional' >
+	<attr name='code'>limitedplatinum</attr>
+	<attr name='title'>[1001389.title]</attr>
+	<attr name='description'>[1001389.description]</attr>
+	<attr name='images'></attr>
+	<attr name='copyblock'>[1001389.copyblock]</attr>
+	<attr name='keyword'>[1001389.keyword]</attr>
+	<attr name='mpg'>[1001389.mpg]</attr>
+	<attr name='availablecopy'>[1001389.availablecopy]</attr>
+	<attr name='iconname'>[1001389.iconname]</attr>
+	<attr name='hotspot'>[1001389.hotspot]</attr>
+	<attr name='vtc'>[1001389.vtc]</attr>
+	<attr name='source'>[1001389.source]</attr>
+	<attr name='derived' livesite='false'>[1001389.derived]</attr>
+	<if id='1000851 1000857 1000958' >
+		<attr name='availablecopy'>[1001389.1000851.1000857.1000958.availablecopy]</attr>
+		<attr name='mpg'>[1001389.1000851.1000857.1000958.mpg]</attr>
+		<attr name='iconname'>[1001389.1000851.1000857.1000958.iconname]</attr>
+		<attr name='copyblock'>[1001389.1000851.1000857.1000958.copyblock]</attr>
+		<attr name='description'>[1001389.1000851.1000857.1000958.description]</attr>
+		<attr name='keyword'>[1001389.1000851.1000857.1000958.keyword]</attr>
+		<attr name='derived'>[1001389.1000851.1000857.1000958.derived]</attr>
+		<attr name='hotspot'>[1001389.1000851.1000857.1000958.hotspot]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Highlander_Ltd.png</attr>
+			<attr name='sha'>d715be4a3727e7157b5cc78a9a7e60e478b53912</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000956' >
+		<attr name='availablecopy'>1001389.1002622.1000857.1000956.availablecopy</attr>
+		<attr name='mpg'>1001389.1002622.1000857.1000956.mpg</attr>
+		<attr name='iconname'>1001389.1002622.1000857.1000956.iconname</attr>
+		<attr name='copyblock'>1001389.1002622.1000857.1000956.copyblock</attr>
+		<attr name='description'>1001389.1002622.1000857.1000956.description</attr>
+		<attr name='keyword'>1001389.1002622.1000857.1000956.keyword</attr>
+		<attr name='derived'>1001389.1002622.1000857.1000956.derived</attr>
+		<attr name='hotspot'>1001389.1002622.1000857.1000956.hotspot</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Highlander_ext_Limited_Platinum_06W4.png</attr>
+			<attr name='sha'>7a25b9a78259e7c4bf3f898e072694820aebf692</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000857 1000956' >
+		<attr name='availablecopy'>[1001389.1000851.1000857.1000956.availablecopy]</attr>
+		<attr name='mpg'>[1001389.1000851.1000857.1000956.mpg]</attr>
+		<attr name='iconname'>[1001389.1000851.1000857.1000956.iconname]</attr>
+		<attr name='copyblock'>[1001389.1000851.1000857.1000956.copyblock]</attr>
+		<attr name='description'>[1001389.1000851.1000857.1000956.description]</attr>
+		<attr name='keyword'>[1001389.1000851.1000857.1000956.keyword]</attr>
+		<attr name='derived'>[1001389.1000851.1000857.1000956.derived]</attr>
+		<attr name='hotspot'>[1001389.1000851.1000857.1000956.hotspot]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Highlander_Ltd.png</attr>
+			<attr name='sha'>d715be4a3727e7157b5cc78a9a7e60e478b53912</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000857 1000958' >
+		<attr name='availablecopy'>1001389.1002622.1000857.1000958.availablecopy</attr>
+		<attr name='mpg'>1001389.1002622.1000857.1000958.mpg</attr>
+		<attr name='iconname'>1001389.1002622.1000857.1000958.iconname</attr>
+		<attr name='copyblock'>1001389.1002622.1000857.1000958.copyblock</attr>
+		<attr name='description'>1001389.1002622.1000857.1000958.description</attr>
+		<attr name='keyword'>1001389.1002622.1000857.1000958.keyword</attr>
+		<attr name='derived'>1001389.1002622.1000857.1000958.derived</attr>
+		<attr name='hotspot'>1001389.1002622.1000857.1000958.hotspot</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Highlander_ext_Limited_Platinum_03T0.png</attr>
+			<attr name='sha'>cd55a562cf154c5af72e6fa0044b8de4a881f075</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

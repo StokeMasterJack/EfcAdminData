@@ -1,0 +1,7 @@
+<feature id='1002428' type='abstractfeatures' scope='1000851' cardinality='mandatory' >
+	<attr name='code'>Gray</attr>
+	<attr name='derived'>[1002428.derived]</attr>
+	<attr name='source'>[1002428.source]</attr>
+	<attr name='title'>[1002428.title]</attr>
+	<attr name='vtc'>[1002428.vtc]</attr>
+</feature>

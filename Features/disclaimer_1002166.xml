@@ -1,0 +1,8 @@
+<feature id='1002166' type='disclaimer' cardinality='optional' >
+	<attr name='code'>req_acc_connection</attr>
+	<attr name='source' livesite='false'>[1002166.source]</attr>
+	<attr name='description' livesite='false'>[1002166.description]</attr>
+	<attr name='vtc' livesite='false'>[1002166.vtc]</attr>
+	<attr name='derived' livesite='false'>[1002166.derived]</attr>
+	<attr name='title'></attr>
+</feature>

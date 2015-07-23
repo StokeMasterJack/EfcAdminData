@@ -1,0 +1,8 @@
+<feature id='1001668' type='disclaimer' cardinality='optional' >
+	<attr name='code'>brand_precision_home</attr>
+	<attr name='vtc' livesite='false'>[1001668.vtc]</attr>
+	<attr name='derived' livesite='false'>[1001668.derived]</attr>
+	<attr name='source' livesite='false'>[1001668.source]</attr>
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1001668.description]</attr>
+</feature>

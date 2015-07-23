@@ -1,0 +1,188 @@
+<feature id='1001212' type='exteriorcolor' scope='1002622 1000861 1000879, 1000851 1000861 1000880, 1002622 1000859 1000876, 1002622 1000859 1000877, 1000851 1000861 1000879, 1000851 1000859 1000878, 1002622 1000859 1000875, 1000851 1000859 1000875, 1002622 1000861 1000880, 1002622 1000859 1000878, 1000851 1000859 1000877, 1000851 1000859 1000876' cardinality='mandatory' >
+	<attr name='carjellyimage'></attr>
+	<attr name='code'>08V1</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='hexvalue' livesite='false'>[1001212.hexvalue]</attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1001212.source]</attr>
+	<attr name='title' livesite='false'>[1001212.title]</attr>
+	<attr name='vtc' livesite='false'>[1001212.vtc]</attr>
+	<if id='1000851 1000859 1000875' >
+		<attr name='derived' livesite='false'>[1001212.1000851.1000859.1000875.derived]</attr>
+		<attr name='description'>[1001212.1000851.1000859.1000875.description]</attr>
+		<attr name='materialtypeid'>[1001212.1000851.1000859.1000875.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001212.1000851.1000859.1000875.source]</attr>
+		<attr name='title' livesite='false'>[1001212.1000851.1000859.1000875.title]</attr>
+		<rule src='NVS' type='TEXT'>{1001212 conflicts(1001242)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>prius_ext_two_8V1_v37ee_hd_025.png</attr>
+			<attr name='sha'>729ae6c1e32207bec7beadfceb21c987c5b89c8e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000859 1000876' >
+		<attr name='derived' livesite='false'>[1001212.1000851.1000859.1000876.derived]</attr>
+		<attr name='description'>[1001212.1000851.1000859.1000876.description]</attr>
+		<attr name='materialtypeid'>[1001212.1000851.1000859.1000876.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001212.1000851.1000859.1000876.source]</attr>
+		<attr name='title' livesite='false'>[1001212.1000851.1000859.1000876.title]</attr>
+		<rule src='NVS' type='TEXT'>{1001212 conflicts(1001242)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>prius_ext_three_8V1_v37ee_hd_025.png</attr>
+			<attr name='sha'>07e954beb520fc35a9c55993a324f9bcd46dcf8a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000859 1000877' >
+		<attr name='derived' livesite='false'>[1001212.1000851.1000859.1000877.derived]</attr>
+		<attr name='description'>[1001212.1000851.1000859.1000877.description]</attr>
+		<attr name='materialtypeid'>[1001212.1000851.1000859.1000877.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001212.1000851.1000859.1000877.source]</attr>
+		<attr name='title' livesite='false'>[1001212.1000851.1000859.1000877.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_08V1' type='TEXT'>{1001212 conflicts(1001312)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>prius_ext_four_8V1_v37ee_hd_025.png</attr>
+			<attr name='sha'>07e954beb520fc35a9c55993a324f9bcd46dcf8a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000859 1000878' >
+		<attr name='derived' livesite='false'>[1001212.1000851.1000859.1000878.derived]</attr>
+		<attr name='description'>[1001212.1000851.1000859.1000878.description]</attr>
+		<attr name='materialtypeid'>[1001212.1000851.1000859.1000878.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001212.1000851.1000859.1000878.source]</attr>
+		<attr name='title' livesite='false'>[1001212.1000851.1000859.1000878.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_08V1' type='TEXT'>{1001212 conflicts(1001312)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>prius_ext_five_8V1_v37ee_hd_025.png</attr>
+			<attr name='sha'>5d3c2272939273421c1caedd079a695f2a1c7222</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000861 1000879' >
+		<attr name='derived' livesite='false'>[1001212.1000851.1000861.1000879.derived]</attr>
+		<attr name='description'>[1001212.1000851.1000861.1000879.description]</attr>
+		<attr name='materialtypeid'>[1001212.1000851.1000861.1000879.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001212.1000851.1000861.1000879.source]</attr>
+		<attr name='title' livesite='false'>[1001212.1000851.1000861.1000879.title]</attr>
+	</if>
+
+	<if id='1000851 1000861 1000880' >
+		<attr name='derived' livesite='false'>[1001212.1000851.1000861.1000880.derived]</attr>
+		<attr name='description'>[1001212.1000851.1000861.1000880.description]</attr>
+		<attr name='materialtypeid'>[1001212.1000851.1000861.1000880.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001212.1000851.1000861.1000880.source]</attr>
+		<attr name='title' livesite='false'>[1001212.1000851.1000861.1000880.title]</attr>
+	</if>
+
+	<if id='1002622 1000859 1000875' >
+		<attr name='derived' livesite='false'>[1001212.1002622.1000859.1000875.derived]</attr>
+		<attr name='description'>[1001212.1002622.1000859.1000875.description]</attr>
+		<attr name='materialtypeid'>[1001212.1002622.1000859.1000875.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001212.1002622.1000859.1000875.source]</attr>
+		<attr name='title' livesite='false'>[1001212.1002622.1000859.1000875.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_08V1' type='TEXT'>{1001212 conflicts(1001242)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>wintergraymetallic.png</attr>
+			<attr name='sha'>5d3c2272939273421c1caedd079a695f2a1c7222</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000859 1000876' >
+		<attr name='derived' livesite='false'>[1001212.1002622.1000859.1000876.derived]</attr>
+		<attr name='description'>[1001212.1002622.1000859.1000876.description]</attr>
+		<attr name='materialtypeid'>[1001212.1002622.1000859.1000876.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001212.1002622.1000859.1000876.source]</attr>
+		<attr name='title' livesite='false'>[1001212.1002622.1000859.1000876.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_08V1' type='TEXT'>{1001212 conflicts(1001242)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>wintergraymetallic.png</attr>
+			<attr name='sha'>5d3c2272939273421c1caedd079a695f2a1c7222</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000859 1000877' >
+		<attr name='derived' livesite='false'>[1001212.1002622.1000859.1000877.derived]</attr>
+		<attr name='description'>[1001212.1002622.1000859.1000877.description]</attr>
+		<attr name='materialtypeid'>[1001212.1002622.1000859.1000877.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001212.1002622.1000859.1000877.source]</attr>
+		<attr name='title' livesite='false'>[1001212.1002622.1000859.1000877.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_08V1' type='TEXT'>{1001212 conflicts(1001312)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>wintergraymetallic.png</attr>
+			<attr name='sha'>5d3c2272939273421c1caedd079a695f2a1c7222</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000859 1000878' >
+		<attr name='derived' livesite='false'>[1001212.1002622.1000859.1000878.derived]</attr>
+		<attr name='description'>[1001212.1002622.1000859.1000878.description]</attr>
+		<attr name='materialtypeid'>[1001212.1002622.1000859.1000878.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001212.1002622.1000859.1000878.source]</attr>
+		<attr name='title' livesite='false'>[1001212.1002622.1000859.1000878.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_08V1' type='TEXT'>{1001212 conflicts(1001312)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>wintergraymetallic.png</attr>
+			<attr name='sha'>5d3c2272939273421c1caedd079a695f2a1c7222</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000861 1000879' >
+		<attr name='derived' livesite='false'>[1001212.1002622.1000861.1000879.derived]</attr>
+		<attr name='description'>[1001212.1002622.1000861.1000879.description]</attr>
+		<attr name='materialtypeid'>[1001212.1002622.1000861.1000879.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001212.1002622.1000861.1000879.source]</attr>
+		<attr name='title' livesite='false'>[1001212.1002622.1000861.1000879.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Prius_PhV_ext_plugin_08V1_v005_si_byt_001.png</attr>
+			<attr name='sha'>b0f0dfb7f2193c3058f5b9946e8bfd882b6d5aa8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000861 1000880' >
+		<attr name='derived' livesite='false'>[1001212.1002622.1000861.1000880.derived]</attr>
+		<attr name='description'>[1001212.1002622.1000861.1000880.description]</attr>
+		<attr name='materialtypeid'>[1001212.1002622.1000861.1000880.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001212.1002622.1000861.1000880.source]</attr>
+		<attr name='title' livesite='false'>[1001212.1002622.1000861.1000880.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Prius_PhV_ext_plugin_advanced_08V1_v005_si_byt_001.png</attr>
+			<attr name='sha'>30dd6b02894626ed223d21e1b2f3dfe7b5b56c3a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

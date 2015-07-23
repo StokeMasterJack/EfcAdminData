@@ -1,0 +1,8 @@
+<feature id='1001765' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='code'>edmunds_tco</attr>
+	<attr name='vtc' livesite='false'>[1001765.vtc]</attr>
+	<attr name='derived' livesite='false'>[1001765.derived]</attr>
+	<attr name='source' livesite='false'>[1001765.source]</attr>
+	<attr name='description' livesite='false'>[1001765.description]</attr>
+</feature>

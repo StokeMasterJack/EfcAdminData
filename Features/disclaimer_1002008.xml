@@ -1,0 +1,8 @@
+<feature id='1002008' type='disclaimer' cardinality='optional' >
+	<attr name='derived' livesite='false'>[1002008.derived]</attr>
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1002008.source]</attr>
+	<attr name='description' livesite='false'>[1002008.description]</attr>
+	<attr name='code'>manual_spt_pkg</attr>
+	<attr name='vtc' livesite='false'>[1002008.vtc]</attr>
+</feature>

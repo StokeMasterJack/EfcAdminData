@@ -1,0 +1,194 @@
+<feature id='1003059' type='exteriorcolor' scope='1002622 1000866 1000944, 1002622 1000866 1004146, 1002622 1000866 1000945, 1002622 1000866 1004147, 1002622 1000866 1000946, 1002622 1000866 1004145, 1002622 1000866 1000939, 1002622 1000866 1000940, 1002622 1000866 1004148, 1002622 1000866 1000942, 1002622 1000866 1000943' cardinality='mandatory' >
+	<attr name='carjellyimage'></attr>
+	<attr name='code'>08S4</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='hexvalue'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1003059.source]</attr>
+	<attr name='title' livesite='false'>[1003059.title]</attr>
+	<attr name='vtc' livesite='false'>[1003059.vtc]</attr>
+	<if id='1002622 1000866 1000939' >
+		<attr name='derived' livesite='false'>[1003059.1002622.1000866.1000939.derived]</attr>
+		<attr name='description'>[1003059.1002622.1000866.1000939.description]</attr>
+		<attr name='hexvalue' livesite='false'>[1003059.1002622.1000866.1000939.hexvalue]</attr>
+		<attr name='materialtypeid'>[1003059.1002622.1000866.1000939.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003059.1002622.1000866.1000939.source]</attr>
+		<attr name='title' livesite='false'>[1003059.1002622.1000866.1000939.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Sienna_MY15_ext_L_08S4_v005_hd_001.png</attr>
+			<attr name='sha'>29054904acc33894fb5bce01f83b2c541d77c990</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1000940' >
+		<attr name='derived' livesite='false'>[1003059.1002622.1000866.1000940.derived]</attr>
+		<attr name='description'>[1003059.1002622.1000866.1000940.description]</attr>
+		<attr name='hexvalue' livesite='false'>[1003059.1002622.1000866.1000940.hexvalue]</attr>
+		<attr name='materialtypeid'>[1003059.1002622.1000866.1000940.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003059.1002622.1000866.1000940.source]</attr>
+		<attr name='title' livesite='false'>[1003059.1002622.1000866.1000940.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Sienna_MY15_ext_LE_FWD_08S4_v005_hd_001.png</attr>
+			<attr name='sha'>8463b02b7db052a7233bc2b7d8eae05178bb48c6</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1000942' >
+		<attr name='derived' livesite='false'>[1003059.1002622.1000866.1000942.derived]</attr>
+		<attr name='description'>[1003059.1002622.1000866.1000942.description]</attr>
+		<attr name='hexvalue' livesite='false'>[1003059.1002622.1000866.1000942.hexvalue]</attr>
+		<attr name='materialtypeid'>[1003059.1002622.1000866.1000942.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003059.1002622.1000866.1000942.source]</attr>
+		<attr name='title' livesite='false'>[1003059.1002622.1000866.1000942.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Sienna_MY15_ext_XLE_PRM_FWD_08S4_v005_hd_001.png</attr>
+			<attr name='sha'>eaf50d8940bb9df8318f1546acbda56f28e3cc14</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1000943' >
+		<attr name='derived' livesite='false'>[1003059.1002622.1000866.1000943.derived]</attr>
+		<attr name='description'>[1003059.1002622.1000866.1000943.description]</attr>
+		<attr name='hexvalue' livesite='false'>[1003059.1002622.1000866.1000943.hexvalue]</attr>
+		<attr name='materialtypeid'>[1003059.1002622.1000866.1000943.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003059.1002622.1000866.1000943.source]</attr>
+		<attr name='title' livesite='false'>[1003059.1002622.1000866.1000943.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_08S4' type='TEXT'>{1003059 conflicts(1003076)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Sienna_MY15_ext_LTD_PRM_FWD_w_TECH_08S4_v005_hd_001.png</attr>
+			<attr name='sha'>73291c617207ae041ada5432b482cae6a82cf701</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1000944' >
+		<attr name='derived' livesite='false'>[1003059.1002622.1000866.1000944.derived]</attr>
+		<attr name='description'>[1003059.1002622.1000866.1000944.description]</attr>
+		<attr name='hexvalue' livesite='false'>[1003059.1002622.1000866.1000944.hexvalue]</attr>
+		<attr name='materialtypeid'>[1003059.1002622.1000866.1000944.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003059.1002622.1000866.1000944.source]</attr>
+		<attr name='title' livesite='false'>[1003059.1002622.1000866.1000944.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Sienna_MY15_ext_LE_FWD_08S4_v005_hd_001.png</attr>
+			<attr name='sha'>8463b02b7db052a7233bc2b7d8eae05178bb48c6</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1000945' >
+		<attr name='derived' livesite='false'>[1003059.1002622.1000866.1000945.derived]</attr>
+		<attr name='description'>[1003059.1002622.1000866.1000945.description]</attr>
+		<attr name='hexvalue' livesite='false'>[1003059.1002622.1000866.1000945.hexvalue]</attr>
+		<attr name='materialtypeid'>[1003059.1002622.1000866.1000945.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003059.1002622.1000866.1000945.source]</attr>
+		<attr name='title' livesite='false'>[1003059.1002622.1000866.1000945.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Sienna_MY15_ext_XLE_PRM_FWD_08S4_v005_hd_001.png</attr>
+			<attr name='sha'>eaf50d8940bb9df8318f1546acbda56f28e3cc14</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1000946' >
+		<attr name='derived' livesite='false'>[1003059.1002622.1000866.1000946.derived]</attr>
+		<attr name='description'>[1003059.1002622.1000866.1000946.description]</attr>
+		<attr name='hexvalue' livesite='false'>[1003059.1002622.1000866.1000946.hexvalue]</attr>
+		<attr name='materialtypeid'>[1003059.1002622.1000866.1000946.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003059.1002622.1000866.1000946.source]</attr>
+		<attr name='title' livesite='false'>[1003059.1002622.1000866.1000946.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_08S4' type='TEXT'>{1003059 conflicts(1003076)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Sienna_MY15_ext_LTD_PRM_FWD_w_TECH_08S4_v005_hd_001.png</attr>
+			<attr name='sha'>73291c617207ae041ada5432b482cae6a82cf701</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1004145' >
+		<attr name='derived' livesite='false'>[1003059.1002622.1000866.1004145.derived]</attr>
+		<attr name='description'>[1003059.1002622.1000866.1004145.description]</attr>
+		<attr name='hexvalue' livesite='false'>[1003059.1002622.1000866.1004145.hexvalue]</attr>
+		<attr name='materialtypeid'>[1003059.1002622.1000866.1004145.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003059.1002622.1000866.1004145.source]</attr>
+		<attr name='title' livesite='false'>[1003059.1002622.1000866.1004145.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Sienna_MY15_ext_XLE_PRM_FWD_08S4_v005_hd_001.png</attr>
+			<attr name='sha'>eaf50d8940bb9df8318f1546acbda56f28e3cc14</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1004146' >
+		<attr name='derived' livesite='false'>[1003059.1002622.1000866.1004146.derived]</attr>
+		<attr name='description'>[1003059.1002622.1000866.1004146.description]</attr>
+		<attr name='hexvalue' livesite='false'>[1003059.1002622.1000866.1004146.hexvalue]</attr>
+		<attr name='materialtypeid'>[1003059.1002622.1000866.1004146.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003059.1002622.1000866.1004146.source]</attr>
+		<attr name='title' livesite='false'>[1003059.1002622.1000866.1004146.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_08S4' type='TEXT'>{1003059 conflicts(1003076)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Sienna_MY15_ext_LTD_PRM_FWD_w_TECH_08S4_v005_hd_001.png</attr>
+			<attr name='sha'>73291c617207ae041ada5432b482cae6a82cf701</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1004147' >
+		<attr name='derived' livesite='false'>[1003059.1002622.1000866.1004147.derived]</attr>
+		<attr name='description'>[1003059.1002622.1000866.1004147.description]</attr>
+		<attr name='hexvalue' livesite='false'>[1003059.1002622.1000866.1004147.hexvalue]</attr>
+		<attr name='materialtypeid'>[1003059.1002622.1000866.1004147.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003059.1002622.1000866.1004147.source]</attr>
+		<attr name='title' livesite='false'>[1003059.1002622.1000866.1004147.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Sienna_MY15_ext_XLE_PRM_FWD_08S4_v005_hd_001.png</attr>
+			<attr name='sha'>eaf50d8940bb9df8318f1546acbda56f28e3cc14</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000866 1004148' >
+		<attr name='derived' livesite='false'>[1003059.1002622.1000866.1004148.derived]</attr>
+		<attr name='description'>[1003059.1002622.1000866.1004148.description]</attr>
+		<attr name='hexvalue' livesite='false'>[1003059.1002622.1000866.1004148.hexvalue]</attr>
+		<attr name='materialtypeid'>[1003059.1002622.1000866.1004148.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1003059.1002622.1000866.1004148.source]</attr>
+		<attr name='title' livesite='false'>[1003059.1002622.1000866.1004148.title]</attr>
+		<rule src='NVS' tag='COLORCOMBO_TAG_XCOL_08S4' type='TEXT'>{1003059 conflicts(1003076)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>carjellyimage</attr>
+			<attr name='name'>Sienna_MY15_ext_LTD_PRM_FWD_w_TECH_08S4_v005_hd_001.png</attr>
+			<attr name='sha'>73291c617207ae041ada5432b482cae6a82cf701</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

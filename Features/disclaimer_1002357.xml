@@ -1,0 +1,12 @@
+<feature id='1002357' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1002357.description]</attr>
+	<attr name='code'>tundra_ichoice4_12</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1002357.vtc]</attr>
+	<attr name='derived' livesite='false'>[1002357.derived]</attr>
+	<attr name='source' livesite='false'>[1002357.source]</attr>
+	<if id='1002622' >
+		<attr name='description' livesite='false'>[1002357.1002622.description]</attr>
+	</if>
+
+</feature>

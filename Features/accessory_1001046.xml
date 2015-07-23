@@ -1,0 +1,130 @@
+<feature id='1001046' type='accessory' scope='1000851 1000856 1000937, 1000851 1000856 1000936, 1000851 1000856 1000938, 1000851 1000856' cardinality='mandatory' >
+	<attr name='alacarte'></attr>
+	<attr name='code'>6D</attr>
+	<attr name='derived'>[1001046.derived]</attr>
+	<attr name='description'></attr>
+	<attr name='fullimage'></attr>
+	<attr name='group' livesite='false'>[1001046.group]</attr>
+	<attr name='keyfeatures'></attr>
+	<attr name='marketingeffectivedate'></attr>
+	<attr name='msrp'></attr>
+	<attr name='option'></attr>
+	<attr name='package'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='secondaryfeatures'></attr>
+	<attr name='source'>[1001046.source]</attr>
+	<attr name='specialexteriorcolorflag'></attr>
+	<attr name='specialinteriorcolorflag'></attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'></attr>
+	<attr name='type'>[1001046.type]</attr>
+	<attr name='videokey'></attr>
+	<attr name='viewpointkey'></attr>
+	<attr name='vtc'>[1001046.vtc]</attr>
+	<if id='1000851 1000856' >
+		<attr name='alacarte'>[1001046.1000851.1000856.alacarte]</attr>
+		<attr name='description'>[1001046.1000851.1000856.description]</attr>
+		<attr name='group'>[1001046.1000851.1000856.group]</attr>
+		<attr name='title'>[1001046.1000851.1000856.title]</attr>
+	</if>
+
+	<if id='1000851 1000856 1000936' disclaimers='1002414' >
+		<attr name='derived'>[1001046.1000851.1000856.1000936.derived]</attr>
+		<attr name='description'>[1001046.1000851.1000856.1000936.description]</attr>
+		<attr name='keyfeatures'>[1001046.1000851.1000856.1000936.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001046.1000851.1000856.1000936.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1001046.1000851.1000856.1000936.msrp]</attr>
+		<attr name='option'>[1001046.1000851.1000856.1000936.option]</attr>
+		<attr name='package'>[1001046.1000851.1000856.1000936.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001046.1000851.1000856.1000936.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001046.1000851.1000856.1000936.secondaryfeatures]</attr>
+		<attr name='source'>[1001046.1000851.1000856.1000936.source]</attr>
+		<attr name='specialexteriorcolorflag'>[1001046.1000851.1000856.1000936.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1001046.1000851.1000856.1000936.specialinteriorcolorflag]</attr>
+		<attr name='title'>[1001046.1000851.1000856.1000936.title]</attr>
+		<attr name='videokey'>[1001046.1000851.1000856.1000936.videokey]</attr>
+		<attr name='viewpointkey'>[1001046.1000851.1000856.1000936.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_6D' type='TEXT'>{1001046 conflicts(1001159)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_6D' type='TEXT'>{1001046 conflicts(1001160)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_6D' type='TEXT'>{1001046 conflicts(1001150)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Rear-Door-Storage-Net.jpg</attr>
+			<attr name='sha'>53d3f09c62f8232f32f7488b808534d3ab14d301</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Rear-Door-Storage-Net.jpg</attr>
+			<attr name='sha'>74a91670c2edb87c6476dba8e99ac058245f520b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000856 1000937' disclaimers='1002414' >
+		<attr name='derived'>[1001046.1000851.1000856.1000937.derived]</attr>
+		<attr name='description'>[1001046.1000851.1000856.1000937.description]</attr>
+		<attr name='keyfeatures'>[1001046.1000851.1000856.1000937.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001046.1000851.1000856.1000937.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1001046.1000851.1000856.1000937.msrp]</attr>
+		<attr name='option'>[1001046.1000851.1000856.1000937.option]</attr>
+		<attr name='package'>[1001046.1000851.1000856.1000937.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001046.1000851.1000856.1000937.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001046.1000851.1000856.1000937.secondaryfeatures]</attr>
+		<attr name='source'>[1001046.1000851.1000856.1000937.source]</attr>
+		<attr name='specialexteriorcolorflag'>[1001046.1000851.1000856.1000937.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1001046.1000851.1000856.1000937.specialinteriorcolorflag]</attr>
+		<attr name='title'>[1001046.1000851.1000856.1000937.title]</attr>
+		<attr name='videokey'>[1001046.1000851.1000856.1000937.videokey]</attr>
+		<attr name='viewpointkey'>[1001046.1000851.1000856.1000937.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_6D' type='TEXT'>{1001046 conflicts(1001160)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_6D' type='TEXT'>{1001046 conflicts(1001150)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_6D' type='TEXT'>{1001046 conflicts(1001159)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Rear-Door-Storage-Net.jpg</attr>
+			<attr name='sha'>53d3f09c62f8232f32f7488b808534d3ab14d301</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Rear-Door-Storage-Net.jpg</attr>
+			<attr name='sha'>74a91670c2edb87c6476dba8e99ac058245f520b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000856 1000938' disclaimers='1002414' >
+		<attr name='derived'>[1001046.1000851.1000856.1000938.derived]</attr>
+		<attr name='description'>[1001046.1000851.1000856.1000938.description]</attr>
+		<attr name='keyfeatures'>[1001046.1000851.1000856.1000938.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001046.1000851.1000856.1000938.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1001046.1000851.1000856.1000938.msrp]</attr>
+		<attr name='option'>[1001046.1000851.1000856.1000938.option]</attr>
+		<attr name='package'>[1001046.1000851.1000856.1000938.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001046.1000851.1000856.1000938.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001046.1000851.1000856.1000938.secondaryfeatures]</attr>
+		<attr name='source'>[1001046.1000851.1000856.1000938.source]</attr>
+		<attr name='specialexteriorcolorflag'>[1001046.1000851.1000856.1000938.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1001046.1000851.1000856.1000938.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001046.1000851.1000856.1000938.title]</attr>
+		<attr name='videokey'>[1001046.1000851.1000856.1000938.videokey]</attr>
+		<attr name='viewpointkey'>[1001046.1000851.1000856.1000938.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_6D' type='TEXT'>{1001046 conflicts(1001159)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_6D' type='TEXT'>{1001046 conflicts(1001160)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_6D' type='TEXT'>{1001046 conflicts(1001150)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Rear-Door-Storage-Net.jpg</attr>
+			<attr name='sha'>53d3f09c62f8232f32f7488b808534d3ab14d301</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Rear-Door-Storage-Net.jpg</attr>
+			<attr name='sha'>74a91670c2edb87c6476dba8e99ac058245f520b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

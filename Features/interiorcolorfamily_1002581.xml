@@ -1,0 +1,21 @@
+<feature id='1002581' type='interiorcolorfamily' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='code'>Gray</attr>
+	<attr name='derived'></attr>
+	<attr name='source' livesite='false'>[1002581.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1002581.vtc]</attr>
+	<rule src='ADMIN' type='TEXT'>{1002581 iffs(1001223,1001217,1001224,1001225,1001226,1001227,1001228,1001234,1001237,1001238,1001239,1001241,1001246,1003061,1001248,1001249,1001250,1001257,1001258,1003062,1001261,1003064,1001263,1001264,1003065,1001265,1001267,1001268,1001271,1001273,1001272,1001275,1003069,1001277,1001278,1004421,1001279,1001281,1001283,1001284,1001285,1001286,1001290,1001291,1001292,1001293,1001294,1003073,1001302,1001304,1001305,1001306,1001307,1003075,1001310,1001315,1001317,1003077,1001318,1001324,1001328,1003080,1001331,1001333,1001335,1001339,1001342,1001344,1001345,1003085,1003084,1001266,1001270,1001309)}</rule>
+	<if id='1002622' >
+		<attr name='title' livesite='false'>[1002581.1002622.title]</attr>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>scott_lem@toyota.com</attr>
+		<attr name='note'>Updated Rule for 3D generation</attr>
+		<attr name='systemdate'>2014 September 25</attr>
+		<attr name='time'>2014 September 25</attr>
+	</complextype>
+</group>
+
+</feature>

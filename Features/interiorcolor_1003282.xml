@@ -1,0 +1,56 @@
+<feature id='1003282' type='interiorcolor' scope='1002622 1000853 1000925, 1002622 1000853 1000927, 1002622 1000853 1000922, 1002622 1000853 1000923' cardinality='mandatory' >
+	<attr name='code'>LZ20</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1003282.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc'></attr>
+	<if id='1002622 1000853 1000922' >
+		<attr name='derived' livesite='false'>[1003282.1002622.1000853.1000922.derived]</attr>
+		<attr name='title' livesite='false'>[1003282.1002622.1000853.1000922.title]</attr>
+		<attr name='vtc' livesite='false'>[1003282.1002622.1000853.1000922.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000853 1000923' >
+		<attr name='derived' livesite='false'>[1003282.1002622.1000853.1000923.derived]</attr>
+		<attr name='description'>[1003282.1002622.1000853.1000923.description]</attr>
+		<attr name='materialtypeid'>[1003282.1002622.1000853.1000923.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1003282.1002622.1000853.1000923.title]</attr>
+		<attr name='vtc' livesite='false'>[1003282.1002622.1000853.1000923.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>Avalon_int_XLE_Touring_Black_v068_hd_002.jpg</attr>
+			<attr name='sha'>9c854bf84b74de0cfe4185683b53739b8e1e85c7</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>Avalon_int_XLE_Touring_Black_v068_hd_002.jpg</attr>
+			<attr name='sha'>7819672141cb8bfca32885f25dc9a64575f2366b</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>_int_XLE_Touring_Black_v068_hd_002.jpg</attr>
+			<attr name='sha'>2b12f7ce3a1048e92411fd4d3e1d729270d654ca</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1000925' >
+		<attr name='derived' livesite='false'>[1003282.1002622.1000853.1000925.derived]</attr>
+		<attr name='title' livesite='false'>[1003282.1002622.1000853.1000925.title]</attr>
+		<attr name='vtc' livesite='false'>[1003282.1002622.1000853.1000925.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000853 1000927' >
+		<attr name='derived' livesite='false'>[1003282.1002622.1000853.1000927.derived]</attr>
+		<attr name='title' livesite='false'>[1003282.1002622.1000853.1000927.title]</attr>
+		<attr name='vtc' livesite='false'>[1003282.1002622.1000853.1000927.vtc]</attr>
+	</if>
+
+</feature>

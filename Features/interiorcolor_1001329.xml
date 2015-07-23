@@ -1,0 +1,192 @@
+<feature id='1001329' type='interiorcolor' scope='1002622 1000868 1001002, 1000851 1000868 1001023, 1000851 1000868 1001025, 1000851 1000853 1000923, 1002622 1000868 1001023, 1002622 1000868 1001025, 1000851 1000868 1001002, 1002622 1000853 1000923' cardinality='mandatory' >
+	<attr name='code'>LE20</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1001329.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001329.vtc]</attr>
+	<if id='1000851 1000853 1000923' >
+		<attr name='derived' livesite='false'>[1001329.1000851.1000853.1000923.derived]</attr>
+		<attr name='description'>[1001329.1000851.1000853.1000923.description]</attr>
+		<attr name='materialtypeid'>[1001329.1000851.1000853.1000923.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001329.1000851.1000853.1000923.source]</attr>
+		<attr name='title' livesite='false'>[1001329.1000851.1000853.1000923.title]</attr>
+		<rule src='ADMIN' type='requires'>1002426</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>avalon_int_HYBXLETouring_Black_v10ko_hd_fs_002.jpg</attr>
+			<attr name='sha'>8b8bbe5abd06c425708e12fa404fda6babbce47b</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>avalon_int_HYBXLETouring_Black_v10ko_hd_fs_002.jpg</attr>
+			<attr name='sha'>acfc98b9d7d96922bfba0b5020a37226d964726a</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>avalon_int_HYBXLETouring_Black_v10ko_hd_fs_002.jpg</attr>
+			<attr name='sha'>b4a05ec02dd7ae99ebe727f7790a8e72cc7b8fdb</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000868 1001002' >
+		<attr name='derived' livesite='false'>[1001329.1000851.1000868.1001002.derived]</attr>
+		<attr name='description'>[1001329.1000851.1000868.1001002.description]</attr>
+		<attr name='materialtypeid'>[1001329.1000851.1000868.1001002.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001329.1000851.1000868.1001002.source]</attr>
+		<attr name='title' livesite='false'>[1001329.1000851.1000868.1001002.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>Tundra_int_Platinum_Black_v35ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>59bfcc3d77d8293eab6193a555a5c535b1169c0b</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>Tundra_int_Platinum_Black_v35ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>bb45ab6d5a52e26bf6649ed8722cbf8acd7bf03a</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>Tundra_int_Platinum_Black_v35ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>844b9307afbcb940da86c465f4f68d11a3dd1355</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000868 1001023' >
+		<attr name='derived' livesite='false'>[1001329.1000851.1000868.1001023.derived]</attr>
+		<attr name='description'>[1001329.1000851.1000868.1001023.description]</attr>
+		<attr name='materialtypeid'>[1001329.1000851.1000868.1001023.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001329.1000851.1000868.1001023.source]</attr>
+		<attr name='title' livesite='false'>[1001329.1000851.1000868.1001023.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>Tundra_int_Platinum_Black_v35ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>59bfcc3d77d8293eab6193a555a5c535b1169c0b</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>Tundra_int_Platinum_Black_v35ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>bb45ab6d5a52e26bf6649ed8722cbf8acd7bf03a</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>Tundra_int_Platinum_Black_v35ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>844b9307afbcb940da86c465f4f68d11a3dd1355</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000868 1001025' >
+		<attr name='derived' livesite='false'>[1001329.1000851.1000868.1001025.derived]</attr>
+		<attr name='description'>[1001329.1000851.1000868.1001025.description]</attr>
+		<attr name='materialtypeid'>[1001329.1000851.1000868.1001025.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001329.1000851.1000868.1001025.source]</attr>
+		<attr name='title' livesite='false'>[1001329.1000851.1000868.1001025.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>Tundra_int_Platinum_Black_v35ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>59bfcc3d77d8293eab6193a555a5c535b1169c0b</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>Tundra_int_Platinum_Black_v35ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>bb45ab6d5a52e26bf6649ed8722cbf8acd7bf03a</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>Tundra_int_Platinum_Black_v35ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>844b9307afbcb940da86c465f4f68d11a3dd1355</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000853 1000923' >
+		<attr name='derived' livesite='false'>[1001329.1002622.1000853.1000923.derived]</attr>
+		<attr name='source' livesite='false'>[1001329.1002622.1000853.1000923.source]</attr>
+		<attr name='title' livesite='false'>[1001329.1002622.1000853.1000923.title]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001002' >
+		<attr name='derived' livesite='false'>[1001329.1002622.1000868.1001002.derived]</attr>
+		<attr name='description'>[1001329.1002622.1000868.1001002.description]</attr>
+		<attr name='materialtypeid'>[1001329.1002622.1000868.1001002.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001329.1002622.1000868.1001002.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>Tundra_int_Platinum_Black_v35ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>59bfcc3d77d8293eab6193a555a5c535b1169c0b</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>Tundra_int_Platinum_Black_v35ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>bb45ab6d5a52e26bf6649ed8722cbf8acd7bf03a</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>Tundra_int_Platinum_Black_v35ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>844b9307afbcb940da86c465f4f68d11a3dd1355</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000868 1001023' >
+		<attr name='derived' livesite='false'>[1001329.1002622.1000868.1001023.derived]</attr>
+		<attr name='description'>[1001329.1002622.1000868.1001023.description]</attr>
+		<attr name='materialtypeid'>[1001329.1002622.1000868.1001023.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001329.1002622.1000868.1001023.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>Tundra_int_Platinum_Black_v35ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>59bfcc3d77d8293eab6193a555a5c535b1169c0b</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>Tundra_int_Platinum_Black_v35ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>bb45ab6d5a52e26bf6649ed8722cbf8acd7bf03a</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>Tundra_int_Platinum_Black_v35ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>844b9307afbcb940da86c465f4f68d11a3dd1355</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000868 1001025' >
+		<attr name='derived' livesite='false'>[1001329.1002622.1000868.1001025.derived]</attr>
+		<attr name='description'>[1001329.1002622.1000868.1001025.description]</attr>
+		<attr name='materialtypeid'>[1001329.1002622.1000868.1001025.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001329.1002622.1000868.1001025.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>Tundra_int_Platinum_Black_v35ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>59bfcc3d77d8293eab6193a555a5c535b1169c0b</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>Tundra_int_Platinum_Black_v35ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>bb45ab6d5a52e26bf6649ed8722cbf8acd7bf03a</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>Tundra_int_Platinum_Black_v35ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>844b9307afbcb940da86c465f4f68d11a3dd1355</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

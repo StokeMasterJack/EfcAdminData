@@ -1,0 +1,283 @@
+<feature id='1001125' type='accessory' scope='1002622 1000870 1000890, 1002622 1000870 1000886, 1002622 1000870 1000887, 1002622 1000870 1000884, 1002622 1000870 1000885, 1000851 1000870 1000889, 1000851 1000870 1000888, 1000851 1000870 1000886, 1000851 1000870 1000887, 1000851 1000870 1000884, 1000851 1000870 1000885, 1002622 1000870 1000888, 1002622 1000870 1000889, 1000851 1000870 1000890' cardinality='mandatory' >
+	<attr name='alacarte'></attr>
+	<attr name='code'>R7</attr>
+	<attr name='derived'>[1001125.derived]</attr>
+	<attr name='description'></attr>
+	<attr name='fullimage'></attr>
+	<attr name='group' livesite='false'>[1001125.group]</attr>
+	<attr name='keyfeatures'></attr>
+	<attr name='marketingeffectivedate'></attr>
+	<attr name='msrp'></attr>
+	<attr name='option'></attr>
+	<attr name='package'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='secondaryfeatures'></attr>
+	<attr name='source'>[1001125.source]</attr>
+	<attr name='specialexteriorcolorflag'></attr>
+	<attr name='specialinteriorcolorflag'></attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'></attr>
+	<attr name='type'>[1001125.type]</attr>
+	<attr name='videokey'></attr>
+	<attr name='viewpointkey'></attr>
+	<attr name='vtc'>[1001125.vtc]</attr>
+	<if id='1000851 1000870 1000884' >
+		<attr name='alacarte'>[1001125.1000851.1000870.1000884.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001125.1000851.1000870.1000884.derived]</attr>
+		<attr name='description' livesite='false'>[1001125.1000851.1000870.1000884.description]</attr>
+		<attr name='group'>[1001125.1000851.1000870.1000884.group]</attr>
+		<attr name='msrp'>[1001125.1000851.1000870.1000884.msrp]</attr>
+		<attr name='source'>[1001125.1000851.1000870.1000884.source]</attr>
+		<attr name='title'>[1001125.1000851.1000870.1000884.title]</attr>
+	</if>
+
+	<if id='1000851 1000870 1000885' >
+		<attr name='alacarte'>[1001125.1000851.1000870.1000885.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001125.1000851.1000870.1000885.derived]</attr>
+		<attr name='description' livesite='false'>[1001125.1000851.1000870.1000885.description]</attr>
+		<attr name='group'>[1001125.1000851.1000870.1000885.group]</attr>
+		<attr name='msrp'>[1001125.1000851.1000870.1000885.msrp]</attr>
+		<attr name='source'>[1001125.1000851.1000870.1000885.source]</attr>
+		<attr name='title'>[1001125.1000851.1000870.1000885.title]</attr>
+	</if>
+
+	<if id='1000851 1000870 1000886' >
+		<attr name='alacarte'>[1001125.1000851.1000870.1000886.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001125.1000851.1000870.1000886.derived]</attr>
+		<attr name='description' livesite='false'>[1001125.1000851.1000870.1000886.description]</attr>
+		<attr name='group'>[1001125.1000851.1000870.1000886.group]</attr>
+		<attr name='msrp'>[1001125.1000851.1000870.1000886.msrp]</attr>
+		<attr name='source'>[1001125.1000851.1000870.1000886.source]</attr>
+		<attr name='title'>[1001125.1000851.1000870.1000886.title]</attr>
+	</if>
+
+	<if id='1000851 1000870 1000887' >
+		<attr name='alacarte'>[1001125.1000851.1000870.1000887.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001125.1000851.1000870.1000887.derived]</attr>
+		<attr name='description' livesite='false'>[1001125.1000851.1000870.1000887.description]</attr>
+		<attr name='group'>[1001125.1000851.1000870.1000887.group]</attr>
+		<attr name='msrp'>[1001125.1000851.1000870.1000887.msrp]</attr>
+		<attr name='source'>[1001125.1000851.1000870.1000887.source]</attr>
+		<attr name='title'>[1001125.1000851.1000870.1000887.title]</attr>
+	</if>
+
+	<if id='1000851 1000870 1000888' >
+		<attr name='alacarte'>[1001125.1000851.1000870.1000888.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001125.1000851.1000870.1000888.derived]</attr>
+		<attr name='description' livesite='false'>[1001125.1000851.1000870.1000888.description]</attr>
+		<attr name='group'>[1001125.1000851.1000870.1000888.group]</attr>
+		<attr name='msrp'>[1001125.1000851.1000870.1000888.msrp]</attr>
+		<attr name='source'>[1001125.1000851.1000870.1000888.source]</attr>
+		<attr name='title'>[1001125.1000851.1000870.1000888.title]</attr>
+	</if>
+
+	<if id='1000851 1000870 1000889' >
+		<attr name='alacarte'>[1001125.1000851.1000870.1000889.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001125.1000851.1000870.1000889.derived]</attr>
+		<attr name='description' livesite='false'>[1001125.1000851.1000870.1000889.description]</attr>
+		<attr name='group'>[1001125.1000851.1000870.1000889.group]</attr>
+		<attr name='msrp'>[1001125.1000851.1000870.1000889.msrp]</attr>
+		<attr name='source'>[1001125.1000851.1000870.1000889.source]</attr>
+		<attr name='title'>[1001125.1000851.1000870.1000889.title]</attr>
+	</if>
+
+	<if id='1000851 1000870 1000890' >
+		<attr name='alacarte'>[1001125.1000851.1000870.1000890.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001125.1000851.1000870.1000890.derived]</attr>
+		<attr name='description' livesite='false'>[1001125.1000851.1000870.1000890.description]</attr>
+		<attr name='group'>[1001125.1000851.1000870.1000890.group]</attr>
+		<attr name='msrp'>[1001125.1000851.1000870.1000890.msrp]</attr>
+		<attr name='source'>[1001125.1000851.1000870.1000890.source]</attr>
+		<attr name='title'>[1001125.1000851.1000870.1000890.title]</attr>
+	</if>
+
+	<if id='1002622 1000870 1000884' >
+		<attr name='alacarte' livesite='false'>[1001125.1002622.1000870.1000884.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001125.1002622.1000870.1000884.derived]</attr>
+		<attr name='description' livesite='false'>[1001125.1002622.1000870.1000884.description]</attr>
+		<attr name='group' livesite='false'>[1001125.1002622.1000870.1000884.group]</attr>
+		<attr name='keyfeatures'>[1001125.1002622.1000870.1000884.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001125.1002622.1000870.1000884.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001125.1002622.1000870.1000884.msrp]</attr>
+		<attr name='option' livesite='false'>[1001125.1002622.1000870.1000884.option]</attr>
+		<attr name='package' livesite='false'>[1001125.1002622.1000870.1000884.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001125.1002622.1000870.1000884.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001125.1002622.1000870.1000884.secondaryfeatures]</attr>
+		<attr name='source' livesite='false'>[1001125.1002622.1000870.1000884.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001125.1002622.1000870.1000884.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001125.1002622.1000870.1000884.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001125.1002622.1000870.1000884.title]</attr>
+		<attr name='videokey'>[1001125.1002622.1000870.1000884.videokey]</attr>
+		<attr name='viewpointkey'>[1001125.1002622.1000870.1000884.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>YARIS_2015_rear_spoiler_D.jpg</attr>
+			<attr name='sha'>9620705253f4738f8e0cabb0cf01673906930808</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000870 1000885' >
+		<attr name='alacarte' livesite='false'>[1001125.1002622.1000870.1000885.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001125.1002622.1000870.1000885.derived]</attr>
+		<attr name='description' livesite='false'>[1001125.1002622.1000870.1000885.description]</attr>
+		<attr name='group' livesite='false'>[1001125.1002622.1000870.1000885.group]</attr>
+		<attr name='keyfeatures'>[1001125.1002622.1000870.1000885.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001125.1002622.1000870.1000885.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001125.1002622.1000870.1000885.msrp]</attr>
+		<attr name='option' livesite='false'>[1001125.1002622.1000870.1000885.option]</attr>
+		<attr name='package' livesite='false'>[1001125.1002622.1000870.1000885.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001125.1002622.1000870.1000885.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001125.1002622.1000870.1000885.secondaryfeatures]</attr>
+		<attr name='source' livesite='false'>[1001125.1002622.1000870.1000885.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001125.1002622.1000870.1000885.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001125.1002622.1000870.1000885.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001125.1002622.1000870.1000885.title]</attr>
+		<attr name='videokey'>[1001125.1002622.1000870.1000885.videokey]</attr>
+		<attr name='viewpointkey'>[1001125.1002622.1000870.1000885.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>YARIS_2015_rear_spoiler_D.jpg</attr>
+			<attr name='sha'>9620705253f4738f8e0cabb0cf01673906930808</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000870 1000886' >
+		<attr name='alacarte' livesite='false'>[1001125.1002622.1000870.1000886.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001125.1002622.1000870.1000886.derived]</attr>
+		<attr name='description' livesite='false'>[1001125.1002622.1000870.1000886.description]</attr>
+		<attr name='group' livesite='false'>[1001125.1002622.1000870.1000886.group]</attr>
+		<attr name='keyfeatures'>[1001125.1002622.1000870.1000886.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001125.1002622.1000870.1000886.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001125.1002622.1000870.1000886.msrp]</attr>
+		<attr name='option' livesite='false'>[1001125.1002622.1000870.1000886.option]</attr>
+		<attr name='package' livesite='false'>[1001125.1002622.1000870.1000886.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001125.1002622.1000870.1000886.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001125.1002622.1000870.1000886.secondaryfeatures]</attr>
+		<attr name='source' livesite='false'>[1001125.1002622.1000870.1000886.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001125.1002622.1000870.1000886.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001125.1002622.1000870.1000886.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001125.1002622.1000870.1000886.title]</attr>
+		<attr name='videokey'>[1001125.1002622.1000870.1000886.videokey]</attr>
+		<attr name='viewpointkey'>[1001125.1002622.1000870.1000886.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>YARIS_2015_rear_spoiler_D.jpg</attr>
+			<attr name='sha'>9620705253f4738f8e0cabb0cf01673906930808</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000870 1000887' >
+		<attr name='alacarte' livesite='false'>[1001125.1002622.1000870.1000887.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001125.1002622.1000870.1000887.derived]</attr>
+		<attr name='description' livesite='false'>[1001125.1002622.1000870.1000887.description]</attr>
+		<attr name='group' livesite='false'>[1001125.1002622.1000870.1000887.group]</attr>
+		<attr name='keyfeatures'>[1001125.1002622.1000870.1000887.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001125.1002622.1000870.1000887.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001125.1002622.1000870.1000887.msrp]</attr>
+		<attr name='option' livesite='false'>[1001125.1002622.1000870.1000887.option]</attr>
+		<attr name='package' livesite='false'>[1001125.1002622.1000870.1000887.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001125.1002622.1000870.1000887.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001125.1002622.1000870.1000887.secondaryfeatures]</attr>
+		<attr name='source' livesite='false'>[1001125.1002622.1000870.1000887.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001125.1002622.1000870.1000887.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001125.1002622.1000870.1000887.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001125.1002622.1000870.1000887.title]</attr>
+		<attr name='videokey'>[1001125.1002622.1000870.1000887.videokey]</attr>
+		<attr name='viewpointkey'>[1001125.1002622.1000870.1000887.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>YARIS_2015_rear_spoiler_D.jpg</attr>
+			<attr name='sha'>9620705253f4738f8e0cabb0cf01673906930808</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000870 1000888' >
+		<attr name='alacarte' livesite='false'>[1001125.1002622.1000870.1000888.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001125.1002622.1000870.1000888.derived]</attr>
+		<attr name='description' livesite='false'>[1001125.1002622.1000870.1000888.description]</attr>
+		<attr name='group' livesite='false'>[1001125.1002622.1000870.1000888.group]</attr>
+		<attr name='keyfeatures'>[1001125.1002622.1000870.1000888.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001125.1002622.1000870.1000888.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001125.1002622.1000870.1000888.msrp]</attr>
+		<attr name='option' livesite='false'>[1001125.1002622.1000870.1000888.option]</attr>
+		<attr name='package' livesite='false'>[1001125.1002622.1000870.1000888.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001125.1002622.1000870.1000888.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001125.1002622.1000870.1000888.secondaryfeatures]</attr>
+		<attr name='source' livesite='false'>[1001125.1002622.1000870.1000888.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001125.1002622.1000870.1000888.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001125.1002622.1000870.1000888.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001125.1002622.1000870.1000888.title]</attr>
+		<attr name='videokey'>[1001125.1002622.1000870.1000888.videokey]</attr>
+		<attr name='viewpointkey'>[1001125.1002622.1000870.1000888.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>YARIS_2015_rear_spoiler_D.jpg</attr>
+			<attr name='sha'>9620705253f4738f8e0cabb0cf01673906930808</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000870 1000889' >
+		<attr name='alacarte' livesite='false'>[1001125.1002622.1000870.1000889.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001125.1002622.1000870.1000889.derived]</attr>
+		<attr name='description' livesite='false'>[1001125.1002622.1000870.1000889.description]</attr>
+		<attr name='group' livesite='false'>[1001125.1002622.1000870.1000889.group]</attr>
+		<attr name='keyfeatures'>[1001125.1002622.1000870.1000889.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001125.1002622.1000870.1000889.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001125.1002622.1000870.1000889.msrp]</attr>
+		<attr name='option' livesite='false'>[1001125.1002622.1000870.1000889.option]</attr>
+		<attr name='package' livesite='false'>[1001125.1002622.1000870.1000889.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001125.1002622.1000870.1000889.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001125.1002622.1000870.1000889.secondaryfeatures]</attr>
+		<attr name='source' livesite='false'>[1001125.1002622.1000870.1000889.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001125.1002622.1000870.1000889.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001125.1002622.1000870.1000889.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001125.1002622.1000870.1000889.title]</attr>
+		<attr name='videokey'>[1001125.1002622.1000870.1000889.videokey]</attr>
+		<attr name='viewpointkey'>[1001125.1002622.1000870.1000889.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>YARIS_2015_rear_spoiler_D.jpg</attr>
+			<attr name='sha'>9620705253f4738f8e0cabb0cf01673906930808</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000870 1000890' >
+		<attr name='alacarte' livesite='false'>[1001125.1002622.1000870.1000890.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001125.1002622.1000870.1000890.derived]</attr>
+		<attr name='description' livesite='false'>[1001125.1002622.1000870.1000890.description]</attr>
+		<attr name='group' livesite='false'>[1001125.1002622.1000870.1000890.group]</attr>
+		<attr name='keyfeatures'>[1001125.1002622.1000870.1000890.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001125.1002622.1000870.1000890.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001125.1002622.1000870.1000890.msrp]</attr>
+		<attr name='option' livesite='false'>[1001125.1002622.1000870.1000890.option]</attr>
+		<attr name='package' livesite='false'>[1001125.1002622.1000870.1000890.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001125.1002622.1000870.1000890.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001125.1002622.1000870.1000890.secondaryfeatures]</attr>
+		<attr name='source' livesite='false'>[1001125.1002622.1000870.1000890.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001125.1002622.1000870.1000890.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001125.1002622.1000870.1000890.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001125.1002622.1000870.1000890.title]</attr>
+		<attr name='videokey'>[1001125.1002622.1000870.1000890.videokey]</attr>
+		<attr name='viewpointkey'>[1001125.1002622.1000870.1000890.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>YARIS_2015_rear_spoiler_D.jpg</attr>
+			<attr name='sha'>9620705253f4738f8e0cabb0cf01673906930808</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

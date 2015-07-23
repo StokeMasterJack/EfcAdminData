@@ -1,0 +1,8 @@
+<feature id='1002719' type='disclaimer' cardinality='optional' >
+	<attr name='derived' livesite='false'>[1002719.derived]</attr>
+	<attr name='vtc' livesite='false'>[1002719.vtc]</attr>
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1002719.source]</attr>
+	<attr name='code'>iihs_13_corolla</attr>
+	<attr name='description' livesite='false'>[1002719.description]</attr>
+</feature>

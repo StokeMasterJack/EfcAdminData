@@ -1,0 +1,82 @@
+<feature id='1001643' type='disclaimer' cardinality='optional' >
+	<attr name='code'>bluetooth</attr>
+	<attr name='derived' livesite='false'>[1001643.derived]</attr>
+	<attr name='description' livesite='false'>[1001643.description]</attr>
+	<attr name='source' livesite='false'>[1001643.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001643.vtc]</attr>
+	<if id='1002622' >
+		<attr name='description' livesite='false'>[1001643.1002622.description]</attr>
+	</if>
+
+	<if id='1002622 1000852' >
+		<attr name='description' livesite='false'>[1001643.1002622.1000852.description]</attr>
+	</if>
+
+	<if id='1002622 1000853' >
+		<attr name='description' livesite='false'>[1001643.1002622.1000853.description]</attr>
+	</if>
+
+	<if id='1002622 1000854' >
+		<attr name='description' livesite='false'>[1001643.1002622.1000854.description]</attr>
+	</if>
+
+	<if id='1002622 1000855' >
+		<attr name='description' livesite='false'>[1001643.1002622.1000855.description]</attr>
+	</if>
+
+	<if id='1002622 1000857' >
+		<attr name='description' livesite='false'>[1001643.1002622.1000857.description]</attr>
+		<attr name='title'>[1001643.1002622.1000857.title]</attr>
+	</if>
+
+	<if id='1002622 1000858' >
+		<attr name='description' livesite='false'>[1001643.1002622.1000858.description]</attr>
+	</if>
+
+	<if id='1002622 1000859' >
+		<attr name='description' livesite='false'>[1001643.1002622.1000859.description]</attr>
+	</if>
+
+	<if id='1002622 1000860' >
+		<attr name='description' livesite='false'>[1001643.1002622.1000860.description]</attr>
+	</if>
+
+	<if id='1002622 1000861' >
+		<attr name='description' livesite='false'>[1001643.1002622.1000861.description]</attr>
+	</if>
+
+	<if id='1002622 1000862' >
+		<attr name='description' livesite='false'>[1001643.1002622.1000862.description]</attr>
+	</if>
+
+	<if id='1002622 1000863' >
+		<attr name='description' livesite='false'>[1001643.1002622.1000863.description]</attr>
+	</if>
+
+	<if id='1002622 1000865' >
+		<attr name='description' livesite='false'>[1001643.1002622.1000865.description]</attr>
+	</if>
+
+	<if id='1002622 1000866' >
+		<attr name='description' livesite='false'>[1001643.1002622.1000866.description]</attr>
+	</if>
+
+	<if id='1002622 1000867' >
+		<attr name='description' livesite='false'>[1001643.1002622.1000867.description]</attr>
+	</if>
+
+	<if id='1002622 1000868' >
+		<attr name='description' livesite='false'>[1001643.1002622.1000868.description]</attr>
+	</if>
+
+	<if id='1002622 1000869' >
+		<attr name='description' livesite='false'>[1001643.1002622.1000869.description]</attr>
+		<attr name='title'>[1001643.1002622.1000869.title]</attr>
+	</if>
+
+	<if id='1002622 1000870' >
+		<attr name='description' livesite='false'>[1001643.1002622.1000870.description]</attr>
+	</if>
+
+</feature>

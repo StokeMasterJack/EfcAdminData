@@ -1,0 +1,8 @@
+<feature id='1002130' type='disclaimer' cardinality='optional' >
+	<attr name='derived' livesite='false'>[1002130.derived]</attr>
+	<attr name='vtc' livesite='false'>[1002130.vtc]</attr>
+	<attr name='source' livesite='false'>[1002130.source]</attr>
+	<attr name='description' livesite='false'>[1002130.description]</attr>
+	<attr name='code'>prius_v_cargo</attr>
+	<attr name='title'></attr>
+</feature>

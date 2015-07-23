@@ -1,0 +1,8 @@
+<feature id='1001939' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1001939.description]</attr>
+	<attr name='vtc' livesite='false'>[1001939.vtc]</attr>
+	<attr name='derived' livesite='false'>[1001939.derived]</attr>
+	<attr name='source' livesite='false'>[1001939.source]</attr>
+	<attr name='code'>iihs_front_side</attr>
+</feature>

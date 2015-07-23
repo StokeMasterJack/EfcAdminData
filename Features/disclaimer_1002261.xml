@@ -1,0 +1,12 @@
+<feature id='1002261' type='disclaimer' cardinality='optional' >
+	<attr name='code'>tacoma_ichoice_12</attr>
+	<attr name='vtc' livesite='false'>[1002261.vtc]</attr>
+	<attr name='source' livesite='false'>[1002261.source]</attr>
+	<attr name='title'></attr>
+	<attr name='derived' livesite='false'>[1002261.derived]</attr>
+	<attr name='description' livesite='false'>[1002261.description]</attr>
+	<if id='1002622' >
+		<attr name='description' livesite='false'>[1002261.1002622.description]</attr>
+	</if>
+
+</feature>

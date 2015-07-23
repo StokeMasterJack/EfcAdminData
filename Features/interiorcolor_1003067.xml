@@ -1,0 +1,13 @@
+<feature id='1003067' type='interiorcolor' cardinality='optional' >
+	<attr name='code'>FE42</attr>
+	<attr name='title'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='msrp'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='vtc' livesite='false'>[1003067.vtc]</attr>
+	<attr name='source' livesite='false'>[1003067.source]</attr>
+	<attr name='derived'></attr>
+</feature>

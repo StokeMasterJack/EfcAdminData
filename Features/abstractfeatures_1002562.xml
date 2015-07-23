@@ -1,0 +1,29 @@
+<feature id='1002562' type='abstractfeatures' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='code'>Satelliteradio</attr>
+	<attr name='derived'>[1002562.derived]</attr>
+	<attr name='source'>[1002562.source]</attr>
+	<attr name='title'>[1002562.title]</attr>
+	<attr name='vtc'>[1002562.vtc]</attr>
+	<if id='1000851 1000857' >
+		<rule src='ADMIN' type='TEXT'>{1002562 requires((1000851*1000857*1000950),(1000851*1000857*1000952),(1000851*1000857*1000953),(1000851*1000857*1000954),(1000851*1000857*1000955),(1000851*1000857*1000956),(1000851*1000857*1000957),(1000851*1000857*1000958),(1000851*1000857*1000959),(1000851*1000857*1000960))}</rule>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>ken_raef@toyota.com</attr>
+		<attr name='note'>Testing commit</attr>
+		<attr name='systemdate'>2014 April 24</attr>
+		<attr name='time'>2014 April 24</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>ken_raef@toyota.com</attr>
+		<attr name='note'>Testing commit</attr>
+		<attr name='systemdate'>2014 April 24</attr>
+		<attr name='time'>2014 April 24</attr>
+	</complextype>
+</group>
+
+</feature>

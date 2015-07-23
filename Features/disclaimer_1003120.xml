@@ -1,0 +1,8 @@
+<feature id='1003120' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1003120.source]</attr>
+	<attr name='description' livesite='false'>[1003120.description]</attr>
+	<attr name='vtc' livesite='false'>[1003120.vtc]</attr>
+	<attr name='code'>13Tundra_OpenDoor</attr>
+	<attr name='derived'></attr>
+	<attr name='title'></attr>
+</feature>

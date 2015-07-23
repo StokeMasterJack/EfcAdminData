@@ -1,0 +1,77 @@
+<feature id='1000861' type='series' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='attachment'></attr>
+	<attr name='background'></attr>
+	<attr name='code'>priusplugin</attr>
+	<attr name='comparemodel'></attr>
+	<attr name='defaultmodel'></attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='source'></attr>
+	<attr name='title'>[1000861.title]</attr>
+	<attr name='vtc'>[1000861.vtc]</attr>
+	<if id='1000851' disclaimers='1002417 1001578 1002411 1001754 1002101 1001717 1002415 1002414 1002412 1002113 1002221 1002226 1002698 1002190 1002225 1002394 1002800 1002325 1001768 1001767 1002368 1001887 1001723 1001889 1002741 1002809 1001867 1001869 1002629 1002044 1001602 1002124 1001681 1001643 1002068 1002067 1001813 1002069 1001646' >
+		<attr name='derived'>[1000861.1000851.derived]</attr>
+		<attr name='description'>[1000861.1000851.description]</attr>
+		<attr name='source'>[1000861.1000851.source]</attr>
+		<attr name='title'>[1000861.1000851.title]</attr>
+		<attr name='vtc'>[1000861.1000851.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>EFCBackgroundPriusPlugin.jpg</attr>
+			<attr name='sha'>19fc1fe38ade87d2efd4d6db27f0ae7fd66c4786</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>StandardFeaturesPriusPlugin.xml</attr>
+			<attr name='sha'>fb49ef8e87b489a1dcd617e7a22387ed7f0837ed</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>PriusPlugInCompareModel20140604v1.json</attr>
+			<attr name='sha'>dc077a972433ead96e70cab2882a55dbc8ce7941</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622' disclaimers='1002417 1002416 1001578 1002411 1001754 1002101 1001717 1002415 1002414 1002413 1002412 1002113 1002221 1002058 1002226 1002698 1002190 1002225 1002394 1002800 1002633 1002325 1002322 1001768 1001767 1002368 1001887 1001723 1001889 1002741 1004039 1004038 1001867 1001869 1002629 1002044 1001602 1003291 1002124 1001681 1001643 1002068 1002067 1003295 1001813 1002069 1002314 1001646' >
+		<attr name='defaultmodel'>[1000861.1002622.defaultmodel]</attr>
+		<attr name='derived'>[1000861.1002622.derived]</attr>
+		<attr name='description'>[1000861.1002622.description]</attr>
+		<attr name='source'>[1000861.1002622.source]</attr>
+		<attr name='vtc'>[1000861.1002622.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>Prius_Plug-In_Background.jpg</attr>
+			<attr name='sha'>19fc1fe38ade87d2efd4d6db27f0ae7fd66c4786</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>Prius_Plug-in_Standard_Features_2015.xml</attr>
+			<attr name='sha'>cd5114750cd8c5c0f1c5676d9a2ca8aabb7039d2</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>2015PriusPlugInCompareModel_CPD_20140811v1.json</attr>
+			<attr name='sha'>b2d209f4c0a595529cc4caeb63b80ef5ec336aea</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>mediumbackground</attr>
+			<attr name='name'>EFC-background_0020_PRIUS_PlugIn_1024.jpg</attr>
+			<attr name='sha'>7c19c6fe10842d90c6dbdf55ae9f154766fd39d9</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>smallbackground</attr>
+			<attr name='name'>EFC-background_0020_PRIUS_PlugIn_480.jpg</attr>
+			<attr name='sha'>8223e5ed3be961a95c2c6fee2a75f771f08755c3</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>largebackground</attr>
+			<attr name='name'>EFC-background_0020_Prius-Plug-in_1500.jpg</attr>
+			<attr name='sha'>05c26eef8bda214c980a05944856d48cc3e5b78a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

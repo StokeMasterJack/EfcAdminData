@@ -1,0 +1,41 @@
+<feature id='1001423' type='engine' scope='1000851 1000857 1000959, 1002622 1000857 1000959, 1002622 1000857 1000960, 1000851 1000857 1000960' cardinality='mandatory' >
+	<attr name='bulletlist'></attr>
+	<attr name='code'>3.5LV6Hybrid</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='hotspot'></attr>
+	<attr name='iconname'></attr>
+	<attr name='images'></attr>
+	<attr name='source'>[1001423.source]</attr>
+	<attr name='title'>[1001423.title]</attr>
+	<attr name='vtc'>[1001423.vtc]</attr>
+	<if id='1000851 1000857 1000959' >
+		<attr name='bulletlist'>[1001423.1000851.1000857.1000959.bulletlist]</attr>
+		<attr name='derived'>[1001423.1000851.1000857.1000959.derived]</attr>
+		<attr name='description'>[1001423.1000851.1000857.1000959.description]</attr>
+		<attr name='hotspot'>[1001423.1000851.1000857.1000959.hotspot]</attr>
+		<attr name='iconname'>[1001423.1000851.1000857.1000959.iconname]</attr>
+		<attr name='title'>[1001423.1000851.1000857.1000959.title]</attr>
+	</if>
+
+	<if id='1000851 1000857 1000960' >
+		<attr name='bulletlist'>[1001423.1000851.1000857.1000960.bulletlist]</attr>
+		<attr name='derived'>[1001423.1000851.1000857.1000960.derived]</attr>
+		<attr name='description'>[1001423.1000851.1000857.1000960.description]</attr>
+		<attr name='iconname'>[1001423.1000851.1000857.1000960.iconname]</attr>
+		<attr name='title'>[1001423.1000851.1000857.1000960.title]</attr>
+	</if>
+
+	<if id='1002622 1000857 1000959' >
+		<attr name='bulletlist' livesite='false'>[1001423.1002622.1000857.1000959.bulletlist]</attr>
+		<attr name='hotspot' livesite='false'>[1001423.1002622.1000857.1000959.hotspot]</attr>
+		<attr name='iconname' livesite='false'>[1001423.1002622.1000857.1000959.iconname]</attr>
+	</if>
+
+	<if id='1002622 1000857 1000960' >
+		<attr name='bulletlist' livesite='false'>[1001423.1002622.1000857.1000960.bulletlist]</attr>
+		<attr name='hotspot' livesite='false'>[1001423.1002622.1000857.1000960.hotspot]</attr>
+		<attr name='iconname' livesite='false'>[1001423.1002622.1000857.1000960.iconname]</attr>
+	</if>
+
+</feature>

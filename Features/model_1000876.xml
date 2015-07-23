@@ -1,0 +1,111 @@
+<feature id='1000876' type='model' scope='1000851 1000859, 1002622 1000859' cardinality='mandatory' >
+	<attr name='accessorythreshold'></attr>
+	<attr name='anchorimage'></attr>
+	<attr name='bodystyle'></attr>
+	<attr name='citympg'></attr>
+	<attr name='code'>1225</attr>
+	<attr name='colorthreshold'></attr>
+	<attr name='combinedmpg'></attr>
+	<attr name='comparepackage'></attr>
+	<attr name='cylinders'></attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='destinationfee'></attr>
+	<attr name='effectivedate'></attr>
+	<attr name='enginedescription'></attr>
+	<attr name='enginehotspot'></attr>
+	<attr name='fiothreshold'></attr>
+	<attr name='gradehotspot'></attr>
+	<attr name='highwaympg'></attr>
+	<attr name='horsepower'></attr>
+	<attr name='iconimage'></attr>
+	<attr name='imageid'></attr>
+	<attr name='inventoryrules'></attr>
+	<attr name='linkurl'></attr>
+	<attr name='modeldisplayname'></attr>
+	<attr name='modelthreshold'></attr>
+	<attr name='modeltrim'></attr>
+	<attr name='mpge'></attr>
+	<attr name='msrp'></attr>
+	<attr name='piothreshold'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='seating'></attr>
+	<attr name='source'>[1000876.source]</attr>
+	<attr name='subgradehotspot'></attr>
+	<attr name='title'></attr>
+	<attr name='transmission'></attr>
+	<attr name='transmissionflag'></attr>
+	<attr name='transmissionhotspot'></attr>
+	<attr name='trimlevel'></attr>
+	<attr name='vtc'>[1000876.vtc]</attr>
+	<if id='1000851 1000859' disclaimers='1002414' >
+		<attr name='accessorythreshold'>[1000876.1000851.1000859.accessorythreshold]</attr>
+		<attr name='bodystyle'>[1000876.1000851.1000859.bodystyle]</attr>
+		<attr name='citympg'>[1000876.1000851.1000859.citympg]</attr>
+		<attr name='colorthreshold'>[1000876.1000851.1000859.colorthreshold]</attr>
+		<attr name='combinedmpg'>[1000876.1000851.1000859.combinedmpg]</attr>
+		<attr name='cylinders' livesite='false'>[1000876.1000851.1000859.cylinders]</attr>
+		<attr name='derived'>[1000876.1000851.1000859.derived]</attr>
+		<attr name='description'>[1000876.1000851.1000859.description]</attr>
+		<attr name='destinationfee'>[1000876.1000851.1000859.destinationfee]</attr>
+		<attr name='effectivedate' livesite='false'>[1000876.1000851.1000859.effectivedate]</attr>
+		<attr name='enginedescription'>[1000876.1000851.1000859.enginedescription]</attr>
+		<attr name='enginehotspot'>[1000876.1000851.1000859.enginehotspot]</attr>
+		<attr name='fiothreshold'>[1000876.1000851.1000859.fiothreshold]</attr>
+		<attr name='gradehotspot'>[1000876.1000851.1000859.gradehotspot]</attr>
+		<attr name='highwaympg'>[1000876.1000851.1000859.highwaympg]</attr>
+		<attr name='horsepower' livesite='false'>[1000876.1000851.1000859.horsepower]</attr>
+		<attr name='inventoryrules'>[1000876.1000851.1000859.inventoryrules]</attr>
+		<attr name='linkurl'>[1000876.1000851.1000859.linkurl]</attr>
+		<attr name='modeldisplayname'>[1000876.1000851.1000859.modeldisplayname]</attr>
+		<attr name='modelthreshold'>[1000876.1000851.1000859.modelthreshold]</attr>
+		<attr name='modeltrim'>[1000876.1000851.1000859.modeltrim]</attr>
+		<attr name='mpge'>[1000876.1000851.1000859.mpge]</attr>
+		<attr name='msrp'>[1000876.1000851.1000859.msrp]</attr>
+		<attr name='piothreshold'>[1000876.1000851.1000859.piothreshold]</attr>
+		<attr name='pnglayeringinclusionkey'>[1000876.1000851.1000859.pnglayeringinclusionkey]</attr>
+		<attr name='seating'>[1000876.1000851.1000859.seating]</attr>
+		<attr name='source'>[1000876.1000851.1000859.source]</attr>
+		<attr name='subgradehotspot'>[1000876.1000851.1000859.subgradehotspot]</attr>
+		<attr name='title'>[1000876.1000851.1000859.title]</attr>
+		<attr name='transmission'>[1000876.1000851.1000859.transmission]</attr>
+		<attr name='transmissionflag'>[1000876.1000851.1000859.transmissionflag]</attr>
+		<attr name='transmissionhotspot'>[1000876.1000851.1000859.transmissionhotspot]</attr>
+		<attr name='trimlevel'>[1000876.1000851.1000859.trimlevel]</attr>
+		<rule src='ADMIN' type='TEXT'>{1000876 requires(1002559)}</rule>
+		<attachments>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparepackage</attr>
+			<attr name='name'>PriusComparePackage1225.json</attr>
+			<attr name='sha'>e4bfb640245325cfa72f2a6d37af9c1f26cc066c</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>anchorimage</attr>
+			<attr name='name'>base.png</attr>
+			<attr name='sha'>9834d323d73bfdd0371c3928f19446fb5d4ec42a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000859' >
+		<attr name='accessorythreshold' livesite='false'>[1000876.1002622.1000859.accessorythreshold]</attr>
+		<attr name='citympg' livesite='false'>[1000876.1002622.1000859.citympg]</attr>
+		<attr name='colorthreshold' livesite='false'>[1000876.1002622.1000859.colorthreshold]</attr>
+		<attr name='combinedmpg' livesite='false'>[1000876.1002622.1000859.combinedmpg]</attr>
+		<attr name='cylinders'>[1000876.1002622.1000859.cylinders]</attr>
+		<attr name='description' livesite='false'>[1000876.1002622.1000859.description]</attr>
+		<attr name='destinationfee'>[1000876.1002622.1000859.destinationfee]</attr>
+		<attr name='effectivedate' livesite='false'>[1000876.1002622.1000859.effectivedate]</attr>
+		<attr name='enginedescription'>[1000876.1002622.1000859.enginedescription]</attr>
+		<attr name='highwaympg' livesite='false'>[1000876.1002622.1000859.highwaympg]</attr>
+		<attr name='horsepower'>[1000876.1002622.1000859.horsepower]</attr>
+		<attr name='modelthreshold' livesite='false'>[1000876.1002622.1000859.modelthreshold]</attr>
+		<attr name='msrp' livesite='false'>[1000876.1002622.1000859.msrp]</attr>
+		<attr name='seating' livesite='false'>[1000876.1002622.1000859.seating]</attr>
+		<attr name='source'>[1000876.1002622.1000859.source]</attr>
+		<attr name='title' livesite='false'>[1000876.1002622.1000859.title]</attr>
+		<attr name='transmission'>[1000876.1002622.1000859.transmission]</attr>
+		<rule src='ADMIN' type='TEXT'>{1000876 requires(1002559)}</rule>
+	</if>
+
+</feature>

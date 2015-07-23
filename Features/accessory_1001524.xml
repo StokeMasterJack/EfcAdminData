@@ -1,0 +1,276 @@
+<feature id='1001524' type='accessory' scope='1002622 1000857 1000955, 1002622 1000866 1004146, 1002622 1000866 1004147, 1002622 1000857 1000953, 1002622 1000866 1004144, 1002622 1000857 1000954, 1002622 1000866 1004145, 1002622 1000857 1000959, 1002622 1000857 1000957, 1000851 1000865 1000987, 1000851 1000865 1000988, 1000851 1000865 1000985, 1000851 1000865 1000986, 1000851 1000865 1000983, 1002622 1000858 1000947, 1000851 1000865 1000984, 1000851 1000865 1000982, 1002622 1000865 1000987, 1002622 1000865 1000988, 1002622 1000865 1000985, 1000851 1000857 1000960, 1002622 1000865 1000983, 1002622 1000865 1000984, 1002622 1000865 1000982, 1000851 1000857 1000957, 1000851 1000858 1000947, 1000851 1000857 1000959, 1000851 1000857 1000954, 1000851 1000866 1000946, 1000851 1000857 1000953, 1000851 1000866 1000945, 1000851 1000857 1000956, 1000851 1000857 1000955, 1000851 1000866 1000943, 1000851 1000866 1000942, 1000851 1000866 1000941, 1002622 1000866 1004148' cardinality='mandatory' >
+	<attr name='alacarte'>[1001524.alacarte]</attr>
+	<attr name='code'>W9</attr>
+	<attr name='derived'>[1001524.derived]</attr>
+	<attr name='description'>[1001524.description]</attr>
+	<attr name='fullimage'></attr>
+	<attr name='group'>[1001524.group]</attr>
+	<attr name='keyfeatures'>[1001524.keyfeatures]</attr>
+	<attr name='marketingeffectivedate'>[1001524.marketingeffectivedate]</attr>
+	<attr name='msrp'></attr>
+	<attr name='option'>[1001524.option]</attr>
+	<attr name='package'>[1001524.package]</attr>
+	<attr name='pnglayeringinclusionkey'>[1001524.pnglayeringinclusionkey]</attr>
+	<attr name='secondaryfeatures'>[1001524.secondaryfeatures]</attr>
+	<attr name='source'>[1001524.source]</attr>
+	<attr name='specialexteriorcolorflag'>[1001524.specialexteriorcolorflag]</attr>
+	<attr name='specialinteriorcolorflag'>[1001524.specialinteriorcolorflag]</attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'>[1001524.title]</attr>
+	<attr name='type'>[1001524.type]</attr>
+	<attr name='videokey'>[1001524.videokey]</attr>
+	<attr name='viewpointkey'>[1001524.viewpointkey]</attr>
+	<attr name='vtc'>[1001524.vtc]</attr>
+	<if id='1000851 1000857 1000953' >
+		<attr name='msrp'>[1001524.1000851.1000857.1000953.msrp]</attr>
+		<attr name='source'>[1001524.1000851.1000857.1000953.source]</attr>
+		<attr name='title'>[1001524.1000851.1000857.1000953.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001090)}</rule>
+	</if>
+
+	<if id='1000851 1000857 1000954' >
+		<attr name='msrp'>[1001524.1000851.1000857.1000954.msrp]</attr>
+		<attr name='source'>[1001524.1000851.1000857.1000954.source]</attr>
+		<attr name='title'>[1001524.1000851.1000857.1000954.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001090)}</rule>
+	</if>
+
+	<if id='1000851 1000857 1000955' >
+		<attr name='msrp'>[1001524.1000851.1000857.1000955.msrp]</attr>
+		<attr name='source'>[1001524.1000851.1000857.1000955.source]</attr>
+		<attr name='title'>[1001524.1000851.1000857.1000955.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001090)}</rule>
+	</if>
+
+	<if id='1000851 1000857 1000956' >
+		<attr name='msrp'>[1001524.1000851.1000857.1000956.msrp]</attr>
+		<attr name='source'>[1001524.1000851.1000857.1000956.source]</attr>
+		<attr name='title'>[1001524.1000851.1000857.1000956.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001090)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001529)}</rule>
+	</if>
+
+	<if id='1000851 1000857 1000957' >
+		<attr name='msrp'>[1001524.1000851.1000857.1000957.msrp]</attr>
+		<attr name='source'>[1001524.1000851.1000857.1000957.source]</attr>
+		<attr name='title'>[1001524.1000851.1000857.1000957.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001090)}</rule>
+	</if>
+
+	<if id='1000851 1000857 1000959' >
+		<attr name='msrp'>[1001524.1000851.1000857.1000959.msrp]</attr>
+		<attr name='source'>[1001524.1000851.1000857.1000959.source]</attr>
+		<attr name='title'>[1001524.1000851.1000857.1000959.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001090)}</rule>
+	</if>
+
+	<if id='1000851 1000857 1000960' >
+		<attr name='msrp'>[1001524.1000851.1000857.1000960.msrp]</attr>
+		<attr name='source'>[1001524.1000851.1000857.1000960.source]</attr>
+		<attr name='title'>[1001524.1000851.1000857.1000960.title]</attr>
+	</if>
+
+	<if id='1000851 1000858 1000947' >
+		<attr name='msrp'>[1001524.1000851.1000858.1000947.msrp]</attr>
+		<attr name='source'>[1001524.1000851.1000858.1000947.source]</attr>
+		<attr name='title'>[1001524.1000851.1000858.1000947.title]</attr>
+	</if>
+
+	<if id='1000851 1000865 1000982' >
+		<attr name='msrp'>[1001524.1000851.1000865.1000982.msrp]</attr>
+		<attr name='source'>[1001524.1000851.1000865.1000982.source]</attr>
+		<attr name='title'>[1001524.1000851.1000865.1000982.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001090)}</rule>
+	</if>
+
+	<if id='1000851 1000865 1000983' >
+		<attr name='msrp'>[1001524.1000851.1000865.1000983.msrp]</attr>
+		<attr name='source'>[1001524.1000851.1000865.1000983.source]</attr>
+		<attr name='title'>[1001524.1000851.1000865.1000983.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001090)}</rule>
+	</if>
+
+	<if id='1000851 1000865 1000984' >
+		<attr name='msrp'>[1001524.1000851.1000865.1000984.msrp]</attr>
+		<attr name='source'>[1001524.1000851.1000865.1000984.source]</attr>
+		<attr name='title'>[1001524.1000851.1000865.1000984.title]</attr>
+	</if>
+
+	<if id='1000851 1000865 1000985' >
+		<attr name='msrp'>[1001524.1000851.1000865.1000985.msrp]</attr>
+		<attr name='source'>[1001524.1000851.1000865.1000985.source]</attr>
+		<attr name='title'>[1001524.1000851.1000865.1000985.title]</attr>
+	</if>
+
+	<if id='1000851 1000865 1000986' >
+		<attr name='msrp'>[1001524.1000851.1000865.1000986.msrp]</attr>
+		<attr name='source'>[1001524.1000851.1000865.1000986.source]</attr>
+		<attr name='title'>[1001524.1000851.1000865.1000986.title]</attr>
+	</if>
+
+	<if id='1000851 1000865 1000987' >
+		<attr name='msrp'>[1001524.1000851.1000865.1000987.msrp]</attr>
+		<attr name='source'>[1001524.1000851.1000865.1000987.source]</attr>
+		<attr name='title'>[1001524.1000851.1000865.1000987.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001090)}</rule>
+	</if>
+
+	<if id='1000851 1000865 1000988' >
+		<attr name='msrp'>[1001524.1000851.1000865.1000988.msrp]</attr>
+		<attr name='source'>[1001524.1000851.1000865.1000988.source]</attr>
+		<attr name='title'>[1001524.1000851.1000865.1000988.title]</attr>
+	</if>
+
+	<if id='1000851 1000866 1000941' >
+		<attr name='msrp'>[1001524.1000851.1000866.1000941.msrp]</attr>
+		<attr name='source'>[1001524.1000851.1000866.1000941.source]</attr>
+		<attr name='title'>[1001524.1000851.1000866.1000941.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001118)}</rule>
+	</if>
+
+	<if id='1000851 1000866 1000942' >
+		<attr name='msrp'>[1001524.1000851.1000866.1000942.msrp]</attr>
+		<attr name='source'>[1001524.1000851.1000866.1000942.source]</attr>
+		<attr name='title'>[1001524.1000851.1000866.1000942.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001090)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001116)}</rule>
+	</if>
+
+	<if id='1000851 1000866 1000943' >
+		<attr name='msrp'>[1001524.1000851.1000866.1000943.msrp]</attr>
+		<attr name='source'>[1001524.1000851.1000866.1000943.source]</attr>
+		<attr name='title'>[1001524.1000851.1000866.1000943.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001119)}</rule>
+	</if>
+
+	<if id='1000851 1000866 1000945' >
+		<attr name='msrp'>[1001524.1000851.1000866.1000945.msrp]</attr>
+		<attr name='source'>[1001524.1000851.1000866.1000945.source]</attr>
+		<attr name='title'>[1001524.1000851.1000866.1000945.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001090)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001116)}</rule>
+	</if>
+
+	<if id='1000851 1000866 1000946' >
+		<attr name='msrp'>[1001524.1000851.1000866.1000946.msrp]</attr>
+		<attr name='source'>[1001524.1000851.1000866.1000946.source]</attr>
+		<attr name='title'>[1001524.1000851.1000866.1000946.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001119)}</rule>
+	</if>
+
+	<if id='1002622 1000857 1000953' >
+		<attr name='msrp'>[1001524.1002622.1000857.1000953.msrp]</attr>
+		<attr name='source'>[1001524.1002622.1000857.1000953.source]</attr>
+		<attr name='title'>[1001524.1002622.1000857.1000953.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001090)}</rule>
+	</if>
+
+	<if id='1002622 1000857 1000954' >
+		<attr name='msrp'>[1001524.1002622.1000857.1000954.msrp]</attr>
+		<attr name='source'>[1001524.1002622.1000857.1000954.source]</attr>
+		<attr name='title'>[1001524.1002622.1000857.1000954.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001090)}</rule>
+	</if>
+
+	<if id='1002622 1000857 1000955' >
+		<attr name='msrp'>[1001524.1002622.1000857.1000955.msrp]</attr>
+		<attr name='source'>[1001524.1002622.1000857.1000955.source]</attr>
+		<attr name='title'>[1001524.1002622.1000857.1000955.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001090)}</rule>
+	</if>
+
+	<if id='1002622 1000857 1000957' >
+		<attr name='msrp'>[1001524.1002622.1000857.1000957.msrp]</attr>
+		<attr name='source'>[1001524.1002622.1000857.1000957.source]</attr>
+		<attr name='title'>[1001524.1002622.1000857.1000957.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001090)}</rule>
+	</if>
+
+	<if id='1002622 1000857 1000959' >
+		<attr name='msrp'>[1001524.1002622.1000857.1000959.msrp]</attr>
+		<attr name='source'>[1001524.1002622.1000857.1000959.source]</attr>
+		<attr name='title'>[1001524.1002622.1000857.1000959.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001090)}</rule>
+	</if>
+
+	<if id='1002622 1000858 1000947' >
+		<attr name='msrp'>[1001524.1002622.1000858.1000947.msrp]</attr>
+		<attr name='source'>[1001524.1002622.1000858.1000947.source]</attr>
+		<attr name='title'>[1001524.1002622.1000858.1000947.title]</attr>
+	</if>
+
+	<if id='1002622 1000865 1000982' >
+		<attr name='msrp'>[1001524.1002622.1000865.1000982.msrp]</attr>
+		<attr name='source'>[1001524.1002622.1000865.1000982.source]</attr>
+		<attr name='title'>[1001524.1002622.1000865.1000982.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001090)}</rule>
+	</if>
+
+	<if id='1002622 1000865 1000983' >
+		<attr name='msrp'>[1001524.1002622.1000865.1000983.msrp]</attr>
+		<attr name='source'>[1001524.1002622.1000865.1000983.source]</attr>
+		<attr name='title'>[1001524.1002622.1000865.1000983.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001090)}</rule>
+	</if>
+
+	<if id='1002622 1000865 1000984' >
+		<attr name='msrp'>[1001524.1002622.1000865.1000984.msrp]</attr>
+		<attr name='source'>[1001524.1002622.1000865.1000984.source]</attr>
+		<attr name='title'>[1001524.1002622.1000865.1000984.title]</attr>
+	</if>
+
+	<if id='1002622 1000865 1000985' >
+		<attr name='msrp'>[1001524.1002622.1000865.1000985.msrp]</attr>
+		<attr name='source'>[1001524.1002622.1000865.1000985.source]</attr>
+		<attr name='title'>[1001524.1002622.1000865.1000985.title]</attr>
+	</if>
+
+	<if id='1002622 1000865 1000987' >
+		<attr name='msrp'>[1001524.1002622.1000865.1000987.msrp]</attr>
+		<attr name='source'>[1001524.1002622.1000865.1000987.source]</attr>
+		<attr name='title'>[1001524.1002622.1000865.1000987.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001090)}</rule>
+	</if>
+
+	<if id='1002622 1000865 1000988' >
+		<attr name='msrp'>[1001524.1002622.1000865.1000988.msrp]</attr>
+		<attr name='source'>[1001524.1002622.1000865.1000988.source]</attr>
+		<attr name='title'>[1001524.1002622.1000865.1000988.title]</attr>
+	</if>
+
+	<if id='1002622 1000866 1004144' >
+		<attr name='msrp' livesite='false'>[1001524.1002622.1000866.1004144.msrp]</attr>
+		<attr name='source' livesite='false'>[1001524.1002622.1000866.1004144.source]</attr>
+		<attr name='title' livesite='false'>[1001524.1002622.1000866.1004144.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001136)}</rule>
+	</if>
+
+	<if id='1002622 1000866 1004145' >
+		<attr name='msrp' livesite='false'>[1001524.1002622.1000866.1004145.msrp]</attr>
+		<attr name='source' livesite='false'>[1001524.1002622.1000866.1004145.source]</attr>
+		<attr name='title' livesite='false'>[1001524.1002622.1000866.1004145.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001503)}</rule>
+	</if>
+
+	<if id='1002622 1000866 1004146' >
+		<attr name='msrp' livesite='false'>[1001524.1002622.1000866.1004146.msrp]</attr>
+		<attr name='source' livesite='false'>[1001524.1002622.1000866.1004146.source]</attr>
+		<attr name='title' livesite='false'>[1001524.1002622.1000866.1004146.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001105)}</rule>
+	</if>
+
+	<if id='1002622 1000866 1004147' >
+		<attr name='msrp' livesite='false'>[1001524.1002622.1000866.1004147.msrp]</attr>
+		<attr name='source' livesite='false'>[1001524.1002622.1000866.1004147.source]</attr>
+		<attr name='title' livesite='false'>[1001524.1002622.1000866.1004147.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001503)}</rule>
+	</if>
+
+	<if id='1002622 1000866 1004148' >
+		<attr name='msrp' livesite='false'>[1001524.1002622.1000866.1004148.msrp]</attr>
+		<attr name='source' livesite='false'>[1001524.1002622.1000866.1004148.source]</attr>
+		<attr name='title' livesite='false'>[1001524.1002622.1000866.1004148.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_W9' type='TEXT'>{1001524 conflicts(1001105)}</rule>
+	</if>
+
+</feature>

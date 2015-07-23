@@ -1,0 +1,8 @@
+<feature id='1001885' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1001885.description]</attr>
+	<attr name='code'>hl_hyb</attr>
+	<attr name='source' livesite='false'>[1001885.source]</attr>
+	<attr name='derived' livesite='false'>[1001885.derived]</attr>
+	<attr name='vtc' livesite='false'>[1001885.vtc]</attr>
+</feature>

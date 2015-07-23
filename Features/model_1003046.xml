@@ -1,0 +1,89 @@
+<feature id='1003046' type='model' scope='1002622 1000867' cardinality='mandatory' >
+	<attr name='accessorythreshold'></attr>
+	<attr name='anchorimage'></attr>
+	<attr name='bodystyle'></attr>
+	<attr name='citympg'></attr>
+	<attr name='code'>7555</attr>
+	<attr name='colorthreshold'></attr>
+	<attr name='combinedmpg'></attr>
+	<attr name='comparepackage'></attr>
+	<attr name='cylinders'></attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='destinationfee'></attr>
+	<attr name='effectivedate'></attr>
+	<attr name='enginedescription'></attr>
+	<attr name='enginehotspot'></attr>
+	<attr name='fiothreshold'></attr>
+	<attr name='gradehotspot'></attr>
+	<attr name='highwaympg'></attr>
+	<attr name='horsepower'></attr>
+	<attr name='iconimage'></attr>
+	<attr name='imageid'></attr>
+	<attr name='inventoryrules'></attr>
+	<attr name='linkurl'></attr>
+	<attr name='modeldisplayname'></attr>
+	<attr name='modelthreshold'></attr>
+	<attr name='modeltrim'></attr>
+	<attr name='mpge'></attr>
+	<attr name='msrp'></attr>
+	<attr name='piothreshold'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='seating'></attr>
+	<attr name='source'>[1003046.source]</attr>
+	<attr name='subgradehotspot'></attr>
+	<attr name='title'></attr>
+	<attr name='transmission'></attr>
+	<attr name='transmissionflag'></attr>
+	<attr name='transmissionhotspot'></attr>
+	<attr name='trimlevel'></attr>
+	<attr name='vtc'>[1003046.vtc]</attr>
+	<if id='1002622 1000867' >
+		<attr name='accessorythreshold'>[1003046.1002622.1000867.accessorythreshold]</attr>
+		<attr name='bodystyle'>[1003046.1002622.1000867.bodystyle]</attr>
+		<attr name='citympg' livesite='false'>[1003046.1002622.1000867.citympg]</attr>
+		<attr name='colorthreshold'>[1003046.1002622.1000867.colorthreshold]</attr>
+		<attr name='combinedmpg'>[1003046.1002622.1000867.combinedmpg]</attr>
+		<attr name='cylinders'>[1003046.1002622.1000867.cylinders]</attr>
+		<attr name='derived'>[1003046.1002622.1000867.derived]</attr>
+		<attr name='description'>[1003046.1002622.1000867.description]</attr>
+		<attr name='destinationfee'>[1003046.1002622.1000867.destinationfee]</attr>
+		<attr name='effectivedate'>[1003046.1002622.1000867.effectivedate]</attr>
+		<attr name='enginedescription'>[1003046.1002622.1000867.enginedescription]</attr>
+		<attr name='enginehotspot'>[1003046.1002622.1000867.enginehotspot]</attr>
+		<attr name='fiothreshold'>[1003046.1002622.1000867.fiothreshold]</attr>
+		<attr name='gradehotspot'>[1003046.1002622.1000867.gradehotspot]</attr>
+		<attr name='highwaympg' livesite='false'>[1003046.1002622.1000867.highwaympg]</attr>
+		<attr name='horsepower'>[1003046.1002622.1000867.horsepower]</attr>
+		<attr name='inventoryrules'>[1003046.1002622.1000867.inventoryrules]</attr>
+		<attr name='linkurl'>[1003046.1002622.1000867.linkurl]</attr>
+		<attr name='modeldisplayname'>[1003046.1002622.1000867.modeldisplayname]</attr>
+		<attr name='modelthreshold'>[1003046.1002622.1000867.modelthreshold]</attr>
+		<attr name='modeltrim'>[1003046.1002622.1000867.modeltrim]</attr>
+		<attr name='mpge'>[1003046.1002622.1000867.mpge]</attr>
+		<attr name='msrp' livesite='false'>[1003046.1002622.1000867.msrp]</attr>
+		<attr name='piothreshold'>[1003046.1002622.1000867.piothreshold]</attr>
+		<attr name='pnglayeringinclusionkey'>[1003046.1002622.1000867.pnglayeringinclusionkey]</attr>
+		<attr name='seating' livesite='false'>[1003046.1002622.1000867.seating]</attr>
+		<attr name='source'>[1003046.1002622.1000867.source]</attr>
+		<attr name='subgradehotspot'>[1003046.1002622.1000867.subgradehotspot]</attr>
+		<attr name='title' livesite='false'>[1003046.1002622.1000867.title]</attr>
+		<attr name='transmission'>[1003046.1002622.1000867.transmission]</attr>
+		<attr name='transmissionflag'>[1003046.1002622.1000867.transmissionflag]</attr>
+		<attr name='transmissionhotspot'>[1003046.1002622.1000867.transmissionhotspot]</attr>
+		<attr name='trimlevel'>[1003046.1002622.1000867.trimlevel]</attr>
+		<attr name='vtc' livesite='false'>[1003046.1002622.1000867.vtc]</attr>
+		<rule src='ADMIN' type='TEXT'>{1003046 requires(1002621*1002819*1002821)}</rule>
+		<rule src='ADMIN' type='TEXT'>{1003046 requires(1002621*1002819)}</rule>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>leona_chan@toyota.com</attr>
+		<attr name='note'>10/21: Republish for TRD PRO 3D images updates.</attr>
+		<attr name='systemdate'>2014 October 21</attr>
+		<attr name='time'>2014 October 21</attr>
+	</complextype>
+</group>
+
+</feature>

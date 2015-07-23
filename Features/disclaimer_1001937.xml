@@ -1,0 +1,8 @@
+<feature id='1001937' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1001937.source]</attr>
+	<attr name='title'></attr>
+	<attr name='code'>iihs_13_camry</attr>
+	<attr name='derived' livesite='false'>[1001937.derived]</attr>
+	<attr name='vtc' livesite='false'>[1001937.vtc]</attr>
+	<attr name='description' livesite='false'>[1001937.description]</attr>
+</feature>

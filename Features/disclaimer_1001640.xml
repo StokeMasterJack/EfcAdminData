@@ -1,0 +1,8 @@
+<feature id='1001640' type='disclaimer' cardinality='optional' >
+	<attr name='code'>bedstep</attr>
+	<attr name='title'></attr>
+	<attr name='derived' livesite='false'>[1001640.derived]</attr>
+	<attr name='source' livesite='false'>[1001640.source]</attr>
+	<attr name='vtc' livesite='false'>[1001640.vtc]</attr>
+	<attr name='description' livesite='false'>[1001640.description]</attr>
+</feature>

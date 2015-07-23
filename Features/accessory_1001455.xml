@@ -1,0 +1,79 @@
+<feature id='1001455' type='accessory' scope='1002622 1000853 1000928, 1000851 1000860 1000873, 1000851 1000859 1000878, 1002622 1000860 1000873, 1002622 1000859 1000878, 1002622 1000860 1000874' cardinality='mandatory' >
+	<attr name='alacarte'></attr>
+	<attr name='code'>AW</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='fullimage'></attr>
+	<attr name='group'></attr>
+	<attr name='keyfeatures'></attr>
+	<attr name='marketingeffectivedate'></attr>
+	<attr name='msrp'></attr>
+	<attr name='option'></attr>
+	<attr name='package'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='secondaryfeatures'></attr>
+	<attr name='source'></attr>
+	<attr name='specialexteriorcolorflag'></attr>
+	<attr name='specialinteriorcolorflag'></attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'></attr>
+	<attr name='type' livesite='false'>[1001455.type]</attr>
+	<attr name='videokey'></attr>
+	<attr name='viewpointkey'></attr>
+	<attr name='vtc' livesite='false'>[1001455.vtc]</attr>
+	<if id='1000851 1000859 1000878' >
+		<attr name='source' livesite='false'>[1001455.1000851.1000859.1000878.source]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_AW' type='TEXT'>{1001455 requires(1001091)}</rule>
+	</if>
+
+	<if id='1000851 1000860 1000873' >
+		<attr name='alacarte' livesite='false'>[1001455.1000851.1000860.1000873.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001455.1000851.1000860.1000873.derived]</attr>
+		<attr name='description' livesite='false'>[1001455.1000851.1000860.1000873.description]</attr>
+		<attr name='msrp' livesite='false'>[1001455.1000851.1000860.1000873.msrp]</attr>
+		<attr name='package' livesite='false'>[1001455.1000851.1000860.1000873.package]</attr>
+		<attr name='title' livesite='false'>[1001455.1000851.1000860.1000873.title]</attr>
+	</if>
+
+	<if id='1002622 1000853 1000928' >
+		<attr name='alacarte' livesite='false'>[1001455.1002622.1000853.1000928.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001455.1002622.1000853.1000928.derived]</attr>
+		<attr name='description' livesite='false'>[1001455.1002622.1000853.1000928.description]</attr>
+		<attr name='msrp' livesite='false'>[1001455.1002622.1000853.1000928.msrp]</attr>
+		<attr name='package' livesite='false'>[1001455.1002622.1000853.1000928.package]</attr>
+		<attr name='source' livesite='false'>[1001455.1002622.1000853.1000928.source]</attr>
+		<attr name='title' livesite='false'>[1001455.1002622.1000853.1000928.title]</attr>
+		<rule src='ADMIN' type='TEXT'>{1001455 requires(1002612)}</rule>
+	</if>
+
+	<if id='1002622 1000859 1000878' >
+		<attr name='alacarte' livesite='false'>[1001455.1002622.1000859.1000878.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001455.1002622.1000859.1000878.derived]</attr>
+		<attr name='msrp' livesite='false'>[1001455.1002622.1000859.1000878.msrp]</attr>
+		<attr name='package' livesite='false'>[1001455.1002622.1000859.1000878.package]</attr>
+		<attr name='source' livesite='false'>[1001455.1002622.1000859.1000878.source]</attr>
+		<attr name='title' livesite='false'>[1001455.1002622.1000859.1000878.title]</attr>
+		<rule src='NVS' tag='ACCREQRULE_TAG_ACY_AW' type='TEXT'>{1001455 requires(1001091)}</rule>
+	</if>
+
+	<if id='1002622 1000860 1000873' >
+		<attr name='alacarte' livesite='false'>[1001455.1002622.1000860.1000873.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001455.1002622.1000860.1000873.derived]</attr>
+		<attr name='description' livesite='false'>[1001455.1002622.1000860.1000873.description]</attr>
+		<attr name='msrp' livesite='false'>[1001455.1002622.1000860.1000873.msrp]</attr>
+		<attr name='package' livesite='false'>[1001455.1002622.1000860.1000873.package]</attr>
+		<attr name='source' livesite='false'>[1001455.1002622.1000860.1000873.source]</attr>
+		<attr name='title' livesite='false'>[1001455.1002622.1000860.1000873.title]</attr>
+	</if>
+
+	<if id='1002622 1000860 1000874' >
+		<attr name='alacarte' livesite='false'>[1001455.1002622.1000860.1000874.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001455.1002622.1000860.1000874.derived]</attr>
+		<attr name='msrp' livesite='false'>[1001455.1002622.1000860.1000874.msrp]</attr>
+		<attr name='package' livesite='false'>[1001455.1002622.1000860.1000874.package]</attr>
+		<attr name='source' livesite='false'>[1001455.1002622.1000860.1000874.source]</attr>
+		<attr name='title' livesite='false'>[1001455.1002622.1000860.1000874.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_AW' type='TEXT'>{1001455 conflicts(1001055)}</rule>
+	</if>
+
+</feature>

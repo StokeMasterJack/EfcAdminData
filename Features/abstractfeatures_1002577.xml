@@ -1,0 +1,11 @@
+<feature id='1002577' type='abstractfeatures' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='code'>Parkingsonar</attr>
+	<attr name='derived' livesite='false'>[1002577.derived]</attr>
+	<attr name='source' livesite='false'>[1002577.source]</attr>
+	<attr name='title' livesite='false'>[1002577.title]</attr>
+	<attr name='vtc' livesite='false'>[1002577.vtc]</attr>
+	<if id='1000851 1000868' >
+		<rule src='ADMIN' type='TEXT'>{1002577 requires((1000851*1000868*1000998*1001105),(1000851*1000868*1001001*1001105),(1000851*1000868*1001016*1001105),(1000851*1000868*1001017*1001105),(1000851*1000868*1001021*1001105),(1000851*1000868*1001022*1001105),(1000851*1000868*1001002),(1000851*1000868*1001003),(1000851*1000868*1001023),(1000851*1000868*1001024),(1000851*1000868*1001025),(1000851*1000868*1001026))}</rule>
+	</if>
+
+</feature>

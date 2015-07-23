@@ -1,0 +1,8 @@
+<feature id='1002329' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1002329.source]</attr>
+	<attr name='derived' livesite='false'>[1002329.derived]</attr>
+	<attr name='vtc' livesite='false'>[1002329.vtc]</attr>
+	<attr name='description' livesite='false'>[1002329.description]</attr>
+	<attr name='code'>trd_offroad</attr>
+</feature>

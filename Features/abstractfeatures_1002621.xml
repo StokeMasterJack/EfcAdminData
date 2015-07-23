@@ -1,0 +1,7 @@
+<feature id='1002621' type='abstractfeatures' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='code'>V6</attr>
+	<attr name='derived' livesite='false'>[1002621.derived]</attr>
+	<attr name='source' livesite='false'>[1002621.source]</attr>
+	<attr name='title' livesite='false'>[1002621.title]</attr>
+	<attr name='vtc' livesite='false'>[1002621.vtc]</attr>
+</feature>

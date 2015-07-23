@@ -1,0 +1,8 @@
+<feature id='1002050' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1002050.description]</attr>
+	<attr name='code'>no_keyless_entry</attr>
+	<attr name='derived' livesite='false'>[1002050.derived]</attr>
+	<attr name='source' livesite='false'>[1002050.source]</attr>
+	<attr name='vtc' livesite='false'>[1002050.vtc]</attr>
+</feature>

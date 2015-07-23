@@ -1,0 +1,8 @@
+<feature id='1001819' type='disclaimer' cardinality='optional' >
+	<attr name='derived' livesite='false'>[1001819.derived]</attr>
+	<attr name='description' livesite='false'>[1001819.description]</attr>
+	<attr name='code'>finacial_msrp_1</attr>
+	<attr name='vtc' livesite='false'>[1001819.vtc]</attr>
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1001819.source]</attr>
+</feature>

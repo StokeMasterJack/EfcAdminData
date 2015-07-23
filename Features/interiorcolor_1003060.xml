@@ -1,0 +1,49 @@
+<feature id='1003060' type='interiorcolor' scope='1002622 1000852 1001029, 1002622 1000852 1001032' cardinality='mandatory' >
+	<attr name='code'>FB24</attr>
+	<attr name='title'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='msrp'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='vtc' livesite='false'>[1003060.vtc]</attr>
+	<attr name='source' livesite='false'>[1003060.source]</attr>
+	<attr name='derived'></attr>
+	<if id='1002622 1000852 1001029' >
+		<attr name='title' livesite='false'>[1003060.1002622.1000852.1001029.title]</attr>
+		<attr name='source' livesite='false'>[1003060.1002622.1000852.1001029.source]</attr>
+		<attr name='description'>[1003060.1002622.1000852.1001029.description]</attr>
+		<attr name='materialtypeid'>[1003060.1002622.1000852.1001029.materialtypeid]</attr>
+		<attr name='vtc' livesite='false'>[1003060.1002622.1000852.1001029.vtc]</attr>
+		<attr name='derived' livesite='false'>[1003060.1002622.1000852.1001029.derived]</attr>
+	</if>
+
+	<if id='1002622 1000852 1001032' >
+		<attr name='title' livesite='false'>[1003060.1002622.1000852.1001032.title]</attr>
+		<attr name='source' livesite='false'>[1003060.1002622.1000852.1001032.source]</attr>
+		<attr name='description'>[1003060.1002622.1000852.1001032.description]</attr>
+		<attr name='materialtypeid'>[1003060.1002622.1000852.1001032.materialtypeid]</attr>
+		<attr name='vtc' livesite='false'>[1003060.1002622.1000852.1001032.vtc]</attr>
+		<attr name='derived' livesite='false'>[1003060.1002622.1000852.1001032.derived]</attr>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>FB24 Fabric Redwood interior color is not on model 8668 per DOD colors chart.</attr>
+		<attr name='systemdate'>2014 August 10</attr>
+		<attr name='time'>11:24:00PDT</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>kimberly_gonzales@toyota.com</attr>
+		<attr name='note'>Above comment also applies to model 8648</attr>
+		<attr name='systemdate'>2014 August 10</attr>
+		<attr name='time'>11:25:21PDT</attr>
+	</complextype>
+</group>
+
+</feature>

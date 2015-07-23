@@ -1,0 +1,8 @@
+<feature id='1001605' type='disclaimer' cardinality='optional' >
+	<attr name='code'>airbag_switch</attr>
+	<attr name='derived' livesite='false'>[1001605.derived]</attr>
+	<attr name='description' livesite='false'>[1001605.description]</attr>
+	<attr name='source' livesite='false'>[1001605.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001605.vtc]</attr>
+</feature>

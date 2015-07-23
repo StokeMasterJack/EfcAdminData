@@ -1,0 +1,8 @@
+<feature id='1002651' type='disclaimer' cardinality='optional' >
+	<attr name='derived' livesite='false'>[1002651.derived]</attr>
+	<attr name='source' livesite='false'>[1002651.source]</attr>
+	<attr name='vtc' livesite='false'>[1002651.vtc]</attr>
+	<attr name='description' livesite='false'>[1002651.description]</attr>
+	<attr name='title'></attr>
+	<attr name='code'>corolla_LE_eco_mpg</attr>
+</feature>

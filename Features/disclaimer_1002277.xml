@@ -1,0 +1,8 @@
+<feature id='1002277' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1002277.source]</attr>
+	<attr name='title'></attr>
+	<attr name='code'>tcuv_compwarranty</attr>
+	<attr name='description' livesite='false'>[1002277.description]</attr>
+	<attr name='vtc' livesite='false'>[1002277.vtc]</attr>
+	<attr name='derived' livesite='false'>[1002277.derived]</attr>
+</feature>

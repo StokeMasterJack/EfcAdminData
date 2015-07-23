@@ -1,0 +1,160 @@
+<feature id='1001559' type='interiorcolor' scope='1002622 1000865 1000980, 1000851 1000865 1000986, 1000851 1000865 1000981, 1002622 1000865 1000986, 1002622 1000865 1000981, 1000851 1000865 1000980' cardinality='mandatory' >
+	<attr name='code'>FG44</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source'></attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001559.vtc]</attr>
+	<if id='1000851 1000865 1000980' >
+		<attr name='derived' livesite='false'>[1001559.1000851.1000865.1000980.derived]</attr>
+		<attr name='description'>[1001559.1000851.1000865.1000980.description]</attr>
+		<attr name='materialtypeid'>[1001559.1000851.1000865.1000980.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001559.1000851.1000865.1000980.source]</attr>
+		<attr name='title' livesite='false'>[1001559.1000851.1000865.1000980.title]</attr>
+		<attr name='vtc' livesite='false'>[1001559.1000851.1000865.1000980.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sequoia_int_SR5_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>4830400db62232903a8fad2fd3fad3bfcc1702c5</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sequoia_int_SR5_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>82a9ec8d61c3b85b066552cf7c1582e6426f7730</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sequoia_int_SR5_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>b3a1cfcb1684e73031f69405a37b48ec828eeb17</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000865 1000981' >
+		<attr name='derived' livesite='false'>[1001559.1000851.1000865.1000981.derived]</attr>
+		<attr name='description'>[1001559.1000851.1000865.1000981.description]</attr>
+		<attr name='materialtypeid'>[1001559.1000851.1000865.1000981.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001559.1000851.1000865.1000981.source]</attr>
+		<attr name='title' livesite='false'>[1001559.1000851.1000865.1000981.title]</attr>
+		<attr name='vtc' livesite='false'>[1001559.1000851.1000865.1000981.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sequoia_int_SR5_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>4830400db62232903a8fad2fd3fad3bfcc1702c5</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sequoia_int_SR5_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>82a9ec8d61c3b85b066552cf7c1582e6426f7730</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sequoia_int_SR5_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>b3a1cfcb1684e73031f69405a37b48ec828eeb17</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000865 1000986' >
+		<attr name='derived' livesite='false'>[1001559.1000851.1000865.1000986.derived]</attr>
+		<attr name='description'>[1001559.1000851.1000865.1000986.description]</attr>
+		<attr name='materialtypeid'>[1001559.1000851.1000865.1000986.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001559.1000851.1000865.1000986.source]</attr>
+		<attr name='title' livesite='false'>[1001559.1000851.1000865.1000986.title]</attr>
+		<attr name='vtc' livesite='false'>[1001559.1000851.1000865.1000986.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sequoia_int_SR5_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>4830400db62232903a8fad2fd3fad3bfcc1702c5</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sequoia_int_SR5_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>82a9ec8d61c3b85b066552cf7c1582e6426f7730</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sequoia_int_SR5_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>b3a1cfcb1684e73031f69405a37b48ec828eeb17</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000865 1000980' >
+		<attr name='derived' livesite='false'>[1001559.1002622.1000865.1000980.derived]</attr>
+		<attr name='description'>[1001559.1002622.1000865.1000980.description]</attr>
+		<attr name='materialtypeid'>[1001559.1002622.1000865.1000980.materialtypeid]</attr>
+		<attr name='source'>[1001559.1002622.1000865.1000980.source]</attr>
+		<attr name='title' livesite='false'>[1001559.1002622.1000865.1000980.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sequoia_int_SR5_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>4830400db62232903a8fad2fd3fad3bfcc1702c5</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sequoia_int_SR5_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>82a9ec8d61c3b85b066552cf7c1582e6426f7730</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sequoia_int_SR5_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>b3a1cfcb1684e73031f69405a37b48ec828eeb17</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000865 1000981' >
+		<attr name='derived' livesite='false'>[1001559.1002622.1000865.1000981.derived]</attr>
+		<attr name='title' livesite='false'>[1001559.1002622.1000865.1000981.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sequoia_int_SR5_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>4830400db62232903a8fad2fd3fad3bfcc1702c5</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sequoia_int_SR5_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>82a9ec8d61c3b85b066552cf7c1582e6426f7730</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sequoia_int_SR5_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>b3a1cfcb1684e73031f69405a37b48ec828eeb17</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000865 1000986' >
+		<attr name='derived' livesite='false'>[1001559.1002622.1000865.1000986.derived]</attr>
+		<attr name='title' livesite='false'>[1001559.1002622.1000865.1000986.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sequoia_int_SR5_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>4830400db62232903a8fad2fd3fad3bfcc1702c5</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sequoia_int_SR5_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>82a9ec8d61c3b85b066552cf7c1582e6426f7730</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sequoia_int_SR5_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>b3a1cfcb1684e73031f69405a37b48ec828eeb17</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

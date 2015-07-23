@@ -1,0 +1,11 @@
+<feature id='1002597' type='abstractfeatures' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='code'>PCS</attr>
+	<attr name='derived' livesite='false'>[1002597.derived]</attr>
+	<attr name='source' livesite='false'>[1002597.source]</attr>
+	<attr name='title' livesite='false'>[1002597.title]</attr>
+	<attr name='vtc' livesite='false'>[1002597.vtc]</attr>
+	<if id='1000851 1000857' >
+		<rule src='ADMIN' type='TEXT'>{1002597 requires((1000851*1000857*1000958*1001119),(1000851*1000857*1000957*1001119),(1000851*1000857*1000959*1001119),(1000851*1000857*1000956*1001119),(1000851*1000857*1000955*1001119),(1000851*1000857*1000960*1001119),(1000851*1000857*1000958*1001056),(1000851*1000857*1000957*1001056),(1000851*1000857*1000959*1001056),(1000851*1000857*1000956*1001056),(1000851*1000857*1000955*1001056))}</rule>
+	</if>
+
+</feature>

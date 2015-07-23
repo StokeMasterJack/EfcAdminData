@@ -1,0 +1,61 @@
+<feature id='1000851' type='year' cardinality='mandatory' >
+	<attr name='code'>2014</attr>
+	<attr name='derived' livesite='false'>[1000851.derived]</attr>
+	<attr name='source' livesite='false'>[1000851.source]</attr>
+	<attr name='title' livesite='false'>[1000851.title]</attr>
+	<attr name='vtc' livesite='false'>[1000851.vtc]</attr>
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>tian_jin@toyota.com</attr>
+		<attr name='note'>add note to publish</attr>
+		<attr name='systemdate'>2014 April 8</attr>
+		<attr name='time'>4:53:09PDT</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>tian_jin@toyota.com</attr>
+		<attr name='note'>add note to publish</attr>
+		<attr name='systemdate'>2014 April 9</attr>
+		<attr name='time'>10:21:24PDT</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>tian_jin@toyota.com</attr>
+		<attr name='note'>add note to publish</attr>
+		<attr name='systemdate'>2014 May 5</attr>
+		<attr name='time'>5:51:28PDT</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>tian_jin@toyota.com</attr>
+		<attr name='note'>add note to publish</attr>
+		<attr name='systemdate'>2014 May 6</attr>
+		<attr name='time'>5:24:15PDT</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>mahidhar_uppala@toyota.com</attr>
+		<attr name='note'>publishing</attr>
+		<attr name='systemdate'>2014 May 12</attr>
+		<attr name='time'>3:28:47PDT</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>tian_jin@toyota.com</attr>
+		<attr name='note'>publishing</attr>
+		<attr name='systemdate'>2014 August 13</attr>
+		<attr name='time'>10:02:35PDT</attr>
+	</complextype>
+</group>
+
+</feature>

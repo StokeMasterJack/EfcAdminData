@@ -1,0 +1,38 @@
+<feature id='1001294' type='interiorcolor' scope='1000851 1000862 1000883' cardinality='mandatory' >
+	<attr name='derived'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='vtc' livesite='false'>[1001294.vtc]</attr>
+	<attr name='source' livesite='false'>[1001294.source]</attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='code'>LA18</attr>
+	<attr name='title'></attr>
+	<attr name='description'></attr>
+	<attr name='msrp'></attr>
+	<attr name='onswatchimage'></attr>
+	<if id='1000851 1000862 1000883' >
+		<attr name='materialtypeid'>[1001294.1000851.1000862.1000883.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001294.1000851.1000862.1000883.title]</attr>
+		<attr name='source' livesite='false'>[1001294.1000851.1000862.1000883.source]</attr>
+		<attr name='description'>[1001294.1000851.1000862.1000883.description]</attr>
+		<attr name='derived' livesite='false'>[1001294.1000851.1000862.1000883.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>prv_int_comp_v20eh_5_Dark_Gray.002.jpg</attr>
+			<attr name='sha'>4272bdd604351b4e51d84073d1b1264c937a5f74</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>prv_int_comp_v20eh_5_Dark_Gray.002.jpg</attr>
+			<attr name='sha'>39107a3a4bc849c4e725b315e4c20569ffe630f5</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>prv_int_comp_v20eh_5_Dark_Gray.002.jpg</attr>
+			<attr name='sha'>eb18ad6e634f9df702ae28a0a8a74de7b076773c</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

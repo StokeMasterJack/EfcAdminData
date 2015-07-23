@@ -1,0 +1,1130 @@
+<feature id='1001093' type='accessory' scope='1002622 1000863 1000929, 1002622 1000855 1000902, 1002622 1000855 1000900, 1000851 1000863 1000931, 1002622 1000855 1000901, 1000851 1000863 1000930, 1000851 1000863 1000933, 1000851 1000863 1000932, 1000851 1000863 1000934, 1000851 1000855 1000891, 1000851 1000854 1000911, 1000851 1000854 1000910, 1000851 1000863 1000929, 1000851 1000855 1000895, 1002622 1000854 1000904, 1000851 1000855 1000894, 1000851 1000855 1000893, 1000851 1000855 1000892, 1000851 1000855 1000901, 1000851 1000855 1000899, 1000851 1000854 1000909, 1002622 1000854 1000907, 1000851 1000855 1000900, 1000851 1000855 1000898, 1002622 1000854 1000908, 1002622 1000855 1000891, 1002622 1000854 1000905, 1000851 1000855 1000897, 1002622 1000854 1000906, 1000851 1000855 1000896, 1000851 1000855 1000902, 1000851 1000855, 1000851 1000856, 1000851 1000854 1000906, 1000851 1000854 1000905, 1000851 1000854 1000908, 1002622 1000854 1000909, 1000851 1000854 1000907, 1000851 1000854 1000904, 1002622 1000863 1000933, 1002622 1000854 1002849, 1002622 1000863 1000932, 1002622 1000863 1000934, 1000851 1000854 1002849, 1002622 1000863 1000931, 1002622 1000863 1000930, 1002622 1000854 1000910, 1002622 1000854 1000911, 1002622 1000855 1000893, 1002622 1000855 1000892, 1002622 1000855 1000895, 1002622 1000855 1000894, 1002622 1000855 1000897, 1002622 1000855 1000896, 1002622 1000855 1000899, 1002622 1000855 1000898' cardinality='mandatory' >
+	<attr name='alacarte'></attr>
+	<attr name='code'>G0</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='fullimage'></attr>
+	<attr name='group' livesite='false'>[1001093.group]</attr>
+	<attr name='keyfeatures'></attr>
+	<attr name='marketingeffectivedate'></attr>
+	<attr name='msrp'></attr>
+	<attr name='option'></attr>
+	<attr name='package'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='secondaryfeatures'></attr>
+	<attr name='source'>[1001093.source]</attr>
+	<attr name='specialexteriorcolorflag'></attr>
+	<attr name='specialinteriorcolorflag'></attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'></attr>
+	<attr name='type'>[1001093.type]</attr>
+	<attr name='videokey'></attr>
+	<attr name='viewpointkey'></attr>
+	<attr name='vtc'>[1001093.vtc]</attr>
+	<if id='1000851 1000855' >
+		<attr name='alacarte'>[1001093.1000851.1000855.alacarte]</attr>
+		<attr name='description'>[1001093.1000851.1000855.description]</attr>
+		<attr name='group'>[1001093.1000851.1000855.group]</attr>
+		<attr name='title'>[1001093.1000851.1000855.title]</attr>
+	</if>
+
+	<if id='1000851 1000856' >
+		<attr name='alacarte'>[1001093.1000851.1000856.alacarte]</attr>
+		<attr name='description'>[1001093.1000851.1000856.description]</attr>
+		<attr name='group'>[1001093.1000851.1000856.group]</attr>
+		<attr name='title'>[1001093.1000851.1000856.title]</attr>
+	</if>
+
+	<if id='1000851 1000854 1000904' >
+		<attr name='alacarte'>[1001093.1000851.1000854.1000904.alacarte]</attr>
+		<attr name='derived'>[1001093.1000851.1000854.1000904.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000854.1000904.description]</attr>
+		<attr name='group'>[1001093.1000851.1000854.1000904.group]</attr>
+		<attr name='msrp'>[1001093.1000851.1000854.1000904.msrp]</attr>
+		<attr name='source'>[1001093.1000851.1000854.1000904.source]</attr>
+		<attr name='title'>[1001093.1000851.1000854.1000904.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+	</if>
+
+	<if id='1000851 1000854 1000905' >
+		<attr name='alacarte'>[1001093.1000851.1000854.1000905.alacarte]</attr>
+		<attr name='derived'>[1001093.1000851.1000854.1000905.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000854.1000905.description]</attr>
+		<attr name='group'>[1001093.1000851.1000854.1000905.group]</attr>
+		<attr name='msrp'>[1001093.1000851.1000854.1000905.msrp]</attr>
+		<attr name='source'>[1001093.1000851.1000854.1000905.source]</attr>
+		<attr name='title'>[1001093.1000851.1000854.1000905.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+	</if>
+
+	<if id='1000851 1000854 1000906' >
+		<attr name='alacarte'>[1001093.1000851.1000854.1000906.alacarte]</attr>
+		<attr name='derived'>[1001093.1000851.1000854.1000906.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000854.1000906.description]</attr>
+		<attr name='group'>[1001093.1000851.1000854.1000906.group]</attr>
+		<attr name='msrp'>[1001093.1000851.1000854.1000906.msrp]</attr>
+		<attr name='source'>[1001093.1000851.1000854.1000906.source]</attr>
+		<attr name='title'>[1001093.1000851.1000854.1000906.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+	</if>
+
+	<if id='1000851 1000854 1000907' >
+		<attr name='alacarte'>[1001093.1000851.1000854.1000907.alacarte]</attr>
+		<attr name='derived'>[1001093.1000851.1000854.1000907.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000854.1000907.description]</attr>
+		<attr name='group'>[1001093.1000851.1000854.1000907.group]</attr>
+		<attr name='msrp'>[1001093.1000851.1000854.1000907.msrp]</attr>
+		<attr name='source'>[1001093.1000851.1000854.1000907.source]</attr>
+		<attr name='title'>[1001093.1000851.1000854.1000907.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+	</if>
+
+	<if id='1000851 1000854 1000908' >
+		<attr name='alacarte'>[1001093.1000851.1000854.1000908.alacarte]</attr>
+		<attr name='derived'>[1001093.1000851.1000854.1000908.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000854.1000908.description]</attr>
+		<attr name='group'>[1001093.1000851.1000854.1000908.group]</attr>
+		<attr name='msrp'>[1001093.1000851.1000854.1000908.msrp]</attr>
+		<attr name='source'>[1001093.1000851.1000854.1000908.source]</attr>
+		<attr name='title'>[1001093.1000851.1000854.1000908.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+	</if>
+
+	<if id='1000851 1000854 1000909' >
+		<attr name='alacarte'>[1001093.1000851.1000854.1000909.alacarte]</attr>
+		<attr name='derived'>[1001093.1000851.1000854.1000909.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000854.1000909.description]</attr>
+		<attr name='group'>[1001093.1000851.1000854.1000909.group]</attr>
+		<attr name='msrp'>[1001093.1000851.1000854.1000909.msrp]</attr>
+		<attr name='source'>[1001093.1000851.1000854.1000909.source]</attr>
+		<attr name='title'>[1001093.1000851.1000854.1000909.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+	</if>
+
+	<if id='1000851 1000854 1000910' >
+		<attr name='alacarte'>[1001093.1000851.1000854.1000910.alacarte]</attr>
+		<attr name='derived'>[1001093.1000851.1000854.1000910.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000854.1000910.description]</attr>
+		<attr name='group'>[1001093.1000851.1000854.1000910.group]</attr>
+		<attr name='msrp'>[1001093.1000851.1000854.1000910.msrp]</attr>
+		<attr name='source'>[1001093.1000851.1000854.1000910.source]</attr>
+		<attr name='title'>[1001093.1000851.1000854.1000910.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+	</if>
+
+	<if id='1000851 1000854 1000911' >
+		<attr name='alacarte'>[1001093.1000851.1000854.1000911.alacarte]</attr>
+		<attr name='derived'>[1001093.1000851.1000854.1000911.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000854.1000911.description]</attr>
+		<attr name='group'>[1001093.1000851.1000854.1000911.group]</attr>
+		<attr name='msrp'>[1001093.1000851.1000854.1000911.msrp]</attr>
+		<attr name='source'>[1001093.1000851.1000854.1000911.source]</attr>
+		<attr name='title'>[1001093.1000851.1000854.1000911.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+	</if>
+
+	<if id='1000851 1000854 1002849' >
+		<attr name='alacarte'>[1001093.1000851.1000854.1002849.alacarte]</attr>
+		<attr name='derived'>[1001093.1000851.1000854.1002849.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000854.1002849.description]</attr>
+		<attr name='group'>[1001093.1000851.1000854.1002849.group]</attr>
+		<attr name='keyfeatures'>[1001093.1000851.1000854.1002849.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001093.1000851.1000854.1002849.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1001093.1000851.1000854.1002849.msrp]</attr>
+		<attr name='option'>[1001093.1000851.1000854.1002849.option]</attr>
+		<attr name='package'>[1001093.1000851.1000854.1002849.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001093.1000851.1000854.1002849.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001093.1000851.1000854.1002849.secondaryfeatures]</attr>
+		<attr name='source'>[1001093.1000851.1000854.1002849.source]</attr>
+		<attr name='specialexteriorcolorflag'>[1001093.1000851.1000854.1002849.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1001093.1000851.1000854.1002849.specialinteriorcolorflag]</attr>
+		<attr name='videokey'>[1001093.1000851.1000854.1002849.videokey]</attr>
+		<attr name='viewpointkey'>[1001093.1000851.1000854.1002849.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+	</if>
+
+	<if id='1000851 1000855 1000891' >
+		<attr name='derived'>[1001093.1000851.1000855.1000891.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000855.1000891.description]</attr>
+		<attr name='msrp'>[1001093.1000851.1000855.1000891.msrp]</attr>
+		<attr name='source'>[1001093.1000851.1000855.1000891.source]</attr>
+		<attr name='title'>[1001093.1000851.1000855.1000891.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001122)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001121)}</rule>
+	</if>
+
+	<if id='1000851 1000855 1000892' >
+		<attr name='derived'>[1001093.1000851.1000855.1000892.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000855.1000892.description]</attr>
+		<attr name='msrp'>[1001093.1000851.1000855.1000892.msrp]</attr>
+		<attr name='source'>[1001093.1000851.1000855.1000892.source]</attr>
+		<attr name='title'>[1001093.1000851.1000855.1000892.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001122)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001121)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+	</if>
+
+	<if id='1000851 1000855 1000893' >
+		<attr name='derived'>[1001093.1000851.1000855.1000893.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000855.1000893.description]</attr>
+		<attr name='msrp'>[1001093.1000851.1000855.1000893.msrp]</attr>
+		<attr name='source'>[1001093.1000851.1000855.1000893.source]</attr>
+		<attr name='title'>[1001093.1000851.1000855.1000893.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001121)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001122)}</rule>
+	</if>
+
+	<if id='1000851 1000855 1000894' >
+		<attr name='derived'>[1001093.1000851.1000855.1000894.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000855.1000894.description]</attr>
+		<attr name='msrp'>[1001093.1000851.1000855.1000894.msrp]</attr>
+		<attr name='source'>[1001093.1000851.1000855.1000894.source]</attr>
+		<attr name='title'>[1001093.1000851.1000855.1000894.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001121)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001122)}</rule>
+	</if>
+
+	<if id='1000851 1000855 1000895' >
+		<attr name='derived'>[1001093.1000851.1000855.1000895.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000855.1000895.description]</attr>
+		<attr name='msrp'>[1001093.1000851.1000855.1000895.msrp]</attr>
+		<attr name='source'>[1001093.1000851.1000855.1000895.source]</attr>
+		<attr name='title'>[1001093.1000851.1000855.1000895.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001122)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001121)}</rule>
+	</if>
+
+	<if id='1000851 1000855 1000896' >
+		<attr name='derived'>[1001093.1000851.1000855.1000896.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000855.1000896.description]</attr>
+		<attr name='msrp'>[1001093.1000851.1000855.1000896.msrp]</attr>
+		<attr name='source'>[1001093.1000851.1000855.1000896.source]</attr>
+		<attr name='title'>[1001093.1000851.1000855.1000896.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001121)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001122)}</rule>
+	</if>
+
+	<if id='1000851 1000855 1000897' >
+		<attr name='derived'>[1001093.1000851.1000855.1000897.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000855.1000897.description]</attr>
+		<attr name='msrp'>[1001093.1000851.1000855.1000897.msrp]</attr>
+		<attr name='source'>[1001093.1000851.1000855.1000897.source]</attr>
+		<attr name='title'>[1001093.1000851.1000855.1000897.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001121)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001122)}</rule>
+	</if>
+
+	<if id='1000851 1000855 1000898' >
+		<attr name='derived'>[1001093.1000851.1000855.1000898.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000855.1000898.description]</attr>
+		<attr name='msrp'>[1001093.1000851.1000855.1000898.msrp]</attr>
+		<attr name='source'>[1001093.1000851.1000855.1000898.source]</attr>
+		<attr name='title'>[1001093.1000851.1000855.1000898.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001121)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001122)}</rule>
+	</if>
+
+	<if id='1000851 1000855 1000899' >
+		<attr name='derived'>[1001093.1000851.1000855.1000899.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000855.1000899.description]</attr>
+		<attr name='msrp'>[1001093.1000851.1000855.1000899.msrp]</attr>
+		<attr name='source'>[1001093.1000851.1000855.1000899.source]</attr>
+		<attr name='title'>[1001093.1000851.1000855.1000899.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001122)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001121)}</rule>
+	</if>
+
+	<if id='1000851 1000855 1000900' >
+		<attr name='derived'>[1001093.1000851.1000855.1000900.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000855.1000900.description]</attr>
+		<attr name='msrp'>[1001093.1000851.1000855.1000900.msrp]</attr>
+		<attr name='source'>[1001093.1000851.1000855.1000900.source]</attr>
+		<attr name='title'>[1001093.1000851.1000855.1000900.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001121)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001122)}</rule>
+	</if>
+
+	<if id='1000851 1000855 1000901' >
+		<attr name='derived'>[1001093.1000851.1000855.1000901.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000855.1000901.description]</attr>
+		<attr name='msrp'>[1001093.1000851.1000855.1000901.msrp]</attr>
+		<attr name='source'>[1001093.1000851.1000855.1000901.source]</attr>
+		<attr name='title'>[1001093.1000851.1000855.1000901.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001122)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001121)}</rule>
+	</if>
+
+	<if id='1000851 1000855 1000902' >
+		<attr name='derived'>[1001093.1000851.1000855.1000902.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000855.1000902.description]</attr>
+		<attr name='msrp'>[1001093.1000851.1000855.1000902.msrp]</attr>
+		<attr name='source'>[1001093.1000851.1000855.1000902.source]</attr>
+		<attr name='title'>[1001093.1000851.1000855.1000902.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001121)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001122)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+	</if>
+
+	<if id='1000851 1000856 1000936' disclaimers='1002415' >
+		<attr name='derived'>[1001093.1000851.1000856.1000936.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000856.1000936.description]</attr>
+		<attr name='keyfeatures'>[1001093.1000851.1000856.1000936.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001093.1000851.1000856.1000936.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1001093.1000851.1000856.1000936.msrp]</attr>
+		<attr name='option'>[1001093.1000851.1000856.1000936.option]</attr>
+		<attr name='package'>[1001093.1000851.1000856.1000936.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001093.1000851.1000856.1000936.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001093.1000851.1000856.1000936.secondaryfeatures]</attr>
+		<attr name='specialexteriorcolorflag'>[1001093.1000851.1000856.1000936.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1001093.1000851.1000856.1000936.specialinteriorcolorflag]</attr>
+		<attr name='videokey'>[1001093.1000851.1000856.1000936.videokey]</attr>
+		<attr name='viewpointkey'>[1001093.1000851.1000856.1000936.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Door-Sill-Enhancements.jpg</attr>
+			<attr name='sha'>3098cee08e17edbc5d28d2fbe78a8bc2a8ebee88</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Door-Sill-Enhancements.jpg</attr>
+			<attr name='sha'>7152d3b0de7d30eeb2dbcac8b675149a04db9f3d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000856 1000937' disclaimers='1002415' >
+		<attr name='derived'>[1001093.1000851.1000856.1000937.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000856.1000937.description]</attr>
+		<attr name='keyfeatures'>[1001093.1000851.1000856.1000937.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001093.1000851.1000856.1000937.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1001093.1000851.1000856.1000937.msrp]</attr>
+		<attr name='option'>[1001093.1000851.1000856.1000937.option]</attr>
+		<attr name='package'>[1001093.1000851.1000856.1000937.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001093.1000851.1000856.1000937.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001093.1000851.1000856.1000937.secondaryfeatures]</attr>
+		<attr name='specialexteriorcolorflag'>[1001093.1000851.1000856.1000937.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1001093.1000851.1000856.1000937.specialinteriorcolorflag]</attr>
+		<attr name='videokey'>[1001093.1000851.1000856.1000937.videokey]</attr>
+		<attr name='viewpointkey'>[1001093.1000851.1000856.1000937.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Door-Sill-Enhancements.jpg</attr>
+			<attr name='sha'>3098cee08e17edbc5d28d2fbe78a8bc2a8ebee88</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Door-Sill-Enhancements.jpg</attr>
+			<attr name='sha'>7152d3b0de7d30eeb2dbcac8b675149a04db9f3d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000856 1000938' disclaimers='1002415' >
+		<attr name='derived'>[1001093.1000851.1000856.1000938.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000856.1000938.description]</attr>
+		<attr name='keyfeatures'>[1001093.1000851.1000856.1000938.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001093.1000851.1000856.1000938.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1001093.1000851.1000856.1000938.msrp]</attr>
+		<attr name='option'>[1001093.1000851.1000856.1000938.option]</attr>
+		<attr name='package'>[1001093.1000851.1000856.1000938.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001093.1000851.1000856.1000938.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001093.1000851.1000856.1000938.secondaryfeatures]</attr>
+		<attr name='specialexteriorcolorflag'>[1001093.1000851.1000856.1000938.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag'>[1001093.1000851.1000856.1000938.specialinteriorcolorflag]</attr>
+		<attr name='videokey'>[1001093.1000851.1000856.1000938.videokey]</attr>
+		<attr name='viewpointkey'>[1001093.1000851.1000856.1000938.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Door-Sill-Enhancements.jpg</attr>
+			<attr name='sha'>3098cee08e17edbc5d28d2fbe78a8bc2a8ebee88</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Door-Sill-Enhancements.jpg</attr>
+			<attr name='sha'>7152d3b0de7d30eeb2dbcac8b675149a04db9f3d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000863 1000929' >
+		<attr name='alacarte'>[1001093.1000851.1000863.1000929.alacarte]</attr>
+		<attr name='derived'>[1001093.1000851.1000863.1000929.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000863.1000929.description]</attr>
+		<attr name='group'>[1001093.1000851.1000863.1000929.group]</attr>
+		<attr name='msrp'>[1001093.1000851.1000863.1000929.msrp]</attr>
+		<attr name='source'>[1001093.1000851.1000863.1000929.source]</attr>
+		<attr name='title'>[1001093.1000851.1000863.1000929.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001075)}</rule>
+	</if>
+
+	<if id='1000851 1000863 1000930' >
+		<attr name='alacarte'>[1001093.1000851.1000863.1000930.alacarte]</attr>
+		<attr name='derived'>[1001093.1000851.1000863.1000930.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000863.1000930.description]</attr>
+		<attr name='group'>[1001093.1000851.1000863.1000930.group]</attr>
+		<attr name='msrp'>[1001093.1000851.1000863.1000930.msrp]</attr>
+		<attr name='source'>[1001093.1000851.1000863.1000930.source]</attr>
+		<attr name='title'>[1001093.1000851.1000863.1000930.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001075)}</rule>
+	</if>
+
+	<if id='1000851 1000863 1000931' >
+		<attr name='alacarte'>[1001093.1000851.1000863.1000931.alacarte]</attr>
+		<attr name='derived'>[1001093.1000851.1000863.1000931.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000863.1000931.description]</attr>
+		<attr name='group'>[1001093.1000851.1000863.1000931.group]</attr>
+		<attr name='msrp'>[1001093.1000851.1000863.1000931.msrp]</attr>
+		<attr name='source'>[1001093.1000851.1000863.1000931.source]</attr>
+		<attr name='title'>[1001093.1000851.1000863.1000931.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001075)}</rule>
+	</if>
+
+	<if id='1000851 1000863 1000932' >
+		<attr name='alacarte'>[1001093.1000851.1000863.1000932.alacarte]</attr>
+		<attr name='derived'>[1001093.1000851.1000863.1000932.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000863.1000932.description]</attr>
+		<attr name='group'>[1001093.1000851.1000863.1000932.group]</attr>
+		<attr name='msrp'>[1001093.1000851.1000863.1000932.msrp]</attr>
+		<attr name='source'>[1001093.1000851.1000863.1000932.source]</attr>
+		<attr name='title'>[1001093.1000851.1000863.1000932.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001075)}</rule>
+	</if>
+
+	<if id='1000851 1000863 1000933' >
+		<attr name='alacarte'>[1001093.1000851.1000863.1000933.alacarte]</attr>
+		<attr name='derived'>[1001093.1000851.1000863.1000933.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000863.1000933.description]</attr>
+		<attr name='group'>[1001093.1000851.1000863.1000933.group]</attr>
+		<attr name='msrp'>[1001093.1000851.1000863.1000933.msrp]</attr>
+		<attr name='source'>[1001093.1000851.1000863.1000933.source]</attr>
+		<attr name='title'>[1001093.1000851.1000863.1000933.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001075)}</rule>
+	</if>
+
+	<if id='1000851 1000863 1000934' >
+		<attr name='alacarte'>[1001093.1000851.1000863.1000934.alacarte]</attr>
+		<attr name='derived'>[1001093.1000851.1000863.1000934.derived]</attr>
+		<attr name='description'>[1001093.1000851.1000863.1000934.description]</attr>
+		<attr name='group'>[1001093.1000851.1000863.1000934.group]</attr>
+		<attr name='msrp'>[1001093.1000851.1000863.1000934.msrp]</attr>
+		<attr name='source'>[1001093.1000851.1000863.1000934.source]</attr>
+		<attr name='title'>[1001093.1000851.1000863.1000934.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001075)}</rule>
+	</if>
+
+	<if id='1002622 1000854 1000904' >
+		<attr name='alacarte' livesite='false'>[1001093.1002622.1000854.1000904.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001093.1002622.1000854.1000904.derived]</attr>
+		<attr name='description' livesite='false'>[1001093.1002622.1000854.1000904.description]</attr>
+		<attr name='group' livesite='false'>[1001093.1002622.1000854.1000904.group]</attr>
+		<attr name='keyfeatures'>[1001093.1002622.1000854.1000904.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001093.1002622.1000854.1000904.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001093.1002622.1000854.1000904.msrp]</attr>
+		<attr name='option' livesite='false'>[1001093.1002622.1000854.1000904.option]</attr>
+		<attr name='package' livesite='false'>[1001093.1002622.1000854.1000904.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001093.1002622.1000854.1000904.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001093.1002622.1000854.1000904.secondaryfeatures]</attr>
+		<attr name='source'>[1001093.1002622.1000854.1000904.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001093.1002622.1000854.1000904.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001093.1002622.1000854.1000904.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001093.1002622.1000854.1000904.title]</attr>
+		<attr name='videokey'>[1001093.1002622.1000854.1000904.videokey]</attr>
+		<attr name='viewpointkey'>[1001093.1002622.1000854.1000904.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Door-Sill-Enhancements.jpg</attr>
+			<attr name='sha'>026194c3c30e0ee06ccf2c5a6dd8dbb2015edd3d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000905' >
+		<attr name='alacarte' livesite='false'>[1001093.1002622.1000854.1000905.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001093.1002622.1000854.1000905.derived]</attr>
+		<attr name='description' livesite='false'>[1001093.1002622.1000854.1000905.description]</attr>
+		<attr name='group' livesite='false'>[1001093.1002622.1000854.1000905.group]</attr>
+		<attr name='keyfeatures'>[1001093.1002622.1000854.1000905.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001093.1002622.1000854.1000905.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001093.1002622.1000854.1000905.msrp]</attr>
+		<attr name='option' livesite='false'>[1001093.1002622.1000854.1000905.option]</attr>
+		<attr name='package' livesite='false'>[1001093.1002622.1000854.1000905.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001093.1002622.1000854.1000905.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001093.1002622.1000854.1000905.secondaryfeatures]</attr>
+		<attr name='source'>[1001093.1002622.1000854.1000905.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001093.1002622.1000854.1000905.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001093.1002622.1000854.1000905.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001093.1002622.1000854.1000905.title]</attr>
+		<attr name='videokey'>[1001093.1002622.1000854.1000905.videokey]</attr>
+		<attr name='viewpointkey'>[1001093.1002622.1000854.1000905.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Door-Sill-Enhancements.jpg</attr>
+			<attr name='sha'>026194c3c30e0ee06ccf2c5a6dd8dbb2015edd3d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000906' >
+		<attr name='alacarte' livesite='false'>[1001093.1002622.1000854.1000906.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001093.1002622.1000854.1000906.derived]</attr>
+		<attr name='description' livesite='false'>[1001093.1002622.1000854.1000906.description]</attr>
+		<attr name='group' livesite='false'>[1001093.1002622.1000854.1000906.group]</attr>
+		<attr name='keyfeatures'>[1001093.1002622.1000854.1000906.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001093.1002622.1000854.1000906.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001093.1002622.1000854.1000906.msrp]</attr>
+		<attr name='option' livesite='false'>[1001093.1002622.1000854.1000906.option]</attr>
+		<attr name='package' livesite='false'>[1001093.1002622.1000854.1000906.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001093.1002622.1000854.1000906.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001093.1002622.1000854.1000906.secondaryfeatures]</attr>
+		<attr name='source'>[1001093.1002622.1000854.1000906.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001093.1002622.1000854.1000906.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001093.1002622.1000854.1000906.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001093.1002622.1000854.1000906.title]</attr>
+		<attr name='videokey'>[1001093.1002622.1000854.1000906.videokey]</attr>
+		<attr name='viewpointkey'>[1001093.1002622.1000854.1000906.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Door-Sill-Enhancements.jpg</attr>
+			<attr name='sha'>026194c3c30e0ee06ccf2c5a6dd8dbb2015edd3d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000907' >
+		<attr name='alacarte' livesite='false'>[1001093.1002622.1000854.1000907.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001093.1002622.1000854.1000907.derived]</attr>
+		<attr name='description' livesite='false'>[1001093.1002622.1000854.1000907.description]</attr>
+		<attr name='group' livesite='false'>[1001093.1002622.1000854.1000907.group]</attr>
+		<attr name='keyfeatures'>[1001093.1002622.1000854.1000907.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001093.1002622.1000854.1000907.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001093.1002622.1000854.1000907.msrp]</attr>
+		<attr name='option' livesite='false'>[1001093.1002622.1000854.1000907.option]</attr>
+		<attr name='package' livesite='false'>[1001093.1002622.1000854.1000907.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001093.1002622.1000854.1000907.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001093.1002622.1000854.1000907.secondaryfeatures]</attr>
+		<attr name='source'>[1001093.1002622.1000854.1000907.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001093.1002622.1000854.1000907.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001093.1002622.1000854.1000907.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001093.1002622.1000854.1000907.title]</attr>
+		<attr name='videokey'>[1001093.1002622.1000854.1000907.videokey]</attr>
+		<attr name='viewpointkey'>[1001093.1002622.1000854.1000907.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Door-Sill-Enhancements.jpg</attr>
+			<attr name='sha'>026194c3c30e0ee06ccf2c5a6dd8dbb2015edd3d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000908' >
+		<attr name='alacarte' livesite='false'>[1001093.1002622.1000854.1000908.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001093.1002622.1000854.1000908.derived]</attr>
+		<attr name='description' livesite='false'>[1001093.1002622.1000854.1000908.description]</attr>
+		<attr name='group' livesite='false'>[1001093.1002622.1000854.1000908.group]</attr>
+		<attr name='keyfeatures'>[1001093.1002622.1000854.1000908.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001093.1002622.1000854.1000908.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001093.1002622.1000854.1000908.msrp]</attr>
+		<attr name='option' livesite='false'>[1001093.1002622.1000854.1000908.option]</attr>
+		<attr name='package' livesite='false'>[1001093.1002622.1000854.1000908.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001093.1002622.1000854.1000908.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001093.1002622.1000854.1000908.secondaryfeatures]</attr>
+		<attr name='source'>[1001093.1002622.1000854.1000908.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001093.1002622.1000854.1000908.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001093.1002622.1000854.1000908.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001093.1002622.1000854.1000908.title]</attr>
+		<attr name='videokey'>[1001093.1002622.1000854.1000908.videokey]</attr>
+		<attr name='viewpointkey'>[1001093.1002622.1000854.1000908.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Door-Sill-Enhancements.jpg</attr>
+			<attr name='sha'>026194c3c30e0ee06ccf2c5a6dd8dbb2015edd3d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000909' >
+		<attr name='alacarte' livesite='false'>[1001093.1002622.1000854.1000909.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001093.1002622.1000854.1000909.derived]</attr>
+		<attr name='description' livesite='false'>[1001093.1002622.1000854.1000909.description]</attr>
+		<attr name='group' livesite='false'>[1001093.1002622.1000854.1000909.group]</attr>
+		<attr name='keyfeatures'>[1001093.1002622.1000854.1000909.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001093.1002622.1000854.1000909.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001093.1002622.1000854.1000909.msrp]</attr>
+		<attr name='option' livesite='false'>[1001093.1002622.1000854.1000909.option]</attr>
+		<attr name='package' livesite='false'>[1001093.1002622.1000854.1000909.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001093.1002622.1000854.1000909.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001093.1002622.1000854.1000909.secondaryfeatures]</attr>
+		<attr name='source'>[1001093.1002622.1000854.1000909.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001093.1002622.1000854.1000909.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001093.1002622.1000854.1000909.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001093.1002622.1000854.1000909.title]</attr>
+		<attr name='videokey'>[1001093.1002622.1000854.1000909.videokey]</attr>
+		<attr name='viewpointkey'>[1001093.1002622.1000854.1000909.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Door-Sill-Enhancements.jpg</attr>
+			<attr name='sha'>026194c3c30e0ee06ccf2c5a6dd8dbb2015edd3d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000910' >
+		<attr name='alacarte' livesite='false'>[1001093.1002622.1000854.1000910.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001093.1002622.1000854.1000910.derived]</attr>
+		<attr name='description' livesite='false'>[1001093.1002622.1000854.1000910.description]</attr>
+		<attr name='group' livesite='false'>[1001093.1002622.1000854.1000910.group]</attr>
+		<attr name='keyfeatures'>[1001093.1002622.1000854.1000910.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001093.1002622.1000854.1000910.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001093.1002622.1000854.1000910.msrp]</attr>
+		<attr name='option' livesite='false'>[1001093.1002622.1000854.1000910.option]</attr>
+		<attr name='package' livesite='false'>[1001093.1002622.1000854.1000910.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001093.1002622.1000854.1000910.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001093.1002622.1000854.1000910.secondaryfeatures]</attr>
+		<attr name='source'>[1001093.1002622.1000854.1000910.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001093.1002622.1000854.1000910.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001093.1002622.1000854.1000910.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001093.1002622.1000854.1000910.title]</attr>
+		<attr name='videokey'>[1001093.1002622.1000854.1000910.videokey]</attr>
+		<attr name='viewpointkey'>[1001093.1002622.1000854.1000910.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Door-Sill-Enhancements.jpg</attr>
+			<attr name='sha'>026194c3c30e0ee06ccf2c5a6dd8dbb2015edd3d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000911' >
+		<attr name='alacarte' livesite='false'>[1001093.1002622.1000854.1000911.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001093.1002622.1000854.1000911.derived]</attr>
+		<attr name='description' livesite='false'>[1001093.1002622.1000854.1000911.description]</attr>
+		<attr name='group' livesite='false'>[1001093.1002622.1000854.1000911.group]</attr>
+		<attr name='keyfeatures'>[1001093.1002622.1000854.1000911.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001093.1002622.1000854.1000911.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001093.1002622.1000854.1000911.msrp]</attr>
+		<attr name='option' livesite='false'>[1001093.1002622.1000854.1000911.option]</attr>
+		<attr name='package' livesite='false'>[1001093.1002622.1000854.1000911.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001093.1002622.1000854.1000911.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001093.1002622.1000854.1000911.secondaryfeatures]</attr>
+		<attr name='source'>[1001093.1002622.1000854.1000911.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001093.1002622.1000854.1000911.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001093.1002622.1000854.1000911.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001093.1002622.1000854.1000911.title]</attr>
+		<attr name='videokey'>[1001093.1002622.1000854.1000911.videokey]</attr>
+		<attr name='viewpointkey'>[1001093.1002622.1000854.1000911.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Door-Sill-Enhancements.jpg</attr>
+			<attr name='sha'>026194c3c30e0ee06ccf2c5a6dd8dbb2015edd3d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1002849' >
+		<attr name='alacarte' livesite='false'>[1001093.1002622.1000854.1002849.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001093.1002622.1000854.1002849.derived]</attr>
+		<attr name='description' livesite='false'>[1001093.1002622.1000854.1002849.description]</attr>
+		<attr name='group' livesite='false'>[1001093.1002622.1000854.1002849.group]</attr>
+		<attr name='keyfeatures'>[1001093.1002622.1000854.1002849.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001093.1002622.1000854.1002849.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001093.1002622.1000854.1002849.msrp]</attr>
+		<attr name='option' livesite='false'>[1001093.1002622.1000854.1002849.option]</attr>
+		<attr name='package' livesite='false'>[1001093.1002622.1000854.1002849.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001093.1002622.1000854.1002849.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001093.1002622.1000854.1002849.secondaryfeatures]</attr>
+		<attr name='source'>[1001093.1002622.1000854.1002849.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001093.1002622.1000854.1002849.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001093.1002622.1000854.1002849.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001093.1002622.1000854.1002849.title]</attr>
+		<attr name='videokey'>[1001093.1002622.1000854.1002849.videokey]</attr>
+		<attr name='viewpointkey'>[1001093.1002622.1000854.1002849.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Door-Sill-Enhancements.jpg</attr>
+			<attr name='sha'>026194c3c30e0ee06ccf2c5a6dd8dbb2015edd3d</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000891' >
+		<attr name='alacarte' livesite='false'>[1001093.1002622.1000855.1000891.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001093.1002622.1000855.1000891.derived]</attr>
+		<attr name='description' livesite='false'>[1001093.1002622.1000855.1000891.description]</attr>
+		<attr name='group' livesite='false'>[1001093.1002622.1000855.1000891.group]</attr>
+		<attr name='keyfeatures'>[1001093.1002622.1000855.1000891.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001093.1002622.1000855.1000891.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001093.1002622.1000855.1000891.msrp]</attr>
+		<attr name='option' livesite='false'>[1001093.1002622.1000855.1000891.option]</attr>
+		<attr name='package' livesite='false'>[1001093.1002622.1000855.1000891.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001093.1002622.1000855.1000891.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001093.1002622.1000855.1000891.secondaryfeatures]</attr>
+		<attr name='source'>[1001093.1002622.1000855.1000891.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001093.1002622.1000855.1000891.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001093.1002622.1000855.1000891.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001093.1002622.1000855.1000891.title]</attr>
+		<attr name='videokey'>[1001093.1002622.1000855.1000891.videokey]</attr>
+		<attr name='viewpointkey'>[1001093.1002622.1000855.1000891.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001122)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Door-Sill-Enhancements.jpg</attr>
+			<attr name='sha'>eb57315e67a5ee1cbdd68aa9adfd16856d5ae7d8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000892' >
+		<attr name='alacarte' livesite='false'>[1001093.1002622.1000855.1000892.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001093.1002622.1000855.1000892.derived]</attr>
+		<attr name='description' livesite='false'>[1001093.1002622.1000855.1000892.description]</attr>
+		<attr name='group' livesite='false'>[1001093.1002622.1000855.1000892.group]</attr>
+		<attr name='msrp' livesite='false'>[1001093.1002622.1000855.1000892.msrp]</attr>
+		<attr name='option' livesite='false'>[1001093.1002622.1000855.1000892.option]</attr>
+		<attr name='package' livesite='false'>[1001093.1002622.1000855.1000892.package]</attr>
+		<attr name='source'>[1001093.1002622.1000855.1000892.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001093.1002622.1000855.1000892.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001093.1002622.1000855.1000892.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001093.1002622.1000855.1000892.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001122)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Door-Sill-Enhancements.jpg</attr>
+			<attr name='sha'>eb57315e67a5ee1cbdd68aa9adfd16856d5ae7d8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000893' >
+		<attr name='alacarte' livesite='false'>[1001093.1002622.1000855.1000893.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001093.1002622.1000855.1000893.derived]</attr>
+		<attr name='description' livesite='false'>[1001093.1002622.1000855.1000893.description]</attr>
+		<attr name='group' livesite='false'>[1001093.1002622.1000855.1000893.group]</attr>
+		<attr name='msrp' livesite='false'>[1001093.1002622.1000855.1000893.msrp]</attr>
+		<attr name='option' livesite='false'>[1001093.1002622.1000855.1000893.option]</attr>
+		<attr name='package' livesite='false'>[1001093.1002622.1000855.1000893.package]</attr>
+		<attr name='source'>[1001093.1002622.1000855.1000893.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001093.1002622.1000855.1000893.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001093.1002622.1000855.1000893.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001093.1002622.1000855.1000893.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001122)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Door-Sill-Enhancements.jpg</attr>
+			<attr name='sha'>eb57315e67a5ee1cbdd68aa9adfd16856d5ae7d8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000894' >
+		<attr name='alacarte' livesite='false'>[1001093.1002622.1000855.1000894.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001093.1002622.1000855.1000894.derived]</attr>
+		<attr name='description' livesite='false'>[1001093.1002622.1000855.1000894.description]</attr>
+		<attr name='group' livesite='false'>[1001093.1002622.1000855.1000894.group]</attr>
+		<attr name='msrp' livesite='false'>[1001093.1002622.1000855.1000894.msrp]</attr>
+		<attr name='option' livesite='false'>[1001093.1002622.1000855.1000894.option]</attr>
+		<attr name='package' livesite='false'>[1001093.1002622.1000855.1000894.package]</attr>
+		<attr name='source'>[1001093.1002622.1000855.1000894.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001093.1002622.1000855.1000894.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001093.1002622.1000855.1000894.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001093.1002622.1000855.1000894.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001122)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Door-Sill-Enhancements.jpg</attr>
+			<attr name='sha'>eb57315e67a5ee1cbdd68aa9adfd16856d5ae7d8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000895' >
+		<attr name='alacarte' livesite='false'>[1001093.1002622.1000855.1000895.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001093.1002622.1000855.1000895.derived]</attr>
+		<attr name='description' livesite='false'>[1001093.1002622.1000855.1000895.description]</attr>
+		<attr name='group' livesite='false'>[1001093.1002622.1000855.1000895.group]</attr>
+		<attr name='msrp' livesite='false'>[1001093.1002622.1000855.1000895.msrp]</attr>
+		<attr name='option' livesite='false'>[1001093.1002622.1000855.1000895.option]</attr>
+		<attr name='package' livesite='false'>[1001093.1002622.1000855.1000895.package]</attr>
+		<attr name='source'>[1001093.1002622.1000855.1000895.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001093.1002622.1000855.1000895.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001093.1002622.1000855.1000895.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001093.1002622.1000855.1000895.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001122)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Door-Sill-Enhancements.jpg</attr>
+			<attr name='sha'>eb57315e67a5ee1cbdd68aa9adfd16856d5ae7d8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000896' >
+		<attr name='alacarte' livesite='false'>[1001093.1002622.1000855.1000896.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001093.1002622.1000855.1000896.derived]</attr>
+		<attr name='description' livesite='false'>[1001093.1002622.1000855.1000896.description]</attr>
+		<attr name='group' livesite='false'>[1001093.1002622.1000855.1000896.group]</attr>
+		<attr name='msrp' livesite='false'>[1001093.1002622.1000855.1000896.msrp]</attr>
+		<attr name='option' livesite='false'>[1001093.1002622.1000855.1000896.option]</attr>
+		<attr name='package' livesite='false'>[1001093.1002622.1000855.1000896.package]</attr>
+		<attr name='source'>[1001093.1002622.1000855.1000896.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001093.1002622.1000855.1000896.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001093.1002622.1000855.1000896.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001093.1002622.1000855.1000896.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001122)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Door-Sill-Enhancements.jpg</attr>
+			<attr name='sha'>eb57315e67a5ee1cbdd68aa9adfd16856d5ae7d8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000897' >
+		<attr name='alacarte' livesite='false'>[1001093.1002622.1000855.1000897.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001093.1002622.1000855.1000897.derived]</attr>
+		<attr name='description' livesite='false'>[1001093.1002622.1000855.1000897.description]</attr>
+		<attr name='group' livesite='false'>[1001093.1002622.1000855.1000897.group]</attr>
+		<attr name='msrp' livesite='false'>[1001093.1002622.1000855.1000897.msrp]</attr>
+		<attr name='option' livesite='false'>[1001093.1002622.1000855.1000897.option]</attr>
+		<attr name='package' livesite='false'>[1001093.1002622.1000855.1000897.package]</attr>
+		<attr name='source'>[1001093.1002622.1000855.1000897.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001093.1002622.1000855.1000897.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001093.1002622.1000855.1000897.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001093.1002622.1000855.1000897.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001122)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Door-Sill-Enhancements.jpg</attr>
+			<attr name='sha'>eb57315e67a5ee1cbdd68aa9adfd16856d5ae7d8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000898' >
+		<attr name='alacarte' livesite='false'>[1001093.1002622.1000855.1000898.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001093.1002622.1000855.1000898.derived]</attr>
+		<attr name='description' livesite='false'>[1001093.1002622.1000855.1000898.description]</attr>
+		<attr name='group' livesite='false'>[1001093.1002622.1000855.1000898.group]</attr>
+		<attr name='msrp' livesite='false'>[1001093.1002622.1000855.1000898.msrp]</attr>
+		<attr name='option' livesite='false'>[1001093.1002622.1000855.1000898.option]</attr>
+		<attr name='package' livesite='false'>[1001093.1002622.1000855.1000898.package]</attr>
+		<attr name='source'>[1001093.1002622.1000855.1000898.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001093.1002622.1000855.1000898.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001093.1002622.1000855.1000898.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001093.1002622.1000855.1000898.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001122)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Door-Sill-Enhancements.jpg</attr>
+			<attr name='sha'>eb57315e67a5ee1cbdd68aa9adfd16856d5ae7d8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000899' >
+		<attr name='alacarte' livesite='false'>[1001093.1002622.1000855.1000899.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001093.1002622.1000855.1000899.derived]</attr>
+		<attr name='description' livesite='false'>[1001093.1002622.1000855.1000899.description]</attr>
+		<attr name='group' livesite='false'>[1001093.1002622.1000855.1000899.group]</attr>
+		<attr name='msrp' livesite='false'>[1001093.1002622.1000855.1000899.msrp]</attr>
+		<attr name='option' livesite='false'>[1001093.1002622.1000855.1000899.option]</attr>
+		<attr name='package' livesite='false'>[1001093.1002622.1000855.1000899.package]</attr>
+		<attr name='source'>[1001093.1002622.1000855.1000899.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001093.1002622.1000855.1000899.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001093.1002622.1000855.1000899.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001093.1002622.1000855.1000899.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001122)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Door-Sill-Enhancements.jpg</attr>
+			<attr name='sha'>eb57315e67a5ee1cbdd68aa9adfd16856d5ae7d8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000900' >
+		<attr name='alacarte' livesite='false'>[1001093.1002622.1000855.1000900.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001093.1002622.1000855.1000900.derived]</attr>
+		<attr name='description' livesite='false'>[1001093.1002622.1000855.1000900.description]</attr>
+		<attr name='group' livesite='false'>[1001093.1002622.1000855.1000900.group]</attr>
+		<attr name='msrp' livesite='false'>[1001093.1002622.1000855.1000900.msrp]</attr>
+		<attr name='option' livesite='false'>[1001093.1002622.1000855.1000900.option]</attr>
+		<attr name='package' livesite='false'>[1001093.1002622.1000855.1000900.package]</attr>
+		<attr name='source'>[1001093.1002622.1000855.1000900.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001093.1002622.1000855.1000900.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001093.1002622.1000855.1000900.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001093.1002622.1000855.1000900.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001122)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Door-Sill-Enhancements.jpg</attr>
+			<attr name='sha'>eb57315e67a5ee1cbdd68aa9adfd16856d5ae7d8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000901' >
+		<attr name='alacarte' livesite='false'>[1001093.1002622.1000855.1000901.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001093.1002622.1000855.1000901.derived]</attr>
+		<attr name='description' livesite='false'>[1001093.1002622.1000855.1000901.description]</attr>
+		<attr name='group' livesite='false'>[1001093.1002622.1000855.1000901.group]</attr>
+		<attr name='msrp' livesite='false'>[1001093.1002622.1000855.1000901.msrp]</attr>
+		<attr name='option' livesite='false'>[1001093.1002622.1000855.1000901.option]</attr>
+		<attr name='package' livesite='false'>[1001093.1002622.1000855.1000901.package]</attr>
+		<attr name='source'>[1001093.1002622.1000855.1000901.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001093.1002622.1000855.1000901.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001093.1002622.1000855.1000901.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001093.1002622.1000855.1000901.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001122)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Door-Sill-Enhancements.jpg</attr>
+			<attr name='sha'>eb57315e67a5ee1cbdd68aa9adfd16856d5ae7d8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000855 1000902' >
+		<attr name='alacarte' livesite='false'>[1001093.1002622.1000855.1000902.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001093.1002622.1000855.1000902.derived]</attr>
+		<attr name='description' livesite='false'>[1001093.1002622.1000855.1000902.description]</attr>
+		<attr name='group' livesite='false'>[1001093.1002622.1000855.1000902.group]</attr>
+		<attr name='msrp' livesite='false'>[1001093.1002622.1000855.1000902.msrp]</attr>
+		<attr name='option' livesite='false'>[1001093.1002622.1000855.1000902.option]</attr>
+		<attr name='package' livesite='false'>[1001093.1002622.1000855.1000902.package]</attr>
+		<attr name='source'>[1001093.1002622.1000855.1000902.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001093.1002622.1000855.1000902.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001093.1002622.1000855.1000902.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001093.1002622.1000855.1000902.title]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001095)}</rule>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001122)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Door-Sill-Enhancements.jpg</attr>
+			<attr name='sha'>eb57315e67a5ee1cbdd68aa9adfd16856d5ae7d8</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000863 1000929' >
+		<attr name='alacarte' livesite='false'>[1001093.1002622.1000863.1000929.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001093.1002622.1000863.1000929.derived]</attr>
+		<attr name='description' livesite='false'>[1001093.1002622.1000863.1000929.description]</attr>
+		<attr name='group' livesite='false'>[1001093.1002622.1000863.1000929.group]</attr>
+		<attr name='keyfeatures'>[1001093.1002622.1000863.1000929.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001093.1002622.1000863.1000929.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001093.1002622.1000863.1000929.msrp]</attr>
+		<attr name='option' livesite='false'>[1001093.1002622.1000863.1000929.option]</attr>
+		<attr name='package' livesite='false'>[1001093.1002622.1000863.1000929.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001093.1002622.1000863.1000929.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001093.1002622.1000863.1000929.secondaryfeatures]</attr>
+		<attr name='source'>[1001093.1002622.1000863.1000929.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001093.1002622.1000863.1000929.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001093.1002622.1000863.1000929.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001093.1002622.1000863.1000929.title]</attr>
+		<attr name='videokey'>[1001093.1002622.1000863.1000929.videokey]</attr>
+		<attr name='viewpointkey'>[1001093.1002622.1000863.1000929.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001075)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>RAV4_2015_DoorSillApplique_D.jpg</attr>
+			<attr name='sha'>7ba97d2501cfa774cb9e227ffbae43c190d3d8f1</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000863 1000930' >
+		<attr name='alacarte' livesite='false'>[1001093.1002622.1000863.1000930.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001093.1002622.1000863.1000930.derived]</attr>
+		<attr name='description' livesite='false'>[1001093.1002622.1000863.1000930.description]</attr>
+		<attr name='group' livesite='false'>[1001093.1002622.1000863.1000930.group]</attr>
+		<attr name='keyfeatures'>[1001093.1002622.1000863.1000930.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001093.1002622.1000863.1000930.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001093.1002622.1000863.1000930.msrp]</attr>
+		<attr name='option' livesite='false'>[1001093.1002622.1000863.1000930.option]</attr>
+		<attr name='package' livesite='false'>[1001093.1002622.1000863.1000930.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001093.1002622.1000863.1000930.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001093.1002622.1000863.1000930.secondaryfeatures]</attr>
+		<attr name='source'>[1001093.1002622.1000863.1000930.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001093.1002622.1000863.1000930.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001093.1002622.1000863.1000930.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001093.1002622.1000863.1000930.title]</attr>
+		<attr name='videokey'>[1001093.1002622.1000863.1000930.videokey]</attr>
+		<attr name='viewpointkey'>[1001093.1002622.1000863.1000930.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001075)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>RAV4_2015_DoorSillApplique_D.jpg</attr>
+			<attr name='sha'>7ba97d2501cfa774cb9e227ffbae43c190d3d8f1</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000863 1000931' >
+		<attr name='alacarte' livesite='false'>[1001093.1002622.1000863.1000931.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001093.1002622.1000863.1000931.derived]</attr>
+		<attr name='description' livesite='false'>[1001093.1002622.1000863.1000931.description]</attr>
+		<attr name='group' livesite='false'>[1001093.1002622.1000863.1000931.group]</attr>
+		<attr name='keyfeatures'>[1001093.1002622.1000863.1000931.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001093.1002622.1000863.1000931.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001093.1002622.1000863.1000931.msrp]</attr>
+		<attr name='option' livesite='false'>[1001093.1002622.1000863.1000931.option]</attr>
+		<attr name='package' livesite='false'>[1001093.1002622.1000863.1000931.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001093.1002622.1000863.1000931.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001093.1002622.1000863.1000931.secondaryfeatures]</attr>
+		<attr name='source'>[1001093.1002622.1000863.1000931.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001093.1002622.1000863.1000931.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001093.1002622.1000863.1000931.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001093.1002622.1000863.1000931.title]</attr>
+		<attr name='videokey'>[1001093.1002622.1000863.1000931.videokey]</attr>
+		<attr name='viewpointkey'>[1001093.1002622.1000863.1000931.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001075)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>RAV4_2015_DoorSillApplique_D.jpg</attr>
+			<attr name='sha'>7ba97d2501cfa774cb9e227ffbae43c190d3d8f1</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000863 1000932' >
+		<attr name='alacarte' livesite='false'>[1001093.1002622.1000863.1000932.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001093.1002622.1000863.1000932.derived]</attr>
+		<attr name='description' livesite='false'>[1001093.1002622.1000863.1000932.description]</attr>
+		<attr name='group' livesite='false'>[1001093.1002622.1000863.1000932.group]</attr>
+		<attr name='keyfeatures'>[1001093.1002622.1000863.1000932.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001093.1002622.1000863.1000932.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001093.1002622.1000863.1000932.msrp]</attr>
+		<attr name='option' livesite='false'>[1001093.1002622.1000863.1000932.option]</attr>
+		<attr name='package' livesite='false'>[1001093.1002622.1000863.1000932.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001093.1002622.1000863.1000932.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001093.1002622.1000863.1000932.secondaryfeatures]</attr>
+		<attr name='source'>[1001093.1002622.1000863.1000932.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001093.1002622.1000863.1000932.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001093.1002622.1000863.1000932.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001093.1002622.1000863.1000932.title]</attr>
+		<attr name='videokey'>[1001093.1002622.1000863.1000932.videokey]</attr>
+		<attr name='viewpointkey'>[1001093.1002622.1000863.1000932.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001075)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>RAV4_2015_DoorSillApplique_D.jpg</attr>
+			<attr name='sha'>7ba97d2501cfa774cb9e227ffbae43c190d3d8f1</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000863 1000933' >
+		<attr name='alacarte' livesite='false'>[1001093.1002622.1000863.1000933.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001093.1002622.1000863.1000933.derived]</attr>
+		<attr name='description' livesite='false'>[1001093.1002622.1000863.1000933.description]</attr>
+		<attr name='group' livesite='false'>[1001093.1002622.1000863.1000933.group]</attr>
+		<attr name='keyfeatures'>[1001093.1002622.1000863.1000933.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001093.1002622.1000863.1000933.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001093.1002622.1000863.1000933.msrp]</attr>
+		<attr name='option' livesite='false'>[1001093.1002622.1000863.1000933.option]</attr>
+		<attr name='package' livesite='false'>[1001093.1002622.1000863.1000933.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001093.1002622.1000863.1000933.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001093.1002622.1000863.1000933.secondaryfeatures]</attr>
+		<attr name='source'>[1001093.1002622.1000863.1000933.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001093.1002622.1000863.1000933.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001093.1002622.1000863.1000933.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001093.1002622.1000863.1000933.title]</attr>
+		<attr name='videokey'>[1001093.1002622.1000863.1000933.videokey]</attr>
+		<attr name='viewpointkey'>[1001093.1002622.1000863.1000933.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001075)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>RAV4_2015_DoorSillApplique_D.jpg</attr>
+			<attr name='sha'>7ba97d2501cfa774cb9e227ffbae43c190d3d8f1</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000863 1000934' >
+		<attr name='alacarte' livesite='false'>[1001093.1002622.1000863.1000934.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001093.1002622.1000863.1000934.derived]</attr>
+		<attr name='description' livesite='false'>[1001093.1002622.1000863.1000934.description]</attr>
+		<attr name='group' livesite='false'>[1001093.1002622.1000863.1000934.group]</attr>
+		<attr name='keyfeatures'>[1001093.1002622.1000863.1000934.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001093.1002622.1000863.1000934.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001093.1002622.1000863.1000934.msrp]</attr>
+		<attr name='option' livesite='false'>[1001093.1002622.1000863.1000934.option]</attr>
+		<attr name='package' livesite='false'>[1001093.1002622.1000863.1000934.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001093.1002622.1000863.1000934.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001093.1002622.1000863.1000934.secondaryfeatures]</attr>
+		<attr name='source' livesite='false'>[1001093.1002622.1000863.1000934.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001093.1002622.1000863.1000934.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001093.1002622.1000863.1000934.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001093.1002622.1000863.1000934.title]</attr>
+		<attr name='videokey'>[1001093.1002622.1000863.1000934.videokey]</attr>
+		<attr name='viewpointkey'>[1001093.1002622.1000863.1000934.viewpointkey]</attr>
+		<rule src='NVS' tag='ACCCONFLICTRULE_TAG_ACY_G0' type='TEXT'>{1001093 conflicts(1001075)}</rule>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>RAV4_2015_DoorSillApplique_D.jpg</attr>
+			<attr name='sha'>7ba97d2501cfa774cb9e227ffbae43c190d3d8f1</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

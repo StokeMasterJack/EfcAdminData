@@ -1,0 +1,8 @@
+<feature id='1002242' type='disclaimer' cardinality='optional' >
+	<attr name='code'>standard_plat_lim</attr>
+	<attr name='derived' livesite='false'>[1002242.derived]</attr>
+	<attr name='vtc' livesite='false'>[1002242.vtc]</attr>
+	<attr name='description' livesite='false'>[1002242.description]</attr>
+	<attr name='source' livesite='false'>[1002242.source]</attr>
+	<attr name='title'></attr>
+</feature>

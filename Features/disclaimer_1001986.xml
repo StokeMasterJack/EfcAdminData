@@ -1,0 +1,8 @@
+<feature id='1001986' type='disclaimer' cardinality='optional' >
+	<attr name='source' livesite='false'>[1001986.source]</attr>
+	<attr name='vtc' livesite='false'>[1001986.vtc]</attr>
+	<attr name='derived' livesite='false'>[1001986.derived]</attr>
+	<attr name='description' livesite='false'>[1001986.description]</attr>
+	<attr name='title'></attr>
+	<attr name='code'>le_auto_access</attr>
+</feature>

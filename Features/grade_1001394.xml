@@ -1,0 +1,447 @@
+<feature id='1001394' type='grade' scope='1000851 1000868 1001013, 1000851 1000868 1001010, 1000851 1000868 1001014, 1002622 1000868 1000995, 1002622 1000868 1000996, 1002622 1000868 1000991, 1002622 1000868 1000992, 1002622 1000868 1001010, 1000851 1000868 1000991, 1000851 1000868 1000992, 1002622 1000868 1001013, 1002622 1000868 1001014, 1000851 1000868 1000990, 1000851 1000868 1000995, 1000851 1000868 1000996, 1002622 1000868 1001007, 1002622 1000868 1001004, 1000851 1000868 1001008, 1002622 1000868 1001005, 1000851 1000868 1001007, 1000851 1000868 1001005, 1002622 1000868 1001008, 1000851 1000868 1001004, 1000851 1000868 1000989' cardinality='mandatory' >
+	<attr name='availablecopy'></attr>
+	<attr name='code'>SR</attr>
+	<attr name='copyblock'></attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='hotspot'></attr>
+	<attr name='iconname'></attr>
+	<attr name='images'></attr>
+	<attr name='keyword'></attr>
+	<attr name='mpg'></attr>
+	<attr name='source' livesite='false'>[1001394.source]</attr>
+	<attr name='title' livesite='false'>[1001394.title]</attr>
+	<attr name='vtc' livesite='false'>[1001394.vtc]</attr>
+	<if id='1000851 1000868 1000989' >
+		<attr name='availablecopy'>[1001394.1000851.1000868.1000989.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001394.1000851.1000868.1000989.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001394.1000851.1000868.1000989.derived]</attr>
+		<attr name='description'>[1001394.1000851.1000868.1000989.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001394.1000851.1000868.1000989.hotspot]</attr>
+		<attr name='iconname'>[1001394.1000851.1000868.1000989.iconname]</attr>
+		<attr name='keyword'>[1001394.1000851.1000868.1000989.keyword]</attr>
+		<attr name='mpg'>[1001394.1000851.1000868.1000989.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Tundra_SR.png</attr>
+			<attr name='sha'>5f35335520fc983490375011c1caa73a75475003</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000868 1000990' >
+		<attr name='availablecopy'>[1001394.1000851.1000868.1000990.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001394.1000851.1000868.1000990.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001394.1000851.1000868.1000990.derived]</attr>
+		<attr name='description'>[1001394.1000851.1000868.1000990.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001394.1000851.1000868.1000990.hotspot]</attr>
+		<attr name='iconname'>[1001394.1000851.1000868.1000990.iconname]</attr>
+		<attr name='keyword'>[1001394.1000851.1000868.1000990.keyword]</attr>
+		<attr name='mpg'>[1001394.1000851.1000868.1000990.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Tundra_SR.png</attr>
+			<attr name='sha'>5f35335520fc983490375011c1caa73a75475003</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000868 1000991' >
+		<attr name='availablecopy'>[1001394.1000851.1000868.1000991.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001394.1000851.1000868.1000991.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001394.1000851.1000868.1000991.derived]</attr>
+		<attr name='description'>[1001394.1000851.1000868.1000991.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001394.1000851.1000868.1000991.hotspot]</attr>
+		<attr name='iconname'>[1001394.1000851.1000868.1000991.iconname]</attr>
+		<attr name='keyword'>[1001394.1000851.1000868.1000991.keyword]</attr>
+		<attr name='mpg'>[1001394.1000851.1000868.1000991.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Tundra_SR.png</attr>
+			<attr name='sha'>5f35335520fc983490375011c1caa73a75475003</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000868 1000992' >
+		<attr name='availablecopy'>[1001394.1000851.1000868.1000992.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001394.1000851.1000868.1000992.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001394.1000851.1000868.1000992.derived]</attr>
+		<attr name='description'>[1001394.1000851.1000868.1000992.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001394.1000851.1000868.1000992.hotspot]</attr>
+		<attr name='iconname'>[1001394.1000851.1000868.1000992.iconname]</attr>
+		<attr name='keyword'>[1001394.1000851.1000868.1000992.keyword]</attr>
+		<attr name='mpg'>[1001394.1000851.1000868.1000992.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Tundra_SR.png</attr>
+			<attr name='sha'>5f35335520fc983490375011c1caa73a75475003</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000868 1000995' >
+		<attr name='availablecopy'>[1001394.1000851.1000868.1000995.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001394.1000851.1000868.1000995.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001394.1000851.1000868.1000995.derived]</attr>
+		<attr name='description'>[1001394.1000851.1000868.1000995.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001394.1000851.1000868.1000995.hotspot]</attr>
+		<attr name='iconname'>[1001394.1000851.1000868.1000995.iconname]</attr>
+		<attr name='keyword'>[1001394.1000851.1000868.1000995.keyword]</attr>
+		<attr name='mpg'>[1001394.1000851.1000868.1000995.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Tundra_SR.png</attr>
+			<attr name='sha'>5f35335520fc983490375011c1caa73a75475003</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000868 1000996' >
+		<attr name='availablecopy'>[1001394.1000851.1000868.1000996.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001394.1000851.1000868.1000996.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001394.1000851.1000868.1000996.derived]</attr>
+		<attr name='description'>[1001394.1000851.1000868.1000996.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001394.1000851.1000868.1000996.hotspot]</attr>
+		<attr name='iconname'>[1001394.1000851.1000868.1000996.iconname]</attr>
+		<attr name='keyword'>[1001394.1000851.1000868.1000996.keyword]</attr>
+		<attr name='mpg'>[1001394.1000851.1000868.1000996.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Tundra_SR.png</attr>
+			<attr name='sha'>5f35335520fc983490375011c1caa73a75475003</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000868 1001004' >
+		<attr name='availablecopy'>[1001394.1000851.1000868.1001004.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001394.1000851.1000868.1001004.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001394.1000851.1000868.1001004.derived]</attr>
+		<attr name='description'>[1001394.1000851.1000868.1001004.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001394.1000851.1000868.1001004.hotspot]</attr>
+		<attr name='iconname'>[1001394.1000851.1000868.1001004.iconname]</attr>
+		<attr name='keyword'>[1001394.1000851.1000868.1001004.keyword]</attr>
+		<attr name='mpg'>[1001394.1000851.1000868.1001004.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Tundra_SR.png</attr>
+			<attr name='sha'>5f35335520fc983490375011c1caa73a75475003</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000868 1001005' >
+		<attr name='availablecopy'>[1001394.1000851.1000868.1001005.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001394.1000851.1000868.1001005.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001394.1000851.1000868.1001005.derived]</attr>
+		<attr name='description'>[1001394.1000851.1000868.1001005.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001394.1000851.1000868.1001005.hotspot]</attr>
+		<attr name='iconname'>[1001394.1000851.1000868.1001005.iconname]</attr>
+		<attr name='keyword'>[1001394.1000851.1000868.1001005.keyword]</attr>
+		<attr name='mpg'>[1001394.1000851.1000868.1001005.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Tundra_SR.png</attr>
+			<attr name='sha'>5f35335520fc983490375011c1caa73a75475003</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000868 1001007' >
+		<attr name='availablecopy'>[1001394.1000851.1000868.1001007.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001394.1000851.1000868.1001007.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001394.1000851.1000868.1001007.derived]</attr>
+		<attr name='description'>[1001394.1000851.1000868.1001007.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001394.1000851.1000868.1001007.hotspot]</attr>
+		<attr name='iconname'>[1001394.1000851.1000868.1001007.iconname]</attr>
+		<attr name='keyword'>[1001394.1000851.1000868.1001007.keyword]</attr>
+		<attr name='mpg'>[1001394.1000851.1000868.1001007.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Tundra_SR.png</attr>
+			<attr name='sha'>5f35335520fc983490375011c1caa73a75475003</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000868 1001008' >
+		<attr name='availablecopy'>[1001394.1000851.1000868.1001008.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001394.1000851.1000868.1001008.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001394.1000851.1000868.1001008.derived]</attr>
+		<attr name='description'>[1001394.1000851.1000868.1001008.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001394.1000851.1000868.1001008.hotspot]</attr>
+		<attr name='iconname'>[1001394.1000851.1000868.1001008.iconname]</attr>
+		<attr name='keyword'>[1001394.1000851.1000868.1001008.keyword]</attr>
+		<attr name='mpg'>[1001394.1000851.1000868.1001008.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Tundra_SR.png</attr>
+			<attr name='sha'>5f35335520fc983490375011c1caa73a75475003</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000868 1001010' >
+		<attr name='availablecopy'>[1001394.1000851.1000868.1001010.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001394.1000851.1000868.1001010.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001394.1000851.1000868.1001010.derived]</attr>
+		<attr name='description'>[1001394.1000851.1000868.1001010.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001394.1000851.1000868.1001010.hotspot]</attr>
+		<attr name='iconname'>[1001394.1000851.1000868.1001010.iconname]</attr>
+		<attr name='keyword'>[1001394.1000851.1000868.1001010.keyword]</attr>
+		<attr name='mpg'>[1001394.1000851.1000868.1001010.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Tundra_SR.png</attr>
+			<attr name='sha'>5f35335520fc983490375011c1caa73a75475003</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000868 1001013' >
+		<attr name='availablecopy'>[1001394.1000851.1000868.1001013.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001394.1000851.1000868.1001013.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001394.1000851.1000868.1001013.derived]</attr>
+		<attr name='description'>[1001394.1000851.1000868.1001013.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001394.1000851.1000868.1001013.hotspot]</attr>
+		<attr name='iconname'>[1001394.1000851.1000868.1001013.iconname]</attr>
+		<attr name='keyword'>[1001394.1000851.1000868.1001013.keyword]</attr>
+		<attr name='mpg'>[1001394.1000851.1000868.1001013.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Tundra_SR.png</attr>
+			<attr name='sha'>5f35335520fc983490375011c1caa73a75475003</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000868 1001014' >
+		<attr name='availablecopy'>[1001394.1000851.1000868.1001014.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001394.1000851.1000868.1001014.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001394.1000851.1000868.1001014.derived]</attr>
+		<attr name='description'>[1001394.1000851.1000868.1001014.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001394.1000851.1000868.1001014.hotspot]</attr>
+		<attr name='iconname'>[1001394.1000851.1000868.1001014.iconname]</attr>
+		<attr name='keyword'>[1001394.1000851.1000868.1001014.keyword]</attr>
+		<attr name='mpg'>[1001394.1000851.1000868.1001014.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>018_modelpg_Tundra_SR.png</attr>
+			<attr name='sha'>5f35335520fc983490375011c1caa73a75475003</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000868 1000991' >
+		<attr name='availablecopy'>[1001394.1002622.1000868.1000991.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001394.1002622.1000868.1000991.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001394.1002622.1000868.1000991.derived]</attr>
+		<attr name='description'>[1001394.1002622.1000868.1000991.description]</attr>
+		<attr name='hotspot'>[1001394.1002622.1000868.1000991.hotspot]</attr>
+		<attr name='iconname'>[1001394.1002622.1000868.1000991.iconname]</attr>
+		<attr name='keyword'>[1001394.1002622.1000868.1000991.keyword]</attr>
+		<attr name='mpg'>[1001394.1002622.1000868.1000991.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>MY15_Tundra_ext_SR_0040.png</attr>
+			<attr name='sha'>607128cd8075cb8627660572d115bdfe2eadfd3e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000868 1000992' >
+		<attr name='availablecopy'>[1001394.1002622.1000868.1000992.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001394.1002622.1000868.1000992.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001394.1002622.1000868.1000992.derived]</attr>
+		<attr name='description'>[1001394.1002622.1000868.1000992.description]</attr>
+		<attr name='hotspot'>[1001394.1002622.1000868.1000992.hotspot]</attr>
+		<attr name='iconname'>[1001394.1002622.1000868.1000992.iconname]</attr>
+		<attr name='keyword'>[1001394.1002622.1000868.1000992.keyword]</attr>
+		<attr name='mpg'>[1001394.1002622.1000868.1000992.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>MY15_Tundra_ext_SR_0040.png</attr>
+			<attr name='sha'>607128cd8075cb8627660572d115bdfe2eadfd3e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000868 1000995' >
+		<attr name='availablecopy'>[1001394.1002622.1000868.1000995.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001394.1002622.1000868.1000995.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001394.1002622.1000868.1000995.derived]</attr>
+		<attr name='description'>[1001394.1002622.1000868.1000995.description]</attr>
+		<attr name='hotspot'>[1001394.1002622.1000868.1000995.hotspot]</attr>
+		<attr name='iconname'>[1001394.1002622.1000868.1000995.iconname]</attr>
+		<attr name='keyword'>[1001394.1002622.1000868.1000995.keyword]</attr>
+		<attr name='mpg'>[1001394.1002622.1000868.1000995.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>MY15_Tundra_ext_SR_0040.png</attr>
+			<attr name='sha'>607128cd8075cb8627660572d115bdfe2eadfd3e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000868 1000996' >
+		<attr name='availablecopy'>[1001394.1002622.1000868.1000996.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001394.1002622.1000868.1000996.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001394.1002622.1000868.1000996.derived]</attr>
+		<attr name='description'>[1001394.1002622.1000868.1000996.description]</attr>
+		<attr name='hotspot'>[1001394.1002622.1000868.1000996.hotspot]</attr>
+		<attr name='iconname'>[1001394.1002622.1000868.1000996.iconname]</attr>
+		<attr name='keyword'>[1001394.1002622.1000868.1000996.keyword]</attr>
+		<attr name='mpg'>[1001394.1002622.1000868.1000996.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>MY15_Tundra_ext_SR_0040.png</attr>
+			<attr name='sha'>607128cd8075cb8627660572d115bdfe2eadfd3e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000868 1001004' >
+		<attr name='availablecopy'>[1001394.1002622.1000868.1001004.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001394.1002622.1000868.1001004.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001394.1002622.1000868.1001004.derived]</attr>
+		<attr name='description'>[1001394.1002622.1000868.1001004.description]</attr>
+		<attr name='hotspot'>[1001394.1002622.1000868.1001004.hotspot]</attr>
+		<attr name='iconname'>[1001394.1002622.1000868.1001004.iconname]</attr>
+		<attr name='keyword'>[1001394.1002622.1000868.1001004.keyword]</attr>
+		<attr name='mpg'>[1001394.1002622.1000868.1001004.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>MY15_Tundra_ext_SR_0040.png</attr>
+			<attr name='sha'>607128cd8075cb8627660572d115bdfe2eadfd3e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000868 1001005' >
+		<attr name='availablecopy'>[1001394.1002622.1000868.1001005.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001394.1002622.1000868.1001005.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001394.1002622.1000868.1001005.derived]</attr>
+		<attr name='description'>[1001394.1002622.1000868.1001005.description]</attr>
+		<attr name='hotspot'>[1001394.1002622.1000868.1001005.hotspot]</attr>
+		<attr name='iconname'>[1001394.1002622.1000868.1001005.iconname]</attr>
+		<attr name='keyword'>[1001394.1002622.1000868.1001005.keyword]</attr>
+		<attr name='mpg'>[1001394.1002622.1000868.1001005.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>MY15_Tundra_ext_SR_0040.png</attr>
+			<attr name='sha'>607128cd8075cb8627660572d115bdfe2eadfd3e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000868 1001007' >
+		<attr name='availablecopy'>[1001394.1002622.1000868.1001007.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001394.1002622.1000868.1001007.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001394.1002622.1000868.1001007.derived]</attr>
+		<attr name='description'>[1001394.1002622.1000868.1001007.description]</attr>
+		<attr name='hotspot'>[1001394.1002622.1000868.1001007.hotspot]</attr>
+		<attr name='iconname'>[1001394.1002622.1000868.1001007.iconname]</attr>
+		<attr name='keyword'>[1001394.1002622.1000868.1001007.keyword]</attr>
+		<attr name='mpg'>[1001394.1002622.1000868.1001007.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>MY15_Tundra_ext_SR_0040.png</attr>
+			<attr name='sha'>607128cd8075cb8627660572d115bdfe2eadfd3e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000868 1001008' >
+		<attr name='availablecopy'>[1001394.1002622.1000868.1001008.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001394.1002622.1000868.1001008.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001394.1002622.1000868.1001008.derived]</attr>
+		<attr name='description'>[1001394.1002622.1000868.1001008.description]</attr>
+		<attr name='hotspot'>[1001394.1002622.1000868.1001008.hotspot]</attr>
+		<attr name='iconname'>[1001394.1002622.1000868.1001008.iconname]</attr>
+		<attr name='keyword'>[1001394.1002622.1000868.1001008.keyword]</attr>
+		<attr name='mpg'>[1001394.1002622.1000868.1001008.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>MY15_Tundra_ext_SR_0040.png</attr>
+			<attr name='sha'>607128cd8075cb8627660572d115bdfe2eadfd3e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000868 1001010' >
+		<attr name='availablecopy'>[1001394.1002622.1000868.1001010.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001394.1002622.1000868.1001010.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001394.1002622.1000868.1001010.derived]</attr>
+		<attr name='description'>[1001394.1002622.1000868.1001010.description]</attr>
+		<attr name='hotspot'>[1001394.1002622.1000868.1001010.hotspot]</attr>
+		<attr name='iconname'>[1001394.1002622.1000868.1001010.iconname]</attr>
+		<attr name='keyword'>[1001394.1002622.1000868.1001010.keyword]</attr>
+		<attr name='mpg'>[1001394.1002622.1000868.1001010.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>MY15_Tundra_ext_SR_0040.png</attr>
+			<attr name='sha'>607128cd8075cb8627660572d115bdfe2eadfd3e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000868 1001013' >
+		<attr name='availablecopy'>[1001394.1002622.1000868.1001013.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001394.1002622.1000868.1001013.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001394.1002622.1000868.1001013.derived]</attr>
+		<attr name='description'>[1001394.1002622.1000868.1001013.description]</attr>
+		<attr name='hotspot'>[1001394.1002622.1000868.1001013.hotspot]</attr>
+		<attr name='iconname'>[1001394.1002622.1000868.1001013.iconname]</attr>
+		<attr name='keyword'>[1001394.1002622.1000868.1001013.keyword]</attr>
+		<attr name='mpg'>[1001394.1002622.1000868.1001013.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>MY15_Tundra_ext_SR_0040.png</attr>
+			<attr name='sha'>607128cd8075cb8627660572d115bdfe2eadfd3e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000868 1001014' >
+		<attr name='availablecopy'>[1001394.1002622.1000868.1001014.availablecopy]</attr>
+		<attr name='copyblock' livesite='false'>[1001394.1002622.1000868.1001014.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001394.1002622.1000868.1001014.derived]</attr>
+		<attr name='description'>[1001394.1002622.1000868.1001014.description]</attr>
+		<attr name='hotspot'>[1001394.1002622.1000868.1001014.hotspot]</attr>
+		<attr name='iconname'>[1001394.1002622.1000868.1001014.iconname]</attr>
+		<attr name='keyword'>[1001394.1002622.1000868.1001014.keyword]</attr>
+		<attr name='mpg'>[1001394.1002622.1000868.1001014.mpg]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>MY15_Tundra_ext_SR_0040.png</attr>
+			<attr name='sha'>607128cd8075cb8627660572d115bdfe2eadfd3e</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

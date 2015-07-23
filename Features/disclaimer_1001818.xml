@@ -1,0 +1,8 @@
+<feature id='1001818' type='disclaimer' cardinality='optional' >
+	<attr name='vtc' livesite='false'>[1001818.vtc]</attr>
+	<attr name='title'></attr>
+	<attr name='code'>extra_cost_color_prius</attr>
+	<attr name='derived' livesite='false'>[1001818.derived]</attr>
+	<attr name='description' livesite='false'>[1001818.description]</attr>
+	<attr name='source' livesite='false'>[1001818.source]</attr>
+</feature>

@@ -1,0 +1,383 @@
+<feature id='1002610' type='accessory' scope='1000851 1000867' cardinality='mandatory' >
+	<attr name='alacarte' livesite='false'>[1002610.alacarte]</attr>
+	<attr name='code'>DIO</attr>
+	<attr name='derived' livesite='false'>[1002610.derived]</attr>
+	<attr name='description'>[1002610.description]</attr>
+	<attr name='fullimage'></attr>
+	<attr name='group'>[1002610.group]</attr>
+	<attr name='keyfeatures'>[1002610.keyfeatures]</attr>
+	<attr name='marketingeffectivedate'>[1002610.marketingeffectivedate]</attr>
+	<attr name='msrp'></attr>
+	<attr name='option' livesite='false'>[1002610.option]</attr>
+	<attr name='package' livesite='false'>[1002610.package]</attr>
+	<attr name='pnglayeringinclusionkey'>[1002610.pnglayeringinclusionkey]</attr>
+	<attr name='secondaryfeatures'>[1002610.secondaryfeatures]</attr>
+	<attr name='source'>[1002610.source]</attr>
+	<attr name='specialexteriorcolorflag' livesite='false'>[1002610.specialexteriorcolorflag]</attr>
+	<attr name='specialinteriorcolorflag' livesite='false'>[1002610.specialinteriorcolorflag]</attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'>[1002610.title]</attr>
+	<attr name='type' livesite='false'>[1002610.type]</attr>
+	<attr name='videokey'>[1002610.videokey]</attr>
+	<attr name='viewpointkey'>[1002610.viewpointkey]</attr>
+	<attr name='vtc' livesite='false'>[1002610.vtc]</attr>
+	<if id='1000851 1000867' >
+		<attr name='description' livesite='false'>[1002610.1000851.1000867.description]</attr>
+		<attr name='group' livesite='false'>[1002610.1000851.1000867.group]</attr>
+		<attr name='source' livesite='false'>[1002610.1000851.1000867.source]</attr>
+		<attr name='title' livesite='false'>[1002610.1000851.1000867.title]</attr>
+		<attr name='type' livesite='false'>[1002610.1000851.1000867.type]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>cf8e4f5805c870188109f87382de3d9884f09d0e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>db9dcd4bf263bdbefb3b4266e902da2bd638e20b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000961' >
+		<attr name='description' livesite='false'>[1002610.1000851.1000867.1000961.description]</attr>
+		<attr name='keyfeatures'>[1002610.1000851.1000867.1000961.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002610.1000851.1000867.1000961.marketingeffectivedate]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002610.1000851.1000867.1000961.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002610.1000851.1000867.1000961.secondaryfeatures]</attr>
+		<attr name='type' livesite='false'>[1002610.1000851.1000867.1000961.type]</attr>
+		<attr name='videokey'>[1002610.1000851.1000867.1000961.videokey]</attr>
+		<attr name='viewpointkey'>[1002610.1000851.1000867.1000961.viewpointkey]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>cf8e4f5805c870188109f87382de3d9884f09d0e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>db9dcd4bf263bdbefb3b4266e902da2bd638e20b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000962' >
+		<attr name='description' livesite='false'>[1002610.1000851.1000867.1000962.description]</attr>
+		<attr name='type' livesite='false'>[1002610.1000851.1000867.1000962.type]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>cf8e4f5805c870188109f87382de3d9884f09d0e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>db9dcd4bf263bdbefb3b4266e902da2bd638e20b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000963' >
+		<attr name='description' livesite='false'>[1002610.1000851.1000867.1000963.description]</attr>
+		<attr name='type' livesite='false'>[1002610.1000851.1000867.1000963.type]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>cf8e4f5805c870188109f87382de3d9884f09d0e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>db9dcd4bf263bdbefb3b4266e902da2bd638e20b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000964' >
+		<attr name='description' livesite='false'>[1002610.1000851.1000867.1000964.description]</attr>
+		<attr name='type' livesite='false'>[1002610.1000851.1000867.1000964.type]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>cf8e4f5805c870188109f87382de3d9884f09d0e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>db9dcd4bf263bdbefb3b4266e902da2bd638e20b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000965' >
+		<attr name='description' livesite='false'>[1002610.1000851.1000867.1000965.description]</attr>
+		<attr name='type' livesite='false'>[1002610.1000851.1000867.1000965.type]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>cf8e4f5805c870188109f87382de3d9884f09d0e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>db9dcd4bf263bdbefb3b4266e902da2bd638e20b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000966' >
+		<attr name='description' livesite='false'>[1002610.1000851.1000867.1000966.description]</attr>
+		<attr name='type' livesite='false'>[1002610.1000851.1000867.1000966.type]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>cf8e4f5805c870188109f87382de3d9884f09d0e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>db9dcd4bf263bdbefb3b4266e902da2bd638e20b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000967' >
+		<attr name='description' livesite='false'>[1002610.1000851.1000867.1000967.description]</attr>
+		<attr name='type' livesite='false'>[1002610.1000851.1000867.1000967.type]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>cf8e4f5805c870188109f87382de3d9884f09d0e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>db9dcd4bf263bdbefb3b4266e902da2bd638e20b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000968' >
+		<attr name='description' livesite='false'>[1002610.1000851.1000867.1000968.description]</attr>
+		<attr name='type' livesite='false'>[1002610.1000851.1000867.1000968.type]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>cf8e4f5805c870188109f87382de3d9884f09d0e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>db9dcd4bf263bdbefb3b4266e902da2bd638e20b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000969' >
+		<attr name='description' livesite='false'>[1002610.1000851.1000867.1000969.description]</attr>
+		<attr name='type' livesite='false'>[1002610.1000851.1000867.1000969.type]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>cf8e4f5805c870188109f87382de3d9884f09d0e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>db9dcd4bf263bdbefb3b4266e902da2bd638e20b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000970' >
+		<attr name='description' livesite='false'>[1002610.1000851.1000867.1000970.description]</attr>
+		<attr name='type' livesite='false'>[1002610.1000851.1000867.1000970.type]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>cf8e4f5805c870188109f87382de3d9884f09d0e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>db9dcd4bf263bdbefb3b4266e902da2bd638e20b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000971' >
+		<attr name='description' livesite='false'>[1002610.1000851.1000867.1000971.description]</attr>
+		<attr name='type' livesite='false'>[1002610.1000851.1000867.1000971.type]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>cf8e4f5805c870188109f87382de3d9884f09d0e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>db9dcd4bf263bdbefb3b4266e902da2bd638e20b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000972' >
+		<attr name='description' livesite='false'>[1002610.1000851.1000867.1000972.description]</attr>
+		<attr name='type' livesite='false'>[1002610.1000851.1000867.1000972.type]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>cf8e4f5805c870188109f87382de3d9884f09d0e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>db9dcd4bf263bdbefb3b4266e902da2bd638e20b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000973' >
+		<attr name='description' livesite='false'>[1002610.1000851.1000867.1000973.description]</attr>
+		<attr name='type' livesite='false'>[1002610.1000851.1000867.1000973.type]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>cf8e4f5805c870188109f87382de3d9884f09d0e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>db9dcd4bf263bdbefb3b4266e902da2bd638e20b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000974' >
+		<attr name='description' livesite='false'>[1002610.1000851.1000867.1000974.description]</attr>
+		<attr name='type' livesite='false'>[1002610.1000851.1000867.1000974.type]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>cf8e4f5805c870188109f87382de3d9884f09d0e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>db9dcd4bf263bdbefb3b4266e902da2bd638e20b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000975' disclaimers='1002414' >
+		<attr name='alacarte'>[1002610.1000851.1000867.1000975.alacarte]</attr>
+		<attr name='derived'>[1002610.1000851.1000867.1000975.derived]</attr>
+		<attr name='description' livesite='false'>[1002610.1000851.1000867.1000975.description]</attr>
+		<attr name='keyfeatures'>[1002610.1000851.1000867.1000975.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1002610.1000851.1000867.1000975.marketingeffectivedate]</attr>
+		<attr name='msrp'>[1002610.1000851.1000867.1000975.msrp]</attr>
+		<attr name='pnglayeringinclusionkey'>[1002610.1000851.1000867.1000975.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1002610.1000851.1000867.1000975.secondaryfeatures]</attr>
+		<attr name='type' livesite='false'>[1002610.1000851.1000867.1000975.type]</attr>
+		<attr name='videokey'>[1002610.1000851.1000867.1000975.videokey]</attr>
+		<attr name='viewpointkey'>[1002610.1000851.1000867.1000975.viewpointkey]</attr>
+		<attr name='vtc'>[1002610.1000851.1000867.1000975.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>cf8e4f5805c870188109f87382de3d9884f09d0e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>db9dcd4bf263bdbefb3b4266e902da2bd638e20b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000976' >
+		<attr name='description' livesite='false'>[1002610.1000851.1000867.1000976.description]</attr>
+		<attr name='type' livesite='false'>[1002610.1000851.1000867.1000976.type]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>cf8e4f5805c870188109f87382de3d9884f09d0e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>db9dcd4bf263bdbefb3b4266e902da2bd638e20b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000977' >
+		<attr name='description' livesite='false'>[1002610.1000851.1000867.1000977.description]</attr>
+		<attr name='type' livesite='false'>[1002610.1000851.1000867.1000977.type]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>cf8e4f5805c870188109f87382de3d9884f09d0e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>db9dcd4bf263bdbefb3b4266e902da2bd638e20b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000978' >
+		<attr name='description' livesite='false'>[1002610.1000851.1000867.1000978.description]</attr>
+		<attr name='type' livesite='false'>[1002610.1000851.1000867.1000978.type]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>cf8e4f5805c870188109f87382de3d9884f09d0e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>db9dcd4bf263bdbefb3b4266e902da2bd638e20b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000867 1000979' >
+		<attr name='description' livesite='false'>[1002610.1000851.1000867.1000979.description]</attr>
+		<attr name='type' livesite='false'>[1002610.1000851.1000867.1000979.type]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>cf8e4f5805c870188109f87382de3d9884f09d0e</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>thumbimage</attr>
+			<attr name='name'>Baja-16-in-Alloy-Wheel.jpg</attr>
+			<attr name='sha'>db9dcd4bf263bdbefb3b4266e902da2bd638e20b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

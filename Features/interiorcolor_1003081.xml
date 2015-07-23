@@ -1,0 +1,37 @@
+<feature id='1003081' type='interiorcolor' scope='1002622 1000852 1003054' cardinality='mandatory' >
+	<attr name='code'>LF22</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1003081.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1003081.vtc]</attr>
+	<if id='1002622 1000852 1003054' >
+		<attr name='derived' livesite='false'>[1003081.1002622.1000852.1003054.derived]</attr>
+		<attr name='description'>[1003081.1002622.1000852.1003054.description]</attr>
+		<attr name='materialtypeid'>[1003081.1002622.1000852.1003054.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1003081.1002622.1000852.1003054.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>4runner_config_int_comp_render_TRD_PRO_Black_v006.jpg</attr>
+			<attr name='sha'>9740d7f9f0ea068fcc0145a5babec34445babd65</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>4runner_config_int_comp_render_TRD_PRO_Black_v006.jpg</attr>
+			<attr name='sha'>8d651576cc6938626b2373296ff6d9626119d8ef</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>4runner_config_int_comp_render_TRD_PRO_Black_v006.jpg</attr>
+			<attr name='sha'>1c0d796c61b96e25c758b6ff6200f64d7205e81a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

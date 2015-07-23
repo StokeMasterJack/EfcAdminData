@@ -1,0 +1,88 @@
+<feature id='1003084' type='interiorcolor' scope='1002622 1000867 1000965, 1002622 1000867 1000973, 1002622 1000867 1000974' cardinality='mandatory' >
+	<attr name='code'>YN13</attr>
+	<attr name='title'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='msrp'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='vtc' livesite='false'>[1003084.vtc]</attr>
+	<attr name='source' livesite='false'>[1003084.source]</attr>
+	<attr name='derived'></attr>
+	<if id='1002622 1000867 1000965' >
+		<attr name='title' livesite='false'>[1003084.1002622.1000867.1000965.title]</attr>
+		<attr name='source' livesite='false'>[1003084.1002622.1000867.1000965.source]</attr>
+		<attr name='description'>[1003084.1002622.1000867.1000965.description]</attr>
+		<attr name='materialtypeid'>[1003084.1002622.1000867.1000965.materialtypeid]</attr>
+		<attr name='derived' livesite='false'>[1003084.1002622.1000867.1000965.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>tacoma_my14_ac_bucket_SR5_fabric_graphite_02.jpg</attr>
+			<attr name='sha'>ed669abfc24b9ecaee5af69293bd614631a0437d</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>tacoma_my14_ac_bucket_SR5_fabric_graphite_02.jpg</attr>
+			<attr name='sha'>7a5d4cfdecae13e19127eb9f9c0a67704c31425c</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>tacoma_my14_ac_bucket_SR5_fabric_graphite_02.jpg</attr>
+			<attr name='sha'>b9ea2bea6605e44d567f458f1723f71ce004b341</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000867 1000973' >
+		<attr name='title' livesite='false'>[1003084.1002622.1000867.1000973.title]</attr>
+		<attr name='source' livesite='false'>[1003084.1002622.1000867.1000973.source]</attr>
+		<attr name='description'>[1003084.1002622.1000867.1000973.description]</attr>
+		<attr name='materialtypeid'>[1003084.1002622.1000867.1000973.materialtypeid]</attr>
+		<attr name='derived' livesite='false'>[1003084.1002622.1000867.1000973.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>tacoma_my14_ac_bucket_SR5_fabric_graphite_02.jpg</attr>
+			<attr name='sha'>ed669abfc24b9ecaee5af69293bd614631a0437d</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>tacoma_my14_ac_bucket_SR5_fabric_graphite_02.jpg</attr>
+			<attr name='sha'>7a5d4cfdecae13e19127eb9f9c0a67704c31425c</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>tacoma_my14_ac_bucket_SR5_fabric_graphite_02.jpg</attr>
+			<attr name='sha'>b9ea2bea6605e44d567f458f1723f71ce004b341</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000867 1000974' >
+		<attr name='title' livesite='false'>[1003084.1002622.1000867.1000974.title]</attr>
+		<attr name='source' livesite='false'>[1003084.1002622.1000867.1000974.source]</attr>
+		<attr name='description'>[1003084.1002622.1000867.1000974.description]</attr>
+		<attr name='materialtypeid'>[1003084.1002622.1000867.1000974.materialtypeid]</attr>
+		<attr name='derived' livesite='false'>[1003084.1002622.1000867.1000974.derived]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>tacoma_my14_ac_bucket_SR5_fabric_graphite_02.jpg</attr>
+			<attr name='sha'>ed669abfc24b9ecaee5af69293bd614631a0437d</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>tacoma_my14_ac_bucket_SR5_fabric_graphite_02.jpg</attr>
+			<attr name='sha'>7a5d4cfdecae13e19127eb9f9c0a67704c31425c</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>tacoma_my14_ac_bucket_SR5_fabric_graphite_02.jpg</attr>
+			<attr name='sha'>b9ea2bea6605e44d567f458f1723f71ce004b341</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

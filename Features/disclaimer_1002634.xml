@@ -1,0 +1,8 @@
+<feature id='1002634' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='code'>bluetooth_tv</attr>
+	<attr name='derived' livesite='false'>[1002634.derived]</attr>
+	<attr name='vtc' livesite='false'>[1002634.vtc]</attr>
+	<attr name='source' livesite='false'>[1002634.source]</attr>
+	<attr name='description' livesite='false'>[1002634.description]</attr>
+</feature>

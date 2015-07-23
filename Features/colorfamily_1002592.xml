@@ -1,0 +1,12 @@
+<feature id='1002592' type='colorfamily' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='code'>Yellow</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1002592.vtc]</attr>
+	<attr name='source' livesite='false'>[1002592.source]</attr>
+	<attr name='derived'></attr>
+	<rule src='ADMIN' type='TEXT'>{1002592 iffs(1001196)}</rule>
+	<if id='1002622' >
+		<attr name='title' livesite='false'>[1002592.1002622.title]</attr>
+	</if>
+
+</feature>

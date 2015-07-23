@@ -1,0 +1,37 @@
+<feature id='1001523' type='accessory' scope='1002622 1000866 1000939, 1000851 1000866 1000939' cardinality='mandatory' >
+	<attr name='alacarte' livesite='false'>[1001523.alacarte]</attr>
+	<attr name='code'>PG</attr>
+	<attr name='derived' livesite='false'>[1001523.derived]</attr>
+	<attr name='description'>[1001523.description]</attr>
+	<attr name='fullimage'></attr>
+	<attr name='group'>[1001523.group]</attr>
+	<attr name='keyfeatures'>[1001523.keyfeatures]</attr>
+	<attr name='marketingeffectivedate'>[1001523.marketingeffectivedate]</attr>
+	<attr name='msrp'></attr>
+	<attr name='option' livesite='false'>[1001523.option]</attr>
+	<attr name='package' livesite='false'>[1001523.package]</attr>
+	<attr name='pnglayeringinclusionkey'>[1001523.pnglayeringinclusionkey]</attr>
+	<attr name='secondaryfeatures'>[1001523.secondaryfeatures]</attr>
+	<attr name='source'>[1001523.source]</attr>
+	<attr name='specialexteriorcolorflag' livesite='false'>[1001523.specialexteriorcolorflag]</attr>
+	<attr name='specialinteriorcolorflag' livesite='false'>[1001523.specialinteriorcolorflag]</attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'>[1001523.title]</attr>
+	<attr name='type' livesite='false'>[1001523.type]</attr>
+	<attr name='videokey'>[1001523.videokey]</attr>
+	<attr name='viewpointkey'>[1001523.viewpointkey]</attr>
+	<attr name='vtc' livesite='false'>[1001523.vtc]</attr>
+	<if id='1000851 1000866 1000939' >
+		<attr name='msrp' livesite='false'>[1001523.1000851.1000866.1000939.msrp]</attr>
+		<attr name='source' livesite='false'>[1001523.1000851.1000866.1000939.source]</attr>
+		<attr name='title' livesite='false'>[1001523.1000851.1000866.1000939.title]</attr>
+	</if>
+
+	<if id='1002622 1000866 1000939' >
+		<attr name='msrp' livesite='false'>[1001523.1002622.1000866.1000939.msrp]</attr>
+		<attr name='package' livesite='false'>[1001523.1002622.1000866.1000939.package]</attr>
+		<attr name='source' livesite='false'>[1001523.1002622.1000866.1000939.source]</attr>
+		<attr name='title' livesite='false'>[1001523.1002622.1000866.1000939.title]</attr>
+	</if>
+
+</feature>

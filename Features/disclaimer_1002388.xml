@@ -1,0 +1,8 @@
+<feature id='1002388' type='disclaimer' cardinality='optional' >
+	<attr name='code'>venza_epa_murano</attr>
+	<attr name='vtc' livesite='false'>[1002388.vtc]</attr>
+	<attr name='source' livesite='false'>[1002388.source]</attr>
+	<attr name='description' livesite='false'>[1002388.description]</attr>
+	<attr name='derived' livesite='false'>[1002388.derived]</attr>
+	<attr name='title'></attr>
+</feature>

@@ -1,0 +1,8 @@
+<feature id='1002154' type='disclaimer' cardinality='optional' >
+	<attr name='vtc' livesite='false'>[1002154.vtc]</attr>
+	<attr name='title'></attr>
+	<attr name='description' livesite='false'>[1002154.description]</attr>
+	<attr name='derived' livesite='false'>[1002154.derived]</attr>
+	<attr name='source' livesite='false'>[1002154.source]</attr>
+	<attr name='code'>rav4_lim_radio</attr>
+</feature>

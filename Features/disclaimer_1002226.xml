@@ -1,0 +1,25 @@
+<feature id='1002226' type='disclaimer' cardinality='optional' >
+	<attr name='code'>smart_stop_tech</attr>
+	<attr name='derived' livesite='false'>[1002226.derived]</attr>
+	<attr name='description' livesite='false'>[1002226.description]</attr>
+	<attr name='source' livesite='false'>[1002226.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1002226.vtc]</attr>
+	<if id='1002622 1000852' >
+		<attr name='description' livesite='false'>[1002226.1002622.1000852.description]</attr>
+	</if>
+
+	<if id='1002622 1000858' >
+		<attr name='description' livesite='false'>[1002226.1002622.1000858.description]</attr>
+	</if>
+
+	<if id='1002622 1000867' >
+		<attr name='description' livesite='false'>[1002226.1002622.1000867.description]</attr>
+	</if>
+
+	<if id='1002622 1000869' >
+		<attr name='description' livesite='false'>[1002226.1002622.1000869.description]</attr>
+		<attr name='title'>[1002226.1002622.1000869.title]</attr>
+	</if>
+
+</feature>

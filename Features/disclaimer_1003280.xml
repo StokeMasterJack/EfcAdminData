@@ -1,0 +1,8 @@
+<feature id='1003280' type='disclaimer' cardinality='optional' >
+	<attr name='description' livesite='false'>[1003280.description]</attr>
+	<attr name='source' livesite='false'>[1003280.source]</attr>
+	<attr name='title'></attr>
+	<attr name='derived'></attr>
+	<attr name='vtc' livesite='false'>[1003280.vtc]</attr>
+	<attr name='code'>yaris_intellichoice_2014</attr>
+</feature>

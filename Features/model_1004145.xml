@@ -1,0 +1,62 @@
+<feature id='1004145' type='model' scope='1002622 1000866' cardinality='mandatory' >
+	<attr name='transmission'></attr>
+	<attr name='comparepackage'></attr>
+	<attr name='code'>5349</attr>
+	<attr name='enginedescription'></attr>
+	<attr name='accessorythreshold'></attr>
+	<attr name='msrp'></attr>
+	<attr name='fiothreshold'></attr>
+	<attr name='description'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='vtc' livesite='false'>[1004145.vtc]</attr>
+	<attr name='effectivedate'></attr>
+	<attr name='iconimage'></attr>
+	<attr name='highwaympg'></attr>
+	<attr name='piothreshold'></attr>
+	<attr name='subgradehotspot'></attr>
+	<attr name='horsepower'></attr>
+	<attr name='modeltrim'></attr>
+	<attr name='bodystyle'></attr>
+	<attr name='title'></attr>
+	<attr name='transmissionflag'></attr>
+	<attr name='seating'></attr>
+	<attr name='mpge'></attr>
+	<attr name='citympg'></attr>
+	<attr name='trimlevel'></attr>
+	<attr name='imageid'></attr>
+	<attr name='modelthreshold'></attr>
+	<attr name='transmissionhotspot'></attr>
+	<attr name='destinationfee'></attr>
+	<attr name='linkurl'></attr>
+	<attr name='combinedmpg'></attr>
+	<attr name='colorthreshold'></attr>
+	<attr name='enginehotspot'></attr>
+	<attr name='inventoryrules'></attr>
+	<attr name='modeldisplayname'></attr>
+	<attr name='cylinders'></attr>
+	<attr name='derived'></attr>
+	<attr name='gradehotspot'></attr>
+	<attr name='anchorimage'></attr>
+	<attr name='source' livesite='false'>[1004145.source]</attr>
+	<if id='1002622 1000866' >
+		<attr name='accessorythreshold' livesite='false'>[1004145.1002622.1000866.accessorythreshold]</attr>
+		<attr name='modelthreshold' livesite='false'>[1004145.1002622.1000866.modelthreshold]</attr>
+		<attr name='cylinders' livesite='false'>[1004145.1002622.1000866.cylinders]</attr>
+		<attr name='enginedescription' livesite='false'>[1004145.1002622.1000866.enginedescription]</attr>
+		<attr name='colorthreshold' livesite='false'>[1004145.1002622.1000866.colorthreshold]</attr>
+		<attr name='transmission' livesite='false'>[1004145.1002622.1000866.transmission]</attr>
+		<attr name='title' livesite='false'>[1004145.1002622.1000866.title]</attr>
+		<attr name='source' livesite='false'>[1004145.1002622.1000866.source]</attr>
+		<attr name='msrp' livesite='false'>[1004145.1002622.1000866.msrp]</attr>
+		<attr name='description' livesite='false'>[1004145.1002622.1000866.description]</attr>
+		<attr name='destinationfee' livesite='false'>[1004145.1002622.1000866.destinationfee]</attr>
+		<attr name='highwaympg' livesite='false'>[1004145.1002622.1000866.highwaympg]</attr>
+		<attr name='seating' livesite='false'>[1004145.1002622.1000866.seating]</attr>
+		<attr name='citympg' livesite='false'>[1004145.1002622.1000866.citympg]</attr>
+		<attr name='combinedmpg' livesite='false'>[1004145.1002622.1000866.combinedmpg]</attr>
+		<attr name='horsepower' livesite='false'>[1004145.1002622.1000866.horsepower]</attr>
+		<attr name='effectivedate' livesite='false'>[1004145.1002622.1000866.effectivedate]</attr>
+		<rule src='ADMIN' type='TEXT'>{1004145 requires(1002608*1002612*1002616*1002521*1002615*1002533*1002617*1002563*1002421*1002613*1002562*1002577*1002604)}</rule>
+	</if>
+
+</feature>

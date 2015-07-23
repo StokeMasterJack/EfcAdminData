@@ -1,0 +1,53 @@
+<feature id='1001453' type='accessory' scope='1000851 1000860 1000872, 1002622 1000860 1000872' cardinality='mandatory' >
+	<attr name='alacarte'></attr>
+	<attr name='code'>QN</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='fullimage'></attr>
+	<attr name='group'></attr>
+	<attr name='keyfeatures'></attr>
+	<attr name='marketingeffectivedate'></attr>
+	<attr name='msrp'></attr>
+	<attr name='option'></attr>
+	<attr name='package'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='secondaryfeatures'></attr>
+	<attr name='source'></attr>
+	<attr name='specialexteriorcolorflag'></attr>
+	<attr name='specialinteriorcolorflag'></attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'></attr>
+	<attr name='type' livesite='false'>[1001453.type]</attr>
+	<attr name='videokey'></attr>
+	<attr name='viewpointkey'></attr>
+	<attr name='vtc' livesite='false'>[1001453.vtc]</attr>
+	<if id='1000851 1000860 1000872' >
+		<attr name='alacarte' livesite='false'>[1001453.1000851.1000860.1000872.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001453.1000851.1000860.1000872.derived]</attr>
+		<attr name='description' livesite='false'>[1001453.1000851.1000860.1000872.description]</attr>
+		<attr name='group'>[1001453.1000851.1000860.1000872.group]</attr>
+		<attr name='keyfeatures'>[1001453.1000851.1000860.1000872.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1001453.1000851.1000860.1000872.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1001453.1000851.1000860.1000872.msrp]</attr>
+		<attr name='option' livesite='false'>[1001453.1000851.1000860.1000872.option]</attr>
+		<attr name='package' livesite='false'>[1001453.1000851.1000860.1000872.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1001453.1000851.1000860.1000872.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1001453.1000851.1000860.1000872.secondaryfeatures]</attr>
+		<attr name='source' livesite='false'>[1001453.1000851.1000860.1000872.source]</attr>
+		<attr name='specialexteriorcolorflag' livesite='false'>[1001453.1000851.1000860.1000872.specialexteriorcolorflag]</attr>
+		<attr name='specialinteriorcolorflag' livesite='false'>[1001453.1000851.1000860.1000872.specialinteriorcolorflag]</attr>
+		<attr name='title' livesite='false'>[1001453.1000851.1000860.1000872.title]</attr>
+		<attr name='videokey'>[1001453.1000851.1000860.1000872.videokey]</attr>
+		<attr name='viewpointkey'>[1001453.1000851.1000860.1000872.viewpointkey]</attr>
+		<rule src='NVS' tag='COLORCOMBOACC_TAG_ACY_QN' type='TEXT'>{1001453 iffs((1000851*1000860*1000872*1001171*1001270),(1000851*1000860*1000872*1001196*1001270),(1000851*1000860*1000872*1001211*1001270),(1000851*1000860*1000872*1001194*1001270),(1000851*1000860*1000872*1001183*1001270),(1000851*1000860*1000872*1001167*1001270),(1000851*1000860*1000872*1001169*1001270),(1000851*1000860*1000872*1001203*1001270),(1000851*1000860*1000872*1001164*1001270),(1000851*1000860*1000872*1001175*1001270))}</rule>
+	</if>
+
+	<if id='1002622 1000860 1000872' >
+		<attr name='alacarte' livesite='false'>[1001453.1002622.1000860.1000872.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1001453.1002622.1000860.1000872.derived]</attr>
+		<attr name='package' livesite='false'>[1001453.1002622.1000860.1000872.package]</attr>
+		<attr name='source' livesite='false'>[1001453.1002622.1000860.1000872.source]</attr>
+		<attr name='title' livesite='false'>[1001453.1002622.1000860.1000872.title]</attr>
+	</if>
+
+</feature>

@@ -1,0 +1,109 @@
+<feature id='1000929' type='model' scope='1000851 1000863, 1002622 1000863' cardinality='mandatory' >
+	<attr name='accessorythreshold'></attr>
+	<attr name='anchorimage'></attr>
+	<attr name='bodystyle'></attr>
+	<attr name='citympg'></attr>
+	<attr name='code'>4430</attr>
+	<attr name='colorthreshold'></attr>
+	<attr name='combinedmpg'></attr>
+	<attr name='comparepackage'></attr>
+	<attr name='cylinders'></attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='destinationfee'></attr>
+	<attr name='effectivedate'></attr>
+	<attr name='enginedescription'></attr>
+	<attr name='enginehotspot'></attr>
+	<attr name='fiothreshold'></attr>
+	<attr name='gradehotspot'></attr>
+	<attr name='highwaympg'></attr>
+	<attr name='horsepower'></attr>
+	<attr name='iconimage'></attr>
+	<attr name='imageid'></attr>
+	<attr name='inventoryrules'></attr>
+	<attr name='linkurl'></attr>
+	<attr name='modeldisplayname'></attr>
+	<attr name='modelthreshold'></attr>
+	<attr name='modeltrim'></attr>
+	<attr name='mpge'></attr>
+	<attr name='msrp'></attr>
+	<attr name='piothreshold'></attr>
+	<attr name='pnglayeringinclusionkey'></attr>
+	<attr name='seating'></attr>
+	<attr name='source'>[1000929.source]</attr>
+	<attr name='subgradehotspot'></attr>
+	<attr name='title'></attr>
+	<attr name='transmission'></attr>
+	<attr name='transmissionflag'></attr>
+	<attr name='transmissionhotspot'></attr>
+	<attr name='trimlevel'></attr>
+	<attr name='vtc'>[1000929.vtc]</attr>
+	<if id='1000851 1000863' >
+		<attr name='accessorythreshold'>[1000929.1000851.1000863.accessorythreshold]</attr>
+		<attr name='bodystyle'>[1000929.1000851.1000863.bodystyle]</attr>
+		<attr name='citympg'>[1000929.1000851.1000863.citympg]</attr>
+		<attr name='colorthreshold'>[1000929.1000851.1000863.colorthreshold]</attr>
+		<attr name='combinedmpg'>[1000929.1000851.1000863.combinedmpg]</attr>
+		<attr name='cylinders'>[1000929.1000851.1000863.cylinders]</attr>
+		<attr name='derived'>[1000929.1000851.1000863.derived]</attr>
+		<attr name='description'>[1000929.1000851.1000863.description]</attr>
+		<attr name='destinationfee'>[1000929.1000851.1000863.destinationfee]</attr>
+		<attr name='effectivedate'>[1000929.1000851.1000863.effectivedate]</attr>
+		<attr name='enginedescription'>[1000929.1000851.1000863.enginedescription]</attr>
+		<attr name='enginehotspot'>[1000929.1000851.1000863.enginehotspot]</attr>
+		<attr name='fiothreshold'>[1000929.1000851.1000863.fiothreshold]</attr>
+		<attr name='gradehotspot'>[1000929.1000851.1000863.gradehotspot]</attr>
+		<attr name='highwaympg'>[1000929.1000851.1000863.highwaympg]</attr>
+		<attr name='horsepower'>[1000929.1000851.1000863.horsepower]</attr>
+		<attr name='inventoryrules'>[1000929.1000851.1000863.inventoryrules]</attr>
+		<attr name='linkurl'>[1000929.1000851.1000863.linkurl]</attr>
+		<attr name='modeldisplayname'>[1000929.1000851.1000863.modeldisplayname]</attr>
+		<attr name='modelthreshold'>[1000929.1000851.1000863.modelthreshold]</attr>
+		<attr name='modeltrim'>[1000929.1000851.1000863.modeltrim]</attr>
+		<attr name='mpge'>[1000929.1000851.1000863.mpge]</attr>
+		<attr name='msrp'>[1000929.1000851.1000863.msrp]</attr>
+		<attr name='piothreshold'>[1000929.1000851.1000863.piothreshold]</attr>
+		<attr name='pnglayeringinclusionkey'>[1000929.1000851.1000863.pnglayeringinclusionkey]</attr>
+		<attr name='seating'>[1000929.1000851.1000863.seating]</attr>
+		<attr name='source'>[1000929.1000851.1000863.source]</attr>
+		<attr name='subgradehotspot'>[1000929.1000851.1000863.subgradehotspot]</attr>
+		<attr name='title'>[1000929.1000851.1000863.title]</attr>
+		<attr name='transmission'>[1000929.1000851.1000863.transmission]</attr>
+		<attr name='transmissionflag'>[1000929.1000851.1000863.transmissionflag]</attr>
+		<attr name='transmissionhotspot'>[1000929.1000851.1000863.transmissionhotspot]</attr>
+		<attr name='trimlevel'>[1000929.1000851.1000863.trimlevel]</attr>
+		<attachments>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparepackage</attr>
+			<attr name='name'>RAV4ComparePackage4430.json</attr>
+			<attr name='sha'>9ab4a4c2cb5f316bc71519ee38ef53252faa95a0</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>anchorimage</attr>
+			<attr name='name'>vehicle_ext_LTD_FWD_3R3_v01ko_hd_001.png</attr>
+			<attr name='sha'>bdfe26fd04c9705b363a9860caf6ab38c89ae4b9</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000863' >
+		<attr name='accessorythreshold'>[1000929.1002622.1000863.accessorythreshold]</attr>
+		<attr name='citympg'>[1000929.1002622.1000863.citympg]</attr>
+		<attr name='colorthreshold'>[1000929.1002622.1000863.colorthreshold]</attr>
+		<attr name='combinedmpg'>[1000929.1002622.1000863.combinedmpg]</attr>
+		<attr name='cylinders'>[1000929.1002622.1000863.cylinders]</attr>
+		<attr name='description'>[1000929.1002622.1000863.description]</attr>
+		<attr name='destinationfee'>[1000929.1002622.1000863.destinationfee]</attr>
+		<attr name='effectivedate'>[1000929.1002622.1000863.effectivedate]</attr>
+		<attr name='enginedescription'>[1000929.1002622.1000863.enginedescription]</attr>
+		<attr name='highwaympg'>[1000929.1002622.1000863.highwaympg]</attr>
+		<attr name='horsepower'>[1000929.1002622.1000863.horsepower]</attr>
+		<attr name='modelthreshold'>[1000929.1002622.1000863.modelthreshold]</attr>
+		<attr name='msrp'>[1000929.1002622.1000863.msrp]</attr>
+		<attr name='seating'>[1000929.1002622.1000863.seating]</attr>
+		<attr name='source'>[1000929.1002622.1000863.source]</attr>
+		<attr name='title'>[1000929.1002622.1000863.title]</attr>
+		<attr name='transmission'>[1000929.1002622.1000863.transmission]</attr>
+	</if>
+
+</feature>

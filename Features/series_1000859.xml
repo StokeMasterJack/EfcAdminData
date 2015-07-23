@@ -1,0 +1,95 @@
+<feature id='1000859' type='series' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='attachment'></attr>
+	<attr name='background'></attr>
+	<attr name='code'>prius</attr>
+	<attr name='comparemodel'></attr>
+	<attr name='defaultmodel'></attr>
+	<attr name='derived'>[1000859.derived]</attr>
+	<attr name='description'>[1000859.description]</attr>
+	<attr name='source'>[1000859.source]</attr>
+	<attr name='title' livesite='false'>[1000859.title]</attr>
+	<attr name='vtc'>[1000859.vtc]</attr>
+	<if id='1000851' disclaimers='1002417 1002411 1001754 1002131 1002101 1001717 1002415 1002414 1002412 1002113 1002808 1002221 1002190 1002750 1002226 1002225 1002394 1002191 1002800 1001768 1001767 1002368 1001887 1001889 1001888 1001867 1002629 1001869 1002044 1001602 1002124 1002125 1001681 1001643 1001998 1002314 1001646 1002283' >
+		<attr name='derived'>[1000859.1000851.derived]</attr>
+		<attr name='description'>[1000859.1000851.description]</attr>
+		<attr name='source'>[1000859.1000851.source]</attr>
+		<attr name='title'>[1000859.1000851.title]</attr>
+		<attr name='vtc'>[1000859.1000851.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>EFC Background _0017_Prius .jpg</attr>
+			<attr name='sha'>19fc1fe38ade87d2efd4d6db27f0ae7fd66c4786</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>StandardFeaturesPrius.xml</attr>
+			<attr name='sha'>504cedf35d6455596634ba299900496d004c5059</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>PriusCompareModelTMSCPD20140528v1.json</attr>
+			<attr name='sha'>096b3da1ebaa5c69652d447ab0d679474510dc04</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622' disclaimers='1002417 1002416 1002411 1001754 1002131 1002101 1001717 1002415 1002414 1002413 1002412 1002139 1002113 1002221 1002058 1002190 1002226 1002225 1002394 1002800 1002191 1002633 1002322 1001768 1001767 1002368 1001887 1001889 1001867 1003251 1002629 1001869 1002044 1001602 1002125 1001681 1001643 1002069 1002314 1001998 1001646 1002283' >
+		<attr name='defaultmodel'>[1000859.1002622.defaultmodel]</attr>
+		<attr name='derived' livesite='false'>[1000859.1002622.derived]</attr>
+		<attr name='description'>[1000859.1002622.description]</attr>
+		<attr name='source'>[1000859.1002622.source]</attr>
+		<attr name='vtc' livesite='false'>[1000859.1002622.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>background</attr>
+			<attr name='name'>EFC_Background_0017_Prius.jpg</attr>
+			<attr name='sha'>19fc1fe38ade87d2efd4d6db27f0ae7fd66c4786</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>attachment</attr>
+			<attr name='name'>StandardFeaturesPrius2015.xml</attr>
+			<attr name='sha'>675666bfb9db2a4ee795c504483f7684372c70f9</attr>
+		</complextype>
+		<complextype name='ATTACHMENT' type='attachment'>
+			<attr name='attrref'>comparemodel</attr>
+			<attr name='name'>2015PriusCompareModel_TMS_CPD_20140821v1.json</attr>
+			<attr name='sha'>a92b20138e07913c387f0ad5d2d925cd49b11931</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>mediumbackground</attr>
+			<attr name='name'>EFC-background_0017_Prius_1024.jpg</attr>
+			<attr name='sha'>4998ac8043d7af356ff1e61e73d86b6c95a3c973</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>smallbackground</attr>
+			<attr name='name'>EFC-background_0017_Prius_480.jpg</attr>
+			<attr name='sha'>288067836fd8ead91761560425ab051ef813bb08</attr>
+		</complextype>
+		<complextype name='IMAGE' type='null'>
+			<attr name='attrref'>largebackground</attr>
+			<attr name='name'>EFC-background_0017_Prius-_1500.jpg</attr>
+			<attr name='sha'>92b0a16337e87abe18f448538b64e2a82b2e025b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>hon_hsu@toyota.com</attr>
+		<attr name='note'>VTC Prius</attr>
+		<attr name='systemdate'>2014 August 27</attr>
+		<attr name='time'>2014 August 27</attr>
+	</complextype>
+</group>
+
+<group name='adminnotes'>
+	<complextype name='adminnote'>
+		<attr name='username'>hon_hsu@toyota.com</attr>
+		<attr name='note'>VTC Prius</attr>
+		<attr name='systemdate'>2014 August 27</attr>
+		<attr name='time'>2014 August 27</attr>
+	</complextype>
+</group>
+
+</feature>

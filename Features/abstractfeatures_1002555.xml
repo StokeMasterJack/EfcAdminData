@@ -1,0 +1,7 @@
+<feature id='1002555' type='abstractfeatures' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='code' livesite='false'>Leatherseatsupholstery</attr>
+	<attr name='derived' livesite='false'>[1002555.derived]</attr>
+	<attr name='source' livesite='false'>[1002555.source]</attr>
+	<attr name='title' livesite='false'>[1002555.title]</attr>
+	<attr name='vtc' livesite='false'>[1002555.vtc]</attr>
+</feature>

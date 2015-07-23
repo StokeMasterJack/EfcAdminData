@@ -1,0 +1,8 @@
+<feature id='1002380' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='source' livesite='false'>[1002380.source]</attr>
+	<attr name='description' livesite='false'>[1002380.description]</attr>
+	<attr name='vtc' livesite='false'>[1002380.vtc]</attr>
+	<attr name='code'>v6only</attr>
+	<attr name='derived' livesite='false'>[1002380.derived]</attr>
+</feature>

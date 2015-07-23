@@ -1,0 +1,42 @@
+<feature id='1001511' type='accessory' scope='1000851 1000856 1000937, 1000851 1000856 1000936, 1000851 1000856 1000938' cardinality='mandatory' >
+	<attr name='alacarte' livesite='false'>[1001511.alacarte]</attr>
+	<attr name='code'>MC</attr>
+	<attr name='derived' livesite='false'>[1001511.derived]</attr>
+	<attr name='description'>[1001511.description]</attr>
+	<attr name='fullimage'></attr>
+	<attr name='group'>[1001511.group]</attr>
+	<attr name='keyfeatures'>[1001511.keyfeatures]</attr>
+	<attr name='marketingeffectivedate'>[1001511.marketingeffectivedate]</attr>
+	<attr name='msrp'></attr>
+	<attr name='option' livesite='false'>[1001511.option]</attr>
+	<attr name='package' livesite='false'>[1001511.package]</attr>
+	<attr name='pnglayeringinclusionkey'>[1001511.pnglayeringinclusionkey]</attr>
+	<attr name='secondaryfeatures'>[1001511.secondaryfeatures]</attr>
+	<attr name='source'>[1001511.source]</attr>
+	<attr name='specialexteriorcolorflag' livesite='false'>[1001511.specialexteriorcolorflag]</attr>
+	<attr name='specialinteriorcolorflag' livesite='false'>[1001511.specialinteriorcolorflag]</attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'>[1001511.title]</attr>
+	<attr name='type' livesite='false'>[1001511.type]</attr>
+	<attr name='videokey'>[1001511.videokey]</attr>
+	<attr name='viewpointkey'>[1001511.viewpointkey]</attr>
+	<attr name='vtc' livesite='false'>[1001511.vtc]</attr>
+	<if id='1000851 1000856 1000936' >
+		<attr name='msrp' livesite='false'>[1001511.1000851.1000856.1000936.msrp]</attr>
+		<attr name='source' livesite='false'>[1001511.1000851.1000856.1000936.source]</attr>
+		<attr name='title' livesite='false'>[1001511.1000851.1000856.1000936.title]</attr>
+	</if>
+
+	<if id='1000851 1000856 1000937' >
+		<attr name='msrp' livesite='false'>[1001511.1000851.1000856.1000937.msrp]</attr>
+		<attr name='source' livesite='false'>[1001511.1000851.1000856.1000937.source]</attr>
+		<attr name='title' livesite='false'>[1001511.1000851.1000856.1000937.title]</attr>
+	</if>
+
+	<if id='1000851 1000856 1000938' >
+		<attr name='msrp' livesite='false'>[1001511.1000851.1000856.1000938.msrp]</attr>
+		<attr name='source' livesite='false'>[1001511.1000851.1000856.1000938.source]</attr>
+		<attr name='title' livesite='false'>[1001511.1000851.1000856.1000938.title]</attr>
+	</if>
+
+</feature>

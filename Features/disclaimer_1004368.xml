@@ -1,0 +1,13 @@
+<feature id='1004368' type='disclaimer' cardinality='optional' >
+	<attr name='code'>itbc</attr>
+	<attr name='title'>[1004368.title]</attr>
+	<attr name='description' livesite='false'>[1004368.description]</attr>
+	<attr name='vtc' livesite='false'>[1004368.vtc]</attr>
+	<attr name='source'>[1004368.source]</attr>
+	<attr name='derived' livesite='false'>[1004368.derived]</attr>
+	<if id='1002622 1000868' >
+		<attr name='source' livesite='false'>[1004368.1002622.1000868.source]</attr>
+		<attr name='vtc' livesite='false'>[1004368.1002622.1000868.vtc]</attr>
+	</if>
+
+</feature>

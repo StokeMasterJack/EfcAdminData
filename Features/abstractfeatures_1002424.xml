@@ -1,0 +1,11 @@
+<feature id='1002424' type='abstractfeatures' scope='1000851' cardinality='mandatory' >
+	<attr name='code' livesite='false'>Powerdriversseatwmemory</attr>
+	<attr name='derived' livesite='false'>[1002424.derived]</attr>
+	<attr name='source' livesite='false'>[1002424.source]</attr>
+	<attr name='title' livesite='false'>[1002424.title]</attr>
+	<attr name='vtc' livesite='false'>[1002424.vtc]</attr>
+	<if id='1000851 1000853' >
+		<rule src='ADMIN' type='TEXT'>{1002424 requires((1000851*1000853*1000923),(1000851*1000853*1000924),(1000851*1000853*1000927),(1000851*1000853*1000928))}</rule>
+	</if>
+
+</feature>

@@ -1,0 +1,8 @@
+<feature id='1001807' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='code'>ev_entune</attr>
+	<attr name='derived' livesite='false'>[1001807.derived]</attr>
+	<attr name='vtc' livesite='false'>[1001807.vtc]</attr>
+	<attr name='source' livesite='false'>[1001807.source]</attr>
+	<attr name='description' livesite='false'>[1001807.description]</attr>
+</feature>

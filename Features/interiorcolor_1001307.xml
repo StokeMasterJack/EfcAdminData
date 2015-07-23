@@ -1,0 +1,21 @@
+<feature id='1001307' type='interiorcolor' scope='1000851 1000866 1000945, 1000851 1000866 1000942' cardinality='mandatory' >
+	<attr name='materialtypeid'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='derived'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001307.vtc]</attr>
+	<attr name='code'>LB14</attr>
+	<attr name='msrp'></attr>
+	<attr name='description'></attr>
+	<attr name='source' livesite='false'>[1001307.source]</attr>
+	<if id='1000851 1000866 1000942' >
+		<attr name='title' livesite='false'>[1001307.1000851.1000866.1000942.title]</attr>
+	</if>
+
+	<if id='1000851 1000866 1000945' >
+		<attr name='title' livesite='false'>[1001307.1000851.1000866.1000945.title]</attr>
+	</if>
+
+</feature>

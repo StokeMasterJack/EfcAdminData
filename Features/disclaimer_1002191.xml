@@ -1,0 +1,8 @@
+<feature id='1002191' type='disclaimer' cardinality='optional' >
+	<attr name='code'>safety_connect_1year</attr>
+	<attr name='derived' livesite='false'>[1002191.derived]</attr>
+	<attr name='description' livesite='false'>[1002191.description]</attr>
+	<attr name='source' livesite='false'>[1002191.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1002191.vtc]</attr>
+</feature>

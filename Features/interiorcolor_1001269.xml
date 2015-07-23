@@ -1,0 +1,258 @@
+<feature id='1001269' type='interiorcolor' scope='1002622 1000865 1000980, 1000851 1000865 1000986, 1000851 1000865 1000981, 1002622 1000854 1000906, 1000851 1000854 1000906, 1000851 1000854 1000908, 1002622 1000865 1000986, 1000851 1000854 1000907, 1000851 1000865 1000980, 1002622 1000865 1000981' cardinality='mandatory' >
+	<attr name='code'>FF20</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1001269.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001269.vtc]</attr>
+	<if id='1000851 1000854 1000906' >
+		<attr name='derived' livesite='false'>[1001269.1000851.1000854.1000906.derived]</attr>
+		<attr name='description'>[1001269.1000851.1000854.1000906.description]</attr>
+		<attr name='materialtypeid'>[1001269.1000851.1000854.1000906.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001269.1000851.1000854.1000906.source]</attr>
+		<attr name='title' livesite='false'>[1001269.1000851.1000854.1000906.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>camry_my14_byt_jelly_SE_4cyl_sport_fabric_black.jpg</attr>
+			<attr name='sha'>c063841595578ad9a2b6aecbba60980f2501cc28</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>camry_my14_byt_jelly_SE_4cyl_sport_fabric_black.jpg</attr>
+			<attr name='sha'>5aabb37b061892178681a5fdb11cb9212af243a8</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>camry_my14_byt_jelly_SE_4cyl_sport_fabric_black.jpg</attr>
+			<attr name='sha'>39af6b53cb5529eed10cfe3fce20f1e518a129f9</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000854 1000907' >
+		<attr name='derived' livesite='false'>[1001269.1000851.1000854.1000907.derived]</attr>
+		<attr name='description'>[1001269.1000851.1000854.1000907.description]</attr>
+		<attr name='materialtypeid'>[1001269.1000851.1000854.1000907.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001269.1000851.1000854.1000907.source]</attr>
+		<attr name='title' livesite='false'>[1001269.1000851.1000854.1000907.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>camry_my14_byt_jelly_SE_SPORT_sport_fabric_black.jpg</attr>
+			<attr name='sha'>c063841595578ad9a2b6aecbba60980f2501cc28</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>camry_my14_byt_jelly_SE_4cyl_sport_fabric_black.jpg</attr>
+			<attr name='sha'>5aabb37b061892178681a5fdb11cb9212af243a8</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>camry_my14_byt_jelly_SE_4cyl_sport_fabric_black.jpg</attr>
+			<attr name='sha'>39af6b53cb5529eed10cfe3fce20f1e518a129f9</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000854 1000908' >
+		<attr name='derived' livesite='false'>[1001269.1000851.1000854.1000908.derived]</attr>
+		<attr name='description'>[1001269.1000851.1000854.1000908.description]</attr>
+		<attr name='materialtypeid'>[1001269.1000851.1000854.1000908.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001269.1000851.1000854.1000908.source]</attr>
+		<attr name='title' livesite='false'>[1001269.1000851.1000854.1000908.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>camry_my14_byt_jelly_SE_V6_sport_fabric_black.jpg</attr>
+			<attr name='sha'>c063841595578ad9a2b6aecbba60980f2501cc28</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>camry_my14_byt_jelly_SE_V6_sport_fabric_black.jpg</attr>
+			<attr name='sha'>5aabb37b061892178681a5fdb11cb9212af243a8</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>camry_my14_byt_jelly_SE_V6_sport_fabric_black.jpg</attr>
+			<attr name='sha'>39af6b53cb5529eed10cfe3fce20f1e518a129f9</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000865 1000980' >
+		<attr name='derived' livesite='false'>[1001269.1000851.1000865.1000980.derived]</attr>
+		<attr name='description'>[1001269.1000851.1000865.1000980.description]</attr>
+		<attr name='materialtypeid'>[1001269.1000851.1000865.1000980.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001269.1000851.1000865.1000980.source]</attr>
+		<attr name='title' livesite='false'>[1001269.1000851.1000865.1000980.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sequoia_int_SR5_Black_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>e23d08ec0294ecb1150b512065b10b578ddfc2e2</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sequoia_int_SR5_Black_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>61c5fbf501412bda5eee7251bae36d957a347f41</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sequoia_int_SR5_Black_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>1cf420e638fd4ca21d47c346371bf6ac6c4e8028</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000865 1000981' >
+		<attr name='derived' livesite='false'>[1001269.1000851.1000865.1000981.derived]</attr>
+		<attr name='description'>[1001269.1000851.1000865.1000981.description]</attr>
+		<attr name='materialtypeid'>[1001269.1000851.1000865.1000981.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001269.1000851.1000865.1000981.source]</attr>
+		<attr name='title' livesite='false'>[1001269.1000851.1000865.1000981.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sequoia_int_SR5_Black_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>e23d08ec0294ecb1150b512065b10b578ddfc2e2</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sequoia_int_SR5_Black_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>61c5fbf501412bda5eee7251bae36d957a347f41</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sequoia_int_SR5_Black_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>1cf420e638fd4ca21d47c346371bf6ac6c4e8028</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000865 1000986' >
+		<attr name='derived' livesite='false'>[1001269.1000851.1000865.1000986.derived]</attr>
+		<attr name='description'>[1001269.1000851.1000865.1000986.description]</attr>
+		<attr name='materialtypeid'>[1001269.1000851.1000865.1000986.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001269.1000851.1000865.1000986.source]</attr>
+		<attr name='title' livesite='false'>[1001269.1000851.1000865.1000986.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sequoia_int_SR5_Black_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>e23d08ec0294ecb1150b512065b10b578ddfc2e2</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sequoia_int_SR5_Black_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>61c5fbf501412bda5eee7251bae36d957a347f41</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sequoia_int_SR5_Black_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>1cf420e638fd4ca21d47c346371bf6ac6c4e8028</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000854 1000906' >
+		<attr name='derived' livesite='false'>[1001269.1002622.1000854.1000906.derived]</attr>
+		<attr name='description'>[1001269.1002622.1000854.1000906.description]</attr>
+		<attr name='materialtypeid'>[1001269.1002622.1000854.1000906.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001269.1002622.1000854.1000906.source]</attr>
+		<attr name='title' livesite='false'>[1001269.1002622.1000854.1000906.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>camry_int_XLEV6_Black_v167_hd_002.jpg</attr>
+			<attr name='sha'>ee6a217ae5a240f58d45bd0d7cf6bf68aed1b910</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>camry_int_XLEV6_Black_v167_hd_002.jpg</attr>
+			<attr name='sha'>86ba9960724fe99447b4a7d2b6cf94dddf455f44</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>camry_int_LE_4-cyl_Black_v167_hd_002.jpg</attr>
+			<attr name='sha'>6ffb89dcfe90c42191e86d77ec1613dd0d11c89f</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000865 1000980' >
+		<attr name='derived' livesite='false'>[1001269.1002622.1000865.1000980.derived]</attr>
+		<attr name='description'>[1001269.1002622.1000865.1000980.description]</attr>
+		<attr name='materialtypeid'>[1001269.1002622.1000865.1000980.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001269.1002622.1000865.1000980.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sequoia_int_SR5_Black_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>e23d08ec0294ecb1150b512065b10b578ddfc2e2</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sequoia_int_SR5_Black_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>61c5fbf501412bda5eee7251bae36d957a347f41</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sequoia_int_SR5_Black_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>1cf420e638fd4ca21d47c346371bf6ac6c4e8028</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000865 1000981' >
+		<attr name='derived' livesite='false'>[1001269.1002622.1000865.1000981.derived]</attr>
+		<attr name='description'>[1001269.1002622.1000865.1000981.description]</attr>
+		<attr name='materialtypeid'>[1001269.1002622.1000865.1000981.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001269.1002622.1000865.1000981.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sequoia_int_SR5_Black_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>e23d08ec0294ecb1150b512065b10b578ddfc2e2</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sequoia_int_SR5_Black_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>61c5fbf501412bda5eee7251bae36d957a347f41</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sequoia_int_SR5_Black_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>1cf420e638fd4ca21d47c346371bf6ac6c4e8028</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000865 1000986' >
+		<attr name='derived' livesite='false'>[1001269.1002622.1000865.1000986.derived]</attr>
+		<attr name='title' livesite='false'>[1001269.1002622.1000865.1000986.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sequoia_int_SR5_Black_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>e23d08ec0294ecb1150b512065b10b578ddfc2e2</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sequoia_int_SR5_Black_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>61c5fbf501412bda5eee7251bae36d957a347f41</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sequoia_int_SR5_Black_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>1cf420e638fd4ca21d47c346371bf6ac6c4e8028</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

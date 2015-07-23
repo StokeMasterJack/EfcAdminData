@@ -1,0 +1,7 @@
+<feature id='1002548' type='abstractfeatures' cardinality='optional' >
+	<attr name='code' livesite='false'>Rolloverdetection</attr>
+	<attr name='title' livesite='false'>[1002548.title]</attr>
+	<attr name='vtc' livesite='false'>[1002548.vtc]</attr>
+	<attr name='source' livesite='false'>[1002548.source]</attr>
+	<attr name='derived' livesite='false'>[1002548.derived]</attr>
+</feature>

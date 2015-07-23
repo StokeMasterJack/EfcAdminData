@@ -1,0 +1,156 @@
+<feature id='1001322' type='interiorcolor' scope='1000851 1000865 1000987, 1000851 1000865 1000983, 1000851 1000865 1000982, 1002622 1000865 1000987, 1002622 1000865 1000983, 1002622 1000865 1000982' cardinality='mandatory' >
+	<attr name='code'>LC44</attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='interiorseatimage'></attr>
+	<attr name='materialtypeid'></attr>
+	<attr name='msrp'></attr>
+	<attr name='offswatchimage'></attr>
+	<attr name='onswatchimage'></attr>
+	<attr name='source' livesite='false'>[1001322.source]</attr>
+	<attr name='title'></attr>
+	<attr name='vtc' livesite='false'>[1001322.vtc]</attr>
+	<if id='1000851 1000865 1000982' >
+		<attr name='derived' livesite='false'>[1001322.1000851.1000865.1000982.derived]</attr>
+		<attr name='description'>[1001322.1000851.1000865.1000982.description]</attr>
+		<attr name='materialtypeid'>[1001322.1000851.1000865.1000982.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001322.1000851.1000865.1000982.source]</attr>
+		<attr name='title' livesite='false'>[1001322.1000851.1000865.1000982.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sequoia_int_LTD_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>aca6fbec9d768c22e7ab202ba33ae14775b16e76</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sequoia_int_LTD_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>806bb551746bb192be2d0e0a60ce5a1987c47ad8</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sequoia_int_LTD_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>9f6275aab686d2442d4c2c71f5cee60b02e1592a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000865 1000983' >
+		<attr name='derived' livesite='false'>[1001322.1000851.1000865.1000983.derived]</attr>
+		<attr name='description'>[1001322.1000851.1000865.1000983.description]</attr>
+		<attr name='materialtypeid'>[1001322.1000851.1000865.1000983.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001322.1000851.1000865.1000983.source]</attr>
+		<attr name='title' livesite='false'>[1001322.1000851.1000865.1000983.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sequoia_int_LTD_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>aca6fbec9d768c22e7ab202ba33ae14775b16e76</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sequoia_int_LTD_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>806bb551746bb192be2d0e0a60ce5a1987c47ad8</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sequoia_int_LTD_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>9f6275aab686d2442d4c2c71f5cee60b02e1592a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1000851 1000865 1000987' >
+		<attr name='derived' livesite='false'>[1001322.1000851.1000865.1000987.derived]</attr>
+		<attr name='description'>[1001322.1000851.1000865.1000987.description]</attr>
+		<attr name='materialtypeid'>[1001322.1000851.1000865.1000987.materialtypeid]</attr>
+		<attr name='source' livesite='false'>[1001322.1000851.1000865.1000987.source]</attr>
+		<attr name='title' livesite='false'>[1001322.1000851.1000865.1000987.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sequoia_int_LTD_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>aca6fbec9d768c22e7ab202ba33ae14775b16e76</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sequoia_int_LTD_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>806bb551746bb192be2d0e0a60ce5a1987c47ad8</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sequoia_int_LTD_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>9f6275aab686d2442d4c2c71f5cee60b02e1592a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000865 1000982' >
+		<attr name='derived' livesite='false'>[1001322.1002622.1000865.1000982.derived]</attr>
+		<attr name='description'>[1001322.1002622.1000865.1000982.description]</attr>
+		<attr name='materialtypeid'>[1001322.1002622.1000865.1000982.materialtypeid]</attr>
+		<attr name='title' livesite='false'>[1001322.1002622.1000865.1000982.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sequoia_int_LTD_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>aca6fbec9d768c22e7ab202ba33ae14775b16e76</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sequoia_int_LTD_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>806bb551746bb192be2d0e0a60ce5a1987c47ad8</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sequoia_int_LTD_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>9f6275aab686d2442d4c2c71f5cee60b02e1592a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000865 1000983' >
+		<attr name='derived' livesite='false'>[1001322.1002622.1000865.1000983.derived]</attr>
+		<attr name='title' livesite='false'>[1001322.1002622.1000865.1000983.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sequoia_int_LTD_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>aca6fbec9d768c22e7ab202ba33ae14775b16e76</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sequoia_int_LTD_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>806bb551746bb192be2d0e0a60ce5a1987c47ad8</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sequoia_int_LTD_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>9f6275aab686d2442d4c2c71f5cee60b02e1592a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000865 1000987' >
+		<attr name='derived' livesite='false'>[1001322.1002622.1000865.1000987.derived]</attr>
+		<attr name='title' livesite='false'>[1001322.1002622.1000865.1000987.title]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>interiorseatimage</attr>
+			<attr name='name'>sequoia_int_LTD_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>aca6fbec9d768c22e7ab202ba33ae14775b16e76</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>onswatchimage</attr>
+			<attr name='name'>sequoia_int_LTD_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>806bb551746bb192be2d0e0a60ce5a1987c47ad8</attr>
+		</complextype>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>offswatchimage</attr>
+			<attr name='name'>sequoia_int_LTD_Beige_v21ma_hd_fs_002.jpg</attr>
+			<attr name='sha'>9f6275aab686d2442d4c2c71f5cee60b02e1592a</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

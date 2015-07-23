@@ -1,0 +1,11 @@
+<feature id='1002602' type='abstractfeatures' scope='1000851, 1002622' cardinality='mandatory' >
+	<attr name='code'>3Door</attr>
+	<attr name='derived' livesite='false'>[1002602.derived]</attr>
+	<attr name='source' livesite='false'>[1002602.source]</attr>
+	<attr name='title' livesite='false'>[1002602.title]</attr>
+	<attr name='vtc' livesite='false'>[1002602.vtc]</attr>
+	<if id='1000851 1000870' >
+		<rule src='ADMIN' type='TEXT'>{1002602 requires((1000851*1000870*1000884),(1000851*1000870*1000885),(1000851*1000870*1000886))}</rule>
+	</if>
+
+</feature>

@@ -1,0 +1,222 @@
+<feature id='1001401' type='cab' scope='1002622 1000867 1000965, 1002622 1000867 1000966, 1002622 1000867 1000963, 1002622 1000867 1000964, 1000851 1000867 1000976, 1002622 1000867 1000973, 1002622 1000867 1000975, 1000851 1000867 1000965, 1002622 1000867 1000974, 1000851 1000867 1000966, 1002622 1000867 1003047, 1002622 1000867 1003046, 1000851 1000867 1000963, 1000851 1000867 1000964, 1000851 1000867 1000973, 1002622 1000867 1000976, 1000851 1000867 1000974, 1000851 1000867 1000975' cardinality='mandatory' >
+	<attr name='availablecopy'></attr>
+	<attr name='bulletlist'></attr>
+	<attr name='code'>accesscab</attr>
+	<attr name='copyblock'></attr>
+	<attr name='derived'></attr>
+	<attr name='description'></attr>
+	<attr name='hotspot'></attr>
+	<attr name='iconname'></attr>
+	<attr name='images'></attr>
+	<attr name='source' livesite='false'>[1001401.source]</attr>
+	<attr name='title' livesite='false'>[1001401.title]</attr>
+	<attr name='vtc' livesite='false'>[1001401.vtc]</attr>
+	<if id='1000851 1000867 1000963' >
+		<attr name='availablecopy' livesite='false'>[1001401.1000851.1000867.1000963.availablecopy]</attr>
+		<attr name='bulletlist' livesite='false'>[1001401.1000851.1000867.1000963.bulletlist]</attr>
+		<attr name='copyblock' livesite='false'>[1001401.1000851.1000867.1000963.copyblock]</attr>
+		<attr name='hotspot' livesite='false'>[1001401.1000851.1000867.1000963.hotspot]</attr>
+		<attr name='iconname' livesite='false'>[1001401.1000851.1000867.1000963.iconname]</attr>
+		<attr name='title' livesite='false'>[1001401.1000851.1000867.1000963.title]</attr>
+	</if>
+
+	<if id='1000851 1000867 1000964' >
+		<attr name='availablecopy' livesite='false'>[1001401.1000851.1000867.1000964.availablecopy]</attr>
+		<attr name='bulletlist' livesite='false'>[1001401.1000851.1000867.1000964.bulletlist]</attr>
+		<attr name='copyblock' livesite='false'>[1001401.1000851.1000867.1000964.copyblock]</attr>
+		<attr name='hotspot' livesite='false'>[1001401.1000851.1000867.1000964.hotspot]</attr>
+		<attr name='iconname' livesite='false'>[1001401.1000851.1000867.1000964.iconname]</attr>
+		<attr name='title' livesite='false'>[1001401.1000851.1000867.1000964.title]</attr>
+	</if>
+
+	<if id='1000851 1000867 1000965' >
+		<attr name='availablecopy' livesite='false'>[1001401.1000851.1000867.1000965.availablecopy]</attr>
+		<attr name='bulletlist' livesite='false'>[1001401.1000851.1000867.1000965.bulletlist]</attr>
+		<attr name='copyblock' livesite='false'>[1001401.1000851.1000867.1000965.copyblock]</attr>
+		<attr name='hotspot' livesite='false'>[1001401.1000851.1000867.1000965.hotspot]</attr>
+		<attr name='iconname' livesite='false'>[1001401.1000851.1000867.1000965.iconname]</attr>
+		<attr name='title' livesite='false'>[1001401.1000851.1000867.1000965.title]</attr>
+	</if>
+
+	<if id='1000851 1000867 1000966' >
+		<attr name='availablecopy' livesite='false'>[1001401.1000851.1000867.1000966.availablecopy]</attr>
+		<attr name='bulletlist' livesite='false'>[1001401.1000851.1000867.1000966.bulletlist]</attr>
+		<attr name='copyblock' livesite='false'>[1001401.1000851.1000867.1000966.copyblock]</attr>
+		<attr name='hotspot' livesite='false'>[1001401.1000851.1000867.1000966.hotspot]</attr>
+		<attr name='iconname' livesite='false'>[1001401.1000851.1000867.1000966.iconname]</attr>
+		<attr name='title' livesite='false'>[1001401.1000851.1000867.1000966.title]</attr>
+	</if>
+
+	<if id='1000851 1000867 1000973' >
+		<attr name='availablecopy' livesite='false'>[1001401.1000851.1000867.1000973.availablecopy]</attr>
+		<attr name='bulletlist' livesite='false'>[1001401.1000851.1000867.1000973.bulletlist]</attr>
+		<attr name='copyblock' livesite='false'>[1001401.1000851.1000867.1000973.copyblock]</attr>
+		<attr name='hotspot' livesite='false'>[1001401.1000851.1000867.1000973.hotspot]</attr>
+		<attr name='iconname' livesite='false'>[1001401.1000851.1000867.1000973.iconname]</attr>
+		<attr name='title' livesite='false'>[1001401.1000851.1000867.1000973.title]</attr>
+	</if>
+
+	<if id='1000851 1000867 1000974' >
+		<attr name='availablecopy' livesite='false'>[1001401.1000851.1000867.1000974.availablecopy]</attr>
+		<attr name='bulletlist' livesite='false'>[1001401.1000851.1000867.1000974.bulletlist]</attr>
+		<attr name='copyblock' livesite='false'>[1001401.1000851.1000867.1000974.copyblock]</attr>
+		<attr name='hotspot' livesite='false'>[1001401.1000851.1000867.1000974.hotspot]</attr>
+		<attr name='iconname' livesite='false'>[1001401.1000851.1000867.1000974.iconname]</attr>
+		<attr name='title' livesite='false'>[1001401.1000851.1000867.1000974.title]</attr>
+	</if>
+
+	<if id='1000851 1000867 1000975' >
+		<attr name='availablecopy' livesite='false'>[1001401.1000851.1000867.1000975.availablecopy]</attr>
+		<attr name='bulletlist' livesite='false'>[1001401.1000851.1000867.1000975.bulletlist]</attr>
+		<attr name='copyblock' livesite='false'>[1001401.1000851.1000867.1000975.copyblock]</attr>
+		<attr name='hotspot' livesite='false'>[1001401.1000851.1000867.1000975.hotspot]</attr>
+		<attr name='iconname' livesite='false'>[1001401.1000851.1000867.1000975.iconname]</attr>
+		<attr name='title' livesite='false'>[1001401.1000851.1000867.1000975.title]</attr>
+	</if>
+
+	<if id='1000851 1000867 1000976' >
+		<attr name='availablecopy' livesite='false'>[1001401.1000851.1000867.1000976.availablecopy]</attr>
+		<attr name='bulletlist' livesite='false'>[1001401.1000851.1000867.1000976.bulletlist]</attr>
+		<attr name='copyblock' livesite='false'>[1001401.1000851.1000867.1000976.copyblock]</attr>
+		<attr name='hotspot' livesite='false'>[1001401.1000851.1000867.1000976.hotspot]</attr>
+		<attr name='iconname' livesite='false'>[1001401.1000851.1000867.1000976.iconname]</attr>
+		<attr name='title' livesite='false'>[1001401.1000851.1000867.1000976.title]</attr>
+	</if>
+
+	<if id='1002622 1000867 1000963' >
+		<attr name='availablecopy' livesite='false'>[1001401.1002622.1000867.1000963.availablecopy]</attr>
+		<attr name='bulletlist' livesite='false'>[1001401.1002622.1000867.1000963.bulletlist]</attr>
+		<attr name='copyblock' livesite='false'>[1001401.1002622.1000867.1000963.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001401.1002622.1000867.1000963.derived]</attr>
+		<attr name='description'>[1001401.1002622.1000867.1000963.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001401.1002622.1000867.1000963.hotspot]</attr>
+		<attr name='iconname' livesite='false'>[1001401.1002622.1000867.1000963.iconname]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Tacoma_ext_2WD_AC_XCOL_03R3_v009_efc_002.png</attr>
+			<attr name='sha'>05ec28bd7a6c4edfa77efb50230d2e3d420fade0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000867 1000964' >
+		<attr name='availablecopy' livesite='false'>[1001401.1002622.1000867.1000964.availablecopy]</attr>
+		<attr name='bulletlist' livesite='false'>[1001401.1002622.1000867.1000964.bulletlist]</attr>
+		<attr name='copyblock' livesite='false'>[1001401.1002622.1000867.1000964.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001401.1002622.1000867.1000964.derived]</attr>
+		<attr name='description'>[1001401.1002622.1000867.1000964.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001401.1002622.1000867.1000964.hotspot]</attr>
+		<attr name='iconname' livesite='false'>[1001401.1002622.1000867.1000964.iconname]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Tacoma_ext_2WD_AC_XCOL_03R3_v009_efc_002.png</attr>
+			<attr name='sha'>05ec28bd7a6c4edfa77efb50230d2e3d420fade0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000867 1000965' >
+		<attr name='availablecopy' livesite='false'>[1001401.1002622.1000867.1000965.availablecopy]</attr>
+		<attr name='bulletlist' livesite='false'>[1001401.1002622.1000867.1000965.bulletlist]</attr>
+		<attr name='copyblock' livesite='false'>[1001401.1002622.1000867.1000965.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001401.1002622.1000867.1000965.derived]</attr>
+		<attr name='description'>[1001401.1002622.1000867.1000965.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001401.1002622.1000867.1000965.hotspot]</attr>
+		<attr name='iconname' livesite='false'>[1001401.1002622.1000867.1000965.iconname]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Tacoma_ext_2WD_AC_XCOL_03R3_v009_efc_002.png</attr>
+			<attr name='sha'>05ec28bd7a6c4edfa77efb50230d2e3d420fade0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000867 1000966' >
+		<attr name='availablecopy' livesite='false'>[1001401.1002622.1000867.1000966.availablecopy]</attr>
+		<attr name='bulletlist' livesite='false'>[1001401.1002622.1000867.1000966.bulletlist]</attr>
+		<attr name='copyblock' livesite='false'>[1001401.1002622.1000867.1000966.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001401.1002622.1000867.1000966.derived]</attr>
+		<attr name='description'>[1001401.1002622.1000867.1000966.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001401.1002622.1000867.1000966.hotspot]</attr>
+		<attr name='iconname' livesite='false'>[1001401.1002622.1000867.1000966.iconname]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Tacoma_ext_2WD_AC_XCOL_03R3_v009_efc_002.png</attr>
+			<attr name='sha'>05ec28bd7a6c4edfa77efb50230d2e3d420fade0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000867 1000973' >
+		<attr name='availablecopy' livesite='false'>[1001401.1002622.1000867.1000973.availablecopy]</attr>
+		<attr name='bulletlist' livesite='false'>[1001401.1002622.1000867.1000973.bulletlist]</attr>
+		<attr name='copyblock' livesite='false'>[1001401.1002622.1000867.1000973.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001401.1002622.1000867.1000973.derived]</attr>
+		<attr name='description'>[1001401.1002622.1000867.1000973.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001401.1002622.1000867.1000973.hotspot]</attr>
+		<attr name='iconname' livesite='false'>[1001401.1002622.1000867.1000973.iconname]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Tacoma_ext_2WD_AC_XCOL_03R3_v009_efc_002.png</attr>
+			<attr name='sha'>05ec28bd7a6c4edfa77efb50230d2e3d420fade0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000867 1000974' >
+		<attr name='availablecopy' livesite='false'>[1001401.1002622.1000867.1000974.availablecopy]</attr>
+		<attr name='bulletlist' livesite='false'>[1001401.1002622.1000867.1000974.bulletlist]</attr>
+		<attr name='copyblock' livesite='false'>[1001401.1002622.1000867.1000974.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001401.1002622.1000867.1000974.derived]</attr>
+		<attr name='description'>[1001401.1002622.1000867.1000974.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001401.1002622.1000867.1000974.hotspot]</attr>
+		<attr name='iconname' livesite='false'>[1001401.1002622.1000867.1000974.iconname]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Tacoma_ext_2WD_AC_XCOL_03R3_v009_efc_002.png</attr>
+			<attr name='sha'>05ec28bd7a6c4edfa77efb50230d2e3d420fade0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000867 1000975' >
+		<attr name='availablecopy' livesite='false'>[1001401.1002622.1000867.1000975.availablecopy]</attr>
+		<attr name='bulletlist' livesite='false'>[1001401.1002622.1000867.1000975.bulletlist]</attr>
+		<attr name='copyblock' livesite='false'>[1001401.1002622.1000867.1000975.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001401.1002622.1000867.1000975.derived]</attr>
+		<attr name='description'>[1001401.1002622.1000867.1000975.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001401.1002622.1000867.1000975.hotspot]</attr>
+		<attr name='iconname' livesite='false'>[1001401.1002622.1000867.1000975.iconname]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Tacoma_ext_2WD_AC_XCOL_03R3_v009_efc_002.png</attr>
+			<attr name='sha'>05ec28bd7a6c4edfa77efb50230d2e3d420fade0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000867 1000976' >
+		<attr name='availablecopy' livesite='false'>[1001401.1002622.1000867.1000976.availablecopy]</attr>
+		<attr name='bulletlist' livesite='false'>[1001401.1002622.1000867.1000976.bulletlist]</attr>
+		<attr name='copyblock' livesite='false'>[1001401.1002622.1000867.1000976.copyblock]</attr>
+		<attr name='derived' livesite='false'>[1001401.1002622.1000867.1000976.derived]</attr>
+		<attr name='description'>[1001401.1002622.1000867.1000976.description]</attr>
+		<attr name='hotspot' livesite='false'>[1001401.1002622.1000867.1000976.hotspot]</attr>
+		<attr name='iconname' livesite='false'>[1001401.1002622.1000867.1000976.iconname]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='images'>
+			<attr name='attrref'>images</attr>
+			<attr name='name'>Tacoma_ext_2WD_AC_XCOL_03R3_v009_efc_002.png</attr>
+			<attr name='sha'>05ec28bd7a6c4edfa77efb50230d2e3d420fade0</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

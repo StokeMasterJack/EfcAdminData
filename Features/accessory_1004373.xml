@@ -1,0 +1,363 @@
+<feature id='1004373' type='accessory' scope='1002622 1000868 1001010, 1002622 1000868 1001002, 1002622 1000868 1001003, 1002622 1000868 1001000, 1002622 1000868 1001001, 1002622 1000868 1001006, 1002622 1000868 1001007, 1002622 1000868 1001004, 1002622 1000868 1001005, 1002622 1000868 1001008, 1002622 1000868 1001009, 1002622 1000868 1003050, 1002622 1000868 1000993, 1002622 1000868 1000994, 1002622 1000868 1003052, 1002622 1000868 1000995, 1002622 1000868 1003051, 1002622 1000868 1000996, 1002622 1000868 1003053, 1002622 1000868 1000991, 1002622 1000868 1000992, 1002622 1000868 1001023, 1002622 1000868 1001022, 1002622 1000868 1001025, 1002622 1000868 1001024, 1002622 1000868 1000997, 1002622 1000868 1001026, 1002622 1000868 1000998, 1002622 1000868 1001021, 1002622 1000868 1000999, 1002622 1000868 1001020, 1002622 1000868 1001011, 1002622 1000868 1001012, 1002622 1000868 1001013, 1002622 1000868 1001014, 1002622 1000868 1001015, 1002622 1000868 1001016, 1002622 1000868 1001017, 1002622 1000868 1001018, 1002622 1000868 1001019' cardinality='mandatory' >
+	<attr name='alacarte' livesite='false'>[1004373.alacarte]</attr>
+	<attr name='code'>DIO19</attr>
+	<attr name='derived' livesite='false'>[1004373.derived]</attr>
+	<attr name='description'>[1004373.description]</attr>
+	<attr name='fullimage'></attr>
+	<attr name='group' livesite='false'>[1004373.group]</attr>
+	<attr name='keyfeatures'>[1004373.keyfeatures]</attr>
+	<attr name='marketingeffectivedate'>[1004373.marketingeffectivedate]</attr>
+	<attr name='msrp'></attr>
+	<attr name='option' livesite='false'>[1004373.option]</attr>
+	<attr name='package' livesite='false'>[1004373.package]</attr>
+	<attr name='pnglayeringinclusionkey'>[1004373.pnglayeringinclusionkey]</attr>
+	<attr name='secondaryfeatures'>[1004373.secondaryfeatures]</attr>
+	<attr name='source'>[1004373.source]</attr>
+	<attr name='specialexteriorcolorflag' livesite='false'>[1004373.specialexteriorcolorflag]</attr>
+	<attr name='specialinteriorcolorflag' livesite='false'>[1004373.specialinteriorcolorflag]</attr>
+	<attr name='thumbimage'></attr>
+	<attr name='title'>[1004373.title]</attr>
+	<attr name='type' livesite='false'>[1004373.type]</attr>
+	<attr name='videokey'>[1004373.videokey]</attr>
+	<attr name='viewpointkey'>[1004373.viewpointkey]</attr>
+	<attr name='vtc' livesite='false'>[1004373.vtc]</attr>
+	<if id='1002622 1000868 1000991' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1000991.description]</attr>
+		<attr name='group' livesite='false'>[1004373.1002622.1000868.1000991.group]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1000991.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1000991.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1000991.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1000992' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1000992.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1000992.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1000992.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1000992.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1000993' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1000993.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1000993.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1000993.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1000993.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1000994' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1000994.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1000994.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1000994.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1000994.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1000995' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1000995.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1000995.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1000995.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1000995.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1000996' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1000996.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1000996.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1000996.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1000996.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1000997' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1000997.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1000997.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1000997.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1000997.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1000998' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1000998.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1000998.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1000998.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1000998.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1000999' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1000999.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1000999.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1000999.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1000999.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001000' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1001000.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1001000.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1001000.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1001000.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001001' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1001001.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1001001.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1001001.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1001001.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001002' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1001002.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1001002.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1001002.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1001002.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001003' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1001003.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1001003.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1001003.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1001003.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001004' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1001004.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1001004.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1001004.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1001004.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001005' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1001005.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1001005.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1001005.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1001005.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001006' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1001006.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1001006.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1001006.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1001006.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001007' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1001007.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1001007.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1001007.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1001007.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001008' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1001008.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1001008.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1001008.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1001008.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001009' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1001009.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1001009.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1001009.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1001009.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001010' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1001010.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1001010.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1001010.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1001010.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001011' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1001011.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1001011.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1001011.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1001011.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001012' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1001012.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1001012.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1001012.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1001012.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001013' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1001013.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1001013.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1001013.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1001013.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001014' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1001014.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1001014.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1001014.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1001014.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001015' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1001015.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1001015.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1001015.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1001015.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001016' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1001016.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1001016.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1001016.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1001016.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001017' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1001017.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1001017.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1001017.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1001017.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001018' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1001018.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1001018.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1001018.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1001018.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001019' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1001019.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1001019.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1001019.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1001019.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001020' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1001020.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1001020.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1001020.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1001020.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001021' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1001021.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1001021.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1001021.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1001021.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001022' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1001022.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1001022.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1001022.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1001022.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001023' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1001023.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1001023.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1001023.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1001023.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001024' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1001024.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1001024.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1001024.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1001024.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001025' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1001025.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1001025.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1001025.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1001025.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1001026' >
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1001026.description]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1001026.msrp]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1001026.title]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1001026.vtc]</attr>
+	</if>
+
+	<if id='1002622 1000868 1003050' >
+		<attr name='alacarte' livesite='false'>[1004373.1002622.1000868.1003050.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1004373.1002622.1000868.1003050.derived]</attr>
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1003050.description]</attr>
+		<attr name='group' livesite='false'>[1004373.1002622.1000868.1003050.group]</attr>
+		<attr name='keyfeatures'>[1004373.1002622.1000868.1003050.keyfeatures]</attr>
+		<attr name='marketingeffectivedate'>[1004373.1002622.1000868.1003050.marketingeffectivedate]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1003050.msrp]</attr>
+		<attr name='package' livesite='false'>[1004373.1002622.1000868.1003050.package]</attr>
+		<attr name='pnglayeringinclusionkey'>[1004373.1002622.1000868.1003050.pnglayeringinclusionkey]</attr>
+		<attr name='secondaryfeatures'>[1004373.1002622.1000868.1003050.secondaryfeatures]</attr>
+		<attr name='source' livesite='false'>[1004373.1002622.1000868.1003050.source]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1003050.title]</attr>
+		<attr name='type' livesite='false'>[1004373.1002622.1000868.1003050.type]</attr>
+		<attr name='videokey'>[1004373.1002622.1000868.1003050.videokey]</attr>
+		<attr name='viewpointkey'>[1004373.1002622.1000868.1003050.viewpointkey]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1003050.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>TRD-Pro-Bilstein-Shocks.jpg</attr>
+			<attr name='sha'>7f0fd7d1b9c34a7539333ff67a355de6b538325b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000868 1003051' >
+		<attr name='alacarte' livesite='false'>[1004373.1002622.1000868.1003051.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1004373.1002622.1000868.1003051.derived]</attr>
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1003051.description]</attr>
+		<attr name='group' livesite='false'>[1004373.1002622.1000868.1003051.group]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1003051.msrp]</attr>
+		<attr name='package' livesite='false'>[1004373.1002622.1000868.1003051.package]</attr>
+		<attr name='source' livesite='false'>[1004373.1002622.1000868.1003051.source]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1003051.title]</attr>
+		<attr name='type' livesite='false'>[1004373.1002622.1000868.1003051.type]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1003051.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>TRD-Pro-Bilstein-Shocks.jpg</attr>
+			<attr name='sha'>7f0fd7d1b9c34a7539333ff67a355de6b538325b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000868 1003052' >
+		<attr name='alacarte' livesite='false'>[1004373.1002622.1000868.1003052.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1004373.1002622.1000868.1003052.derived]</attr>
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1003052.description]</attr>
+		<attr name='group' livesite='false'>[1004373.1002622.1000868.1003052.group]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1003052.msrp]</attr>
+		<attr name='package' livesite='false'>[1004373.1002622.1000868.1003052.package]</attr>
+		<attr name='source' livesite='false'>[1004373.1002622.1000868.1003052.source]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1003052.title]</attr>
+		<attr name='type' livesite='false'>[1004373.1002622.1000868.1003052.type]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1003052.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>TRD-Pro-Bilstein-Shocks.jpg</attr>
+			<attr name='sha'>7f0fd7d1b9c34a7539333ff67a355de6b538325b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+	<if id='1002622 1000868 1003053' >
+		<attr name='alacarte' livesite='false'>[1004373.1002622.1000868.1003053.alacarte]</attr>
+		<attr name='derived' livesite='false'>[1004373.1002622.1000868.1003053.derived]</attr>
+		<attr name='description' livesite='false'>[1004373.1002622.1000868.1003053.description]</attr>
+		<attr name='group' livesite='false'>[1004373.1002622.1000868.1003053.group]</attr>
+		<attr name='msrp' livesite='false'>[1004373.1002622.1000868.1003053.msrp]</attr>
+		<attr name='package' livesite='false'>[1004373.1002622.1000868.1003053.package]</attr>
+		<attr name='source' livesite='false'>[1004373.1002622.1000868.1003053.source]</attr>
+		<attr name='title' livesite='false'>[1004373.1002622.1000868.1003053.title]</attr>
+		<attr name='type' livesite='false'>[1004373.1002622.1000868.1003053.type]</attr>
+		<attr name='vtc' livesite='false'>[1004373.1002622.1000868.1003053.vtc]</attr>
+		<attachments>
+		<complextype name='IMAGE' type='image'>
+			<attr name='attrref'>fullimage</attr>
+			<attr name='name'>TRD-Pro-Bilstein-Shocks.jpg</attr>
+			<attr name='sha'>7f0fd7d1b9c34a7539333ff67a355de6b538325b</attr>
+		</complextype>
+		</attachments>
+	</if>
+
+</feature>

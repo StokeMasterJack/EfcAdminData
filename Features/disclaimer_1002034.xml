@@ -1,0 +1,8 @@
+<feature id='1002034' type='disclaimer' cardinality='optional' >
+	<attr name='title'></attr>
+	<attr name='code'>na_8_passenger</attr>
+	<attr name='derived' livesite='false'>[1002034.derived]</attr>
+	<attr name='source' livesite='false'>[1002034.source]</attr>
+	<attr name='description' livesite='false'>[1002034.description]</attr>
+	<attr name='vtc' livesite='false'>[1002034.vtc]</attr>
+</feature>
